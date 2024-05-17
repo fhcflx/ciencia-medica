@@ -27,6 +27,7 @@ markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 timezone: America/Fortaleza
 excerpt_separator: <!--more-->  # you can specify your own separator, of course.
 exclude: ['Gemfile', 'Gemfile.lock', 'Rakefile', 'UploadToGithub.Rakefile', 'README.md']
+exclude: [vendor]
 post:
   template: _post.txt
   extension: md
