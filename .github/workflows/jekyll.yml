@@ -36,7 +36,7 @@ jobs:
             --alt-ignore '/.*/'
 
       - name: Update baseurl
-        run: echo "baseurl: \"/ciencia-medica\"" >> _config.yml
+        run: echo 'baseurl:"/ciencia-medica"' >> _config.yml
 
       - name: Build website again
         run: bundle exec jekyll build
