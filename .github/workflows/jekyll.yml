@@ -34,7 +34,7 @@ jobs:
           --allow-hash-href \
           --disable-external \
           --ignore-urls ["/#/"] \
-          --ignore-missing-alt ['/.*/']
+          --ignore-missing-alt
 
       - name: Update baseurl
         run: echo 'baseurl:"/ciencia-medica"' >> _config.yml
