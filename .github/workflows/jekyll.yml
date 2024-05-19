@@ -33,7 +33,7 @@ jobs:
           bundle exec htmlproofer ./_site \
             --disable-external \
             --ignore-urls "/#/" \
-            --alt-ignore '/.*/'
+            --ignore-missing-alt '/.*/'
 
       - name: Update baseurl
         run: echo 'baseurl:"/ciencia-medica"' >> _config.yml
