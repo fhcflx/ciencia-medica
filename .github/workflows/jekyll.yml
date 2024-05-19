@@ -31,7 +31,10 @@ jobs:
       - name: Run html-proofer
         run: |
           bundle exec htmlproofer ./_site \
-            --disable-external 
+          --allow-hash-href \
+          --check-favicon  \
+          --check-html \
+          --disable-external 
 
       - name: Update baseurl
         run: echo 'baseurl:"/ciencia-medica"' >> _config.yml
