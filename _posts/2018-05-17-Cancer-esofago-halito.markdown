@@ -29,5 +29,5 @@ _Figura: imagem de tomografia computadorizada do tórax mostrando um tumor de es
 _Esta postagem não representa sugestão de tratamento. Apenas um especialista pode judiciosamente decidir quais informações divulgadas podem modificar de alguma forma um esquema de tratamento, e de que forma._
 
 Leia a publicação:
-- Markar SR, Wiggins T, Antonowicz S, et al. Assessment of a Noninvasive Exhaled Breath Test for the Diagnosis of Oesophagogastric Cancer. JAMA Oncol. 2018;4(7):970–976. [doi:10.1001/jamaoncol.2018.0991](http://doi.org/10.1001/jamaoncol.2018.0991).
+- Markar SR, Wiggins T, Antonowicz S, et al. Assessment of a Noninvasive Exhaled Breath Test for the Diagnosis of Oesophagogastric Cancer. JAMA Oncol. 2018;4(7):970–976. [doi:10.1001/jamaoncol.2018.0991](https://doi.org/10.1001/jamaoncol.2018.0991).
 

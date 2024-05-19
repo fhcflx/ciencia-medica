@@ -29,4 +29,4 @@ _Figura: Distribuição do câncer de pulmão em homens no Brasil, segundo estim
 _Esta postagem não representa sugestão de tratamento. Apenas um especialista pode judiciosamente decidir quais informações divulgadas podem modificar de alguma forma um esquema de tratamento, e de que forma._
 
 Leia a publicação:
-- Integrative Analysis of Lung Cancer Etiology and Risk (INTEGRAL) Consortium for Early Detection of Lung Cancer. Assessment of Lung Cancer Risk on the Basis of a Biomarker Panel of Circulating Proteins. JAMA Oncol. Published online July 12, 2018. [doi:10.1001/jamaoncol.2018.2078](http://doi.org/10.1001/jamaoncol.2018.2078).
+- Integrative Analysis of Lung Cancer Etiology and Risk (INTEGRAL) Consortium for Early Detection of Lung Cancer. Assessment of Lung Cancer Risk on the Basis of a Biomarker Panel of Circulating Proteins. JAMA Oncol. Published online July 12, 2018. [doi:10.1001/jamaoncol.2018.2078](https://doi.org/10.1001/jamaoncol.2018.2078).

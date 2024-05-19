@@ -29,4 +29,4 @@ _Figura: gráfico mostrando as mutações genéticas mapeadas no rabdomiossarcom
 _Esta postagem não representa sugestão de tratamento. Apenas um especialista pode judiciosamente decidir quais informações divulgadas podem modificar de alguma forma um esquema de tratamento, e de que forma._
 
 Leia a publicação:
-- Lucchesi C, Khalifa E, Laizet Y, et al. Targetable Alterations in Adult Patients With Soft-Tissue Sarcomas Insights for Personalized Therapy. JAMA Oncol. Published online May 03, 2018. [doi:10.1001/jamaoncol.2018.0723](http://doi.org/10.1001/jamaoncol.2018.0723).
+- Lucchesi C, Khalifa E, Laizet Y, et al. Targetable Alterations in Adult Patients With Soft-Tissue Sarcomas Insights for Personalized Therapy. JAMA Oncol. Published online May 03, 2018. [doi:10.1001/jamaoncol.2018.0723](https://doi.org/10.1001/jamaoncol.2018.0723).

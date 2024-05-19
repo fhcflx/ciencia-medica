@@ -32,7 +32,7 @@ jobs:
         run: |
           bundle exec htmlproofer ./_site \
             --disable-external \
-            --ignore-urls "/#/" \
+            --ignore-urls [/#/] \
 
       - name: Update baseurl
         run: echo 'baseurl:"/ciencia-medica"' >> _config.yml

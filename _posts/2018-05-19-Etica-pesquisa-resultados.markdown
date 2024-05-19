@@ -31,5 +31,5 @@ _Figura: discussão noite adentro, de [William Blades](https://pt.wikipedia.org/
 _Esta postagem não representa sugestão de tratamento. Apenas um especialista pode judiciosamente decidir quais informações divulgadas podem modificar de alguma forma um esquema de tratamento, e de que forma._
 
 Leia a publicação:
-- Overman MJ, Ellis LM, Joffe S. Ethics and the Underreporting of Research Biopsy Findings in Clinical Trials. JAMA Oncol. 2018;4(8):1041–1042. [doi:10.1001/jamaoncol.2018.1002](http://doi.org/10.1001/jamaoncol.2018.1002).
+- Overman MJ, Ellis LM, Joffe S. Ethics and the Underreporting of Research Biopsy Findings in Clinical Trials. JAMA Oncol. 2018;4(8):1041–1042. [doi:10.1001/jamaoncol.2018.1002](https://doi.org/10.1001/jamaoncol.2018.1002).
 

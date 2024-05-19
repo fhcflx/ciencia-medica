@@ -39,7 +39,7 @@ Jekyll foi fácil de instalar, uma vez superado o problema de instalar uma cópi
 $ /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 ```
 
-para instalar [Homebrew](http://brew.sh) um gerenciador de pacotes para Mac OS X que administra muito bem o problema das instalações e SIP.
+para instalar [Homebrew](https://brew.sh) um gerenciador de pacotes para Mac OS X que administra muito bem o problema das instalações e SIP.
 ```bash
 $ brew update # faz o update do Homebrew
 $ brew install rbenv # instala rbenv
@@ -150,6 +150,6 @@ $ git push gh-pages gh-pages
 
 
 
-[jekyll-docs]: http://jekyllrb.com/docs/home
+[jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/

@@ -33,7 +33,7 @@ Os resultados mostraram sem ambiguidade que nenhuma destas classes de medicament
 
 ![](https://upload.wikimedia.org/wikipedia/commons/a/a2/Renin-angiotensin-aldosterone_system.png)
 
-_Figura: esquema do sistema renina-angiotensina-aldosterona. Créditos A. Rad [GFDL (http://www.gnu.org/copyleft/fdl.html) or [CC-BY-SA-3.0](http://creativecommons.org/licenses/by-sa/3.0/), from Wikimedia Commons_
+_Figura: esquema do sistema renina-angiotensina-aldosterona. Créditos A. Rad [GFDL (https://www.gnu.org/copyleft/fdl.html) or [CC-BY-SA-3.0](https://creativecommons.org/licenses/by-sa/3.0/), from Wikimedia Commons_
 
 Leia a publicação:
 - Happold, C., Gorlia, T., Nabors, L.B. et al. Do statins, ACE inhibitors or sartans improve outcome in primary glioblastoma? J Neurooncol (2018) 138: 163. [doi:10.1007/s11060-018-2786-8](https://doi.org/10.1007/s11060-018-2786-8)

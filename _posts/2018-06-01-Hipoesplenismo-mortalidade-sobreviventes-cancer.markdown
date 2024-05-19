@@ -34,4 +34,4 @@ Leia a publicação:
 Leisenring WM, Smith SA, Tonorezos ES, Friedman DN, Constine LS, Tinkle CL,
 Diller LR, Armstrong GT, Oeffinger KC, Weldon CB. Late Infection-Related
 Mortality in Asplenic Survivors of Childhood Cancer: A Report From the Childhood
-Cancer Survivor Study. J Clin Oncol. 2018 Jun 1;36(16):1571-1578. [doi:10.1200/JCO.2017.76.1643](http://doi.org/10.1200/JCO.2017.76.1643).
+Cancer Survivor Study. J Clin Oncol. 2018 Jun 1;36(16):1571-1578. [doi:10.1200/JCO.2017.76.1643](https://doi.org/10.1200/JCO.2017.76.1643).

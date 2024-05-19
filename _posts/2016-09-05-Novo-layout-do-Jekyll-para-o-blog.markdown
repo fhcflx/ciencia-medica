@@ -11,15 +11,15 @@ lang: pt-br
 ref:
 ---
 
-Depois de migrar meu blog para o [GitHub Pages](https://pages.github.com){% include github_pages.html %}, usando [Jekyll](https://jekyllrb.com), resolvi alterar o layout da página. Busquei temas para Jekyll, encontrando uma [lista](http://jekyllthemes.org) grande. Depois de muita indecisão, escolhi o tema [Tufte-Jekyll](http://jekyllthemes.org/themes/tufte-jekyll/), de Clay Harmon, baseado no [CSS](https://github.com/edwardtufte/tufte-css) criado por Dave Liepmann e Edward Tufte{% include tufte.html %}.
+Depois de migrar meu blog para o [GitHub Pages](https://pages.github.com){% include github_pages.html %}, usando [Jekyll](https://jekyllrb.com), resolvi alterar o layout da página. Busquei temas para Jekyll, encontrando uma [lista](https://jekyllthemes.org) grande. Depois de muita indecisão, escolhi o tema [Tufte-Jekyll](https://jekyllthemes.org/themes/tufte-jekyll/), de Clay Harmon, baseado no [CSS](https://github.com/edwardtufte/tufte-css) criado por Dave Liepmann e Edward Tufte{% include tufte.html %}.
 <!--more-->
 
 
 A instalação do tema foi relativamente tranquila, exceto pelo fato de que o autor criou algumas tags customizadas de [Liquid](https://shopify.github.io/liquid/){% include liquid.html %}, as quais, infelizmente, não são suportadas pelo GitHub Pages. Apenas troquei estas tags pelos códigos de exemplo da biblioteca tufte-CSS, em [HTML](https://github.com/edwardtufte/tufte-css/blob/gh-pages/index.html) e o resultado pode ser visto nesta postagem.
 
-Consegui importar as postagens do blog [antigo](http://pharmak.blogspot.com) com um _script_ do Jekyll, o [jekyll-import](https://github.com/jekyll/jekyll-import/tree/v0.10.0), instalado como uma gem que adicionei no meu Gemfile. Devo dizer que essa foi a primeira vez que a documentação do Jekyll me deixou confuso, pois a utilização do importador de blogs não está atualizada nela. No repositório do GitHub existe um novo conjunto de instruções para as versões mais recentes do Jekyll.
+Consegui importar as postagens do blog [antigo](https://pharmak.blogspot.com) com um _script_ do Jekyll, o [jekyll-import](https://github.com/jekyll/jekyll-import/tree/v0.10.0), instalado como uma gem que adicionei no meu Gemfile. Devo dizer que essa foi a primeira vez que a documentação do Jekyll me deixou confuso, pois a utilização do importador de blogs não está atualizada nela. No repositório do GitHub existe um novo conjunto de instruções para as versões mais recentes do Jekyll.
 
-Procurei, então, um código que me permitisse gerar uma página de marcadores (_tags_). Muitas soluções tinham problemas (tags Liquid customizadas!), e aquela que se adaptou em meu sistema foi a descrita nesta [postagem](http://pavdmyt.com/how-to-implement-tags-at-jekyll-website/). Com os códigos de Pavel Dmytrenko, consegui criar páginas temáticas específicas para um determinado marcador. Porém, para que minha página de marcadores fosse funcional, faltava uma coisa: filtrar os marcadores. Depois da importação do Blogger, eu tinha centenas de marcadores, a maioria com apenas 1 ocorrência. Para evitar que a página de marcadores ficasse lotada demais e impraticável, eu tinha que filtrar apenas os marcadores com um número ```n```de ocorrências. Depois de muitas tentativas, consegui resolver com Liquid:
+Procurei, então, um código que me permitisse gerar uma página de marcadores (_tags_). Muitas soluções tinham problemas (tags Liquid customizadas!), e aquela que se adaptou em meu sistema foi a descrita nesta [postagem](https://pavdmyt.com/how-to-implement-tags-at-jekyll-website/). Com os códigos de Pavel Dmytrenko, consegui criar páginas temáticas específicas para um determinado marcador. Porém, para que minha página de marcadores fosse funcional, faltava uma coisa: filtrar os marcadores. Depois da importação do Blogger, eu tinha centenas de marcadores, a maioria com apenas 1 ocorrência. Para evitar que a página de marcadores ficasse lotada demais e impraticável, eu tinha que filtrar apenas os marcadores com um número ```n```de ocorrências. Depois de muitas tentativas, consegui resolver com Liquid:
 
 ```ruby
 {% raw %}
@@ -57,7 +57,7 @@ Onde a introdução do filtro Liquid ```size``` permitiu escolher apenas os marc
 {% endraw %}
 ```
 
-Só queria mais uma coisa, marcadores em cada postagem! Novamente, peguei a sugestão de Pavel Dmytrenko e usei o [estilo de marcadores de Wouter Beeftink](http://codepen.io/wbeeftink/pen/dIaDH). Para isso, tive que cometer a ousadia de _retocar_ o arquivo ```tufte.css```. Copiei o código de CSS dos marcadores de Beeftink (exceto o referente ao body, pois queria manter a tipografia de Tufte) e colei no tufte.css (são pouco mais de 50 linhas).
+Só queria mais uma coisa, marcadores em cada postagem! Novamente, peguei a sugestão de Pavel Dmytrenko e usei o [estilo de marcadores de Wouter Beeftink](https://codepen.io/wbeeftink/pen/dIaDH). Para isso, tive que cometer a ousadia de _retocar_ o arquivo ```tufte.css```. Copiei o código de CSS dos marcadores de Beeftink (exceto o referente ao body, pois queria manter a tipografia de Tufte) e colei no tufte.css (são pouco mais de 50 linhas).
 
 ```css
 .tags {

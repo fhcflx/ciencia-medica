@@ -11,28 +11,28 @@ lang: pt-br
 ref:
 modified_time: '2015-12-17T17:50:34.821-03:00'
 blogger_id: tag:blogger.com,1999:blog-2993346515708552092.post-2956862652730329693
-blogger_orig_url: http://pharmak.blogspot.com/2015/12/sildenafil-para-linfangiomas-infantis.html
+blogger_orig_url: https://pharmak.blogspot.com/2015/12/sildenafil-para-linfangiomas-infantis.html
 ---
 
-Em uma [postagem](http://bit.ly/fhcflxeS) anterior, relatei uma publicação de 2012 no prestigiado jornal New England Journal of Medicine (NEJM) que dava conta de 3 casos de crianças com graves mal-formações linfáticas (ML){% include ml.html %} tratados com sildenafila{% include sildenafila.html %}, uma droga inibidora de fosfodiesterase tipo 5 que aumenta a produção de óxido nítrico em alguns tecidos. Essa medicação é usada no tratamento de disfunção erétil em adultos e para tratar hipertensão pulmonar em bebês (aprovada desde 2005).
+Em uma [postagem](https://bit.ly/fhcflxeS) anterior, relatei uma publicação de 2012 no prestigiado jornal New England Journal of Medicine (NEJM) que dava conta de 3 casos de crianças com graves mal-formações linfáticas (ML){% include ml.html %} tratados com sildenafila{% include sildenafila.html %}, uma droga inibidora de fosfodiesterase tipo 5 que aumenta a produção de óxido nítrico em alguns tecidos. Essa medicação é usada no tratamento de disfunção erétil em adultos e para tratar hipertensão pulmonar em bebês (aprovada desde 2005).
 <!--more-->
 
 A dra. Glenda Swetman relatou o caso de um bebê que recebeu o diagnóstico de uma ML torácica com 10 semanas de vida. Aos nove meses, a criança recebeu o diagnóstico de hipertensão pulmonar, causando insuficiência cardíaca. A sildenafila foi iniciada na dose usual e, num prazo de 4 meses, tanto a ML quanto a hipertensão pulmonar haviam se resolvido completamente.
 
-Este caso animou a dermatologista de Stanford a tratar com sildenafila outras duas crianças com ML refratárias. Em ambos os casos, ocorreu resposta parcial. Essa publicação lembrou a todos imediatamente da descoberta recente do uso de beta-bloqueadores para tratar hemangiomas infantis{% include hemangioma.html %}, também [reportada](http://bit.ly/fhcflxEw) no NEJM. A expectativa que se seguiu,
+Este caso animou a dermatologista de Stanford a tratar com sildenafila outras duas crianças com ML refratárias. Em ambos os casos, ocorreu resposta parcial. Essa publicação lembrou a todos imediatamente da descoberta recente do uso de beta-bloqueadores para tratar hemangiomas infantis{% include hemangioma.html %}, também [reportada](https://bit.ly/fhcflxEw) no NEJM. A expectativa que se seguiu,
 no entanto, não obteve como resposta um sem número de relatos de casos bem-sucedidos e trabalhos científicos mostrando eficácia, como no caso do propranolol.
 
-Este ano, em julho, Koshy _et al_ publicaram no [International Journal of Pediatric Otorhinolaryngology](http://linkinghub.elsevier.com/retrieve/pii/S0165-5876(15)00159-7") os resultados de um ensaio clínico piloto que testou a eficácia da sildenafila em cinco crianças com ML refratárias a outros tratamentos.
+Este ano, em julho, Koshy _et al_ publicaram no [International Journal of Pediatric Otorhinolaryngology](https://linkinghub.elsevier.com/retrieve/pii/S0165-5876(15)00159-7") os resultados de um ensaio clínico piloto que testou a eficácia da sildenafila em cinco crianças com ML refratárias a outros tratamentos.
 
 Usando medidas objetivas com imagens de ressonância magnética, o grupo mostrou que, neste pequeno conjunto de pacientes, a sildenafila não mostrou nenhum efeito. Entre 2012 e este ano, alguns outros relatos de caso foram publicados, mostrando efeitos variáveis, geralmente positivos, em pacientes com ML graves, refratárias a outros tratamentos.
 
-Um estudo _open-label_ que envolveu sete crianças com ML de difícil tratamento foi relatado ano passado por [Danial _et al_](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4024322/"). Os autores concluíram que a sildenafila "pode reduzir o volume e sintomas de ML em crianças". Ao examinarmos mais de perto os resultados reportados, porém, podemos ver que, de 4 crianças que obtiveram "redução" das ML, apenas uma criança mostrou resposta com redução de mais de 25% da lesão.
+Um estudo _open-label_ que envolveu sete crianças com ML de difícil tratamento foi relatado ano passado por [Danial _et al_](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4024322/"). Os autores concluíram que a sildenafila "pode reduzir o volume e sintomas de ML em crianças". Ao examinarmos mais de perto os resultados reportados, porém, podemos ver que, de 4 crianças que obtiveram "redução" das ML, apenas uma criança mostrou resposta com redução de mais de 25% da lesão.
 
 O critério normalmente padronizado para medir a resposta de lesões tumorais a um determiando tratamento estipula que uma resposta menor ou igual a 25% deve ser considerada "doença estável". Dessa forma, das sete crianças reportadas neste trabalho, uma análise crítica mostra apenas uma resposta, de cerca de 30% apenas.
 
 Existe uma grande dificuldade ao se analisar resultados como esses: é necessário levar em consideração a evolução natural da doença. Casos de regressão "espontânea" de ML, às vezes gigantes, não são incomuns, e correspondem ao esvaziamento de suas cavidades cheias de linfa. Como as ML não são realmente neoplasias, como o termo "linfangioma" pode erroneamente induzir a se acreditar, não ocorre proliferação celular em seus tecidos.
 
-Um tratamento farmacológico poderia afetar seu volume se modificasse o modo como a lesão se enche ou se esvazia de linfa, algo que alguns trabalhos preliminares mostram que o [propranolol](http://www.nejm.org/doi/full/10.1056/NEJMc1013217?viewType=Print) poderia fazer. Mesmo assim, daí a se afirmar que um tratamento é "eficaz" vai uma longa distância. Especialmente quando se espera que parte das lesões reduza sem tratamento.
+Um tratamento farmacológico poderia afetar seu volume se modificasse o modo como a lesão se enche ou se esvazia de linfa, algo que alguns trabalhos preliminares mostram que o [propranolol](https://www.nejm.org/doi/full/10.1056/NEJMc1013217?viewType=Print) poderia fazer. Mesmo assim, daí a se afirmar que um tratamento é "eficaz" vai uma longa distância. Especialmente quando se espera que parte das lesões reduza sem tratamento.
 
 Avaliações equivocadas semelhantes já levaram à proposição de tratamentos estapafúrdios para hemangioma, por exemplo, um tumor vascular que é autolimitado e que somente necessita de tratamento em casos complicados.
 

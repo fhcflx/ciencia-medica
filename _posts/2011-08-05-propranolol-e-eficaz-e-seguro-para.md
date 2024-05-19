@@ -11,7 +11,7 @@ lang: pt-br
 ref:
 modified_time: '2011-09-18T12:29:09.793-03:00'
 blogger_id: tag:blogger.com,1999:blog-2993346515708552092.post-872567013934911749
-blogger_orig_url: http://pharmak.blogspot.com/2011/08/propranolol-e-eficaz-e-seguro-para.html
+blogger_orig_url: https://pharmak.blogspot.com/2011/08/propranolol-e-eficaz-e-seguro-para.html
 ---
 
 O mais novo estudo sobre o uso de propranolol{% include propranolol.html %} para o tratamento de hemangiomas infantis{% include hemangioma.html %} foi publicado online no portal do jornal Pediatrics, da American Academy of Pediatrics. Marcia Hogelling, Susan Adams e Orli Wargon, do Sydney Children's Hospital na Australia, trataram 40 crianças entre 9 semanas e 5 anos de idade, com hemangiomas faciais ou em outros locais desfigurantes.
@@ -26,4 +26,4 @@ O fármaco antes usado como primeira escolha para o tratamento de hemangiomas in
 _Esta postagem não representa sugestão de tratamento. Apenas um especialista pode judiciosamente decidir quais informações divulgadas podem modificar de alguma forma um esquema de tratamento, e de que forma._
 
 Leia a publicação:
-- Marcia Hogeling, Susan Adams, Orli Wargon. A Randomized Controlled Trial of Propranolol for Infantile Hemangiomas. Pediatrics Aug 2011, 128 (2) e259-e266; [doi:10.1542/peds.2010-0029](http://doi.org/10.1542/peds.2010-0029)
+- Marcia Hogeling, Susan Adams, Orli Wargon. A Randomized Controlled Trial of Propranolol for Infantile Hemangiomas. Pediatrics Aug 2011, 128 (2) e259-e266; [doi:10.1542/peds.2010-0029](https://doi.org/10.1542/peds.2010-0029)

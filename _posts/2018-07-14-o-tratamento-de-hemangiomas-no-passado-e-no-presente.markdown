@@ -18,8 +18,8 @@ Antes de tudo, vamos definir o que são hemangiomas: eles são tumores vasculare
 
 Lesões que crescem lentamente ou não crescem, que surgem em crianças maiores ou adultos, _não são hemangiomas infantis_! Devem ser outras formas de anomalias vasculares{% include anomaliavasc.html %}, as quais existem às centenas. É muito comum que pacientes e familiares sejam informados erroneamente que essas lesões constituem hemangiomas.
 
-![](http://4.bp.blogspot.com/-OsJc9f__W2s/UynC-rNiobI/AAAAAAAAZ_Q/7AAE-94urB8/s1600/Captura+de+Tela+2014-03-19+a%CC%80s+11.13.04.png)
-![](http://4.bp.blogspot.com/-psMv09JO_0c/UynC_otufTI/AAAAAAAAZ_Y/Uo7_XSXyx4Q/s1600/Captura+de+Tela+2014-03-19+a%CC%80s+11.24.00.png)
+![](https://4.bp.blogspot.com/-OsJc9f__W2s/UynC-rNiobI/AAAAAAAAZ_Q/7AAE-94urB8/s1600/Captura+de+Tela+2014-03-19+a%CC%80s+11.13.04.png)
+![](https://4.bp.blogspot.com/-psMv09JO_0c/UynC_otufTI/AAAAAAAAZ_Y/Uo7_XSXyx4Q/s1600/Captura+de+Tela+2014-03-19+a%CC%80s+11.24.00.png)
 
 _Figuras retiradas do livro Mulliken &amp; Young's Vascular Anomalies, Hemangiomas and Malformations, 2 ed., Oxford University Press, 2013 (protegidas por direitos autorais)._
 
@@ -33,7 +33,7 @@ Ainda é preocupante a tendência de alguns médicos de voltar aos velhos tratam
 
 A quem procurar quando uma criança tem um hemangioma? _Não existe uma especialidade devotada às chamadas anomalias vasculares, então não se pode falar de um grupo de médicos ou uma especialidade que seja a “melhor” para conduzir hemangiomas._ Os maiores especialistas nestas lesões são de varias especialidades diferentes como o Dr. Mulliken (cirurgião plástico), como a Dra. Adams (onco-hematologista pediátrica), que constituem as maiores autoridades mundiais e como a Dra. Leauté-Labréze (dermatologista), a qual descobriu recentemente o uso de propranolol para hemangiomas. No entanto, a maioria dos cirurgiões, oncologistas ou dermatologistas não tem experiência com o tratamento de hemangiomas, ou a tem de forma limitada. Todos os médicos, porém, podem e devem ter noções gerais sobre anomalias vasculares, incluindo quando referir para um colega com reconhecida experiência.
 
-![](http://1.bp.blogspot.com/-oSJ6nNh9FAQ/Uyo_xbeZT_I/AAAAAAAAZ_w/7v4oePhAcrg/s1600/Captura+de+Tela+2014-03-19+a%CC%80s+12.26.43.png)
+![](https://1.bp.blogspot.com/-oSJ6nNh9FAQ/Uyo_xbeZT_I/AAAAAAAAZ_w/7v4oePhAcrg/s1600/Captura+de+Tela+2014-03-19+a%CC%80s+12.26.43.png)
 
 _Essa imagem parcial, retirada de capítulo do livro do dr. Mulliken, mostra uma jovem que desenvolveu um grande hemangioma infantil na face. O seguimento, **ABSOLUTAMENTE SEM NENHUM TRATAMENTO**, é testemunho de que a regressão espontânea dos hemangiomas, que pode demorar vários anos, muitas vezes não deixa nenhuma marca posterior._
 

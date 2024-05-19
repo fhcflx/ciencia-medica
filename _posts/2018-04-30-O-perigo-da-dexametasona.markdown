@@ -31,7 +31,7 @@ Pacientes mais jovens, com papiledema ao diagnóstico e aqueles que tiveram reci
 
 ![](https://upload.wikimedia.org/wikipedia/commons/e/e0/CT_brain_tumor.jpg)
 
-*Figura: tomografia computadorizada mostrando edema cerebral (área escura) associada à um tumor cerebral. A dexametasona é largamente usada para tratar edema cerebral tumoral. Créditos Bobjgalindo [GFDL](http://www.gnu.org/copyleft/fdl.html) ou [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), da Wikimedia Commons.*
+*Figura: tomografia computadorizada mostrando edema cerebral (área escura) associada à um tumor cerebral. A dexametasona é largamente usada para tratar edema cerebral tumoral. Créditos Bobjgalindo [GFDL](https://www.gnu.org/copyleft/fdl.html) ou [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), da Wikimedia Commons.*
 
 _Esta postagem não representa sugestão de tratamento. Apenas um especialista pode judiciosamente decidir quais informações divulgadas podem modificar de alguma forma um esquema de tratamento, e de que forma._
 

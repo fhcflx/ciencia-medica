@@ -22,5 +22,5 @@ Os autores concluíram que o tratamento de carcinoma avançado com imunoterapia 
 
 _Esta postagem não representa sugestão de tratamento. Apenas um especialista pode judiciosamente decidir quais informações divulgadas podem modificar de alguma forma um esquema de tratamento, e de que forma._ 
 
-O estudo pode ser lido [aqui](http://bit.ly/fhcflxXt).
+O estudo pode ser lido [aqui](https://bit.ly/fhcflxXt).
 

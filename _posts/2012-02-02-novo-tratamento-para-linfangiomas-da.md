@@ -11,7 +11,7 @@ lang: pt-br
 ref:
 modified_time: '2015-12-13T13:23:51.371-03:00'
 blogger_id: tag:blogger.com,1999:blog-2993346515708552092.post-1056883543385702748
-blogger_orig_url: http://pharmak.blogspot.com/2012/02/novo-tratamento-para-linfangiomas-da.html
+blogger_orig_url: https://pharmak.blogspot.com/2012/02/novo-tratamento-para-linfangiomas-da.html
 ---
 
 Malformações linfáticas (ML){% include ml.html %}, também conhecidas como linfangiomas, são anomalias vasculares congênitas incomuns, representando muitas vezes um desafio terapêutico. Seu tratamento é cirúrgico, via de regra, mas muitas vezes elas são difíceis, quando não impossíveis, de ressecar completamente. Outras estratégias envolvem a injeção de substâncias capazes de causar dano celular ou inflamação dentro dos linfangiomas - uma modalidade de tratamento conhecida coletivamente como escleroterapia. Na maioria dos casos, porém, o resultado de todos estes tratamentos é uma regressão parcial, com lesões residuais de tamanhos às vezes significativos persistindo por toda a vida. Estas lesões residuais podem desfigurar permanentemente os pacientes, ou causar-lhes danos à saúde.
@@ -34,6 +34,6 @@ _Esta postagem não representa sugestão de tratamento. Apenas um especialista p
 Leia a publicação:
 - Swetman GL, Berk DR, Vasanawala SS, Feinstein JA, Lane AT, Bruckner AL.
 Sildenafil for severe lymphatic malformations. N Engl J Med. 2012 Jan
-26;366(4):384-6. [doi:10.10156/NEJMc1112482](http://doi.org/10.1056/NEJMc1112482)
+26;366(4):384-6. [doi:10.10156/NEJMc1112482](https://doi.org/10.1056/NEJMc1112482)
 
 Atualização: em 2015 novos resultados mostraram que, na verdade, a sildenafila não tem efeito em ML (linfangiomas) da infância e sua promessa como novo tratamento não se cumpriu!

@@ -26,7 +26,7 @@ O tratamento de melanomas em jovens segue os mesmos paradigmas de adultos mais v
 
 Melanoma metastático{% include meta.html %} em adolescentes e adultos jovens é muito raro e não existem estudos clínicos sobre seu tratamento, devido ao pequeno número de casos. Ensaios clínicos usando as principais drogas usadas em adultos mais velhos, vemurafenibe e ipilimumab, foram cancelados pela falta de pacientes para participar dos ensaios.
 
-Existem iniciativas para estudar tipos raros de câncer em crianças e adolescentes, inclusive o melanoma, mas elas progridem com grande lentidão. Será preciso a montagem de uma rede global de informações clínicas para conseguir acumular informações científicas de qualidade sobre o melanoma em jovens. Nesse ponto, a [ciência aberta](http://bit.ly/valkyg2) pode ajudar bastante.
+Existem iniciativas para estudar tipos raros de câncer em crianças e adolescentes, inclusive o melanoma, mas elas progridem com grande lentidão. Será preciso a montagem de uma rede global de informações clínicas para conseguir acumular informações científicas de qualidade sobre o melanoma em jovens. Nesse ponto, a [ciência aberta](https://bit.ly/valkyg2) pode ajudar bastante.
 
 
 ![](https://upload.wikimedia.org/wikipedia/commons/8/81/Playing_with_hands.JPG)

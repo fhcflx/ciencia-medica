@@ -11,9 +11,9 @@ email: fhcflx@outlook.com
 description: > # this means to ignore newlines until "baseurl:"
   Blog sobre ciência médica, pesquisa científica, oncologia pediátrica,
   farmacologia e outras ciências da saúde afins. Continuação do blog
-  publicado em http://pharmakon.blogspot.com
+  publicado em https://pharmakon.blogspot.com
 baseurl: /ciencia-medica
-url: http://fhcflx.github.io # the base hostname & protocol for your site
+url: https://fhcflx.github.io # the base hostname & protocol for your site
 twitter_username: fhcflx
 github_username:  fhcflx
 
@@ -21,7 +21,7 @@ github_username:  fhcflx
 markdown: kramdown
 subtitle: Ciência médica
 author: fhcflx
-simple_search: http://google.com/search
+simple_search: https://google.com/search
 name:
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 timezone: America/Fortaleza

@@ -10,9 +10,9 @@ tags:
 lang: pt-br
 ref:
 modified_time: '2015-12-07T22:20:06.976-03:00'
-thumbnail: http://4.bp.blogspot.com/-OsJc9f__W2s/UynC-rNiobI/AAAAAAAAZ_Q/7AAE-94urB8/s72-c/Captura+de+Tela+2014-03-19+a%CC%80s+11.13.04.png
+thumbnail: https://4.bp.blogspot.com/-OsJc9f__W2s/UynC-rNiobI/AAAAAAAAZ_Q/7AAE-94urB8/s72-c/Captura+de+Tela+2014-03-19+a%CC%80s+11.13.04.png
 blogger_id: tag:blogger.com,1999:blog-2993346515708552092.post-2586473522897428400
-blogger_orig_url: http://pharmak.blogspot.com/2014/03/o-tratamento-de-hemangiomas-ha-200-anos.html
+blogger_orig_url: https://pharmak.blogspot.com/2014/03/o-tratamento-de-hemangiomas-ha-200-anos.html
 ---
 
 O professor John B. Mulliken, considerado uma das maiores autoridades em anomalias vasculares do mundo e discípulo de Judah Folkman (1933-2008), o descobridor da angiogênese, nos mostra, na introdução do capítulo sobre tratamento de hemangiomas{% include hemangioma.html %}, um interessante histórico.  Logo no começo, ele avisa: "o hemangioma vermelho brilhante de rápido crescimento nos leva a tomar uma providência, a fazer algo, qualquer coisa". Assim, a ansiedade relacionada com esta lesão ordinariamente benigna e que não requer tratamento na maioria dos casos (sabemos bem hoje) sempre levou mães e médicos ansiosos a tentar as mais estapafúrdias terapias possíveis.

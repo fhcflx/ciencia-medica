@@ -30,5 +30,5 @@ _Figura: crianças com câncer recebendo tratamento com quimioterapia. Créditos
 _Esta postagem não representa sugestão de tratamento. Apenas um especialista pode judiciosamente decidir quais informações divulgadas podem modificar de alguma forma um esquema de tratamento, e de que forma._
 
 Leia a publicação:
--  Hendershot E, Volpe J, Taylor T, Nicksy D, Mills D, Ramachandran N, Shaikh F, Riss V, Grant R, Gupta AA. Outpatient High-dose Methotrexate for Osteosarcoma: It's Safe and Feasible, If You Want It. J Pediatr Hematol Oncol. 2018 Jun 29. [doi:10.1097/MPH.0000000000001238](http://doi.org/10.1097/MPH.0000000000001238).
+-  Hendershot E, Volpe J, Taylor T, Nicksy D, Mills D, Ramachandran N, Shaikh F, Riss V, Grant R, Gupta AA. Outpatient High-dose Methotrexate for Osteosarcoma: It's Safe and Feasible, If You Want It. J Pediatr Hematol Oncol. 2018 Jun 29. [doi:10.1097/MPH.0000000000001238](https://doi.org/10.1097/MPH.0000000000001238).
 

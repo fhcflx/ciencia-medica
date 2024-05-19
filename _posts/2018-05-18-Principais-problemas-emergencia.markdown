@@ -26,5 +26,5 @@ _Figura: pessoal de prontidão numa unidade emergência em Belle Chasse, Louisia
 _Esta postagem não representa sugestão de tratamento. Apenas um especialista pode judiciosamente decidir quais informações divulgadas podem modificar de alguma forma um esquema de tratamento, e de que forma._
 
 Leia a publicação:
-- D Burcham M, Cochrane AR, Jacob SA, Carroll AE, Mueller EL. Emergency Department Chief Complaints Among Children With Cancer. J Pediatr Hematol Oncol 2018 Aug;40(6):445-449. [doi:10.1097/MPH.0000000000001223](http://doi.org/10.1097/MPH.0000000000001223).
+- D Burcham M, Cochrane AR, Jacob SA, Carroll AE, Mueller EL. Emergency Department Chief Complaints Among Children With Cancer. J Pediatr Hematol Oncol 2018 Aug;40(6):445-449. [doi:10.1097/MPH.0000000000001223](https://doi.org/10.1097/MPH.0000000000001223).
 

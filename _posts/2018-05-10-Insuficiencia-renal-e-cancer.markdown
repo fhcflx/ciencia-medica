@@ -19,10 +19,10 @@ Eles concluíram que a terapia de reposição renal crônica aumenta o risco de 
 
 ![](https://upload.wikimedia.org/wikipedia/commons/9/93/Hemodialysis-en.svg)
 
-_Figura: circuito esquemático de hemodiálise. Créditos [YassineMrabet](https://commons.wikimedia.org/wiki/User:YassineMrabet), imagem vetorial criada com Inkscape. (trabalho próprio a partir de [Hemodialysis schematic.gif](https://commons.wikimedia.org/wiki/File:Hemodialysis_schematic.gif).) [CC BY 3.0](https://creativecommons.org/licenses/by/3.0), [GFDL](http://www.gnu.org/copyleft/fdl.html) ou [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via Wikimedia Commons_
+_Figura: circuito esquemático de hemodiálise. Créditos [YassineMrabet](https://commons.wikimedia.org/wiki/User:YassineMrabet), imagem vetorial criada com Inkscape. (trabalho próprio a partir de [Hemodialysis schematic.gif](https://commons.wikimedia.org/wiki/File:Hemodialysis_schematic.gif).) [CC BY 3.0](https://creativecommons.org/licenses/by/3.0), [GFDL](https://www.gnu.org/copyleft/fdl.html) ou [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0), via Wikimedia Commons_
 
 _Esta postagem não representa sugestão de tratamento. Apenas um especialista pode judiciosamente decidir quais informações divulgadas podem modificar de alguma forma um esquema de tratamento, e de que forma._
 
 Leia a publicação:
-- Nuss N, Libruder C, Dichtiar R, Weinstein T, Keinan-Boker L, Shohat T, Golan E. Cancer Risk Among Children Undergoing Renal Replacement Therapy: Results From the Israel National Renal Replacement Therapy Registry, 1990-2012. J Pediatr Hematol Oncol. 2018 May 8. [doi:10.1097/MPH.0000000000001202](http://doi.org/10.1097/MPH.0000000000001202).
+- Nuss N, Libruder C, Dichtiar R, Weinstein T, Keinan-Boker L, Shohat T, Golan E. Cancer Risk Among Children Undergoing Renal Replacement Therapy: Results From the Israel National Renal Replacement Therapy Registry, 1990-2012. J Pediatr Hematol Oncol. 2018 May 8. [doi:10.1097/MPH.0000000000001202](https://doi.org/10.1097/MPH.0000000000001202).
 

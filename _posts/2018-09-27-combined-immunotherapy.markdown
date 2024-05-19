@@ -22,5 +22,5 @@ The authors concluded that treatment of advanced carcinoma with combined immunot
 
 _This post does not represent a suggestion for treatment. Only a specialist can judiciously decide what information disclosed can modify a treatment scheme in any way, and in what form._
 
-The study can be read [here](http://bit.ly/fhcflxXt).
+The study can be read [here](https://bit.ly/fhcflxXt).
 
