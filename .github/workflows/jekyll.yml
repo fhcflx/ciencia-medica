@@ -31,7 +31,7 @@ jobs:
       - name: Run html-proofer
         run: |
           bundle exec htmlproofer ./_site \
-            --disable-external \
+            --disable-external = true \
             --ignore-urls [/#/] \
 
       - name: Update baseurl
