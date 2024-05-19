@@ -32,9 +32,10 @@ jobs:
         run: |
           bundle exec htmlproofer ./_site \
           --allow-hash-href \
+          --allow-missing-href \
           --disable-external \
-          --ignore-urls ["/#/"] \
-          --ignore-missing-alt
+          --assume-extension \
+          --ignore-empty-alt
 
       - name: Update baseurl
         run: echo 'baseurl:"/ciencia-medica"' >> _config.yml
