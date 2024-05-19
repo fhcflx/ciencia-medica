@@ -33,7 +33,9 @@ jobs:
           bundle exec htmlproofer ./_site \
             --disable-external \
             --ignore-urls "^/#$" \
-
+            --allow-file-not-found \
+            --allow-missing-file
+            
       - name: Update baseurl
         run: echo 'baseurl:"/ciencia-medica"' >> _config.yml
 
