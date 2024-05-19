@@ -32,7 +32,7 @@ jobs:
         run: |
           bundle exec htmlproofer ./_site \
             --disable-external \
-            --url-ignore "/#/" \
+            --ignore-urls "/#/" \
             --alt-ignore '/.*/'
 
       - name: Update baseurl
