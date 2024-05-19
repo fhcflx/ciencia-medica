@@ -33,7 +33,7 @@ jobs:
           bundle exec htmlproofer ./_site \
           --allow-hash-href \
           --disable-external \
-          --ignore-urls "/#/" \
+          --ignore-urls ["/#/"] \
           --ignore-missing-alt '/.*/'
 
       - name: Update baseurl
