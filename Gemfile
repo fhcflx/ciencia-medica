@@ -4,4 +4,5 @@ group :jekyl_plugins do
     gem "jekyll-seo-tag"
     gem 'jekyll-import'
     gem 'jekyll-sitemap'
+    gem 'csv'
 end

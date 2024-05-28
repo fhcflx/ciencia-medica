@@ -24,8 +24,8 @@ jobs:
           chmod +x ./script/cibuild
       - name: Configure Git Author
         run: |
-          git config --global user.email "your_email@example.com"
-          git config --global user.name "Your Name"
+          git config --global user.email "fhcflx@outlook.com"
+          git config --global user.name "Francisco Felix"
       - name: Build Jekyll site
         run: ./script/cibuild
       - name: Deploy to GitHub Pages
