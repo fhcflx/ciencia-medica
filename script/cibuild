@@ -2,7 +2,7 @@
 set -e # halt script on error
 
 bundle exec jekyll build
-bundle exec htmlproofer ./_site --disable-external --url-ignore "/#/" --alt-ignore '/.*/'
+bundle exec htmlproofer ./_site --disable-external --ignore-urls ["/#/",'/.*/']
 
 echo 'baseurl: "/ciencia-medica"' >> _config.yml
 bundle exec jekyll build
