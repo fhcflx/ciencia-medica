@@ -1,58 +1,34 @@
-name: Build and Deploy
+name: Deploy to GitHub Pages
 
 on:
   push:
     branches:
-      - master
+      - gh-pages
 
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
-    steps:
-      - name: Checkout code
-        uses: actions/checkout@v4
 
-      - name: Set up Ruby
+    steps:
+      - uses: actions/checkout@v2
+      - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: 3
-
-      - name: Install dependencies
-        run: |
-          gem install bundler
-          bundle install
-
-      - name: Build website
+          ruby-version: 2.4.1
+      - name: Install Gems
         run: |
           echo 'gem "html-proofer"' >> Gemfile
+          sed -i 15d _config.yml
+          sed -i 1d .gitignore
           bundle install
-          bundle exec jekyll build
-
-      - name: Run html-proofer
-        run: |
-          bundle exec htmlproofer ./_site \
-          --allow-hash-href \
-          --allow-missing-href \
-          --disable-external \
-          --assume-extension \
-          --ignore-empty-alt
-
-      - name: Update baseurl
-        run: echo 'baseurl:"/ciencia-medica"' >> _config.yml
-
-      - name: Build website again
-        run: bundle exec jekyll build
-
-      - name: Commit changes
-        run: |
-          git config user.name "GitHub Actions"
-          git config user.email "actions@github.com"
-          git add .
-          git commit -m "Deploy to GitHub Pages"
-
-      - name: Push to gh-pages
-        run: |
-          git push origin HEAD:gh-pages --force
-
+          chmod +x ./script/cibuild
+      - name: Build Jekyll site
+        run: ./script/cibuild
       - name: Deploy to GitHub Pages
-        uses: actions/deploy-pages@v1
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          ssh-key: ${{ secrets.GITHUB_TOKEN }}
+          branch: gh-pages
+          folder: _site
+          clean: true
+          repository-name: ${{ github.repository }}
