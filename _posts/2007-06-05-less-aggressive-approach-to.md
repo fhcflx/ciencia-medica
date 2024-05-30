@@ -7,7 +7,7 @@ tags:
 - Cancer
 lang: en-us
 modified_time: '2011-09-18T12:29:09.652-03:00'
-blogger_orig_url: https://pharmak.blogspot.com/2007/06/less-aggressive-approach-to.html
+blogger_orig_url: 'https://pharmak.blogspot.com/2007/06/less-aggressive-approach-to.html'
 ---
 
 
