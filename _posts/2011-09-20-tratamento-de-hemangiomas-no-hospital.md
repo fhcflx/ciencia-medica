@@ -1,5 +1,6 @@
 ---
 layout: post
+published: FALSE
 title: Tratamento de hemangiomas no Hospital Infantil Albert Sabin
 date: '2011-09-20T22:19:00.000-03:00'
 author: Francisco H C Felix

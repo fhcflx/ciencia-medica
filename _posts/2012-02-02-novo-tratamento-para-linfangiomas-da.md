@@ -1,5 +1,6 @@
 ---
 layout: post
+published: FALSE
 title: Possível tratamento para linfangiomas da infância
 date: '2012-02-02T00:43:00.000-03:00'
 author: Francisco H C Felix

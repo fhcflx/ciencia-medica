@@ -1,5 +1,6 @@
 ---
 layout: post
+published: FALSE
 title: Eficácia do propranolol no tratamento de hemangiomas capilares é comprovada
 date: '2013-12-15T17:59:00.000-03:00'
 author: Francisco H C Felix

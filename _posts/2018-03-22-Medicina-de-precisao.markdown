@@ -1,5 +1,6 @@
 ---
 layout: post
+published: FALSE
 title:  "Medicina de precisão: quando o médico hackeia o paciente"
 date:   2018-03-22 12:00:00 -0300
 tags:

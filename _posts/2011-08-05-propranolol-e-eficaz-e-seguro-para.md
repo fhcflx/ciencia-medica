@@ -1,5 +1,6 @@
 ---
 layout: post
+published: FALSE
 title: Propranolol é eficaz e seguro para hemangiomas - provado por novo estudo
 date: '2011-08-05T19:34:00.001-03:00'
 author: Francisco H C Felix

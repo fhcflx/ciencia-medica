@@ -1,5 +1,6 @@
 ---
 layout: post
+published: FALSE
 title: Mais sobre propranolol no tratamento de hemangiomas
 date: '2009-10-17T11:41:00.002-03:00'
 author: Francisco H C Felix

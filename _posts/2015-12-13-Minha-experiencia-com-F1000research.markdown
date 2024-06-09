@@ -1,5 +1,6 @@
 ---
 layout: post
+published: FALSE
 title:  "Minha experiência com F1000research: pôsteres e slides"
 date:   2015-12-13 12:00:00 -0300
 tags:

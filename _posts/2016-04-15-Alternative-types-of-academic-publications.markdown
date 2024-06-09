@@ -1,5 +1,6 @@
 ---
 layout: post
+published: FALSE
 title:  "Modalidades alternativas de publicação acadêmica"
 date:   2016-04-15 12:00:00 -0300
 tags:
