@@ -37,8 +37,8 @@ jobs:
       - name: Deploy to GitHub Pages
         uses: JamesIves/github-pages-deploy-action@v4
         with:
-          ssh-key: ${{ secrets.DEPLOY_KEY }}
-          branch: gh-pages
-          folder: _site
-          clean: true
-          repository-name: ${{ github.repository }}
+          ACCESS_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Uses the standard GitHub token
+          BRANCH: gh-pages   # The branch to deploy to
+          FOLDER: _site      # The folder containing your built site
+          CLEAN: true       # Optional, cleans the destination branch
+          REPOSITORY: ${{ github.repository }}
