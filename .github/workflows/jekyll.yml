@@ -37,7 +37,7 @@ jobs:
       - name: Deploy to GitHub Pages
         uses: JamesIves/github-pages-deploy-action@v4
         with:
-          ACCESS_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Uses the standard GitHub token
+          TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Uses the standard GitHub token
           BRANCH: gh-pages   # The branch to deploy to
           FOLDER: _site      # The folder containing your built site
           CLEAN: true       # Optional, cleans the destination branch
