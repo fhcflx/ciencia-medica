@@ -1,6 +1,5 @@
 ---
 layout: post
-published: FALSE
 title: "Pacientes com tumor de Wilms com metástases pulmonares e resposta completa não precisam de RT"
 date: 2018-05-30 08:00:00 -0700
 lang: pt-br

@@ -1,6 +1,5 @@
 ---
 layout: post
-published: FALSE
 title:  "Humanização da consulta oncológica e evidência na pesquisa clínica"
 date:   2018-04-19 12:00:00 -0300
 tags:

@@ -1,6 +1,5 @@
 ---
 layout: post
-published: FALSE
 title: Novidades no tratamento de tumores cerebrais em crianças e adolescentes
 date: '2018-07-25T20:13:00.000-03:00'
 author: Francisco H C Felix

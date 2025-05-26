@@ -1,6 +1,5 @@
 ---
 layout: post
-published: FALSE
 title:  "O que são anomalias vasculares"
 date:   2017-04-10 12:00:00 -0300
 tags:

@@ -1,6 +1,5 @@
 ---
 layout: post
-published: FALSE
 title:  "O tumor cerebral voltou, e agora?"
 date:   2018-07-13 18:00:00 -0300
 lang: pt-br

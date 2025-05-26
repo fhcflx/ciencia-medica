@@ -1,6 +1,5 @@
 ---
 layout: post
-published: FALSE
 title:  "Terapia personalizada para pacientes com sarcomas"
 date:   2018-05-03 18:00:00 -0300
 tags:

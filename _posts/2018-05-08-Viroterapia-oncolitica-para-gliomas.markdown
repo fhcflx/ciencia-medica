@@ -1,6 +1,5 @@
 ---
 layout: post
-published: FALSE
 title:  "Viroterapia oncolítica para gliomas malignos"
 date:   2018-05-08 12:00:00 -0300
 lang: pt-br

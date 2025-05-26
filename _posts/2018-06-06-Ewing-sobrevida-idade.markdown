@@ -1,6 +1,5 @@
 ---
 layout: post
-published: FALSE
 title: "Idade dos pacientes prediz a apresentação, metástases e sobrevida dos pacientes com Sarcoma de Ewing"
 date: 2018-06-06 08:00:00 -0700
 lang: pt-br

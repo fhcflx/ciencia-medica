@@ -1,6 +1,5 @@
 ---
 layout: post
-published: FALSE
 title:  "Terapia laser ajuda crianças com câncer"
 date:   2018-05-09 12:00:00 -0300
 lang: pt-br

@@ -1,6 +1,5 @@
 ---
 layout: post
-published: FALSE
 title: Perfil dos sobreviventes de tumores difusos de tronco cerebral
 date: '2018-07-01T22:03:00.000-03:00'
 author: Francisco H C Felix

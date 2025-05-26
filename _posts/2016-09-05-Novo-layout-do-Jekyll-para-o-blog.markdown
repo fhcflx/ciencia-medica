@@ -1,6 +1,5 @@
 ---
 layout: post
-published: FALSE
 title:  "Novo layout do Jekyll para o blog"
 date:   2016-09-05 12:00:00 -0300
 tags:

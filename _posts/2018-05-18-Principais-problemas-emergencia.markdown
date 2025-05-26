@@ -1,6 +1,5 @@
 ---
 layout: post
-published: FALSE
 title: "Principais problemas que levam crianças com câncer à emergência"
 date: 2018-05-18 08:00:00 -0700
 lang: pt-br

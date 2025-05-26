@@ -1,6 +1,5 @@
 ---
 layout: post
-published: FALSE
 title: "Os principais sintomas neurológicos em crianças com câncer cerebral"
 date:   2018-05-15 12:00:00 -0300
 lang: pt-br

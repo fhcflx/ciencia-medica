@@ -1,6 +1,5 @@
 ---
 layout: post
-published: FALSE
 title:  "O perigo da dexametasona para pacientes com tumores cerebrais"
 date:   2018-04-30 18:00:00 -0300
 tags:

@@ -1,6 +1,5 @@
 ---
 layout: post
-published: FALSE
 title:  "Dasatinibe em crianças e adolescentes com leucemia mielóide crônica"
 date:   2018-05-01 12:00:00 -0300
 tags:

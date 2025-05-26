@@ -1,6 +1,5 @@
 ---
 layout: post
-published: FALSE
 title:  "Medicina quântica: a farsa"
 date:   2017-08-14 12:00:00 -0300
 tags:

@@ -1,6 +1,5 @@
 ---
 layout: post
-published: FALSE
 title:  "Possível efeito de drogas cardiovasculares na sobrevida de pacientes com glioblastoma"
 date:   2018-05-04 12:00:00 -0300
 tags:

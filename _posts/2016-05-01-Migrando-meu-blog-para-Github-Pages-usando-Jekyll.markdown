@@ -1,6 +1,5 @@
 ---
 layout: post
-published: FALSE
 title:  "Migrando meu blog para Github Pages usando Jekyll"
 date:   2016-05-01 12:00:00 -0300
 tags:

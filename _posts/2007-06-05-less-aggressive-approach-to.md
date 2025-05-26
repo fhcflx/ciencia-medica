@@ -13,6 +13,7 @@ blogger_orig_url: 'https://pharmak.blogspot.com/2007/06/less-aggressive-approach
 
 In infants and children with intermediate risk neuroblastoma, a reduced-intensity chemotherapy regimen yields survival
 rates comparable to or better than a more aggressive regimen typically used in this patient population, researchers report.
+  <!--more-->
 
 In a study of 467 neuroblastoma patients, 192 received 4 cycles of chemotherapy in 64 days (the less intense arm) and 275
 received 8 cycles in 168 days (the standard arm), following surgery. Chemotherapy consisted of 2 to 3 drug combinations of

@@ -1,6 +1,5 @@
 ---
 layout: post
-published: FALSE
 title: "Propranolol reduz o risco de recorrência em pacientes com melanoma"
 date: 2018-02-10 08:00:00 -0700
 tags:

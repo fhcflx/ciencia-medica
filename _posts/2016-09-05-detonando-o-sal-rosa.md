@@ -1,6 +1,5 @@
 ---
 layout: post
-published: FALSE
 title: "Detonando o sal rosa do Himalaia"
 date: 2016-09-05 08:00:00 -0700
 tags:

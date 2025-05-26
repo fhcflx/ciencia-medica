@@ -1,6 +1,5 @@
 ---
 layout: post
-published: FALSE
 title: "Descobrindo o câncer de esôfago através do hálito"
 date: 2018-05-17 08:00:00 -0700
 lang: pt-br

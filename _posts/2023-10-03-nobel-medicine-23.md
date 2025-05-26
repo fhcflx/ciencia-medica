@@ -3,11 +3,11 @@ layout: post
 title: '2023 Nobel Prize in Physiology or Medicine: The mRNA Revolution with Karikó and Weissman'
 date: '2023-10-03T20:22:00.000-03:00'
 author: ffelix
-# tags:
-# - Physiology or Medicine
-# - Nobel Prize
-# - mRNA Vaccine
-# - COVID-19
+tags:
+- Physiology or Medicine
+- Nobel Prize
+- mRNA Vaccine
+- COVID-19
 lang: en-us
 ref: nobel23
 ---

@@ -1,6 +1,5 @@
 ---
 layout: post
-published: FALSE
 title: Chikungunya, Zika e as arboviroses
 date: '2017-12-10T20:22:00.000-03:00'
 author: Francisco H C Felix

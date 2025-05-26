@@ -1,6 +1,5 @@
 ---
 layout: post
-published: FALSE
 title: O Tratamento de Hemangiomas no Passado e no Presente
 date: '2018-07-19T22:03:00.000-03:00'
 author: Francisco H C Felix
