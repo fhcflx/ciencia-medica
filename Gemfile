@@ -1,8 +1,9 @@
 source 'https://rubygems.org'
-group :jekyl_plugins do
-    gem "github-pages"
-    gem "jekyll-seo-tag"
+group :jekyll_plugins do
+    gem "github-pages", group: :jekyll_plugins
+#    gem "jekyll-seo-tag"
     gem 'jekyll-import'
-    gem 'jekyll-sitemap'
+#    gem 'jekyll-sitemap'
     gem 'csv'
+    gem 'html-proofer'
 end
