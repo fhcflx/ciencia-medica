@@ -1,6 +1,5 @@
 ---
 layout: post
-published: FALSE
 title: 'Prêmio Nobel de Fisiologia ou Medicina 2022: Desvendando os Segredos da Evolução Humana'
 date: '2022-10-03T20:22:00.000-03:00'
 author: ffelix

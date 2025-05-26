@@ -1,6 +1,5 @@
 ---
 layout: post
-published: FALSE
 title: 'Prêmio Nobel de Fisiologia ou Medicina 2021: Desvendando os Segredos do Tato e da Temperatura'
 date: '2021-10-04T20:22:00.000-03:00'
 author: ffelix
