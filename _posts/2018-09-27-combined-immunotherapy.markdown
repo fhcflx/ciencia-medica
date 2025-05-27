@@ -6,7 +6,7 @@ tags:
   - Cancer
   - Immunotherapy 
 author: ffelix
-lang: en
+lang: en-us
 ref: imunoter
 ---
 Researchers at the MD Anderson Cancer Center have published the results of a Phase II trial in the Journal of the American Medical Association (JAMA) Oncology, showing that combined treatment with nivolumabe and ISA101 (a papillomavirus 16 vaccine) has effect in patients with advanced disease.

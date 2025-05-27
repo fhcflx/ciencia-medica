@@ -2,6 +2,6 @@
 layout: tagpage
 title: Cancer
 tag: Cancer
-lang: en
+lang: en-us
 ref: cancer
 ---

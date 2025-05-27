@@ -2,6 +2,6 @@
 layout: tagpage
 title: Vascular anomalies
 tag: Vascular anomalies
-lang: en
+lang: en-us
 ref: vasc
 ---

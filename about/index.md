@@ -1,7 +1,7 @@
 ---
 layout: full-width
 title: About
-lang: en
+lang: en-us
 ref: about
 ---
 
