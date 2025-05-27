@@ -54,7 +54,7 @@ PASSO 3: Listar os posts por tag, filtrando pelo idioma da página.
               <a href="{{ post_item.url | prepend: site.baseurl }}">{{ post_item.title }}</a>
             </span>
             <span style="float: right;">
-              {{ post_item.date | date:"%m/%d/%Y" }} {# Formato de data para inglês #}
+              {{ post_item.date | date:"%m/%d/%Y" }} 
             </span>
           </div>
           <div style="clear: both;"></div>

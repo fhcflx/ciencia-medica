@@ -20,10 +20,10 @@
       {% endif %}
     {% endfor %}
 
-    {% if count > 0 %} {# Remova o > 9 se quiser listar todas as tags que têm pelo menos 1 post no idioma. #}
+    {% if count > 0 %}
     <li>
       <a href="#{{ tag_name_normalizada | cgi_escape }}" class="tag">
-        {{ tag_name_normalizada | capitalize }} {# Exibe a tag com a primeira letra maiúscula para consistência #}
+        {{ tag_name_normalizada | capitalize }} 
         <span>({{ count }})</span>
       </a>
     </li>

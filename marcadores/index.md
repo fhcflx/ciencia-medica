@@ -12,14 +12,14 @@ PASSO 1: Coletar todas as tags que aparecem em posts DO IDIOMA DESTA PÁGINA.
 {% for post in site.posts %}
   {% if post.lang == page.lang %}
     {% for tag in post.tags %}
-      {% assign downcased_tag = tag | downcase %} {# Normalizar para minúsculas para evitar duplicatas de case #}
+      {% assign downcased_tag = tag | downcase %} 
       {% unless tags_do_idioma_atual contains downcased_tag %}
         {% assign tags_do_idioma_atual = tags_do_idioma_atual | push: downcased_tag %}
       {% endunless %}
     {% endfor %}
   {% endif %}
 {% endfor %}
-{% assign tag_words = tags_do_idioma_atual | sort_natural %} {# tag_words agora contém apenas tags do idioma atual, em minúsculas e ordenadas #}
+{% assign tag_words = tags_do_idioma_atual | sort_natural %} 
 
 {% comment %}
 PASSO 2: Incluir o taglist.html. Ele usará o novo tag_words.
@@ -63,8 +63,8 @@ PASSO 3: Listar os posts por tag, filtrando pelo idioma da página.
     {% assign posts_nesta_tag_e_idioma = count_alt %}
 
 
-    {% if posts_nesta_tag_e_idioma > 0 %} {# Só mostra a seção da tag se houver posts NELA E NESTE IDIOMA. Remova o > 5 ou > 9 para mostrar todas. #}
-      <h2 id="{{ tag_name_normalizada | cgi_escape }}">{{ tag_name_normalizada | capitalize }}</h2> {# Usar a tag normalizada #}
+    {% if posts_nesta_tag_e_idioma > 0 %} 
+      <h2 id="{{ tag_name_normalizada | cgi_escape }}">{{ tag_name_normalizada | capitalize }}</h2> 
       {% for post_item in posts_para_exibir %}
         {% if post_item.title != null %}
           <div>
