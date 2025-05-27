@@ -1,6 +1,5 @@
 ---
 layout: post
-published: FALSE
 title: Prêmio Nobel de Fisiologia ou Medicina 2013
 date: '2013-10-20T20:22:00.000-03:00'
 author: Francisco H C Felix
@@ -8,7 +7,7 @@ tags:
 - Fisiologia ou Medicina
 - Nobel
 lang: pt-br
-ref:
+ref: nobel-13
 ---
 
 O Prêmio Nobel de Fisiologia ou Medicina de 2013

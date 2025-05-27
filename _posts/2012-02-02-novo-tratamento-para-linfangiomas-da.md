@@ -1,6 +1,5 @@
 ---
 layout: post
-published: FALSE
 title: Possível tratamento para linfangiomas da infância
 date: '2012-02-02T00:43:00.000-03:00'
 author: Francisco H C Felix
@@ -9,7 +8,7 @@ tags:
 - Linfangiomas
 - Anomalias vasculares
 lang: pt-br
-ref:
+ref: linfangiomas
 modified_time: '2015-12-13T13:23:51.371-03:00'
 blogger_id: tag:blogger.com,1999:blog-2993346515708552092.post-1056883543385702748
 blogger_orig_url: https://pharmak.blogspot.com/2012/02/novo-tratamento-para-linfangiomas-da.html

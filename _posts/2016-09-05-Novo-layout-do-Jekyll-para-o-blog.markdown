@@ -8,7 +8,7 @@ tags:
   - Bundler
 author: ffelix
 lang: pt-br
-ref:
+ref: blog-jekyll
 ---
 
 Depois de migrar meu blog para o [GitHub Pages](https://pages.github.com){% include github_pages.html %}, usando [Jekyll](https://jekyllrb.com), resolvi alterar o layout da página. Busquei temas para Jekyll, encontrando uma [lista](https://jekyllthemes.org) grande. Depois de muita indecisão, escolhi o tema [Tufte-Jekyll](https://jekyllthemes.org/themes/tufte-jekyll/), de Clay Harmon, baseado no [CSS](https://github.com/edwardtufte/tufte-css) criado por Dave Liepmann e Edward Tufte{% include tufte.html %}.

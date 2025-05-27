@@ -6,7 +6,7 @@ tags:
   - Charlatanismo
 author: ffelix
 lang: pt-br
-ref:
+ref: salrosa
 ---
 
 Existe uma intrigante crença de que a origem de uma substância muda suas propriedades químicas, físicas ou medicinais (supostamente). Sempre tive problemas com exclamações do tipo: "é natural, é bom". Afinal, veneno de jararaca, folha de Comigo-ninguém-pode e urânio são naturais - e não fazem bem à saúde!

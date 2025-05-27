@@ -1,6 +1,5 @@
 ---
 layout: post
-published: FALSE
 title: 'Fosfoetanolamina: o que é real?'
 date: '2015-12-17T12:01:00.001-03:00'
 author: Francisco H C Felix
@@ -12,7 +11,7 @@ modified_time: '2015-12-17T12:01:32.329-03:00'
 blogger_id: tag:blogger.com,1999:blog-2993346515708552092.post-6679960266040497065
 permalink: /fosfoetanolamina/
 lang: pt-br
-ref:
+ref: fosfoetanolamina
 ---
 
 Não é preciso apresentar a fosfoetanolamina, uma substância cujo nome vem sendo tão divulgado quanto pouco compreendido. Recentemente, uma polêmica acendeu-se a respeito do possível efeito anticâncer da fosfoetanolamina. Mas, afinal, o que é esta substância?

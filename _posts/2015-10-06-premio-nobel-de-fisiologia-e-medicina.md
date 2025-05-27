@@ -1,6 +1,5 @@
 ---
 layout: post
-published: FALSE
 title: Prêmio Nobel de Fisiologia ou Medicina 2015
 date: '2015-10-06T20:22:00.000-03:00'
 author: Francisco H C Felix
@@ -8,7 +7,7 @@ tags:
 - Fisiologia ou Medicina
 - Nobel
 lang: pt-br
-ref:
+ref: nobel-15
 modified_time: '2015-12-07T20:26:36.143-03:00'
 blogger_id: tag:blogger.com,1999:blog-2993346515708552092.post-5871814733024746877
 blogger_orig_url: https://pharmak.blogspot.com/2015/10/premio-nobel-de-fisiologia-e-medicina.html

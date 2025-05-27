@@ -7,7 +7,7 @@ tags:
 - Arboviroses
 - Epidemias
 lang: pt-br
-ref:
+ref: arboviroses
 ---
 No século XX, o mundo viu surgirem grandes epidemias de arbovírus. Dengue, Zika, Chikungunya, O'nyong-nyong, e vários outros menos conhecidos começaram a tomar as manchetes de notícias do planeta com chamadas alarmantes. Mas afinal, o que são estes arbovírus?
 <!--more-->

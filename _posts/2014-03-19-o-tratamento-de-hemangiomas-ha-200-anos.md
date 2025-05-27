@@ -1,6 +1,5 @@
 ---
 layout: post
-published: FALSE
 title: O Tratamento de Hemangiomas Há 200 Anos Atrás
 date: '2014-03-19T22:03:00.000-03:00'
 author: Francisco H C Felix
@@ -9,7 +8,7 @@ tags:
 - Hemangioma
 - Anomalias vasculares
 lang: pt-br
-ref:
+ref: hemangiomas-200
 modified_time: '2015-12-07T22:20:06.976-03:00'
 thumbnail: https://4.bp.blogspot.com/-OsJc9f__W2s/UynC-rNiobI/AAAAAAAAZ_Q/7AAE-94urB8/s72-c/Captura+de+Tela+2014-03-19+a%CC%80s+11.13.04.png
 blogger_id: tag:blogger.com,1999:blog-2993346515708552092.post-2586473522897428400

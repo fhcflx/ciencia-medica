@@ -9,7 +9,7 @@ tags:
 - Propranolol
 - Hemangioma
 lang: pt-br
-ref:
+ref: propranolol-hemangioma
 modified_time: '2011-09-18T12:29:09.793-03:00'
 blogger_id: tag:blogger.com,1999:blog-2993346515708552092.post-872567013934911749
 blogger_orig_url: https://pharmak.blogspot.com/2011/08/propranolol-e-eficaz-e-seguro-para.html

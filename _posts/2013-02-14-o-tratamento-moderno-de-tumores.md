@@ -1,6 +1,5 @@
 ---
 layout: post
-published: FALSE
 title: O tratamento moderno de tumores cerebrais em crianças
 date: '2013-02-14T20:13:00.000-03:00'
 author: Francisco H C Felix
@@ -8,7 +7,7 @@ tags:
 - Neuro-oncologia
 - Câncer
 lang: pt-br
-ref:
+ref: tumores-cer-inf
 modified_time: '2013-02-14T20:17:02.684-03:00'
 thumbnail: https://2.bp.blogspot.com/-Ajg5_IzHEH8/UR1np9MvDII/AAAAAAAAQlg/pimvLNYMglU/s72-c/n-o.png
 blogger_id: tag:blogger.com,1999:blog-2993346515708552092.post-1206931626742154643

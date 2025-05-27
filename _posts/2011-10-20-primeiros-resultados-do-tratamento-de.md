@@ -9,7 +9,7 @@ tags:
 - Hemangioma
 - Anomalias vasculares
 lang: pt-br
-ref:
+ref: propranolol-ceara
 modified_time: '2015-12-07T22:41:40.646-03:00'
 thumbnail: https://4.bp.blogspot.com/-GpMyDbYtnJY/TqBG9DdmzCI/AAAAAAAABp8/DbHhq4u8YS4/s72-c/Grafico_hemangio.png
 blogger_id: tag:blogger.com,1999:blog-2993346515708552092.post-1721422458777912482

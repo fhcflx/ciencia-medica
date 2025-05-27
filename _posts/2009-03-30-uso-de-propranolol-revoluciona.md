@@ -10,6 +10,7 @@ tags:
 - Pediatria
 - Anomalias vasculares
 lang: pt-br
+ref: propranolol-rev
 modified_time: '2011-03-18T21:31:11.738-03:00'
 blogger_id: tag:blogger.com,1999:blog-2993346515708552092.post-8711460085162191258
 blogger_orig_url: https://pharmak.blogspot.com/2009/03/uso-de-propranolol-revoluciona.html

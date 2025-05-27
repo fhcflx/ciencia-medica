@@ -1,6 +1,5 @@
 ---
 layout: post
-published: FALSE
 title: 'Sildenafila para linfangiomas infantis: a promessa não cumprida'
 date: '2015-12-13T13:24:00.002-03:00'
 author: Francisco H C Felix
@@ -9,7 +8,7 @@ tags:
 - Linfangioma
 - Anomalias vasculares
 lang: pt-br
-ref:
+ref: linfangiomas-sil
 modified_time: '2015-12-17T17:50:34.821-03:00'
 blogger_id: tag:blogger.com,1999:blog-2993346515708552092.post-2956862652730329693
 blogger_orig_url: https://pharmak.blogspot.com/2015/12/sildenafil-para-linfangiomas-infantis.html

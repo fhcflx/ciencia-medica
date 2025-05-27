@@ -7,7 +7,7 @@ tags:
 - Fisiologia ou Medicina
 - Nobel
 lang: pt-br
-ref:
+ref: nobel-16
 ---
 
 O Prêmio Nobel de Fisiologia ou Medicina de 2016

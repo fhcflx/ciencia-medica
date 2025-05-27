@@ -1,6 +1,5 @@
 ---
 layout: post
-published: FALSE
 title: Tratamento de hemangiomas no Hospital Infantil Albert Sabin
 date: '2011-09-20T22:19:00.000-03:00'
 author: Francisco H C Felix
@@ -9,7 +8,7 @@ tags:
 - Hemangioma
 - Anomalias vasculares
 lang: pt-br
-ref:
+ref: propranolol-hias
 modified_time: '2011-09-20T22:21:24.923-03:00'
 blogger_id: tag:blogger.com,1999:blog-2993346515708552092.post-8176749146337187314
 blogger_orig_url: https://pharmak.blogspot.com/2011/09/tratamento-de-hemangiomas-no-hospital.html

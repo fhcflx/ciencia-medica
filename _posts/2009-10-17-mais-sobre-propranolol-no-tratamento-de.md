@@ -1,6 +1,5 @@
 ---
 layout: post
-published: FALSE
 title: Mais sobre propranolol no tratamento de hemangiomas
 date: '2009-10-17T11:41:00.002-03:00'
 author: Francisco H C Felix
@@ -10,6 +9,8 @@ tags:
 - Farmacologia clínica
 - Hemangioma
 - Anomalias vasculares
+lang: pt-br
+ref: propranolol-mais
 modified_time: '2011-03-18T21:31:11.721-03:00'
 blogger_id: tag:blogger.com,1999:blog-2993346515708552092.post-1254268664437919952
 blogger_orig_url: https://pharmak.blogspot.com/2009/10/mais-sobre-propranolol-no-tratamento-de.html
