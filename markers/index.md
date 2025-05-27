@@ -5,8 +5,9 @@ lang: en-us
 ref: tags # Mesma referência para o seletor de idioma
 ---
 
-<!-- PASSO 1: Coletar todas as tags que aparecem em posts DO IDIOMA DESTA PÁGINA. -->
-
+{% comment %}
+PASSO 1: Coletar todas as tags que aparecem em posts DO IDIOMA DESTA PÁGINA.
+{% endcomment %}
 {% assign tags_do_idioma_atual = "" | split: "," %}
 {% for post in site.posts %}
   {% if post.lang == page.lang %}
@@ -22,9 +23,10 @@ ref: tags # Mesma referência para o seletor de idioma
 
 {% include taglist.html %}
 
-<!-- PASSO 3: Listar os posts por tag, filtrando pelo idioma da página.
-(Use a versão melhorada do loop como em marcadores/index.md) -->
-
+{% comment %}
+PASSO 3: Listar os posts por tag, filtrando pelo idioma da página.
+(Use a versão melhorada do loop como em marcadores/index.md)
+{% endcomment %}
 <div style="max-width: 1200px;">
   {% for tag_name_normalizada in tag_words %}
     {% assign posts_para_exibir = "" | split: "," %}
