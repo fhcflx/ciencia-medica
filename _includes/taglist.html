@@ -1,29 +1,29 @@
 <div>
 <ul style="max-width: 1200px; font-size: 80%" class="tags">
   {% comment %}
-  tag_words já vem filtrado por idioma e normalizado (lowercase) do arquivo pai.
+  # tag_words já vem filtrado por idioma e normalizado (lowercase) do arquivo pai.
   {% endcomment %}
   {% for tag_name_normalizada in tag_words %}
     {% assign count = 0 %}
     {% comment %}
-    Precisamos recontar quantos posts *neste idioma* têm essa tag.
-    Iteramos sobre todos os posts e verificamos o idioma e se a tag (normalizada) está presente.
+    # Precisamos recontar quantos posts *neste idioma* têm essa tag.
+    # Iteramos sobre todos os posts e verificamos o idioma e se a tag (normalizada) está presente.
     {% endcomment %}
     {% for post in site.posts %}
       {% if post.lang == page.lang %}
         {% for t in post.tags %}
           {% if t | downcase == tag_name_normalizada %}
             {% assign count = count | plus: 1 %}
-            {% break %} {# Pára de verificar tags neste post assim que encontrar a correspondência #}
+            {% break %} # Pára de verificar tags neste post assim que encontrar a correspondência 
           {% endif %}
         {% endfor %}
       {% endif %}
     {% endfor %}
 
-    {% if count > 0 %} {# Remova o > 9 se quiser listar todas as tags que têm pelo menos 1 post no idioma. #}
+    {% if count > 0 %} # Remova o > 9 se quiser listar todas as tags que têm pelo menos 1 post no idioma. 
     <li>
       <a href="#{{ tag_name_normalizada | cgi_escape }}" class="tag">
-        {{ tag_name_normalizada | capitalize }} {# Exibe a tag com a primeira letra maiúscula para consistência #}
+        {{ tag_name_normalizada | capitalize }} # Exibe a tag com a primeira letra maiúscula para consistência
         <span>({{ count }})</span>
       </a>
     </li>
