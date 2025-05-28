@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="https://www.w3.org/2005/Atom">
   <channel>
-    <title>{&quot;en-us&quot;=&gt;&quot;Medical Science&quot;, &quot;pt-br&quot;=&gt;&quot;Ciência médica&quot;}</title>
+    <title>Ciência médica</title>
     <description>Blog sobre ciência médica, pesquisa científica, oncologia pediátrica, farmacologia e outras ciências da saúde afins. Continuação do blog publicado em https://pharmakon.blogspot.com
 </description>
     <link>https://fhcflx.github.io/ciencia-medica/</link>
     <atom:link href="https://fhcflx.github.io/ciencia-medica/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 27 May 2025 12:07:19 -0300</pubDate>
-    <lastBuildDate>Tue, 27 May 2025 12:07:19 -0300</lastBuildDate>
+    <pubDate>Tue, 27 May 2025 21:26:12 -0300</pubDate>
+    <lastBuildDate>Tue, 27 May 2025 21:26:12 -0300</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
     
       <item>
