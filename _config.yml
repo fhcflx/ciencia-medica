@@ -6,7 +6,9 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: 
+title: Ciência médica
+titles:
+  # Títulos para cada idioma, usados em menus e títulos de páginas
   en-us: Medical Science
   pt-br: Ciência médica
 index: # Nome dos arquivos de índice para cada idioma
