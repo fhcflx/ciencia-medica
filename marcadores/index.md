@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Tags
+title: Marcadores
 lang: pt-br
 ref: tags
 ---

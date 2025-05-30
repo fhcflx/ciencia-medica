@@ -2,11 +2,18 @@
 <ul style="max-width: 1200px; font-size: 80%" class="tags">
   {% for item in (0..site.tags.size) %}{% unless forloop.last %}
     {% capture this_word %}{{ tag_words[item] }}{% endcapture %}
-    {% if site.tags[this_word].size>9 %}<li>
-      <a href="#{{ this_word | cgi_escape }}" class="tag">{{ this_word }}
-        <span>({{ site.tags[this_word].size }})</span>
-      </a>
-    </li>{% endif %}
+    {% assign count = 0 %}
+    {% for post in site.tags[this_word] %}
+      {% if post.lang == page.lang %}
+        {% assign count = count | plus: 1 %}
+      {% endif %}
+    {% endfor %}
+    {% if count > 0 %}
+      <li>
+        <a href="#{{ this_word | cgi_escape }}" class="tag">{{ this_word }}
+          <span>({{ count }})</span>
+        </a>
+      </li>
+    {% endif %}
   {% endunless %}{% endfor %}
-</ul>
-</div>
+</ul></div>
