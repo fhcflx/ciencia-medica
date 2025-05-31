@@ -52,7 +52,7 @@ defaults:
     type: pages
    values:
     permalink: /:path/:basename:output_ext
-min_posts_per_tag: 5
+min_posts_per_tag: 2
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
