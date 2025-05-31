@@ -20,7 +20,7 @@ ref: tags
         {% assign count = count | plus: 1 %}
       {% endif %}
     {% endfor %}
-    {% if count > 5 %}
+    {% if count > 4 %}
       <h2 id="{{ this_word | cgi_escape }}">{{ this_word }}</h2>
       {% for post in site.tags[this_word] %}
         {% if post.lang == page.lang and post.title != null %}
