@@ -40,8 +40,6 @@ exclude:
   - UploadToGithub.Rakefile
   - README.md
   - vendor
-#exclude: ['Gemfile', 'Gemfile.lock', 'Rakefile', 'UploadToGithub.Rakefile', 'README.md', vendor]
-#exclude: [vendor]
 post:
   template: _post.txt
   extension: md
@@ -54,7 +52,7 @@ defaults:
     type: pages
    values:
     permalink: /:path/:basename:output_ext
-
+min_posts_per_tag: 5
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap

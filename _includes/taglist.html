@@ -8,7 +8,7 @@
         {% assign count = count | plus: 1 %}
       {% endif %}
     {% endfor %}
-    {% if count > 4 %}
+    {% if count > site.min_posts_per_tag %}
       <li>
         <a href="#{{ this_word | cgi_escape }}" class="tag">{{ this_word }}
           <span>({{ count }})</span>
