@@ -10,7 +10,7 @@ lang: pt-br
 ref: quantica
 ---
 
-Que me perdoem os crédulos, mas um mínimo de bom senso é fundamental. Para começo de conversa, declaro logo que não defenderei nenhum conceito que use a palavra "quântico(a)" diferente da física. Então, se você é uma pessoa que "acredita" em qualquer coisa quântica, pode ignorar essa postagem. Porém, se você não tem "opinião" formada sobre o assunto ou apenas é curioso e quer alguma informação coerente, pode continuar, prometo que não se decepcionará.
+Que me perdoem os crédulos, mas um mínimo de bom senso é fundamental. Para começo de conversa, declaro logo que não defenderei nenhum conceito que use a palavra "quântico(a)" diferente da física. Então, se você é uma pessoa que "acredita" em qualquer coisa quântica, pode ignorar essa postagem. Porém, se você não tem "opinião" formada sobre o assunto ou apenas é curioso e quer alguma informação coerente, pode continuar, prometo que não se decepcionará {% include urgencia-ciencia.html %}.
 <!--more-->
 
 Vamos começar com uma separação importante: a diferença entre uma observação e uma opinião. Algumas pessoas declaram que "ciência não é opinião" ou "ninguém pode escolher se acredita ou não em ciência" e eu confesso que, dito dessa forma, parecem afirmações bastante autoritárias. Mas é bastante fácil clarificar esse e outros mal-entendidos se simplificarmos a questão entre dois conceitos bem (aparentemente) óbvios: observação e opinião, e a diferença entre eles. Nos dois conceitos, temos um denominador comum: o _sujeito_. Alguém observa, alguém opina. Também temos, nas duas situações, um outro elemento comum: um _objeto_. Alguém observa _algo_, alguém opina _sobre algo_ {% include obs-vs-op.html %}. 
@@ -29,7 +29,7 @@ Em resumo, como a ciência é um _método de observar o mundo_, ela acumula info
 
 Dessa forma, quando se diz que _ninguém pode ter uma opinião sobre a ciência_, na verdade leia-se que _é ilógico tecer opiniões sobre observações realizadas com o método científico_. Todavia, torna-se perfeitamente lógico discutir opiniões sobre _o que fazer com o conhecimento_. Por exemplo, os moradores da vizinhança do rio poderiam discutir a importância de construir uma ponte para permitir a travessia com segurança. Seria uma atitude lógica e produtiva. Evitaria perdas de vidas.
 
-Se um místico, porém, chegasse ensinando que os cientistas são materialistas autoritários e que bastava o pensamento positivo para que o universo conspirasse para as pessoas caminharem sobre a água, isso provavelmente levaria a um aumento recorde de afogamentos. A realidade não muda com as opiniões. _O que nós fazemos com a realidade que temos muda {% include cienc-real-op.html %}._
+Se um místico, porém, chegasse ensinando que os cientistas são materialistas autoritários e que bastava o pensamento positivo para que o universo conspirasse para as pessoas caminharem sobre a água, isso provavelmente levaria a um aumento recorde de afogamentos. A realidade não muda com as opiniões. _O que nós fazemos com a realidade que temos muda_ {% include cienc-real-op.html %}.
 
 Compreendendo isto, podemos falar sobre a _Física quântica_. Ela é uma _teoria científica_, ou seja, uma forma de organizar o conhecimento científico adquirido através de observações e fazer previsões sobre o que talvez encontremos no futuro. Teorias científicas envolvem o uso de conhecimento científico para fazer previsões testáveis. Essas previsões vão confirmar a teoria ou não. Neste último caso, refutando-se parte ou toda uma teoria, esta teoria deve ser atualizada, adaptada às observações. A partir daí, com a nova teoria atualizada, mais previsões são feitas. E assim repete-se o ciclo. As teorias científicas fazem parte do _método científico_. São _ferramentas_ para acumular cada vez mais conhecimento {% include teoria.html %}.
 
@@ -69,4 +69,4 @@ Qualquer pessoa pode entender que uma pilha de tijolos e uma pilha de grãos de 
 
 Não é preciso esmiuçar as alegativas de quem quer que sejam os defensores da "medicina quântica" ou "cura quântica". Acreditar que leis que regem o comportamento de prótons e nêutrons e forças como o eletromagnetismo possam ser aplicadas ao mecanismo da saúde e da doença em nossos organismos é, no mínimo, erro grosseiro. Na maioria dos casos, trata-se também de exploração da boa fé e da falta de entendimento das pessoas. Medicina quântica é simplesmente uma farsa. Não caia nessa.
 
-P.S.: texto acrescentado em 2025 nas notas laterais {% include urgencia-ciencia.html %}.
+P.S.: texto acrescentado em 2025 nas notas laterais.
