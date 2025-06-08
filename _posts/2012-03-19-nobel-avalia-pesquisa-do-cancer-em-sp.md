@@ -11,6 +11,7 @@ ref: nobel-12
 ---
 
 A criação de um conselho internacional para avaliar a pesquisa do Hospital A.C. Camargo, em São Paulo, marcou um avanço inédito para a ciência brasileira. Composto por nomes de destaque mundial, incluindo o Nobel Harald zur Hausen e Curtis Harris (Instituto Nacional do Câncer dos EUA), o grupo analisou projetos, infraestrutura e formação de pesquisadores, promovendo um intercâmbio de experiências e padrões globais.
+  <!--more-->
 
 A iniciativa, idealizada por Ricardo Brentani, reflete a busca por excelência e transparência na produção científica nacional. O hospital, responsável por grande parte da pesquisa oncológica do país, se destacou por investir em genética de tumores hereditários e aconselhamento genético precoce, áreas de impacto direto no diagnóstico e tratamento do câncer.
 

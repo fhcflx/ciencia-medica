@@ -14,6 +14,7 @@ blogger_orig_url: https://pharmak.blogspot.com/2015/10/premio-nobel-de-fisiologi
 ---
 
 O Prêmio Nobel de Fisiologia ou Medicina de 2015 destacou avanços revolucionários no combate a doenças parasitárias, reconhecendo três cientistas cujas descobertas transformaram a saúde global. William C. Campbell e Satoshi Ōmura foram responsáveis pelo desenvolvimento da avermectina, uma molécula derivada de bactérias do solo, que deu origem à ivermectina. Essa classe de medicamentos permitiu o controle de doenças como oncocercose e filariose, impactando milhões de pessoas em regiões endêmicas.
+  <!--more-->
 
 Youyou Tu, por sua vez, isolou a artemisinina a partir da planta _Artemisia annua_, revolucionando o tratamento da malária, especialmente em casos resistentes a outras drogas. Sua abordagem inovadora combinou conhecimento tradicional chinês e métodos científicos modernos, resultando em uma nova geração de antimaláricos.
 

@@ -12,7 +12,7 @@ lang: en-us
 ref: nobel23
 ---
 
-The 2023 Nobel Prize in Physiology or Medicine was awarded to **Katalin Karikó** and **Drew Weissman**, for their groundbreaking discoveries that led to the development of mRNA vaccines against COVID-19. 
+The 2023 Nobel Prize in Physiology or Medicine was awarded to **Katalin Karikó** and **Drew Weissman**, for their groundbreaking discoveries that led to the development of mRNA vaccines against COVID-19.
   <!--more-->
 
 Karikó and Weissman, working independently but with a common goal, dedicated their careers to unraveling the potential of messenger RNA (mRNA) as a tool for human health. mRNA, the molecule that carries the genetic instructions for protein production, was seen as a promising pathway for developing new therapies, but it faced significant obstacles.
@@ -25,4 +25,4 @@ The collaboration between Karikó and Weissman proved crucial in validating and 
 
 Karikó and Weissman's discoveries are not limited to the pandemic. mRNA technology has become one of the most promising areas of medical research, with the potential to treat a variety of diseases, including cancer, rare diseases, and infectious diseases.
 
-The 2023 Nobel Prize recognizes the profound influence of Karikó and Weissman's work, which has transformed modern medicine and opened doors to a future of innovation and hope in the field of health. 
+The 2023 Nobel Prize recognizes the profound influence of Karikó and Weissman's work, which has transformed modern medicine and opened doors to a future of innovation and hope in the field of health.

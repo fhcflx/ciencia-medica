@@ -11,6 +11,7 @@ ref: nobel-12
 ---
 
 The creation of an international advisory board to evaluate research at A.C. Camargo Hospital in São Paulo marked a milestone for Brazilian science. Composed of world-renowned experts, including Nobel laureate Harald zur Hausen and Curtis Harris (U.S. National Cancer Institute), the group reviewed projects, infrastructure, and researcher training, fostering an exchange of global standards and experiences.
+  <!--more-->
 
 The initiative, conceived by Ricardo Brentani, reflects a pursuit of excellence and transparency in national scientific production. The hospital, responsible for a significant share of Brazil's oncology research, stands out for its investment in hereditary tumor genetics and early genetic counseling, areas with direct impact on cancer diagnosis and treatment.
 
