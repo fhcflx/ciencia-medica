@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Prêmio Nobel de Fisiologia ou Medicina 2017 - pesquisa inútil?
+title: Prêmio Nobel de Fisiologia ou Medicina 2017 – O valor da pesquisa básica e o ciclo circadiano
 date: '2017-10-03T20:22:00.000-03:00'
 author: Francisco H C Felix
 tags:
@@ -10,22 +10,17 @@ lang: pt-br
 ref: nobel-17
 ---
 
-O Prêmio Nobel de Fisiologia ou Medicina de 2017
-  foi agraciado a 3 cientistas pelos seus trabalhos na área do ciclo circadiano, algo que hoje poderia ser considerado "inútil" pela onda conservadora da política atual.
-  <!--more-->
+O Prêmio Nobel de Fisiologia ou Medicina de 2017 foi concedido a Jeffrey Hall, Michael Rosbash e Michael Young por suas descobertas fundamentais sobre os mecanismos moleculares que controlam o ritmo circadiano, o relógio biológico que regula os ciclos de sono, alimentação e outros processos fisiológicos em organismos vivos.
 
-Dia 1 de outubro, Thomas Pearlmann, secretário do comitê do Prêmio Nobel, anunciou que Jeffrey Hall e Michael Rosbash, da Brandeis University, e Michael Young, da Rockefeller University, dividirão o Prêmio Nobel em Fisiologia ou Medicina de 2017. De acordo com o secretário, o trabalho dos coentistas explicou como plantas, animais e os seres humanos se adaptam aos ciclos naturais, como o ciclo dia-noite (circadiano).
+O reconhecimento surpreendeu parte da comunidade científica, pois muitos esperavam que o prêmio fosse para áreas de aplicação clínica imediata, como imunoterapia do câncer ou edição genética. No entanto, a escolha destacou a importância da pesquisa básica, frequentemente subestimada por não apresentar resultados práticos imediatos, mas essencial para avanços futuros.
 
-O meio científico foi surpreendido pela premiação de um grupo que não figurava entre as listas de favoritos. Apostava-se que o prêmio poderia ir para a imunoterapia do câncer ou para a técnica de edição genética com CRISPR. Jerome Groopman, escrevendo para o The New Yorker, comentou que a Academia Sueca quis mandar uma clara mensagem ao mundo científico e aos políticos que decidem sobre o financiamento da pesquisa, num momento em que se discutem as verbas para pesquisas ditas "inúteis". Groopman acredita que o Karolinska Institute desejou mandar uma mensagem para os gestores da pesquisa atualmente.
+Os laureados desvendaram, por meio de estudos em moscas-das-frutas, como genes e proteínas interagem para gerar ritmos biológicos diários. Esse conhecimento, inicialmente sem aplicação direta, abriu caminho para uma nova área da biologia e da medicina, com impacto em distúrbios do sono, metabolismo, saúde mental e doenças crônicas.
 
-Os pesquisadores agraciados publicaram seus achados estudando um gene que regula o ciclo circadiano em moscas das frutas. Na época (início da década de 90), a aplicabilidade da pesquisa era nenhuma, embora fosse muito interessante do ponto de vista teórico. Hoje, além de fundamental para entender como os organismos vivos reagem a mudanças cíclicas do ambiente, esse conhecimento criou todo um novo ramo da biologia e da medicina, com aplicações potenciais muit extensas. Groopman aponta que, numa conjuntura como a atual, talvez a pesquisa dos 3 nunca fosse financiada. Certamente, políticos iriam achar que pesquisar o relógio biológico de moscas era "inútil".
+A decisão do comitê do Nobel reforça que grandes descobertas científicas muitas vezes surgem de investigações motivadas pela curiosidade e pelo desejo de compreender fenômenos naturais, e não apenas pela busca de soluções imediatas para problemas de saúde. O ciclo circadiano, hoje reconhecido como fundamental para a saúde humana, é um exemplo de como a pesquisa básica pode transformar o entendimento e o tratamento de doenças.
 
-Nas palavras de Groopman, a Academia Sueca deixou claro seu posicionamento a favor da pesquisa básica, aquela empreendida não para curar o câncer ou o Alzheimer, mas pelo simples prazer de conhecer. Sem a pesquisa básica, provavelmente não teríamos quase nada do que é tão útil hoje em dia.
+![Mecanismo molecular do ritmo circadiano. Créditos Natália Marin, CC-BY SA 3.0.](https://upload.wikimedia.org/wikipedia/commons/d/d0/Ciclo_circadiano.jpg)
+_Figura: mecanismo molecular do ritmo circadiano._
 
-![](https://upload.wikimedia.org/wikipedia/commons/d/d0/Ciclo_circadiano.jpg)
-_Figura: mecanismo molecular do ritmo circadiano. Créditos Natália Marin, CC-BY SA 3.0._
-
-Publicações relevantes:
+**Leitura recomendada:**
 - [Paul E. Hardin, Jeffrey C. Hall & Michael Rosbash. Feedback of the Drosophila period gene product on circadian cycling of its messenger RNA levels. Nature (1990), 343:536.](https://www.nature.com/nature/journal/v343/n6258/abs/343536a0.html?foxtrotcallback=true)
-
-Fonte: [Jerome Groopman. The Real Message of the 2017 Nobel Prize in Physiology or Medicine, The New Yorker.](https://www.newyorker.com/tech/elements/the-real-message-of-the-2017-nobel-prize-in-physiology-medicine)
+- [Jerome Groopman. The Real Message of the 2017 Nobel Prize in Physiology or Medicine, The New Yorker.](https://www.newyorker.com/tech/elements/the-real-message-of-the-2017-nobel-prize-in-physiology-medicine)

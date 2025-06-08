@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Prêmio Nobel de Fisiologia ou Medicina 2016
+title: Prêmio Nobel de Fisiologia ou Medicina 2016 – A ciência da reciclagem celular
 date: '2016-10-04T20:22:00.000-03:00'
 author: Francisco H C Felix
 tags:
@@ -10,17 +10,15 @@ lang: pt-br
 ref: nobel-16
 ---
 
-O Prêmio Nobel de Fisiologia ou Medicina de 2016
-  foi agraciado ao cientista japonês Yoshinori Ohsumi pelos seus trabalhos na área da autofagia celular.
-  <!--more-->
+O Prêmio Nobel de Fisiologia ou Medicina de 2016 reconheceu Yoshinori Ohsumi por suas descobertas pioneiras sobre a autofagia, um processo fundamental pelo qual as células degradam e reciclam seus próprios componentes. As pesquisas de Ohsumi em leveduras revelaram os mecanismos genéticos e moleculares que permitem às células manter o equilíbrio, adaptar-se ao estresse e remover organelas ou proteínas danificadas.
 
-O biologista celular Yoshinori Ohsumi recebeu o Nobel por ter estudado em detalhes o mecanismo de "reciclagem" das células, algo denominado _autofagia_, palavra que vem do grego e, literalmente, significa "comer a si mesmo". Para se livrar de partes velhas e mal funcionantes, as células usam um mecanismo semelhante aquele de digestão celular para destruir estes elementos e reciclar a matéria-prima em organelas novas em folha. Este processo também é importante no controle do câncer e de infecções.
+A autofagia, literalmente "comer a si mesmo", é hoje reconhecida como essencial no desenvolvimento, na imunidade e na prevenção de doenças como câncer e neurodegeneração. Os experimentos inovadores de Ohsumi estabeleceram um novo campo na biologia celular, demonstrando como a pesquisa básica pode iluminar princípios universais da vida.
 
-O Dr. Ohsumi nasceu em Fukuoka no Japão em 1945 e terminou seu doutorado em 19714 na Universidade de Tóquio. Com um diploma, mas desempregado, ele procurou uma alternativa e foi indicado para trabalhar com fertilização _in vitro_ na Universidade Rockfeller, em Nova Iorque. Frustrado, ele largou tudo e decidiu estudar a duplicação do DNA em fungos. Aos poucos, conseguiu uma posição ensinando na Universidade de Tóquio.
+Sua trajetória, marcada por perseverança e curiosidade, destaca o valor de explorar territórios científicos pouco conhecidos. O impacto do estudo da autofagia vai desde o entendimento do controle de qualidade celular até a inspiração para novas estratégias terapêuticas em diversas doenças humanas.
 
-Pacientemente, ele passou anos estudando o mecanismo de degradação molecular em fungos, trabalho que acabou iniciando um novo campo da biologia e lhe rendendo o prêmio Nobel. Seus colegas apontam esse reconhecimento como uma vitória da pesquisa básica e da perseverança de um homem que não procurou o campo mais popular de trabalho, mas o mais inovador.
+![Mecanismo esquemático da autofagia. Créditos: Cheung & Ip, CC-BY SA 2.0.](https://upload.wikimedia.org/wikipedia/commons/1/11/Autophagy.jpg)
+_Figura: mecanismo esquemático da autofagia._
 
-![](https://upload.wikimedia.org/wikipedia/commons/1/11/Autophagy.jpg)
-_Figura: mecanismo esquemático da autofagia. Créditos Cheung & Ip, CC-BY SA 2.0._
+**Leitura recomendada:**
 
-Fonte: [Yoshinori Ohsumi of Japan Wins Nobel Prize for Study of ‘Self-Eating’ Cells. The New York Times](https://www.nytimes.com/2016/10/04/science/yoshinori-ohsumi-nobel-prize-medicine.html)
+- [Yoshinori Ohsumi of Japan Wins Nobel Prize for Study of ‘Self-Eating’ Cells. The New York Times](https://www.nytimes.com/2016/10/04/science/yoshinori-ohsumi-nobel-prize-medicine.html)
