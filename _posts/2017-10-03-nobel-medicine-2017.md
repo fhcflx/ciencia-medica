@@ -5,7 +5,7 @@ date: '2017-10-03T20:22:00.000-03:00'
 author: Francisco H C Felix
 tags:
 - Physiology or Medicine
-- Nobel
+- Nobel Prize
 lang: en-us
 ref: nobel-17
 ---
