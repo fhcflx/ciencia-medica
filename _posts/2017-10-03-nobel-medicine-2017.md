@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nobel Prize in Physiology or Medicine 2017 – Useless research?
+title: '2017 Nobel Prize in Physiology or Medicine: The Circadian Clock and the Value of Basic Research'
 date: '2017-10-03T20:22:00.000-03:00'
 author: Francisco H C Felix
 tags:

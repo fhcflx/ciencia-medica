@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nobel Prize in Physiology or Medicine 2013
+title: '2013 Nobel Prize in Physiology or Medicine: The Secret of Cellular Transport'
 date: '2013-10-20T20:22:00.000-03:00'
 author: Francisco H C Felix
 tags:

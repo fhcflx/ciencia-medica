@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nobel Prize in Physiology or Medicine 2014 – The Brain's GPS
+title: '2014 Nobel Prize in Physiology or Medicine: Discovering the Brain’s GPS'
 date: '2014-10-07T20:22:00.000-03:00'
 author: Francisco H C Felix
 tags:
