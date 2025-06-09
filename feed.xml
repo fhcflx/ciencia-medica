@@ -6,9 +6,109 @@
 </description>
     <link>https://fhcflx.github.io/ciencia-medica/</link>
     <atom:link href="https://fhcflx.github.io/ciencia-medica/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 08 Jun 2025 21:15:35 -0300</pubDate>
-    <lastBuildDate>Sun, 08 Jun 2025 21:15:35 -0300</lastBuildDate>
+    <pubDate>Mon, 09 Jun 2025 11:39:29 -0300</pubDate>
+    <lastBuildDate>Mon, 09 Jun 2025 11:39:29 -0300</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
+    
+      <item>
+        <title>2024 Nobel Prize in Physiology or Medicine: The Silent Revolution of MicroRNA</title>
+        <description>&lt;p&gt;The 2024 Nobel Prize in Physiology or Medicine was awarded to the American scientists &lt;strong&gt;Victor Ambros&lt;/strong&gt; and &lt;strong&gt;Gary Ruvkun&lt;/strong&gt;, for their discovery of microRNA (miRNA) and its fundamental role in post-transcriptional gene regulation. [1, 2]
+  &lt;!--more--&gt;&lt;/p&gt;
+
+&lt;p&gt;The pioneering research of Ambros and Ruvkun revealed a new and sophisticated layer of genetic control, demonstrating that small RNA molecules, once considered irrelevant, play a crucial role in how and when genes are activated. [3] This discovery not only rewrote fundamental parts of molecular biology textbooks but also opened vast new avenues for understanding and treating complex diseases, such as cancer and heart disease. [4]&lt;/p&gt;
+
+&lt;p&gt;It all began in the 1980s, when both scientists, then postdoctoral fellows in the laboratory of H. Robert Horvitz (a 2002 Nobel laureate), were studying the development of the nematode worm &lt;em&gt;Caenorhabditis elegans&lt;/em&gt;. [2] This simple organism, with its precisely mapped cellular development, was the perfect model for investigating the mysteries of gene regulation. [5] Working independently but focused on the same puzzle, they investigated how certain genes governed the worm’s larval stage transitions.&lt;/p&gt;
+
+&lt;p&gt;It was in Victor Ambros’s laboratory that the first piece of the puzzle was found. In 1993, his team discovered that the &lt;em&gt;lin-4&lt;/em&gt; gene did not encode a protein, as was expected, but rather a small RNA molecule, approximately 22 nucleotides long. [6] This molecule bound to a specific region of the messenger RNA (mRNA) of another gene, &lt;em&gt;lin-14&lt;/em&gt;, preventing its translation into a protein. [7] This was an entirely new regulatory mechanism, termed post-transcriptional regulation. [1]&lt;/p&gt;
+
+&lt;p&gt;Simultaneously, Gary Ruvkun’s laboratory made a crucial complementary discovery. He confirmed the proposed mechanism of action, showing how the small &lt;em&gt;lin-4&lt;/em&gt; RNA effectively silenced the &lt;em&gt;lin-14&lt;/em&gt; mRNA. [7] Years later, in 2000, Ruvkun’s lab discovered another of these molecules, &lt;em&gt;let-7&lt;/em&gt;, and, surprisingly, demonstrated that it was evolutionarily conserved across numerous species, including humans. [8] This signaled that this was not a quirk of worms but a fundamental biological mechanism. [2, 3]&lt;/p&gt;
+
+&lt;p&gt;The discoveries of Ambros and Ruvkun revealed that portions of the genome once considered “junk” actually contained functional treasures. Today, we know that the human genome encodes over a thousand types of microRNAs. [2] These molecules are essential for development, metabolism, cell differentiation, and immune function. The malfunction of microRNAs is implicated in numerous pathologies, and the development of miRNA-based therapies is one of the most promising areas of modern medicine. [4, 9]&lt;/p&gt;
+
+&lt;p&gt;The 2024 Nobel Prize recognizes a truly fundamental discovery that has drastically changed our understanding of how genetic information is orchestrated to create the complexity of life. [1] The work of Victor Ambros and Gary Ruvkun has opened a new universe in biology, the implications of which for human health are still being explored.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/MiRNA.svg/512px-MiRNA.svg.png?20190519102305&quot;&gt;Figure: A schematic showing the formation and function of micro RNA. Credit: Kelvinsong, CC BY 3.0 &amp;lt;https://creativecommons.org/licenses/by/3.0&amp;gt;, via Wikimedia Commons&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;references&quot;&gt;References&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nobelprize.org/prizes/medicine/2024/press-release/&quot;&gt;The Nobel Prize in Physiology or Medicine 2024 - Press Release (NobelPrize.org)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nobelprize.org/prizes/medicine/2024/advanced-information/&quot;&gt;Scientific Background: Discoveries of microRNA (NobelPrize.org)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.theguardian.com/science/2024/oct/07/nobel-prize-in-medicine-awarded-to-scientists-for-work-on-microrna-victor-ambros-gary-ruvkun&quot;&gt;Nobel prize in medicine awarded to scientists for work on microRNA - The Guardian&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nature.com/articles/d41586-024-03212-9&quot;&gt;Medicine Nobel awarded for gene-regulating ‘microRNAs’ - Nature&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.statnews.com/2024/10/07/nobel-prize-medicine-ambros-ruvkun-awarded-prize/&quot;&gt;2024 Nobel prize in medicine: Ruvkun, Ambros win for discovery of microRNA - STAT News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://doi.org/10.1016/0092-8674(93)90529-y&quot;&gt;Lee, R., Feinbaum, R. &amp;amp; Ambros, V. (1993). The &lt;em&gt;C. elegans&lt;/em&gt; heterochronic gene &lt;em&gt;lin-4&lt;/em&gt; encodes small RNAs with antisense complementarity to &lt;em&gt;lin-14&lt;/em&gt;. &lt;em&gt;Cell&lt;/em&gt;, 75(5), 843-854.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://doi.org/10.1016/0092-8674(93)90530-4&quot;&gt;Wightman, B., Ha, I. &amp;amp; Ruvkun, G. (1993). Posttranscriptional regulation of the heterochronic gene &lt;em&gt;lin-14&lt;/em&gt; by &lt;em&gt;lin-4&lt;/em&gt; mediates temporal pattern formation in &lt;em&gt;C. elegans&lt;/em&gt;. &lt;em&gt;Cell&lt;/em&gt;, 75(5), 855-862.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://doi.org/10.1038/35040556&quot;&gt;Pasquinelli, A. E., et al. (2000). Conservation of the sequence and temporal expression of &lt;em&gt;let-7&lt;/em&gt; heterochronic regulatory RNA. &lt;em&gt;Nature&lt;/em&gt;, 408(6808), 86-89.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://doi.org/10.1038/nrd.2016.246&quot;&gt;Rupaimoole, R., &amp;amp; Slack, F. J. (2017). MicroRNA therapeutics: towards a new era for the management of cancer and other diseases. &lt;em&gt;Nature Reviews Drug Discovery&lt;/em&gt;, 16(3), 203-222.&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+        <pubDate>Mon, 07 Oct 2024 20:22:00 -0300</pubDate>
+        <link>https://fhcflx.github.io/ciencia-medica/2024/10/07/nobel-medicine-24.html</link>
+        <guid isPermaLink="true">https://fhcflx.github.io/ciencia-medica/2024/10/07/nobel-medicine-24.html</guid>
+        
+        <category>Physiology or Medicine</category>
+        
+        <category>Nobel Prize</category>
+        
+        <category>Genetics</category>
+        
+        <category>microRNA</category>
+        
+        <category>Gene Regulation</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Prêmio Nobel de Fisiologia ou Medicina 2024: A Revolução Silenciosa do MicroRNA</title>
+        <description>&lt;p&gt;O Prêmio Nobel de Fisiologia ou Medicina de 2024 foi concedido aos cientistas americanos &lt;strong&gt;Victor Ambros&lt;/strong&gt; e &lt;strong&gt;Gary Ruvkun&lt;/strong&gt;, por sua descoberta do microRNA (miRNA) e seu papel fundamental na regulação gênica pós-transcricional. [1, 2]
+  &lt;!--more--&gt;&lt;/p&gt;
+
+&lt;p&gt;As pesquisas pioneiras de Ambros e Ruvkun revelaram uma nova e sofisticada camada de controle genético, demonstrando que pequenas moléculas de RNA, antes consideradas irrelevantes, desempenham um papel crucial em como e quando os genes são ativados. [3] Essa descoberta não apenas reescreveu partes fundamentais dos manuais de biologia molecular, mas também abriu vastos novos caminhos para a compreensão e o tratamento de doenças complexas, como o câncer e as doenças cardíacas. [4]&lt;/p&gt;
+
+&lt;p&gt;Tudo começou na década de 1980, quando ambos os cientistas, então pós-doutorandos no laboratório de Robert Horvitz (laureado com o Nobel em 2002), estudavam o desenvolvimento do verme nematoide &lt;em&gt;Caenorhabditis elegans&lt;/em&gt;. [2] Esse organismo simples, com seu desenvolvimento celular precisamente mapeado, era o modelo perfeito para investigar os mistérios da regulação genética. [5] Trabalhando de forma independente, mas com foco no mesmo enigma, eles investigavam como certos genes governavam as transições de estágio larval do verme.&lt;/p&gt;
+
+&lt;p&gt;Foi no laboratório de Victor Ambros que a primeira peça do quebra-cabeça foi encontrada. Em 1993, sua equipe descobriu que o gene &lt;em&gt;lin-4&lt;/em&gt; não codificava uma proteína, como se esperava, mas sim uma pequena molécula de RNA, com aproximadamente 22 nucleotídeos. [6] Essa molécula se ligava a uma região específica do RNA mensageiro (mRNA) de outro gene, o &lt;em&gt;lin-14&lt;/em&gt;, impedindo sua tradução em proteína. [7] Era um mecanismo de regulação inteiramente novo, denominado regulação pós-transcricional. [1]&lt;/p&gt;
+
+&lt;p&gt;Simultaneamente, o laboratório de Gary Ruvkun fez uma descoberta complementar crucial. Ele confirmou o mecanismo de ação proposto, mostrando como o pequeno RNA &lt;em&gt;lin-4&lt;/em&gt; efetivamente silenciava o mRNA de &lt;em&gt;lin-14&lt;/em&gt;. [7] Anos mais tarde, em 2000, o laboratório de Ruvkun descobriu outra dessas moléculas, o &lt;em&gt;let-7&lt;/em&gt;, e, de forma surpreendente, demonstrou que ela era conservada evolutivamente em inúmeras espécies, incluindo os seres humanos. [8] Isso sinalizou que não se tratava de uma peculiaridade dos vermes, mas de um mecanismo biológico fundamental. [2, 3]&lt;/p&gt;
+
+&lt;p&gt;As descobertas de Ambros e Ruvkun revelaram que porções do genoma antes consideradas “lixo” continham, na verdade, tesouros funcionais. Hoje, sabemos que o genoma humano codifica mais de mil tipos de microRNAs. [2] Essas moléculas são essenciais para o desenvolvimento, o metabolismo, a diferenciação celular e a função imunológica. O mau funcionamento dos microRNAs está implicado em diversas patologias, e o desenvolvimento de terapias baseadas em miRNA é uma das áreas mais promissoras da medicina moderna. [4, 9]&lt;/p&gt;
+
+&lt;p&gt;O Prêmio Nobel de 2024 reconhece uma descoberta verdadeiramente fundamental, que mudou drasticamente nossa compreensão de como a informação genética é orquestrada para criar a complexidade da vida. [1] O trabalho de Victor Ambros e Gary Ruvkun abriu um novo universo na biologia, cujas implicações para a saúde humana ainda estão sendo exploradas.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/MiRNA.svg/512px-MiRNA.svg.png?20190519102305&quot;&gt;Figure: Diagrama mostrando a formação e função do micro RNA. Credit: Kelvinsong, CC BY 3.0 &amp;lt;https://creativecommons.org/licenses/by/3.0&amp;gt;, via Wikimedia Commons&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;referências&quot;&gt;Referências&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nobelprize.org/prizes/medicine/2024/press-release/&quot;&gt;The Nobel Prize in Physiology or Medicine 2024 - Press Release (NobelPrize.org)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nobelprize.org/prizes/medicine/2024/advanced-information/&quot;&gt;Scientific Background: Discoveries of microRNA (NobelPrize.org)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.theguardian.com/science/2024/oct/07/nobel-prize-in-medicine-awarded-to-scientists-for-work-on-microrna-victor-ambros-gary-ruvkun&quot;&gt;Nobel prize in medicine awarded to scientists for work on microRNA - The Guardian&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nature.com/articles/d41586-024-03212-9&quot;&gt;Medicine Nobel awarded for gene-regulating ‘microRNAs’ - Nature&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.statnews.com/2024/10/07/nobel-prize-medicine-ambros-ruvkun-awarded-prize/&quot;&gt;2024 Nobel prize in medicine: Ruvkun, Ambros win for discovery of microRNA - STAT News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://doi.org/10.1016/0092-8674(93)90529-y&quot;&gt;Lee, R., Feinbaum, R. &amp;amp; Ambros, V. (1993). The &lt;em&gt;C. elegans&lt;/em&gt; heterochronic gene &lt;em&gt;lin-4&lt;/em&gt; encodes small RNAs with antisense complementarity to &lt;em&gt;lin-14&lt;/em&gt;. &lt;em&gt;Cell&lt;/em&gt;, 75(5), 843-854.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://doi.org/10.1016/0092-8674(93)90530-4&quot;&gt;Wightman, B., Ha, I. &amp;amp; Ruvkun, G. (1993). Posttranscriptional regulation of the heterochronic gene &lt;em&gt;lin-14&lt;/em&gt; by &lt;em&gt;lin-4&lt;/em&gt; mediates temporal pattern formation in &lt;em&gt;C. elegans&lt;/em&gt;. &lt;em&gt;Cell&lt;/em&gt;, 75(5), 855-862.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://doi.org/10.1038/35040556&quot;&gt;Pasquinelli, A. E., et al. (2000). Conservation of the sequence and temporal expression of &lt;em&gt;let-7&lt;/em&gt; heterochronic regulatory RNA. &lt;em&gt;Nature&lt;/em&gt;, 408(6808), 86-89.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://doi.org/10.1038/nrd.2016.246&quot;&gt;Rupaimoole, R., &amp;amp; Slack, F. J. (2017). MicroRNA therapeutics: towards a new era for the management of cancer and other diseases. &lt;em&gt;Nature Reviews Drug Discovery&lt;/em&gt;, 16(3), 203-222.&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+        <pubDate>Mon, 07 Oct 2024 20:22:00 -0300</pubDate>
+        <link>https://fhcflx.github.io/ciencia-medica/2024/10/07/nobel-medicina-24.html</link>
+        <guid isPermaLink="true">https://fhcflx.github.io/ciencia-medica/2024/10/07/nobel-medicina-24.html</guid>
+        
+        <category>Fisiologia ou Medicina</category>
+        
+        <category>Nobel</category>
+        
+        <category>Genética</category>
+        
+        <category>microRNA</category>
+        
+        <category>Regulação Gênica</category>
+        
+        
+      </item>
     
       <item>
         <title>2023 Nobel Prize in Physiology or Medicine: The mRNA Revolution with Karikó and Weissman</title>
@@ -302,102 +402,6 @@
         <category>Vírus</category>
         
         <category>Fígado</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>2019 Nobel Prize in Physiology or Medicine: Unlocking the Secrets of the Cell and Oxygen Adaptation</title>
-        <description>&lt;p&gt;The 2019 Nobel Prize in Physiology or Medicine was awarded to &lt;strong&gt;William G. Kaelin Jr.&lt;/strong&gt;, &lt;strong&gt;Sir Peter J. Ratcliffe&lt;/strong&gt; and &lt;strong&gt;Gregg L. Semenza&lt;/strong&gt;, for their discoveries of how cells adapt to changes in oxygen levels. 
-  &lt;!--more--&gt;&lt;/p&gt;
-
-&lt;p&gt;The discoveries of these three researchers revolutionized the understanding of one of the most fundamental processes of life: cellular adaptation to oxygen.&lt;/p&gt;
-
-&lt;p&gt;Oxygen is essential for life, but its availability varies constantly.&lt;/p&gt;
-
-&lt;p&gt;Our bodies need to adapt to these changes, whether during physical exercise, at high altitudes, or in situations of disease.&lt;/p&gt;
-
-&lt;p&gt;The research of Kaelin, Ratcliffe, and Semenza elucidated the molecular mechanism that allows cells to detect and respond to changes in oxygen levels, regulating the production of genes and proteins that control cellular adaptation.&lt;/p&gt;
-
-&lt;p&gt;In the early 1990s, Gregg Semenza, of Johns Hopkins University, was studying the gene that encodes erythropoietin, a hormone that stimulates the production of red blood cells in the blood.&lt;/p&gt;
-
-&lt;p&gt;He discovered that the expression of this gene increased under low oxygen conditions and identified a protein complex that regulated this response, called hypoxia-inducible factor (HIF).&lt;/p&gt;
-
-&lt;p&gt;Simultaneously, William Kaelin, of Harvard University, was studying a rare disease called von Hippel-Lindau (VHL) disease, which increases the risk of cancerous tumors.&lt;/p&gt;
-
-&lt;p&gt;Kaelin discovered that the VHL protein was essential for cell growth control and that mutations in this gene led to tumor development.&lt;/p&gt;
-
-&lt;p&gt;Later, Peter Ratcliffe, of Oxford University, demonstrated that the VHL protein regulated HIF activity.&lt;/p&gt;
-
-&lt;p&gt;Together, the works of Semenza, Kaelin, and Ratcliffe elucidated the fundamental molecular mechanism that controls the expression of genes in response to changes in oxygen levels.&lt;/p&gt;
-
-&lt;p&gt;HIF, when activated under low oxygen conditions, promotes the production of genes that increase oxygen uptake, red blood cell production, and the formation of new blood vessels.&lt;/p&gt;
-
-&lt;p&gt;These researchers’ discoveries have had a profound impact on medical science, opening doors to the development of new treatments for a variety of diseases, including cancer, anemia, heart disease, and neurological diseases.&lt;/p&gt;
-
-&lt;p&gt;The 2019 Nobel Prize recognizes the fundamental importance of the research of Kaelin, Ratcliffe, and Semenza, who unlocked the secrets of cellular adaptation to oxygen, a vital process for life and human health.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 07 Oct 2019 20:22:00 -0300</pubDate>
-        <link>https://fhcflx.github.io/ciencia-medica/2019/10/07/nobel-medicine-19.html</link>
-        <guid isPermaLink="true">https://fhcflx.github.io/ciencia-medica/2019/10/07/nobel-medicine-19.html</guid>
-        
-        <category>Physiology or Medicine</category>
-        
-        <category>Nobel Prize</category>
-        
-        <category>Cell</category>
-        
-        <category>Oxygen</category>
-        
-        <category>Adaptation</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Prêmio Nobel de Fisiologia ou Medicina 2019: Desvendando os Segredos da Célula e da Adaptação ao Oxigênio</title>
-        <description>&lt;p&gt;O Prêmio Nobel de Fisiologia ou Medicina de 2019 foi concedido a &lt;strong&gt;William G. Kaelin Jr.&lt;/strong&gt;, &lt;strong&gt;Sir Peter J. Ratcliffe&lt;/strong&gt; e &lt;strong&gt;Gregg L. Semenza&lt;/strong&gt;, por suas descobertas sobre como as células se adaptam às mudanças nos níveis de oxigênio.
-  &lt;!--more--&gt;&lt;/p&gt;
-
-&lt;p&gt;As descobertas desses três pesquisadores revolucionaram a compreensão de um dos processos mais fundamentais da vida: a adaptação celular ao oxigênio.&lt;/p&gt;
-
-&lt;p&gt;O oxigênio é essencial para a vida, mas sua disponibilidade varia constantemente.&lt;/p&gt;
-
-&lt;p&gt;Nosso corpo precisa se adaptar a essas mudanças, seja durante o exercício físico, em grandes altitudes ou em situações de doença.&lt;/p&gt;
-
-&lt;p&gt;As pesquisas de Kaelin, Ratcliffe e Semenza desvendaram o mecanismo molecular que permite às células detectar e responder às alterações nos níveis de oxigênio, regulando a produção de genes e proteínas que controlam a adaptação celular.&lt;/p&gt;
-
-&lt;p&gt;No início dos anos 1990, Gregg Semenza, da Universidade Johns Hopkins, estudava o gene que codifica a eritropoietina, um hormônio que estimula a produção de glóbulos vermelhos no sangue.&lt;/p&gt;
-
-&lt;p&gt;Ele descobriu que a expressão desse gene aumentava em condições de baixo oxigênio e identificou um complexo de proteínas que regulava essa resposta, chamado de fator induzível por hipoxia (HIF).&lt;/p&gt;
-
-&lt;p&gt;Paralelamente, William Kaelin, da Universidade de Harvard, estudava uma doença rara chamada doença de von Hippel-Lindau (VHL), que aumenta o risco de tumores cancerígenos.&lt;/p&gt;
-
-&lt;p&gt;Kaelin descobriu que a proteína VHL era fundamental para o controle do crescimento celular e que mutações nesse gene levavam ao desenvolvimento de tumores.&lt;/p&gt;
-
-&lt;p&gt;Posteriormente, Peter Ratcliffe, da Universidade de Oxford, demonstrou que a proteína VHL regulava a atividade do HIF.&lt;/p&gt;
-
-&lt;p&gt;Juntos, os trabalhos de Semenza, Kaelin e Ratcliffe elucidaram o mecanismo molecular fundamental que controla a expressão de genes em resposta às mudanças nos níveis de oxigênio.&lt;/p&gt;
-
-&lt;p&gt;O HIF, ao ser ativado em condições de baixo oxigênio, promove a produção de genes que aumentam a captação de oxigênio, a produção de glóbulos vermelhos e a formação de novos vasos sanguíneos.&lt;/p&gt;
-
-&lt;p&gt;As descobertas desses pesquisadores tiveram um impacto profundo na ciência médica, abrindo portas para o desenvolvimento de novos tratamentos para uma variedade de doenças, incluindo câncer, anemia, doenças cardíacas e doenças neurológicas.&lt;/p&gt;
-
-&lt;p&gt;O Prêmio Nobel de 2019 reconhece a importância fundamental das pesquisas de Kaelin, Ratcliffe e Semenza, que desvendaram os segredos da adaptação celular ao oxigênio, um processo vital para a vida e para a saúde humana.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 07 Oct 2019 20:22:00 -0300</pubDate>
-        <link>https://fhcflx.github.io/ciencia-medica/2019/10/07/nobel-medicina-19.html</link>
-        <guid isPermaLink="true">https://fhcflx.github.io/ciencia-medica/2019/10/07/nobel-medicina-19.html</guid>
-        
-        <category>Fisiologia ou Medicina</category>
-        
-        <category>Nobel</category>
-        
-        <category>Célula</category>
-        
-        <category>Oxigênio</category>
-        
-        <category>Adaptação</category>
         
         
       </item>
