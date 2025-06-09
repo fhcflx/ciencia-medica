@@ -28,7 +28,7 @@ The discoveries of Ambros and Ruvkun revealed that portions of the genome once c
 
 The 2024 Nobel Prize recognizes a truly fundamental discovery that has drastically changed our understanding of how genetic information is orchestrated to create the complexity of life. [1] The work of Victor Ambros and Gary Ruvkun has opened a new universe in biology, the implications of which for human health are still being explored.
 
-[Figure: A schematic showing the formation and function of micro RNA. Credit: Kelvinsong, CC BY 3.0 &lt;https://creativecommons.org/licenses/by/3.0&gt;, via Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/MiRNA.svg/512px-MiRNA.svg.png?20190519102305)
+![Figure: A schematic showing the formation and function of micro RNA. Credit: Kelvinsong, CC BY 3.0 &lt;https://creativecommons.org/licenses/by/3.0&gt;, via Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/MiRNA.svg/960px-MiRNA.svg.png?20190519102305)
 
 ### References
 
