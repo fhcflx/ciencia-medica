@@ -6,6 +6,7 @@ author: Francisco H C Felix
 tags:
 - Cancer
 lang: en-us
+ref: neuroblastoma-2007
 modified_time: '2011-09-18T12:29:09.652-03:00'
 blogger_orig_url: 'https://pharmak.blogspot.com/2007/06/less-aggressive-approach-to.html'
 ---
@@ -21,3 +22,9 @@ carboplatin, etoposide, cyclophosphamide and doxorubicin.
 
 "The bottom line is that with significantly less intense chemotherapy, we achieved 3-year overall survival of 96%," Dr.
 David L. Baker told the 43rd annual meeting of the American Society of Clinical Oncology.
+
+Related publications:
+- [Baker et al., A phase III trial of biologically-based therapy reduction for intermediate risk neuroblastoma. JCO 25, 9504-9504(2007). - Apresentação na reunião da ASCO de 2007](https://doi.org/10.1200/jco.2007.25.18_suppl.9504)
+- [Baker et al., Outcome after reduced chemotherapy for intermediate-risk neuroblastoma. N Engl J Med. 2010 Sep 30;363(14):1313-23. - Publicação final, revisada por pares](https://doi.org/10.1056/NEJMoa1001527)
+
+Original post on Pharmakon [here]({{ page.blogger_orig_url }}).
