@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Prêmio Nobel de Fisiologia ou Medicina 2015 – Novas armas contra parasitoses e malária
+title: Prêmio Nobel de Fisiologia ou Medicina 2015
 date: '2015-10-06T20:22:00.000-03:00'
 author: Francisco H C Felix
 tags:
@@ -13,19 +13,24 @@ blogger_id: tag:blogger.com,1999:blog-2993346515708552092.post-58718147330247468
 blogger_orig_url: https://pharmak.blogspot.com/2015/10/premio-nobel-de-fisiologia-e-medicina.html
 ---
 
-O Prêmio Nobel de Fisiologia ou Medicina de 2015 destacou avanços revolucionários no combate a doenças parasitárias, reconhecendo três cientistas cujas descobertas transformaram a saúde global. William C. Campbell e Satoshi Ōmura foram responsáveis pelo desenvolvimento da avermectina, uma molécula derivada de bactérias do solo, que deu origem à ivermectina. Essa classe de medicamentos permitiu o controle de doenças como oncocercose e filariose, impactando milhões de pessoas em regiões endêmicas.
+O Prêmio Nobel de Fisiologia e Medicina de 2015
+  foi agraciado a 3 cientistas pelos seus trabalhos na área de tratamento de doenças
+  parasitárias.
   <!--more-->
+William C. Campbell e
+  Satoshi Ōmura desenvolveram a avermectina, uma droga antiparasitária cujos derivados são largamente usados para tratar diversas doenças endêmicas causadas por vermes nematódeos, as quais causam grande morbidade em países pobres e em desenvolvimento. Youyou Tu foi agraciada pelo desenvolvimento da artemisinina, droga que revolucionou o tratamento da malária.
 
-Youyou Tu, por sua vez, isolou a artemisinina a partir da planta _Artemisia annua_, revolucionando o tratamento da malária, especialmente em casos resistentes a outras drogas. Sua abordagem inovadora combinou conhecimento tradicional chinês e métodos científicos modernos, resultando em uma nova geração de antimaláricos.
+Satoshi Ömura, microbiologista japonês da Kiwasato University, desenvolveu inovadoras técnicas para isolar milhares de espécies e cepas de bactérias do gênero _Streptomyces_ do solo. As cepas mais promissoras foram utilizadas por William C. Campbell, biólogo irlandês que terminou sua educação e trabalha nos EUA, na Drew University, Madison. Campbell, especialista em parasitologia, isolou um composto com excelente atividade contra diversos parasitas, a avermectina. Seu derivado mais conhecido, a ivermectina, é hoje largamente usada para trata um grande número de doenças parasitárias, inclusive algumas previamente intratáveis. A descoberta dos dois deu origem a uma nova classe de medicamentos antiparasitários.
 
-Essas descobertas exemplificam como a pesquisa básica e a busca por soluções inovadoras podem gerar benefícios concretos para a saúde pública, especialmente em países de baixa renda. O reconhecimento do Nobel ressalta a importância de investir em ciência para enfrentar desafios globais persistentes.
+Na década de 60, devido à emergência de cepas de plasmódio resistentes a drogas, o tratamento da malária era difícil. Youyou Tu procurou medicamentos tradicionais chineses, tentando isolar deles substâncias ativas. Ela conseguiu isolar a artemisinina a partir do extrato da planta _Artemisia annua_, um composto com potente efeito contra plasmódios resistentes a outras drogas. Devido a sua descoberta, que deu origem a uma nova classe de drogas antimaláricas, ela foi agraciada com o Nobel.
 
-![Tu Youyou (direita) e seu professor Lou Zhicen (esquerda) em 1951. Fotógrafo anônimo, domínio público.](https://upload.wikimedia.org/wikipedia/commons/c/c1/Tu_Youyou_in_1950s.jpg)
-_Figura: Tu Youyou (direita) e seu professor Lou Zhicen (esquerda) em 1951. Foto domínio público._
+![](https://upload.wikimedia.org/wikipedia/commons/c/c1/Tu_Youyou_in_1950s.jpg)
+_Figura 1: Tu Youyou (direita) e seu professor Lou Zhicen (楼之岑) (esquerda) em 1951. Fotógrafo anônimo (Em 1951, a China não tinha leis de direitos autorais. A foto está no domínio público há mais de 50 anos.) (WenxueCity), via Wikimedia Commons._
 
-**Leitura recomendada:**
-
+Publicações relevantes:
 - [Burg et al., Avermectins, New Family of Potent Anthelmintic Agents: Producing Organism and Fermentation. Antimicrobial Agents and Chemotherapy (1979) 15:361-367.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC352666/pdf/aac00273-0045.pdf)
 - Egerton et al., Antimicrobial Agents and Chemotherapy (1979) 15:372-378.
 - Tu et al., [Studies on the constituents of Artemisia annua L. (author's transl)]. Yao Xue Xue Bao (1981) 16, 366-370 (Chinês)
 - [The 2015 Nobel Prize in Physiology or Medicine - Press Release](https://www.nobelprize.org/nobel_prizes/medicine/laureates/2015/press.html)
+
+Postagem original em Pharmakon [aqui](blogger_orig_url).
