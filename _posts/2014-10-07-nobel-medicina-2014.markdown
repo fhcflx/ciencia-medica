@@ -10,15 +10,17 @@ lang: pt-br
 ref: nobel-14
 ---
 
-O Prêmio Nobel de Fisiologia ou Medicina de 2014 reconheceu descobertas fundamentais sobre como o cérebro constrói mapas internos do espaço, permitindo a orientação e navegação em ambientes complexos. John O’Keefe identificou, no hipocampo, células que se ativam conforme a posição do animal, sugerindo a existência de um “mapa interno” neural. Posteriormente, May-Britt e Edvard Moser descobriram, no córtex entorrinal, os chamados neurônios-grade, que formam padrões hexagonais de ativação e fornecem ao hipocampo informações espaciais precisas.
+O Prêmio Nobel de Fisiologia ou Medicina de 2014 foi concedido aos cientistas Edvard Moser, May-Britt Moser (Noruega) e John O’Keefe (Reino Unido) por suas descobertas sobre as células de orientação espacial no cérebro.
   <!--more-->
 
-Esses achados revolucionaram a neurociência ao demonstrar que o cérebro possui circuitos especializados para representar o espaço, fundamentais para a memória, o aprendizado e a navegação. O conceito de um sistema de posicionamento interno, análogo a um GPS biológico, abriu novas perspectivas para o estudo de doenças neurodegenerativas e distúrbios de orientação espacial.
+O’Keefe demonstrou a existência das chamadas “células de lugar” (place cells) em uma região do cérebro chamada hipocampo, conhecida por ser um dos principais centros de memória. Já os Mosers descobriram um tipo de célula em uma estrutura próxima, o córtex entorrinal, capaz de “projetar” um mapa virtual — uma “grade” de localizações espaciais. Essas células de grade fornecem informações sobre o ambiente para as células de lugar do hipocampo, permitindo que animais se orientem no espaço.
 
-A premiação destaca a importância da pesquisa básica em modelos animais para desvendar princípios universais do funcionamento cerebral, com impacto potencial em áreas como Alzheimer, epilepsia e reabilitação neurológica.
+Quando O’Keefe iniciou seus experimentos nos anos 1960, muitos neurocientistas duvidavam que a atividade dos neurônios pudesse estar associada a qualquer tipo de comportamento. Ele ficou surpreso ao descobrir que certos neurônios do hipocampo disparavam quando animais de laboratório se moviam e mudavam de lugar. O’Keefe teorizou que a atividade coletiva dessas células formava um “mapa interno” que ajudava o animal a se localizar.
 
-![Representação artística do sistema de mapas espaciais no cérebro.](https://upload.wikimedia.org/wikipedia/commons/6/6b/Hippocampus_and_entorhinal_cortex_spatial_cells.png)
-_Figura: Representação artística do sistema de mapas espaciais no cérebro. Adaptado de Wikimedia Commons._
+Até a descoberta dos Mosers, não se sabia de onde vinha a informação que alimentava as células de lugar. Eles mostraram que as células de grade disparam em diferentes pontos de um padrão hexagonal virtual, criado inteiramente no cérebro — formando um “mapa virtual”. Foi a primeira demonstração de um sistema desse tipo no cérebro. Especialistas afirmam que, se alguém tivesse sugerido a existência desse sistema antes da descoberta, seria considerado louco.
+
+![]({{ site.baseurl }}/assets/img/nobel2014.jpg)
+_Figura: Representação artística do sistema de mapas espaciais no cérebro. Direitos: Nobel Foundation._
 
 **Leitura recomendada:**
 - [J.O'Keefe e J.Dostrovsky. The hippocampus as a spatial map. Preliminary evidence from unit activity in the freely-moving rat. (1971) Brain Research 34:1, 171-175](https://www.sciencedirect.com/science/article/pii/0006899371903581?via%3Dihub)
