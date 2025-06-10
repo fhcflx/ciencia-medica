@@ -44,11 +44,12 @@ O principal responsável por esta distorção que tem magnitude desconhecida é 
 
 A mídia leiga é ainda mais influenciada por este tipo de viés, que é amplificado sem a menor discussão crítica. Então, a mensagem importante: quando ouvir na televisão ou na internet a notícia sobre um "novo tratamento", primeiro fale com seu médico, ou médicos. Do contrário, arrisca-se a usar um tratamento que depois se mostrará ineficaz ou, pior, danoso.
 
-![](https://upload.wikimedia.org/wikipedia/commons/c/c0/Sildenafil_Sandoz_Viagra_50mg_tablet.jpg)
+![sildenafila - tablete de viagra da Sandoz](https://upload.wikimedia.org/wikipedia/commons/c/c0/Sildenafil_Sandoz_Viagra_50mg_tablet.jpg)
 
 _Figura: sildenafila não tem efeito em linfangiomas. Créditos Amin [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via Wikimedia Commons._
 
 Leia a publicação:
+
 - John C. Koshy, Bradley S. Eisemann, Nikhil Agrawal, Sheena Pimpalwar, Joseph L. Edmonds. Sildenafil for microcystic lymphatic malformations of the head and neck: A prospective study. International Journal of Pediatric Otorhinolaryngology, 79:7,2015,980-982 [doi:10.1016/j.ijporl.2015.03.034](https://doi.org/10.1016/j.ijporl.2015.03.034)
 
 Postagem original em Pharmakon [aqui]({{ page.blogger_orig_url }}).
