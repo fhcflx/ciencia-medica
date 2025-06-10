@@ -25,7 +25,7 @@ carboplatin, etoposide, cyclophosphamide and doxorubicin.
 David L. Baker told the 43rd annual meeting of the American Society of Clinical Oncology.
 
 Related publications:
-- [Baker et al., A phase III trial of biologically-based therapy reduction for intermediate risk neuroblastoma. JCO 25, 9504-9504(2007). - Apresentação na reunião da ASCO de 2007](https://doi.org/10.1200/jco.2007.25.18_suppl.9504)
-- [Baker et al., Outcome after reduced chemotherapy for intermediate-risk neuroblastoma. N Engl J Med. 2010 Sep 30;363(14):1313-23. - Publicação final, revisada por pares](https://doi.org/10.1056/NEJMoa1001527)
+- [Baker et al., A phase III trial of biologically-based therapy reduction for intermediate risk neuroblastoma. JCO 25, 9504-9504(2007). - 2007 ASCO meeting presentation abstract](https://doi.org/10.1200/jco.2007.25.18_suppl.9504)
+- [Baker et al., Outcome after reduced chemotherapy for intermediate-risk neuroblastoma. N Engl J Med. 2010 Sep 30;363(14):1313-23. - Final publication, peer reviewed](https://doi.org/10.1056/NEJMoa1001527)
 
 Original post on Pharmakon [here]({{ page.blogger_orig_url }}).
