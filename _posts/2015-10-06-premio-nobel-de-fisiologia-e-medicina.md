@@ -33,4 +33,4 @@ Publicações relevantes:
 - Tu et al., [Studies on the constituents of Artemisia annua L. (author's transl)]. Yao Xue Xue Bao (1981) 16, 366-370 (Chinês)
 - [The 2015 Nobel Prize in Physiology or Medicine - Press Release](https://www.nobelprize.org/nobel_prizes/medicine/laureates/2015/press.html)
 
-Postagem original em Pharmakon [aqui](blogger_orig_url).
+Postagem original em Pharmakon [aqui]({{ page.blogger_orig_url }}).
