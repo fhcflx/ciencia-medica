@@ -36,4 +36,6 @@ Leia a publicação:
 Sildenafil for severe lymphatic malformations. N Engl J Med. 2012 Jan
 26;366(4):384-6. [doi:10.10156/NEJMc1112482](https://doi.org/10.1056/NEJMc1112482)
 
+Postagem original em Pharmakon [aqui]({{ page.blogger_orig_url }}).
+
 Atualização: em 2015 novos resultados mostraram que, na verdade, a sildenafila não tem efeito em ML (linfangiomas) da infância e sua promessa como novo tratamento não se cumpriu!

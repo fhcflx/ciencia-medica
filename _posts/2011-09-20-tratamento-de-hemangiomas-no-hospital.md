@@ -30,3 +30,5 @@ _Esta postagem não representa sugestão de tratamento. Apenas um especialista p
 Leia a publicação:
 
 <iframe src="https://widgets.figshare.com/articles/2059821/embed?show_title=1" width="568" height="351" frameborder="0"></iframe>
+
+Postagem original em Pharmakon [aqui]({{ page.blogger_orig_url }}).

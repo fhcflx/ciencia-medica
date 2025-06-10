@@ -23,7 +23,7 @@ Este trabalho mostra resultados de uma avaliação retrospectiva{% include retro
 
 Todos os pacientes foram tratados por mim e iniciaram a terapia com propranolol entre janeiro de 2009 e dezembro de 2010. Esta série retrospectiva de casos é a primeira do Ceará a demonstrar a efetividade deste tratamento inovador para hemangiomas infantis e constitui, até o momento, a maior série brasileira de crianças com hemangiomas tratadas com propranolol.
 
-![](https://4.bp.blogspot.com/-GpMyDbYtnJY/TqBG9DdmzCI/AAAAAAAABp8/DbHhq4u8YS4/s1600/Grafico_hemangio.png)
+![]({{ page.thumbnail }})
 
 Os resultados mostram que o propranolol é altamente eficaz em lactentes (até 1 ano) portadores de hemangiomas infantis típicos. Em crianças maiores de 1 ano, também ocorreu resposta de grande número de pacientes, demonstrando que o propranolol não é eficaz apenas na fase proliferativa das lesões. Também mostramos um pequeno número de crianças com hemangiomas congênitos, sindrômicos ou outros, diferentes dos hemangiomas infantis típicos. Igualmente, obtivemos resposta nestes pacientes, porém em menor escala.
 
@@ -34,3 +34,5 @@ A aluna Juliana, que faz parte do programa de Iniciação Científica da UFC com
 _Esta postagem não representa sugestão de tratamento. Apenas um especialista pode judiciosamente decidir quais informações divulgadas podem modificar de alguma forma um esquema de tratamento, e de que forma._
 
 Link para o poster: [bit.ly/fhcflxZ1](https://bit.ly/fhcflxZ1)
+
+Postagem original em Pharmakon [aqui]({{ page.blogger_orig_url }}).

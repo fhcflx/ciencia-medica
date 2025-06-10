@@ -35,3 +35,5 @@ A quem procurar quando uma criança tem um hemangioma? Os maiores especialistas 
 ![]({{ site.baseurl }}/assets/img/mulliken3.png)  
 
 Essa imagem parcial, retirada do capítulo do dr. Mulliken, mostra uma jovem que desenvolveu um grande hemangioma infantil na face. O seguimento, ABSOLUTAMENTE SEM NENHUM TRATAMENTO, é testemunho de que a regressão espontânea dos hemangiomas, que pode demorar vários anos, muitas vezes não deixa nenhuma marca posterior.
+
+Postagem original em Pharmakon [aqui]({{ page.blogger_orig_url }}).

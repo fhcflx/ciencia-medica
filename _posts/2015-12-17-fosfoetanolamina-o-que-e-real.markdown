@@ -9,7 +9,7 @@ tags:
   - Terapia alternativa
 modified_time: '2015-12-17T12:01:32.329-03:00'
 blogger_id: tag:blogger.com,1999:blog-2993346515708552092.post-6679960266040497065
-permalink: /fosfoetanolamina/
+blogger_orig_url: https://pharmak.blogspot.com/2015/12/fosfoetanolamina-o-que-e-real_17.html
 lang: pt-br
 ref: fosfoetanolamina
 ---
@@ -48,3 +48,5 @@ Outro problema que ocorria é que existiam muitas vezes um grande número de tra
 Algo semelhante pode ocorrer com qualquer tipo de terapia alternativa, inclusive a fosfoetanolamina. Relatos individuais de "curas", muitas vezes de pacientes que estavam usando outros tratamentos, podem ser supervalorizados, enquanto os casos de insucesso passam silenciosamente despercebidos. Apenas quando há uma comparação controlada é que se descobre a verdade. Tempos atrás, a babosa ([_Aloe vera_](https://pt.wikipedia.org/wiki/Babosa)) popularizou-se como possível tratamento natural anticâncer. Hoje em dia, sabe-se que seu consumo prolongado por via oral pode levar a sérias [complicações](https://nccih.nih.gov/health/aloevera), não apenas atrapalhando o tratamento convencional do câncer, mas podendo causar malefício diretamente aos pacientes. Da mesma forma, a Noni ([_Morinda citrifolia_](https://pt.wikipedia.org/wiki/Noni)) uma fruta asiática que também se popularizou recentemente como suplemento alimentar no combate ao câncer, pode causar [efeitos adversos](https://nccih.nih.gov/health/noni) ainda mal conhecidos, sugerindo precaução no seu uso. Nos dois casos, os relatos de pacientes "curados" depois de usar babosa ou noni são muito semelhantes aqueles associados à fosfoetanolamina.
 
 Afinal, o que fazer em relação à fostoetanolamina? Parece bem claro: estudá-la, de forma correta, controlada, evitando os vieses e distorções e, principalmente, evitando sensacionalismo. A fosfoetanolamina pode ser um importante tratamento do câncer no futuro? Nada impede, a não ser a falta de estudos. Se essa substância mostrar atividade contra o câncer em modelos _in vitro_, animais e, finalmente, em seres humanos (de forma controlada), saberemos com certeza que ela é eficaz. Acabará, assim, o tormento de pacientes que imaginam que estão sendo privados de uma alternativa, mas que, na verdade, podem estar apostando num castelo de cartas.
+
+Postagem original em Pharmakon [aqui]({{ page.blogger_orig_url }}).

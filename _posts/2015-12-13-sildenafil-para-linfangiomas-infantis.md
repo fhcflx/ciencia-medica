@@ -50,3 +50,5 @@ _Figura: sildenafila não tem efeito em linfangiomas. Créditos Amin [CC BY-SA 4
 
 Leia a publicação:
 - John C. Koshy, Bradley S. Eisemann, Nikhil Agrawal, Sheena Pimpalwar, Joseph L. Edmonds. Sildenafil for microcystic lymphatic malformations of the head and neck: A prospective study. International Journal of Pediatric Otorhinolaryngology, 79:7,2015,980-982 [doi:10.1016/j.ijporl.2015.03.034](https://doi.org/10.1016/j.ijporl.2015.03.034)
+
+Postagem original em Pharmakon [aqui]({{ page.blogger_orig_url }}).

@@ -28,3 +28,5 @@ _Esta postagem não representa sugestão de tratamento. Apenas um especialista p
 
 Leia a publicação:
 - Marcia Hogeling, Susan Adams, Orli Wargon. A Randomized Controlled Trial of Propranolol for Infantile Hemangiomas. Pediatrics Aug 2011, 128 (2) e259-e266; [doi:10.1542/peds.2010-0029](https://doi.org/10.1542/peds.2010-0029)
+
+Postagem original em Pharmakon [aqui]({{ page.blogger_orig_url }}).

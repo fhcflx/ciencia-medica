@@ -30,3 +30,5 @@ _Esta postagem não representa sugestão de tratamento. Apenas um especialista p
 
 Leia a publicação:
 - Lou, Y. , Peng, W. , Cao, Y. , Cao, D. , Xie, J. and Li, H. (2014), The effectiveness of propranolol in treating infantile haemangiomas: a meta‐analysis including 35 studies. Br J Clin Pharmacol, 78: 44-57. [doi:10.1111/bcp.12235](https://doi.org/10.1111/bcp.12235)
+
+Postagem original em Pharmakon [aqui]({{ page.blogger_orig_url }}).

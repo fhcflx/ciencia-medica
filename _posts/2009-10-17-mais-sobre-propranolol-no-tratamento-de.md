@@ -31,3 +31,5 @@ _Esta postagem não representa sugestão de tratamento. Apenas um especialista p
 
 Leia a publicação:
 - Véronique Sans, Eric Dumas de la Roque, Jérôme Berge, Nicolas Grenier, Franck Boralevi, Juliette Mazereeuw-Hautier, Dan Lipsker, Elisabeth Dupuis, Khaled Ezzedine, Pierre Vergnes, Alain Taïeb, Christine Léauté-Labrèze. Propranolol for Severe Infantile Hemangiomas: Follow-Up Report. Pediatrics Sep 2009, 124 (3) e423-e431; [doi:10.1542/peds.2008-3458](https://doi.org/10.1542/peds.2008-3458)
+
+Postagem original em Pharmakon [aqui]({{ page.blogger_orig_url }}).

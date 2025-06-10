@@ -43,3 +43,5 @@ _Esta postagem não representa sugestão de tratamento. Apenas um especialista p
 Leia a publicação:
 - Léauté-Labrèze C, Dumas de la Roque E, Hubiche T, Boralevi F, Thambo JB, Taïeb A. Propranolol for severe hemangiomas of infancy. N Engl J Med. 2008 Jun
 12;358(24):2649-51. [doi:10.1056/NEJMc0708819](https://doi.org/10.1056/NEJMc0708819)
+
+Postagem original em Pharmakon [aqui]({{ page.blogger_orig_url }}).

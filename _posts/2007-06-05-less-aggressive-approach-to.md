@@ -5,6 +5,7 @@ date: '2007-06-05T20:52:00.007-03:00'
 author: Francisco H C Felix
 tags:
 - Cancer
+- Neuroblastoma
 lang: en-us
 ref: neuroblastoma-2007
 modified_time: '2011-09-18T12:29:09.652-03:00'
