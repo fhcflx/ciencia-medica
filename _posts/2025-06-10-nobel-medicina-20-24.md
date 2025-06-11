@@ -60,7 +60,7 @@ Julius utilizou a capsaicina (composto da pimenta) para identificar o receptor T
 Pääbo fundou a paleogenômica, superando desafios técnicos para extrair e sequenciar DNA antigo. Sua equipe mostrou que humanos modernos herdaram genes de neandertais e denisovanos, influenciando imunidade, metabolismo e até resposta a doenças como COVID-19. Por exemplo, variantes de genes neandertais afetam a coagulação do sangue e a sensibilidade à dor, enquanto um gene herdado dos denisovanos aumenta a resistência à altitude em populações do Himalaia. O trabalho de Pääbo inspirou colaborações multidisciplinares entre genética, arqueologia e antropologia, e seu filho, Hugo Zeberg, também atua na área, mostrando continuidade familiar na pesquisa.
 {% include genoma.html %}
 
-![Svante Pääbo](hhttps://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Professor_Svante_Paabo_ForMemRS_%28cropped%29.jpg/250px-Professor_Svante_Paabo_ForMemRS_%28cropped%29.jpg)
+![Svante Pääbo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Professor_Svante_Paabo_ForMemRS_%28cropped%29.jpg/250px-Professor_Svante_Paabo_ForMemRS_%28cropped%29.jpg)
 *Svante Pääbo. Fonte: [Wikipedia](https://pt.wikipedia.org/wiki/Svante_P%C3%A4%C3%A4bo)*
 
 ### 2023: Tecnologia de Vacinas de mRNA
@@ -86,7 +86,7 @@ Ambros e Ruvkun, que trabalharam em paralelo e também colaboraram, mostraram qu
 
 ![Victor Ambros](https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Victor_Ambros%2C_2024_Nobel_Prize_Laureate_in_Medicine.jpg/250px-Victor_Ambros%2C_2024_Nobel_Prize_Laureate_in_Medicine.jpg)
 *Victor Ambros. Fonte: [Wikipedia](https://pt.wikipedia.org/wiki/Victor_Ambros)*
-![Gary Ruvkun](hhttps://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Gary_Ruvkun%2C_2024_Nobel_Prize_Laureate_in_Medicine_3_%28cropped%29.jpg/250px-Gary_Ruvkun%2C_2024_Nobel_Prize_Laureate_in_Medicine_3_%28cropped%29.jpg)
+![Gary Ruvkun](https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Gary_Ruvkun%2C_2024_Nobel_Prize_Laureate_in_Medicine_3_%28cropped%29.jpg/250px-Gary_Ruvkun%2C_2024_Nobel_Prize_Laureate_in_Medicine_3_%28cropped%29.jpg)
 *Gary Ruvkun. Fonte: [Wikipedia](https://pt.wikipedia.org/wiki/Gary_Ruvkun)*
 
 ## O que une os temas e os laureados?

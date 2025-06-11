@@ -91,7 +91,7 @@ Ambros and Ruvkun, who worked in parallel and also collaborated, showed that sma
 ![Victor Ambros](https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Victor_Ambros%2C_2024_Nobel_Prize_Laureate_in_Medicine.jpg/250px-Victor_Ambros%2C_2024_Nobel_Prize_Laureate_in_Medicine.jpg)
 *Victor Ambros. Source: [Wikipedia](https://en.wikipedia.org/wiki/Victor_Ambros)*
 
-![Gary Ruvkun](hhttps://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Gary_Ruvkun%2C_2024_Nobel_Prize_Laureate_in_Medicine_3_%28cropped%29.jpg/250px-Gary_Ruvkun%2C_2024_Nobel_Prize_Laureate_in_Medicine_3_%28cropped%29.jpg)
+![Gary Ruvkun](https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Gary_Ruvkun%2C_2024_Nobel_Prize_Laureate_in_Medicine_3_%28cropped%29.jpg/250px-Gary_Ruvkun%2C_2024_Nobel_Prize_Laureate_in_Medicine_3_%28cropped%29.jpg)
 *Gary Ruvkun. Source: [Wikipedia](https://en.wikipedia.org/wiki/Gary_Ruvkun)*
 
 ## What Unites the Themes and Laureates?
