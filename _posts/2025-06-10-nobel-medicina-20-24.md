@@ -30,12 +30,11 @@ Nos últimos cinco anos, o Prêmio Nobel de Fisiologia ou Medicina reconheceu de
 - **Tema:** Identificação do vírus da hepatite C, permitindo testes sanguíneos e terapias curativas para uma das principais causas de hepatite crônica e câncer de fígado.
 
 Antes dessas descobertas, milhões de pessoas eram infectadas por transfusões de sangue contaminado, sem diagnóstico preciso. O trabalho dos laureados permitiu o desenvolvimento de testes altamente sensíveis, tornando possível eliminar a transmissão do vírus por transfusões e levando ao desenvolvimento de antivirais que hoje curam a hepatite C em mais de 95% dos casos. O impacto é global, com a Organização Mundial da Saúde estabelecendo a meta de erradicação da hepatite C como problema de saúde pública.
-{% include gene.html %}
-{% include oms-pt.html %}
+{% include gene.html %}{% include oms-pt.html %}
 
-![Harvey J. Alter](https://upload.wikimedia.org/wikipedia/commons/b/ba/Dr._Harvey_J._Alter_wins_2020_Nobel_Prize_%28cropped%29.jpg)
+![Harvey J. Alter](https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Dr._Harvey_J._Alter_wins_2020_Nobel_Prize_%28cropped%29.jpg/250px-Dr._Harvey_J._Alter_wins_2020_Nobel_Prize_%28cropped%29.jpg)
 *Harvey J. Alter. Fonte: [Wikipedia](https://pt.wikipedia.org/wiki/Harvey_J._Alter)*
-![Michael Houghton](https://upload.wikimedia.org/wikipedia/commons/e/e4/Prof_Michael_Houghton.jpg)
+![Michael Houghton](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Prof_Michael_Houghton.jpg/250px-Prof_Michael_Houghton.jpg)
 *Michael Houghton. Fonte: [Wikipedia](https://pt.wikipedia.org/wiki/Michael_Houghton)*
 ![Charles M. Rice](https://upload.wikimedia.org/wikipedia/commons/6/6d/Charles_M._Rice.jpg)
 *Charles M. Rice. Fonte: [Wikipedia](https://pt.wikipedia.org/wiki/Charles_M._Rice)*

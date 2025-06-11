@@ -30,15 +30,14 @@ Over the last five years, the Nobel Prize in Physiology or Medicine has recogniz
 - **Theme:** Identification of the hepatitis C virus, enabling blood tests and curative therapies for a major cause of chronic hepatitis and liver cancer.
 
 Before these discoveries, millions were infected through contaminated blood transfusions, with no precise diagnosis. The laureates' work enabled highly sensitive blood tests, eliminating transfusion-related transmission and leading to antivirals that now cure hepatitis C in over 95% of cases. The global impact is profound, with the World Health Organization targeting hepatitis C elimination as a public health threat.
-{% include gene-en.html %}
-{% include who-en.html %}
+{% include gene-en.html %}{% include who-en.html %}
 
-- ![Harvey J. Alter](https://upload.wikimedia.org/wikipedia/commons/b/ba/Dr._Harvey_J._Alter_wins_2020_Nobel_Prize_%28cropped%29.jpg)
-  *Harvey J. Alter. Source: [Wikipedia](https://en.wikipedia.org/wiki/Harvey_J._Alter)*
-- ![Michael Houghton](https://upload.wikimedia.org/wikipedia/commons/e/e4/Prof_Michael_Houghton.jpg)
-  *Michael Houghton. Source: [Wikipedia](https://en.wikipedia.org/wiki/Michael_Houghton)*
+- ![Harvey J. Alter](https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Dr._Harvey_J._Alter_wins_2020_Nobel_Prize_%28cropped%29.jpg/250px-Dr._Harvey_J._Alter_wins_2020_Nobel_Prize_%28cropped%29.jpg)
+*Harvey J. Alter. Source: [Wikipedia](https://en.wikipedia.org/wiki/Harvey_J._Alter)*
+![Michael Houghton](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Prof_Michael_Houghton.jpg/250px-Prof_Michael_Houghton.jpg)
+*Michael Houghton. Source: [Wikipedia](https://en.wikipedia.org/wiki/Michael_Houghton)*
 - ![Charles M. Rice](https://upload.wikimedia.org/wikipedia/commons/6/6d/Charles_M._Rice.jpg)
-  *Charles M. Rice. Source: [Wikipedia](https://en.wikipedia.org/wiki/Charles_M._Rice)*
+*Charles M. Rice. Source: [Wikipedia](https://en.wikipedia.org/wiki/Charles_M._Rice)*
 
 ### 2021: Receptors for Temperature and Touch
 
