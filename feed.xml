@@ -6,8 +6,8 @@
 </description>
     <link>https://fhcflx.github.io/ciencia-medica/</link>
     <atom:link href="https://fhcflx.github.io/ciencia-medica/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 11 Jun 2025 16:23:11 -0300</pubDate>
-    <lastBuildDate>Wed, 11 Jun 2025 16:23:11 -0300</lastBuildDate>
+    <pubDate>Wed, 11 Jun 2025 19:37:35 -0300</pubDate>
+    <lastBuildDate>Wed, 11 Jun 2025 19:37:35 -0300</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
     
       <item>
@@ -67,7 +67,10 @@
   &lt;li&gt;&lt;strong&gt;Theme:&lt;/strong&gt; Identification of the hepatitis C virus, enabling blood tests and curative therapies for a major cause of chronic hepatitis and liver cancer.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Before these discoveries, millions were infected through contaminated blood transfusions, with no precise diagnosis. The laureates’ work enabled highly sensitive blood tests, eliminating transfusion-related transmission and leading to antivirals that now cure hepatitis C in over 95% of cases. The global impact is profound, with the World Health Organization targeting hepatitis C elimination as a public health threat.
+&lt;p&gt;Before these discoveries, millions were infected through contaminated blood transfusions, with no precise diagnosis. The laureates’ work enabled highly sensitive blood tests, eliminating transfusion-related transmission and leading to antivirals that now cure hepatitis C in over 95% of cases. &lt;label for=&quot;antiviral-en&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;antiviral-en&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;Antiviral: a type of medication used to treat viral infections by inhibiting the development or replication of viruses. Antivirals are distinct from antibiotics, which target bacteria.&lt;/span&gt;
+ The global impact is profound, with the World Health Organization targeting hepatitis C elimination as a public health threat.
 &lt;label for=&quot;gene-en&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
 &lt;input type=&quot;checkbox&quot; id=&quot;gene-en&quot; class=&quot;margin-toggle&quot; /&gt;
 &lt;span class=&quot;sidenote&quot;&gt;Gene: a segment of DNA that encodes a molecule (usually a protein) with a specific function. Genes are the units of inheritance first hypothesized by Mendel and named by the Danish botanist Wilhelm Johannsen in 1909. Genes make up only a small fraction of a cell’s DNA; most DNA does not code for proteins and is not part of genes. The phrase “one gene, one protein” summarizes the central dogma of biology: genetic information is transferred from DNA to RNA and then to a protein.&lt;/span&gt;
@@ -91,7 +94,10 @@
   &lt;li&gt;&lt;strong&gt;Theme:&lt;/strong&gt; Discovery of how our bodies sense temperature and mechanical stimuli, through TRP and Piezo receptors.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Julius used capsaicin (the spicy compound in chili peppers) to identify the TRPV1 receptor, responsible for heat sensation. Patapoutian discovered Piezo1 and Piezo2 receptors, essential for touch and pressure. These findings opened new fields in sensory neuroscience, directly impacting the development of painkillers and treatments for chronic pain, and explaining rare genetic diseases related to proprioception. Julius and Patapoutian also collaborated and co-published, highlighting the interconnectedness of the scientific community.
+&lt;p&gt;Julius used capsaicin (the spicy compound in chili peppers) to identify the TRPV1 receptor, responsible for heat sensation. Patapoutian discovered Piezo1 and Piezo2 receptors, essential for touch and pressure. These findings opened new fields in sensory neuroscience, directly impacting the development of painkillers and treatments for chronic pain, and explaining rare genetic diseases related to proprioception. &lt;label for=&quot;pain-en&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;pain-en&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;Pain: an unpleasant sensory and emotional experience associated with actual or potential tissue damage. Pain can be acute (short-term) or chronic (long-lasting), and is a major focus of medical research and treatment.&lt;/span&gt;
+ Julius and Patapoutian also collaborated and co-published, highlighting the interconnectedness of the scientific community.
 &lt;label for=&quot;receptor-en&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
 &lt;input type=&quot;checkbox&quot; id=&quot;receptor-en&quot; class=&quot;margin-toggle&quot; /&gt;
 &lt;span class=&quot;sidenote&quot;&gt;Receptor: a protein molecule, usually found on the surface of a cell, that receives and responds to chemical signals from outside the cell. Receptors are essential for communication between cells and for the body’s response to hormones, neurotransmitters, and other signaling molecules.&lt;/span&gt;&lt;/p&gt;
@@ -109,7 +115,10 @@
   &lt;li&gt;&lt;strong&gt;Theme:&lt;/strong&gt; Sequencing the Neanderthal genome and discovering Denisovans, revealing interbreeding with Homo sapiens and transforming our understanding of human evolution.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Pääbo founded paleogenomics, overcoming technical challenges to extract and sequence ancient DNA. His team showed that modern humans inherited genes from Neanderthals and Denisovans, influencing immunity, metabolism, and even responses to diseases like COVID-19. For example, Neanderthal gene variants affect blood clotting (&lt;em&gt;F5&lt;/em&gt;), pain sensitivity (&lt;em&gt;SCN9A&lt;/em&gt;), and antiviral immunity (OAS gene cluster), while a Denisovan gene (&lt;em&gt;EPAS1&lt;/em&gt;) increases altitude tolerance in Himalayan populations. Pääbo’s work inspired multidisciplinary collaborations, and his son, Hugo Zeberg, also works in the field, showing family continuity in research.
+&lt;p&gt;Pääbo founded paleogenomics, overcoming technical challenges to extract and sequence ancient DNA. His team showed that modern humans inherited genes from Neanderthals and Denisovans, influencing immunity, metabolism, and even responses to diseases like COVID-19. &lt;label for=&quot;immune-en&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;immune-en&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;Immune system: the complex network of cells, tissues, and organs that defends the body against infections and diseases. It recognizes and neutralizes pathogens such as bacteria, viruses, and other foreign substances.&lt;/span&gt;
+ For example, Neanderthal gene variants affect blood clotting (&lt;em&gt;F5&lt;/em&gt;), pain sensitivity (&lt;em&gt;SCN9A&lt;/em&gt;), and antiviral immunity (OAS gene cluster), while a Denisovan gene (&lt;em&gt;EPAS1&lt;/em&gt;) increases altitude tolerance in Himalayan populations. Pääbo’s work inspired multidisciplinary collaborations, and his son, Hugo Zeberg, also works in the field, showing family continuity in research.
 &lt;label for=&quot;genome-en&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
 &lt;input type=&quot;checkbox&quot; id=&quot;genome-en&quot; class=&quot;margin-toggle&quot; /&gt;
 &lt;span class=&quot;sidenote&quot;&gt;Genome: the complete genetic material of an organism. It includes all genes, non-coding DNA sequences (which are not genes), and also the genetic material in organelles such as mitochondria. For example, the 22,000 human genes make up less than 2% of the human genome.&lt;/span&gt;&lt;/p&gt;
@@ -129,7 +138,7 @@
 &lt;input type=&quot;checkbox&quot; id=&quot;mrna-en&quot; class=&quot;margin-toggle&quot; /&gt;
 &lt;span class=&quot;sidenote&quot;&gt;mRNA (messenger RNA): a type of RNA that carries genetic information from DNA to the cell’s protein-making machinery (ribosomes). mRNA serves as the template for protein synthesis, playing a central role in the expression of genetic information.&lt;/span&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Katalin_Karik%C3%B3_at_the_United_States_Embassy_Sweden%2C_2023_Nobel_Reception_%28cropped%29.jpg/250px-Katalin_Karik%C3%B3_at_the_United_States_Embassy_Sweden%2C_2023_Nobel_Reception_%28cropped%29.jpg&quot; alt=&quot;Katalin Karikó&quot; /&gt;
+&lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Katalin_Karik%C3%B3_at_the_United_States_Embassy_Sweden%2C_2023_Nobel_Reception_%28cropped%29.jpg/250px-Katalin_Karik%C3%BÓ_at_the_United_States_Embassy_Sweden%2C_2023_Nobel_Reception_%28cropped%29.jpg&quot; alt=&quot;Katalin Karikó&quot; /&gt;
 &lt;em&gt;Katalin Karikó. Source: &lt;a href=&quot;https://en.wikipedia.org/wiki/Katalin_Karik%C3%B3&quot;&gt;Wikipedia&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Drew_Weissman%2C_2023_Nobel_Laureate_in_Medicine_%28cropped%29.jpg/250px-Drew_Weissman%2C_2023_Nobel_Laureate_in_Medicine_%28cropped%29.jpg&quot; alt=&quot;Drew Weissman&quot; /&gt;
@@ -269,7 +278,10 @@
   &lt;li&gt;&lt;strong&gt;Tema:&lt;/strong&gt; Identificação do vírus da hepatite C, permitindo testes sanguíneos e terapias curativas para uma das principais causas de hepatite crônica e câncer de fígado.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Antes dessas descobertas, milhões de pessoas eram infectadas por transfusões de sangue contaminado, sem diagnóstico preciso. O trabalho dos laureados permitiu o desenvolvimento de testes altamente sensíveis, tornando possível eliminar a transmissão do vírus por transfusões e levando ao desenvolvimento de antivirais que hoje curam a hepatite C em mais de 95% dos casos. O impacto é global, com a Organização Mundial da Saúde estabelecendo a meta de erradicação da hepatite C como problema de saúde pública.
+&lt;p&gt;Antes dessas descobertas, milhões de pessoas eram infectadas por transfusões de sangue contaminado, sem diagnóstico preciso. O trabalho dos laureados permitiu o desenvolvimento de testes altamente sensíveis, tornando possível eliminar a transmissão do vírus por transfusões e levando ao desenvolvimento de antivirais que hoje curam a hepatite C em mais de 95% dos casos. &lt;label for=&quot;antiviral-pt&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;antiviral-pt&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;Antiviral: medicamento utilizado para tratar infecções virais, inibindo o desenvolvimento ou a replicação dos vírus. Antivirais são diferentes de antibióticos, que atuam contra bactérias.&lt;/span&gt;
+ O impacto é global, com a Organização Mundial da Saúde estabelecendo a meta de erradicação da hepatite C como problema de saúde pública.
 &lt;label for=&quot;gene&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
 &lt;input type=&quot;checkbox&quot; id=&quot;gene&quot; class=&quot;margin-toggle&quot; /&gt;
 &lt;span class=&quot;sidenote&quot;&gt;Gene (&lt;em&gt;gr gonos&lt;/em&gt; = geração, semente): trecho de DNA que
@@ -285,10 +297,12 @@
 &lt;span class=&quot;sidenote&quot;&gt;Organização Mundial da Saúde (OMS): agência especializada das Nações Unidas responsável pela saúde pública internacional. Fundada em 1948, a OMS coordena respostas globais, define padrões e fornece orientações sobre saúde, prevenção e controle de doenças.&lt;/span&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Dr._Harvey_J._Alter_wins_2020_Nobel_Prize_%28cropped%29.jpg/250px-Dr._Harvey_J._Alter_wins_2020_Nobel_Prize_%28cropped%29.jpg&quot; alt=&quot;Harvey J. Alter&quot; /&gt;
-&lt;em&gt;Harvey J. Alter. Fonte: &lt;a href=&quot;https://pt.wikipedia.org/wiki/Harvey_J._Alter&quot;&gt;Wikipedia&lt;/a&gt;&lt;/em&gt;
-&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Prof_Michael_Houghton.jpg/250px-Prof_Michael_Houghton.jpg&quot; alt=&quot;Michael Houghton&quot; /&gt;
-&lt;em&gt;Michael Houghton. Fonte: &lt;a href=&quot;https://pt.wikipedia.org/wiki/Michael_Houghton&quot;&gt;Wikipedia&lt;/a&gt;&lt;/em&gt;
-&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/6/6d/Charles_M._Rice.jpg&quot; alt=&quot;Charles M. Rice&quot; /&gt;
+&lt;em&gt;Harvey J. Alter. Fonte: &lt;a href=&quot;https://pt.wikipedia.org/wiki/Harvey_J._Alter&quot;&gt;Wikipedia&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Prof_Michael_Houghton.jpg/250px-Prof_Michael_Houghton.jpg&quot; alt=&quot;Michael Houghton&quot; /&gt;
+&lt;em&gt;Michael Houghton. Fonte: &lt;a href=&quot;https://pt.wikipedia.org/wiki/Michael_Houghton&quot;&gt;Wikipedia&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/6/6d/Charles_M._Rice.jpg&quot; alt=&quot;Charles M. Rice&quot; /&gt;
 &lt;em&gt;Charles M. Rice. Fonte: &lt;a href=&quot;https://pt.wikipedia.org/wiki/Charles_M._Rice&quot;&gt;Wikipedia&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;2021-receptores-de-temperatura-e-tato&quot;&gt;2021: Receptores de Temperatura e Tato&lt;/h3&gt;
@@ -298,7 +312,10 @@
   &lt;li&gt;&lt;strong&gt;Tema:&lt;/strong&gt; Descoberta de como o corpo sente temperatura e estímulos mecânicos, através dos receptores TRP e Piezo.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Julius utilizou a capsaicina (composto da pimenta) para identificar o receptor TRPV1, responsável pela sensação de calor. Patapoutian identificou os receptores Piezo1 e Piezo2, essenciais para a sensação de toque e pressão. Essas descobertas abriram novas áreas na neurociência sensorial, com impacto direto no desenvolvimento de analgésicos e tratamentos para dor crônica, além de explicar doenças genéticas raras ligadas à propriocepção. Julius e Patapoutian também colaboraram e publicaram juntos em alguns momentos, mostrando a interconexão da comunidade científica.
+&lt;p&gt;Julius utilizou a capsaicina (composto da pimenta) para identificar o receptor TRPV1, responsável pela sensação de calor. Patapoutian identificou os receptores Piezo1 e Piezo2, essenciais para a sensação de toque e pressão. Essas descobertas abriram novas áreas na neurociência sensorial, com impacto direto no desenvolvimento de analgésicos e tratamentos para dor crônica, além de explicar doenças genéticas raras ligadas à propriocepção. &lt;label for=&quot;pain-pt&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;pain-pt&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;Dor: experiência sensorial e emocional desagradável associada a dano real ou potencial aos tecidos. Pode ser aguda (curta duração) ou crônica (longa duração), sendo um dos principais focos de pesquisa e tratamento em medicina.&lt;/span&gt;
+ Julius e Patapoutian também colaboraram e publicaram juntos em alguns momentos, mostrando a interconexão da comunidade científica.
 &lt;label for=&quot;receptor-pt&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
 &lt;input type=&quot;checkbox&quot; id=&quot;receptor-pt&quot; class=&quot;margin-toggle&quot; /&gt;
 &lt;span class=&quot;sidenote&quot;&gt;Receptor: molécula (geralmente uma proteína) presente na superfície ou interior das células, responsável por receber e responder a sinais químicos do ambiente. Receptores são essenciais para a comunicação entre células e para a resposta do organismo a hormônios, neurotransmissores e outros sinais.&lt;/span&gt;&lt;/p&gt;
@@ -315,7 +332,10 @@
   &lt;li&gt;&lt;strong&gt;Tema:&lt;/strong&gt; Sequenciamento do genoma neandertal e descoberta dos denisovanos, revelando cruzamentos com Homo sapiens e transformando a compreensão da evolução humana.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Pääbo fundou a paleogenômica, superando desafios técnicos para extrair e sequenciar DNA antigo. Sua equipe mostrou que humanos modernos herdaram genes de neandertais e denisovanos, influenciando imunidade, metabolismo e até resposta a doenças como COVID-19. Por exemplo, variantes de genes neandertais afetam a coagulação do sangue e a sensibilidade à dor, enquanto um gene herdado dos denisovanos aumenta a resistência à altitude em populações do Himalaia. O trabalho de Pääbo inspirou colaborações multidisciplinares entre genética, arqueologia e antropologia, e seu filho, Hugo Zeberg, também atua na área, mostrando continuidade familiar na pesquisa.
+&lt;p&gt;Pääbo fundou a paleogenômica, superando desafios técnicos para extrair e sequenciar DNA antigo. Sua equipe mostrou que humanos modernos herdaram genes de neandertais e denisovanos, influenciando imunidade, metabolismo e até resposta a doenças como COVID-19. &lt;label for=&quot;immune-pt&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;immune-pt&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;Sistema imunológico: rede complexa de células, tecidos e órgãos que defende o organismo contra infecções e doenças. Reconhece e neutraliza patógenos como bactérias, vírus e outras substâncias estranhas.&lt;/span&gt;
+ Por exemplo, variantes de genes neandertais afetam a coagulação do sangue e a sensibilidade à dor, enquanto um gene herdado dos denisovanos aumenta a resistência à altitude em populações do Himalaia. O trabalho de Pääbo inspirou colaborações multidisciplinares entre genética, arqueologia e antropologia, e seu filho, Hugo Zeberg, também atua na área, mostrando continuidade familiar na pesquisa.
 &lt;label for=&quot;genoma&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
 &lt;input type=&quot;checkbox&quot; id=&quot;genoma&quot; class=&quot;margin-toggle&quot; /&gt;
 &lt;span class=&quot;sidenote&quot;&gt;Genoma: material genético de um organismo. Inclui todos os
@@ -339,9 +359,10 @@
 &lt;input type=&quot;checkbox&quot; id=&quot;mrna-pt&quot; class=&quot;margin-toggle&quot; /&gt;
 &lt;span class=&quot;sidenote&quot;&gt;mRNA (RNA mensageiro): tipo de RNA que carrega a informação genética do DNA até a maquinaria celular responsável pela produção de proteínas (ribossomos). O mRNA serve como molde para a síntese de proteínas, desempenhando papel central na expressão gênica.&lt;/span&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Katalin_Karik%C3%B3_at_the_United_States_Embassy_Sweden%2C_2023_Nobel_Reception_%28cropped%29.jpg/250px-Katalin_Karik%C3%B3_at_the_United_States_Embassy_Sweden%2C_2023_Nobel_Reception_%28cropped%29.jpg&quot; alt=&quot;Katalin Karikó&quot; /&gt;
-&lt;em&gt;Katalin Karikó. Fonte: &lt;a href=&quot;https://pt.wikipedia.org/wiki/Katalin_Karik%C3%B3&quot;&gt;Wikipedia&lt;/a&gt;&lt;/em&gt;
-&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Drew_Weissman%2C_2023_Nobel_Laureate_in_Medicine_%28cropped%29.jpg/250px-Drew_Weissman%2C_2023_Nobel_Laureate_in_Medicine_%28cropped%29.jpg&quot; alt=&quot;Drew Weissman&quot; /&gt;
+&lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Katalin_Karik%C3%B3_at_the_United_States_Embassy_Sweden%2C_2023_Nobel_Reception_%28cropped%29.jpg/250px-Katalin_Karik%C3%BÓ_at_the_United_States_Embassy_Sweden%2C_2023_Nobel_Reception_%28cropped%29.jpg&quot; alt=&quot;Katalin Karikó&quot; /&gt;
+&lt;em&gt;Katalin Karikó. Fonte: &lt;a href=&quot;https://pt.wikipedia.org/wiki/Katalin_Karik%C3%B3&quot;&gt;Wikipedia&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Drew_Weissman%2C_2023_Nobel_Laureate_in_Medicine_%28cropped%29.jpg/250px-Drew_Weissman%2C_2023_Nobel_Laureate_in_Medicine_%28cropped%29.jpg&quot; alt=&quot;Drew Weissman&quot; /&gt;
 &lt;em&gt;Drew Weissman. Fonte: &lt;a href=&quot;https://pt.wikipedia.org/wiki/Drew_Weissman&quot;&gt;Wikipedia&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;2024-descoberta-do-microrna-e-regulação-gênica&quot;&gt;2024: Descoberta do microRNA e Regulação Gênica&lt;/h3&gt;
@@ -367,8 +388,9 @@
 &lt;/span&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Victor_Ambros%2C_2024_Nobel_Prize_Laureate_in_Medicine.jpg/250px-Victor_Ambros%2C_2024_Nobel_Prize_Laureate_in_Medicine.jpg&quot; alt=&quot;Victor Ambros&quot; /&gt;
-&lt;em&gt;Victor Ambros. Fonte: &lt;a href=&quot;https://pt.wikipedia.org/wiki/Victor_Ambros&quot;&gt;Wikipedia&lt;/a&gt;&lt;/em&gt;
-&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Gary_Ruvkun%2C_2024_Nobel_Prize_Laureate_in_Medicine_3_%28cropped%29.jpg/250px-Gary_Ruvkun%2C_2024_Nobel_Prize_Laureate_in_Medicine_3_%28cropped%29.jpg&quot; alt=&quot;Gary Ruvkun&quot; /&gt;
+&lt;em&gt;Victor Ambros. Fonte: &lt;a href=&quot;https://pt.wikipedia.org/wiki/Victor_Ambros&quot;&gt;Wikipedia&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Gary_Ruvkun%2C_2024_Nobel_Prize_Laureate_in_Medicine_3_%28cropped%29.jpg/250px-Gary_Ruvkun%2C_2024_Nobel_Prize_Laureate_in_Medicine_3_%28cropped%29.jpg&quot; alt=&quot;Gary Ruvkun&quot; /&gt;
 &lt;em&gt;Gary Ruvkun. Fonte: &lt;a href=&quot;https://pt.wikipedia.org/wiki/Gary_Ruvkun&quot;&gt;Wikipedia&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;o-que-une-os-temas-e-os-laureados&quot;&gt;O que une os temas e os laureados?&lt;/h2&gt;
