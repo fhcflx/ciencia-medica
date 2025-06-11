@@ -11,9 +11,8 @@ lang: pt-br
 ref: nobel20-24
 ---
 
-# Prêmio Nobel de Fisiologia ou Medicina: 2020–2024
-
 Nos últimos cinco anos, o Prêmio Nobel de Fisiologia ou Medicina reconheceu descobertas que revolucionaram a genética, a biologia molecular e a medicina. Veja abaixo uma tabela-resumo dos laureados, seus países e os principais temas:
+  <!--more-->
 
 | Ano  | Tema                                         | Laureados                                               | País(es)           |
 |------|----------------------------------------------|---------------------------------------------------------|--------------------|
@@ -32,9 +31,9 @@ Nos últimos cinco anos, o Prêmio Nobel de Fisiologia ou Medicina reconheceu de
 
 Antes dessas descobertas, milhões de pessoas eram infectadas por transfusões de sangue contaminado, sem diagnóstico preciso. O trabalho dos laureados permitiu o desenvolvimento de testes altamente sensíveis, tornando possível eliminar a transmissão do vírus por transfusões e levando ao desenvolvimento de antivirais que hoje curam a hepatite C em mais de 95% dos casos. O impacto é global, com a Organização Mundial da Saúde estabelecendo a meta de erradicação da hepatite C como problema de saúde pública. 
 
-- ![Harvey J. Alter](https://upload.wikimedia.org/wikipedia/commons/2/2d/Harvey_J._Alter_NIH.jpg)
-- ![Michael Houghton](https://upload.wikimedia.org/wikipedia/commons/2/2e/Michael_Houghton_2017.jpg)
-- ![Charles M. Rice](https://upload.wikimedia.org/wikipedia/commons/2/2e/Charles_M._Rice_2013.jpg)
+- ![Harvey J. Alter](https://upload.wikimedia.org/wikipedia/commons/b/ba/Dr._Harvey_J._Alter_wins_2020_Nobel_Prize_%28cropped%29.jpg)
+- ![Michael Houghton](https://upload.wikimedia.org/wikipedia/commons/e/e4/Prof_Michael_Houghton.jpg)
+- ![Charles M. Rice](https://upload.wikimedia.org/wikipedia/commons/6/6d/Charles_M._Rice.jpg)
 
 ### 2021: Receptores de Temperatura e Tato
 
@@ -43,8 +42,8 @@ Antes dessas descobertas, milhões de pessoas eram infectadas por transfusões d
 
 Julius utilizou a capsaicina (composto da pimenta) para identificar o receptor TRPV1, responsável pela sensação de calor. Patapoutian identificou os receptores Piezo1 e Piezo2, essenciais para a sensação de toque e pressão. Essas descobertas abriram novas áreas na neurociência sensorial, com impacto direto no desenvolvimento de analgésicos e tratamentos para dor crônica, além de explicar doenças genéticas raras ligadas à propriocepção. Julius e Patapoutian também colaboraram e publicaram juntos em alguns momentos, mostrando a interconexão da comunidade científica.
 
-- ![David Julius](https://upload.wikimedia.org/wikipedia/commons/2/2e/David_Julius_2019.jpg)
-- ![Ardem Patapoutian](https://upload.wikimedia.org/wikipedia/commons/2/2e/Ardem_Patapoutian_2019.jpg)
+- ![David Julius](https://upload.wikimedia.org/wikipedia/commons/4/49/Dr_David_Julius_by_christopher_michel_in_2022_04_%28cropped2%29.jpg)
+- ![Ardem Patapoutian](https://upload.wikimedia.org/wikipedia/commons/e/e9/Ardem_Patapoutian_at_Scripps_in_2022_03.jpg)
 
 ### 2022: Genomas de Hominídeos Extintos e Evolução Humana
 
@@ -53,7 +52,7 @@ Julius utilizou a capsaicina (composto da pimenta) para identificar o receptor T
 
 Pääbo fundou a paleogenômica, superando desafios técnicos para extrair e sequenciar DNA antigo. Sua equipe mostrou que humanos modernos herdaram genes de neandertais e denisovanos, influenciando imunidade, metabolismo e até resposta a doenças como COVID-19. Por exemplo, variantes de genes neandertais afetam a coagulação do sangue e a sensibilidade à dor, enquanto um gene herdado dos denisovanos aumenta a resistência à altitude em populações do Himalaia. O trabalho de Pääbo inspirou colaborações multidisciplinares entre genética, arqueologia e antropologia, e seu filho, Hugo Zeberg, também atua na área, mostrando continuidade familiar na pesquisa.
 
-- ![Svante Pääbo](https://upload.wikimedia.org/wikipedia/commons/2/2e/Svante_Paabo_2016.jpg)
+- ![Svante Pääbo](https://upload.wikimedia.org/wikipedia/commons/1/14/Professor_Svante_Paabo_ForMemRS.jpg)
 
 ### 2023: Tecnologia de Vacinas de mRNA
 
@@ -62,8 +61,8 @@ Pääbo fundou a paleogenômica, superando desafios técnicos para extrair e seq
 
 Karikó e Weissman enfrentaram anos de descrédito e falta de financiamento, mas sua persistência levou à modificação do mRNA para evitar resposta inflamatória, tornando possível o uso clínico. A tecnologia foi rapidamente aplicada nas vacinas contra COVID-19, batendo recorde de velocidade no desenvolvimento de uma vacina eficaz e salvando milhões de vidas. Hoje, a plataforma de mRNA está sendo testada para vacinas contra câncer, HIV e doenças autoimunes. Karikó e Weissman colaboraram diretamente, e suas trajetórias inspiram cientistas sobre a importância da resiliência e da colaboração internacional.
 
-- ![Katalin Karikó](https://upload.wikimedia.org/wikipedia/commons/2/2e/Katalin_Karik%C3%B3_2021.jpg)
-- ![Drew Weissman](https://upload.wikimedia.org/wikipedia/commons/2/2e/Drew_Weissman_2021.jpg)
+- ![Katalin Karikó](https://upload.wikimedia.org/wikipedia/commons/3/3e/Katalin_Karik%C3%B3_at_the_United_States_Embassy_Sweden%2C_2023_Nobel_Reception_%28cropped%29.jpg)
+- ![Drew Weissman](https://upload.wikimedia.org/wikipedia/commons/7/7b/Drew_Weissman_Life_Science_medalist.jpg)
 
 ### 2024: Descoberta do microRNA e Regulação Gênica
 
@@ -72,8 +71,8 @@ Karikó e Weissman enfrentaram anos de descrédito e falta de financiamento, mas
 
 Ambros e Ruvkun, que trabalharam em paralelo e também colaboraram, mostraram que pequenos RNAs não codificantes controlam a expressão de genes em animais e humanos. O campo do microRNA explodiu, revelando seu papel em câncer, doenças cardíacas, neurodegenerativas e imunidade. A primeira terapia de interferência de RNA aprovada para uso clínico (patisiran, para amiloidose hereditária) é um exemplo direto do impacto dessas descobertas. Terapias baseadas em microRNA já estão em testes clínicos, e a descoberta mudou a visão sobre o chamado "DNA lixo". Ambos os laureados têm histórico de colaboração com outros ganhadores do Nobel, como Robert Horvitz.
 
-- ![Victor Ambros](https://upload.wikimedia.org/wikipedia/commons/2/2e/Victor_Ambros_2016.jpg)
-- ![Gary Ruvkun](https://upload.wikimedia.org/wikipedia/commons/2/2e/Gary_Ruvkun_2016.jpg)
+- ![Victor Ambros](https://upload.wikimedia.org/wikipedia/commons/8/8e/Victor_Ambros.jpg)
+- ![Gary Ruvkun](https://upload.wikimedia.org/wikipedia/commons/c/ce/Gary_Ruvkun%2C_2024_Nobel_Prize_Laureate_in_Medicine.jpg)
 
 ## O que une os temas e os laureados?
 

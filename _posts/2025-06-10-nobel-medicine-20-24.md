@@ -11,9 +11,8 @@ lang: en-us
 ref: nobel20-24
 ---
 
-# Nobel Prize in Physiology or Medicine: 2020–2024
-
 Over the last five years, the Nobel Prize in Physiology or Medicine has recognized discoveries that have revolutionized our understanding of genetics, molecular biology, and medicine. Below is a summary table of the laureates, their countries, and the main themes:
+  <!--more-->
 
 | Year | Theme | Laureates | Country |
 |------|-------|-----------|---------|
@@ -26,34 +25,54 @@ Over the last five years, the Nobel Prize in Physiology or Medicine has recogniz
 ## Laureates and Themes
 
 ### 2020: Discovery of Hepatitis C Virus
+
 - **Laureates:** Harvey J. Alter (USA), Michael Houghton (UK/Canada), Charles M. Rice (USA)
 - **Theme:** Identification of the hepatitis C virus, enabling blood tests and curative therapies for a major cause of chronic hepatitis and liver cancer.
-- ![Harvey J. Alter](https://upload.wikimedia.org/wikipedia/commons/2/2d/Harvey_J._Alter_NIH.jpg)
-- ![Michael Houghton](https://upload.wikimedia.org/wikipedia/commons/2/2e/Michael_Houghton_2017.jpg)
-- ![Charles M. Rice](https://upload.wikimedia.org/wikipedia/commons/2/2e/Charles_M._Rice_2013.jpg)
+
+Before these discoveries, millions were infected through contaminated blood transfusions, with no precise diagnosis. The laureates' work enabled highly sensitive blood tests, eliminating transfusion-related transmission and leading to antivirals that now cure hepatitis C in over 95% of cases. The global impact is profound, with the World Health Organization targeting hepatitis C elimination as a public health threat. 
+
+- ![Harvey J. Alter](https://upload.wikimedia.org/wikipedia/commons/b/ba/Dr._Harvey_J._Alter_wins_2020_Nobel_Prize_%28cropped%29.jpg)
+- ![Michael Houghton](https://upload.wikimedia.org/wikipedia/commons/e/e4/Prof_Michael_Houghton.jpg)
+- ![Charles M. Rice](https://upload.wikimedia.org/wikipedia/commons/6/6d/Charles_M._Rice.jpg)
 
 ### 2021: Receptors for Temperature and Touch
+
 - **Laureates:** David Julius (USA), Ardem Patapoutian (Lebanon/USA)
 - **Theme:** Discovery of how our bodies sense temperature and mechanical stimuli, through TRP and Piezo receptors.
-- ![David Julius](https://upload.wikimedia.org/wikipedia/commons/2/2e/David_Julius_2019.jpg)
-- ![Ardem Patapoutian](https://upload.wikimedia.org/wikipedia/commons/2/2e/Ardem_Patapoutian_2019.jpg)
+
+Julius used capsaicin (the spicy compound in chili peppers) to identify the TRPV1 receptor, responsible for heat sensation. Patapoutian discovered Piezo1 and Piezo2 receptors, essential for touch and pressure. These findings opened new fields in sensory neuroscience, directly impacting the development of painkillers and treatments for chronic pain, and explaining rare genetic diseases related to proprioception. Julius and Patapoutian also collaborated and co-published, highlighting the interconnectedness of the scientific community.
+
+- ![David Julius](https://upload.wikimedia.org/wikipedia/commons/4/49/Dr_David_Julius_by_christopher_michel_in_2022_04_%28cropped2%29.jpg)
+- ![Ardem Patapoutian](https://upload.wikimedia.org/wikipedia/commons/e/e9/Ardem_Patapoutian_at_Scripps_in_2022_03.jpg)
 
 ### 2022: Genomes of Extinct Hominins and Human Evolution
+
 - **Laureate:** Svante Pääbo (Sweden/Germany)
 - **Theme:** Sequencing the Neanderthal genome and discovering Denisovans, revealing interbreeding with Homo sapiens and transforming our understanding of human evolution.
-- ![Svante Pääbo](https://upload.wikimedia.org/wikipedia/commons/2/2e/Svante_Paabo_2016.jpg)
+
+Pääbo founded paleogenomics, overcoming technical challenges to extract and sequence ancient DNA. His team showed that modern humans inherited genes from Neanderthals and Denisovans, influencing immunity, metabolism, and even responses to diseases like COVID-19. For example, Neanderthal gene variants affect blood clotting (*F5*), pain sensitivity (*SCN9A*), and antiviral immunity (OAS gene cluster), while a Denisovan gene (*EPAS1*) increases altitude tolerance in Himalayan populations. Pääbo's work inspired multidisciplinary collaborations, and his son, Hugo Zeberg, also works in the field, showing family continuity in research.
+
+- ![Svante Pääbo](https://upload.wikimedia.org/wikipedia/commons/1/14/Professor_Svante_Paabo_ForMemRS.jpg)
 
 ### 2023: mRNA Vaccine Technology
+
 - **Laureates:** Katalin Karikó (Hungary/USA), Drew Weissman (USA)
 - **Theme:** Discoveries enabling the development of mRNA vaccines, crucial in the fight against COVID-19 and opening new avenues for vaccines and therapies.
-- ![Katalin Karikó](https://upload.wikimedia.org/wikipedia/commons/2/2e/Katalin_Karik%C3%B3_2021.jpg)
-- ![Drew Weissman](https://upload.wikimedia.org/wikipedia/commons/2/2e/Drew_Weissman_2021.jpg)
+
+Karikó and Weissman faced years of skepticism and lack of funding, but their persistence led to the modification of mRNA to avoid inflammatory responses, making clinical use possible. The technology was rapidly applied to COVID-19 vaccines, setting a record for speed and saving millions of lives. Today, mRNA platforms are being tested for cancer, HIV, and autoimmune diseases. Karikó and Weissman collaborated directly, and their stories inspire scientists about the importance of resilience and international collaboration.
+
+- ![Katalin Karikó](https://upload.wikimedia.org/wikipedia/commons/3/3e/Katalin_Karik%C3%B3_at_the_United_States_Embassy_Sweden%2C_2023_Nobel_Reception_%28cropped%29.jpg)
+- ![Drew Weissman](https://upload.wikimedia.org/wikipedia/commons/7/7b/Drew_Weissman_Life_Science_medalist.jpg)
 
 ### 2024: Discovery of microRNA and Gene Regulation
+
 - **Laureates:** Victor Ambros (USA), Gary Ruvkun (USA)
 - **Theme:** Discovery of microRNAs, small RNA molecules that regulate gene expression, with profound implications for development, disease, and therapeutics.
-- ![Victor Ambros](https://upload.wikimedia.org/wikipedia/commons/2/2e/Victor_Ambros_2016.jpg)
-- ![Gary Ruvkun](https://upload.wikimedia.org/wikipedia/commons/2/2e/Gary_Ruvkun_2016.jpg)
+
+Ambros and Ruvkun, who worked in parallel and also collaborated, showed that small non-coding RNAs control gene expression in animals and humans. The microRNA field exploded, revealing roles in cancer, heart disease, neurodegeneration, and immunity. The first RNA interference therapy approved for clinical use (patisiran, for hereditary amyloidosis) is a direct result of these discoveries. RNA-based therapies are now in clinical trials, and the discovery changed our view of so-called "junk DNA." Both laureates have collaborated with other Nobel winners, such as Robert Horvitz.
+
+- ![Victor Ambros](https://upload.wikimedia.org/wikipedia/commons/8/8e/Victor_Ambros.jpg)
+- ![Gary Ruvkun](https://upload.wikimedia.org/wikipedia/commons/c/ce/Gary_Ruvkun%2C_2024_Nobel_Prize_Laureate_in_Medicine.jpg)
 
 ## What Unites the Themes and Laureates?
 
@@ -62,15 +81,28 @@ Over the last five years, the Nobel Prize in Physiology or Medicine has recogniz
 - **International Collaboration:** Many laureates have worked across countries and institutions, reflecting the global nature of modern science.
 - **Diversity of Backgrounds:** Laureates include immigrants and those with multicultural backgrounds (e.g., Karikó from Hungary, Patapoutian from Lebanon).
 - **Active Scientists:** As of June 2025, all laureates are alive and most remain active in research or academia, except Michael Houghton, who retired but is still alive.
+- **Interrelations:** Several laureates have collaborated with each other or with other Nobel winners, showing the importance of scientific networks.
 
 ## Controversies and Curiosities
 
-- **2020:** Some debate over the exclusion of other contributors to hepatitis C research, but the main discoverers were recognized.
+- **2020:** Debate over the exclusion of other contributors to hepatitis C research, but the main discoverers were recognized.
 - **2021:** No major controversies; the discoveries were widely accepted and celebrated.
 - **2022:** Some discussion about the focus on ancient DNA, but Pääbo's pioneering work was universally acknowledged.
 - **2023:** The rapid development and deployment of mRNA vaccines during the COVID-19 pandemic sparked public debate, but the scientific achievement was clear. Karikó's long struggle for recognition before the Nobel was widely discussed.
 - **2024:** The microRNA field is vast, and some researchers contributed to its development, but Ambros and Ruvkun's foundational discoveries were decisive.
 
+## Implications for the Present and Future
+
+The awarded technologies and discoveries already have a profound impact today:
+
+- **Hepatitis C:** The disease is close to eradication in several countries thanks to tests and treatments derived from the 2020 discoveries. [Learn more: WHO - Hepatitis C](https://www.who.int/news-room/fact-sheets/detail/hepatitis-c)
+- **mRNA Vaccines:** The mRNA platform is being adapted for vaccines against cancer, HIV, influenza, and autoimmune diseases, with clinical trials underway. The record speed of COVID-19 vaccine development demonstrated the potential of this technology. [Nature - mRNA vaccines](https://www.nature.com/articles/d41586-021-02483-w)
+- **microRNA and RNAi:** The first RNA interference therapy approved for clinical use was patisiran (Onpattro), for hereditary transthyretin amyloidosis, in 2018. Since then, six RNAi therapies have been FDA-approved, expanding treatment options for genetic and chronic diseases and potentially revolutionizing personalized medicine. [FDA - RNAi therapies](https://www.fda.gov/drugs/news-events-human-drugs/fda-approves-first-sirna-treatment-rare-disease) [Nature Reviews Drug Discovery - RNAi](https://www.nature.com/articles/d41573-023-00097-2)
+- **Evolutionary Genetics:** Genes inherited from Neanderthals, such as *F5* (clotting), *SCN9A* (pain sensitivity), and variants in the *OAS* cluster (antiviral immunity), affect current human traits. A Denisovan gene, *EPAS1*, increases altitude tolerance in Tibetans. These findings help explain disease susceptibility and human adaptations. [Nature - Neanderthal DNA and COVID-19](https://www.nature.com/articles/d41586-020-02550-8) [Science - Denisovan gene and altitude](https://www.science.org/doi/10.1126/science.1199403)
+- **Sensory Neuroscience:** New painkillers and treatments for chronic pain and neurological diseases are being developed based on the receptors discovered in 2021. [Science - Pain research](https://www.science.org/doi/10.1126/science.abj9954)
+
+In the future, these discoveries are expected to continue transforming medicine, making diagnostics more precise, treatments more personalized, and deepening our understanding of life's fundamental mechanisms. International exchange, multidisciplinary collaboration, and the value of basic science have proven essential for advances that benefit all humanity.
+
 ## Conclusion
 
-The last five years of Nobel Prizes in Medicine reflect a golden era for molecular biology and genetics, with discoveries that have immediate impact on human health and deepen our understanding of life itself. The laureates' stories are marked by perseverance, international collaboration, and a passion for discovery that continues to inspire the scientific community worldwide.
+The last five years of Nobel Prizes in Medicine reflect a golden era for molecular biology and genetics, with discoveries that have immediate impact on human health and deepen our understanding of life itself. Scientific research is fundamental to human well-being and societal progress. However, the rise of scientific denialism and misinformation is concerning, as it threatens historic achievements and hinders access to treatments and vaccines. It is therefore essential to value and disseminate quality, evidence-based information, so that the benefits of science reach everyone and society can make informed decisions about health and public policy.
