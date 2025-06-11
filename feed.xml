@@ -6,8 +6,8 @@
 </description>
     <link>https://fhcflx.github.io/ciencia-medica/</link>
     <atom:link href="https://fhcflx.github.io/ciencia-medica/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 10 Jun 2025 21:55:46 -0300</pubDate>
-    <lastBuildDate>Tue, 10 Jun 2025 21:55:46 -0300</lastBuildDate>
+    <pubDate>Tue, 10 Jun 2025 22:36:04 -0300</pubDate>
+    <lastBuildDate>Tue, 10 Jun 2025 22:36:04 -0300</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
     
       <item>
@@ -67,12 +67,22 @@
   &lt;li&gt;&lt;strong&gt;Theme:&lt;/strong&gt; Identification of the hepatitis C virus, enabling blood tests and curative therapies for a major cause of chronic hepatitis and liver cancer.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Before these discoveries, millions were infected through contaminated blood transfusions, with no precise diagnosis. The laureates’ work enabled highly sensitive blood tests, eliminating transfusion-related transmission and leading to antivirals that now cure hepatitis C in over 95% of cases. The global impact is profound, with the World Health Organization targeting hepatitis C elimination as a public health threat.&lt;/p&gt;
+&lt;p&gt;Before these discoveries, millions were infected through contaminated blood transfusions, with no precise diagnosis. The laureates’ work enabled highly sensitive blood tests, eliminating transfusion-related transmission and leading to antivirals that now cure hepatitis C in over 95% of cases. The global impact is profound, with the World Health Organization targeting hepatitis C elimination as a public health threat.
+&lt;label for=&quot;gene-en&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;gene-en&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;Gene: a segment of DNA that encodes a molecule (usually a protein) with a specific function. Genes are the units of inheritance first hypothesized by Mendel and named by the Danish botanist Wilhelm Johannsen in 1909. Genes make up only a small fraction of a cell’s DNA; most DNA does not code for proteins and is not part of genes. The phrase “one gene, one protein” summarizes the central dogma of biology: genetic information is transferred from DNA to RNA and then to a protein.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;label for=&quot;who-en&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;who-en&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;World Health Organization (WHO): a specialized agency of the United Nations responsible for international public health. Founded in 1948, the WHO coordinates global health responses, sets standards, and provides guidance on health issues, disease prevention, and control.&lt;/span&gt;&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/b/ba/Dr._Harvey_J._Alter_wins_2020_Nobel_Prize_%28cropped%29.jpg&quot; alt=&quot;Harvey J. Alter&quot; /&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/e/e4/Prof_Michael_Houghton.jpg&quot; alt=&quot;Michael Houghton&quot; /&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/6/6d/Charles_M._Rice.jpg&quot; alt=&quot;Charles M. Rice&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/b/ba/Dr._Harvey_J._Alter_wins_2020_Nobel_Prize_%28cropped%29.jpg&quot; alt=&quot;Harvey J. Alter&quot; /&gt;
+&lt;em&gt;Harvey J. Alter. Source: &lt;a href=&quot;https://en.wikipedia.org/wiki/Harvey_J._Alter&quot;&gt;Wikipedia&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/e/e4/Prof_Michael_Houghton.jpg&quot; alt=&quot;Michael Houghton&quot; /&gt;
+&lt;em&gt;Michael Houghton. Source: &lt;a href=&quot;https://en.wikipedia.org/wiki/Michael_Houghton&quot;&gt;Wikipedia&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/6/6d/Charles_M._Rice.jpg&quot; alt=&quot;Charles M. Rice&quot; /&gt;
+&lt;em&gt;Charles M. Rice. Source: &lt;a href=&quot;https://en.wikipedia.org/wiki/Charles_M._Rice&quot;&gt;Wikipedia&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&quot;2021-receptors-for-temperature-and-touch&quot;&gt;2021: Receptors for Temperature and Touch&lt;/h3&gt;
@@ -82,11 +92,16 @@
   &lt;li&gt;&lt;strong&gt;Theme:&lt;/strong&gt; Discovery of how our bodies sense temperature and mechanical stimuli, through TRP and Piezo receptors.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Julius used capsaicin (the spicy compound in chili peppers) to identify the TRPV1 receptor, responsible for heat sensation. Patapoutian discovered Piezo1 and Piezo2 receptors, essential for touch and pressure. These findings opened new fields in sensory neuroscience, directly impacting the development of painkillers and treatments for chronic pain, and explaining rare genetic diseases related to proprioception. Julius and Patapoutian also collaborated and co-published, highlighting the interconnectedness of the scientific community.&lt;/p&gt;
+&lt;p&gt;Julius used capsaicin (the spicy compound in chili peppers) to identify the TRPV1 receptor, responsible for heat sensation. Patapoutian discovered Piezo1 and Piezo2 receptors, essential for touch and pressure. These findings opened new fields in sensory neuroscience, directly impacting the development of painkillers and treatments for chronic pain, and explaining rare genetic diseases related to proprioception. Julius and Patapoutian also collaborated and co-published, highlighting the interconnectedness of the scientific community.
+&lt;label for=&quot;receptor-en&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;receptor-en&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;Receptor: a protein molecule, usually found on the surface of a cell, that receives and responds to chemical signals from outside the cell. Receptors are essential for communication between cells and for the body’s response to hormones, neurotransmitters, and other signaling molecules.&lt;/span&gt;&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/4/49/Dr_David_Julius_by_christopher_michel_in_2022_04_%28cropped2%29.jpg&quot; alt=&quot;David Julius&quot; /&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/e/e9/Ardem_Patapoutian_at_Scripps_in_2022_03.jpg&quot; alt=&quot;Ardem Patapoutian&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/4/49/Dr_David_Julius_by_christopher_michel_in_2022_04_%28cropped2%29.jpg&quot; alt=&quot;David Julius&quot; /&gt;
+&lt;em&gt;David Julius. Source: &lt;a href=&quot;https://en.wikipedia.org/wiki/David_Julius&quot;&gt;Wikipedia&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/e/e6/Ardem_Patapoutian_by_C_Michel_67_%28cropped%29.jpg&quot; alt=&quot;Ardem Patapoutian&quot; /&gt;
+&lt;em&gt;Ardem Patapoutian. Source: &lt;a href=&quot;https://en.wikipedia.org/wiki/Ardem_Patapoutian&quot;&gt;Wikipedia&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&quot;2022-genomes-of-extinct-hominins-and-human-evolution&quot;&gt;2022: Genomes of Extinct Hominins and Human Evolution&lt;/h3&gt;
@@ -96,10 +111,14 @@
   &lt;li&gt;&lt;strong&gt;Theme:&lt;/strong&gt; Sequencing the Neanderthal genome and discovering Denisovans, revealing interbreeding with Homo sapiens and transforming our understanding of human evolution.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Pääbo founded paleogenomics, overcoming technical challenges to extract and sequence ancient DNA. His team showed that modern humans inherited genes from Neanderthals and Denisovans, influencing immunity, metabolism, and even responses to diseases like COVID-19. For example, Neanderthal gene variants affect blood clotting (&lt;em&gt;F5&lt;/em&gt;), pain sensitivity (&lt;em&gt;SCN9A&lt;/em&gt;), and antiviral immunity (OAS gene cluster), while a Denisovan gene (&lt;em&gt;EPAS1&lt;/em&gt;) increases altitude tolerance in Himalayan populations. Pääbo’s work inspired multidisciplinary collaborations, and his son, Hugo Zeberg, also works in the field, showing family continuity in research.&lt;/p&gt;
+&lt;p&gt;Pääbo founded paleogenomics, overcoming technical challenges to extract and sequence ancient DNA. His team showed that modern humans inherited genes from Neanderthals and Denisovans, influencing immunity, metabolism, and even responses to diseases like COVID-19. For example, Neanderthal gene variants affect blood clotting (&lt;em&gt;F5&lt;/em&gt;), pain sensitivity (&lt;em&gt;SCN9A&lt;/em&gt;), and antiviral immunity (OAS gene cluster), while a Denisovan gene (&lt;em&gt;EPAS1&lt;/em&gt;) increases altitude tolerance in Himalayan populations. Pääbo’s work inspired multidisciplinary collaborations, and his son, Hugo Zeberg, also works in the field, showing family continuity in research.
+&lt;label for=&quot;genome-en&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;genome-en&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;Genome: the complete genetic material of an organism. It includes all genes, non-coding DNA sequences (which are not genes), and also the genetic material in organelles such as mitochondria. For example, the 22,000 human genes make up less than 2% of the human genome.&lt;/span&gt;&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/1/14/Professor_Svante_Paabo_ForMemRS.jpg&quot; alt=&quot;Svante Pääbo&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/1/14/Professor_Svante_Paabo_ForMemRS.jpg&quot; alt=&quot;Svante Pääbo&quot; /&gt;
+&lt;em&gt;Svante Pääbo. Source: &lt;a href=&quot;https://en.wikipedia.org/wiki/Svante_P%C3%A4%C3%A4bo&quot;&gt;Wikipedia&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&quot;2023-mrna-vaccine-technology&quot;&gt;2023: mRNA Vaccine Technology&lt;/h3&gt;
@@ -109,11 +128,16 @@
   &lt;li&gt;&lt;strong&gt;Theme:&lt;/strong&gt; Discoveries enabling the development of mRNA vaccines, crucial in the fight against COVID-19 and opening new avenues for vaccines and therapies.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Karikó and Weissman faced years of skepticism and lack of funding, but their persistence led to the modification of mRNA to avoid inflammatory responses, making clinical use possible. The technology was rapidly applied to COVID-19 vaccines, setting a record for speed and saving millions of lives. Today, mRNA platforms are being tested for cancer, HIV, and autoimmune diseases. Karikó and Weissman collaborated directly, and their stories inspire scientists about the importance of resilience and international collaboration.&lt;/p&gt;
+&lt;p&gt;Karikó and Weissman faced years of skepticism and lack of funding, but their persistence led to the modification of mRNA to avoid inflammatory responses, making clinical use possible. The technology was rapidly applied to COVID-19 vaccines, setting a record for speed and saving millions of lives. Today, mRNA platforms are being tested for cancer, HIV, and autoimmune diseases. Karikó and Weissman collaborated directly, and their stories inspire scientists about the importance of resilience and international collaboration.
+&lt;label for=&quot;mrna-en&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;mrna-en&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;mRNA (messenger RNA): a type of RNA that carries genetic information from DNA to the cell’s protein-making machinery (ribosomes). mRNA serves as the template for protein synthesis, playing a central role in the expression of genetic information.&lt;/span&gt;&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/3/3e/Katalin_Karik%C3%B3_at_the_United_States_Embassy_Sweden%2C_2023_Nobel_Reception_%28cropped%29.jpg&quot; alt=&quot;Katalin Karikó&quot; /&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/7/7b/Drew_Weissman_Life_Science_medalist.jpg&quot; alt=&quot;Drew Weissman&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/3/3e/Katalin_Karik%C3%B3_at_the_United_States_Embassy_Sweden%2C_2023_Nobel_Reception_%28cropped%29.jpg&quot; alt=&quot;Katalin Karikó&quot; /&gt;
+&lt;em&gt;Katalin Karikó. Source: &lt;a href=&quot;https://en.wikipedia.org/wiki/Katalin_Karik%C3%B3&quot;&gt;Wikipedia&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/7/7b/Drew_Weissman_Life_Science_medalist.jpg&quot; alt=&quot;Drew Weissman&quot; /&gt;
+&lt;em&gt;Drew Weissman. Source: &lt;a href=&quot;https://en.wikipedia.org/wiki/Drew_Weissman&quot;&gt;Wikipedia&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&quot;2024-discovery-of-microrna-and-gene-regulation&quot;&gt;2024: Discovery of microRNA and Gene Regulation&lt;/h3&gt;
@@ -123,11 +147,16 @@
   &lt;li&gt;&lt;strong&gt;Theme:&lt;/strong&gt; Discovery of microRNAs, small RNA molecules that regulate gene expression, with profound implications for development, disease, and therapeutics.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Ambros and Ruvkun, who worked in parallel and also collaborated, showed that small non-coding RNAs control gene expression in animals and humans. The microRNA field exploded, revealing roles in cancer, heart disease, neurodegeneration, and immunity. The first RNA interference therapy approved for clinical use (patisiran, for hereditary amyloidosis) is a direct result of these discoveries. RNA-based therapies are now in clinical trials, and the discovery changed our view of so-called “junk DNA.” Both laureates have collaborated with other Nobel winners, such as Robert Horvitz.&lt;/p&gt;
+&lt;p&gt;Ambros and Ruvkun, who worked in parallel and also collaborated, showed that small non-coding RNAs control gene expression in animals and humans. The microRNA field exploded, revealing roles in cancer, heart disease, neurodegeneration, and immunity. The first RNA interference therapy approved for clinical use (patisiran, for hereditary amyloidosis) is a direct result of these discoveries. RNA-based therapies are now in clinical trials, and the discovery changed our view of so-called “junk DNA.” Both laureates have collaborated with other Nobel winners, such as Robert Horvitz.
+&lt;label for=&quot;dna-en&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;dna-en&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;DNA (deoxyribonucleic acid): a complex organic molecule, DNA is a polymer—a chain made up of simpler molecules. It is composed of four types of molecules: adenine, cytosine, guanine, and thymine, which are nucleotides, the monomers (individual parts) that make up the DNA polymer. Each DNA molecule consists of two long strands of nucleotides that coil into a double helix. The order of nucleotides along the DNA strand is not random; it forms a code, called the genetic code, which stores the information needed to produce all the proteins in a cell. In fact, the DNA in each cell contains the information necessary to reproduce the entire organism.&lt;/span&gt;&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/8/8e/Victor_Ambros.jpg&quot; alt=&quot;Victor Ambros&quot; /&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/c/ce/Gary_Ruvkun%2C_2024_Nobel_Prize_Laureate_in_Medicine.jpg&quot; alt=&quot;Gary Ruvkun&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/d/de/Victor_Ambros%2C_2024_Nobel_Prize_Laureate_in_Medicine.jpg&quot; alt=&quot;Victor Ambros&quot; /&gt;
+&lt;em&gt;Victor Ambros. Source: &lt;a href=&quot;https://en.wikipedia.org/wiki/Victor_Ambros&quot;&gt;Wikipedia&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/c/ce/Gary_Ruvkun%2C_2024_Nobel_Prize_Laureate_in_Medicine.jpg&quot; alt=&quot;Gary Ruvkun&quot; /&gt;
+&lt;em&gt;Gary Ruvkun. Source: &lt;a href=&quot;https://en.wikipedia.org/wiki/Gary_Ruvkun&quot;&gt;Wikipedia&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;what-unites-the-themes-and-laureates&quot;&gt;What Unites the Themes and Laureates?&lt;/h2&gt;
@@ -246,13 +275,28 @@
   &lt;li&gt;&lt;strong&gt;Tema:&lt;/strong&gt; Identificação do vírus da hepatite C, permitindo testes sanguíneos e terapias curativas para uma das principais causas de hepatite crônica e câncer de fígado.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Antes dessas descobertas, milhões de pessoas eram infectadas por transfusões de sangue contaminado, sem diagnóstico preciso. O trabalho dos laureados permitiu o desenvolvimento de testes altamente sensíveis, tornando possível eliminar a transmissão do vírus por transfusões e levando ao desenvolvimento de antivirais que hoje curam a hepatite C em mais de 95% dos casos. O impacto é global, com a Organização Mundial da Saúde estabelecendo a meta de erradicação da hepatite C como problema de saúde pública.&lt;/p&gt;
+&lt;p&gt;Antes dessas descobertas, milhões de pessoas eram infectadas por transfusões de sangue contaminado, sem diagnóstico preciso. O trabalho dos laureados permitiu o desenvolvimento de testes altamente sensíveis, tornando possível eliminar a transmissão do vírus por transfusões e levando ao desenvolvimento de antivirais que hoje curam a hepatite C em mais de 95% dos casos. O impacto é global, com a Organização Mundial da Saúde estabelecendo a meta de erradicação da hepatite C como problema de saúde pública.
+&lt;label for=&quot;gene&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;gene&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;Gene (&lt;em&gt;gr gonos&lt;/em&gt; = geração, semente): trecho de DNA que
+  codifica uma molécula (proteína) com uma função. Correspondem às unidades de herança
+  hipotetizadas por Mendel e denominadas de genes pelo botânico dinamarquês
+  Johannsen em 1905. Constitui uma minoria do DNA de uma célula. A maior parte do DNA
+  não codifica proteínas e, portanto, não faz parte de genes. A expressão “um gene,
+  uma proteína” resume o &lt;em&gt;dogma central da biologia&lt;/em&gt;, de que a informação genética
+  é transferida (codificada) do DNA para o RNA e deste para uma proteína
+&lt;/span&gt;&lt;/p&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/b/ba/Dr._Harvey_J._Alter_wins_2020_Nobel_Prize_%28cropped%29.jpg&quot; alt=&quot;Harvey J. Alter&quot; /&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/e/e4/Prof_Michael_Houghton.jpg&quot; alt=&quot;Michael Houghton&quot; /&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/6/6d/Charles_M._Rice.jpg&quot; alt=&quot;Charles M. Rice&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;&lt;label for=&quot;oms-pt&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;oms-pt&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;Organização Mundial da Saúde (OMS): agência especializada das Nações Unidas responsável pela saúde pública internacional. Fundada em 1948, a OMS coordena respostas globais, define padrões e fornece orientações sobre saúde, prevenção e controle de doenças.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/b/ba/Dr._Harvey_J._Alter_wins_2020_Nobel_Prize_%28cropped%29.jpg&quot; alt=&quot;Harvey J. Alter&quot; /&gt;
+&lt;em&gt;Harvey J. Alter. Fonte: &lt;a href=&quot;https://pt.wikipedia.org/wiki/Harvey_J._Alter&quot;&gt;Wikipedia&lt;/a&gt;&lt;/em&gt;
+&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/e/e4/Prof_Michael_Houghton.jpg&quot; alt=&quot;Michael Houghton&quot; /&gt;
+&lt;em&gt;Michael Houghton. Fonte: &lt;a href=&quot;https://pt.wikipedia.org/wiki/Michael_Houghton&quot;&gt;Wikipedia&lt;/a&gt;&lt;/em&gt;
+&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/6/6d/Charles_M._Rice.jpg&quot; alt=&quot;Charles M. Rice&quot; /&gt;
+&lt;em&gt;Charles M. Rice. Fonte: &lt;a href=&quot;https://pt.wikipedia.org/wiki/Charles_M._Rice&quot;&gt;Wikipedia&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;2021-receptores-de-temperatura-e-tato&quot;&gt;2021: Receptores de Temperatura e Tato&lt;/h3&gt;
 
@@ -261,12 +305,15 @@
   &lt;li&gt;&lt;strong&gt;Tema:&lt;/strong&gt; Descoberta de como o corpo sente temperatura e estímulos mecânicos, através dos receptores TRP e Piezo.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Julius utilizou a capsaicina (composto da pimenta) para identificar o receptor TRPV1, responsável pela sensação de calor. Patapoutian identificou os receptores Piezo1 e Piezo2, essenciais para a sensação de toque e pressão. Essas descobertas abriram novas áreas na neurociência sensorial, com impacto direto no desenvolvimento de analgésicos e tratamentos para dor crônica, além de explicar doenças genéticas raras ligadas à propriocepção. Julius e Patapoutian também colaboraram e publicaram juntos em alguns momentos, mostrando a interconexão da comunidade científica.&lt;/p&gt;
+&lt;p&gt;Julius utilizou a capsaicina (composto da pimenta) para identificar o receptor TRPV1, responsável pela sensação de calor. Patapoutian identificou os receptores Piezo1 e Piezo2, essenciais para a sensação de toque e pressão. Essas descobertas abriram novas áreas na neurociência sensorial, com impacto direto no desenvolvimento de analgésicos e tratamentos para dor crônica, além de explicar doenças genéticas raras ligadas à propriocepção. Julius e Patapoutian também colaboraram e publicaram juntos em alguns momentos, mostrando a interconexão da comunidade científica.
+&lt;label for=&quot;receptor-pt&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;receptor-pt&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;Receptor: molécula (geralmente uma proteína) presente na superfície ou interior das células, responsável por receber e responder a sinais químicos do ambiente. Receptores são essenciais para a comunicação entre células e para a resposta do organismo a hormônios, neurotransmissores e outros sinais.&lt;/span&gt;&lt;/p&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/4/49/Dr_David_Julius_by_christopher_michel_in_2022_04_%28cropped2%29.jpg&quot; alt=&quot;David Julius&quot; /&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/e/e9/Ardem_Patapoutian_at_Scripps_in_2022_03.jpg&quot; alt=&quot;Ardem Patapoutian&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/4/49/Dr_David_Julius_by_christopher_michel_in_2022_04_%28cropped2%29.jpg&quot; alt=&quot;David Julius&quot; /&gt;
+&lt;em&gt;David Julius. Fonte: &lt;a href=&quot;https://pt.wikipedia.org/wiki/David_Julius&quot;&gt;Wikipedia&lt;/a&gt;&lt;/em&gt;
+&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/e/e6/Ardem_Patapoutian_by_C_Michel_67_%28cropped%29.jpg&quot; alt=&quot;Ardem Patapoutian&quot; /&gt;
+&lt;em&gt;Ardem Patapoutian. Fonte: &lt;a href=&quot;https://pt.wikipedia.org/wiki/Ardem_Patapoutian&quot;&gt;Wikipedia&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;2022-genomas-de-hominídeos-extintos-e-evolução-humana&quot;&gt;2022: Genomas de Hominídeos Extintos e Evolução Humana&lt;/h3&gt;
 
@@ -275,11 +322,17 @@
   &lt;li&gt;&lt;strong&gt;Tema:&lt;/strong&gt; Sequenciamento do genoma neandertal e descoberta dos denisovanos, revelando cruzamentos com Homo sapiens e transformando a compreensão da evolução humana.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Pääbo fundou a paleogenômica, superando desafios técnicos para extrair e sequenciar DNA antigo. Sua equipe mostrou que humanos modernos herdaram genes de neandertais e denisovanos, influenciando imunidade, metabolismo e até resposta a doenças como COVID-19. Por exemplo, variantes de genes neandertais afetam a coagulação do sangue e a sensibilidade à dor, enquanto um gene herdado dos denisovanos aumenta a resistência à altitude em populações do Himalaia. O trabalho de Pääbo inspirou colaborações multidisciplinares entre genética, arqueologia e antropologia, e seu filho, Hugo Zeberg, também atua na área, mostrando continuidade familiar na pesquisa.&lt;/p&gt;
+&lt;p&gt;Pääbo fundou a paleogenômica, superando desafios técnicos para extrair e sequenciar DNA antigo. Sua equipe mostrou que humanos modernos herdaram genes de neandertais e denisovanos, influenciando imunidade, metabolismo e até resposta a doenças como COVID-19. Por exemplo, variantes de genes neandertais afetam a coagulação do sangue e a sensibilidade à dor, enquanto um gene herdado dos denisovanos aumenta a resistência à altitude em populações do Himalaia. O trabalho de Pääbo inspirou colaborações multidisciplinares entre genética, arqueologia e antropologia, e seu filho, Hugo Zeberg, também atua na área, mostrando continuidade familiar na pesquisa.
+&lt;label for=&quot;genoma&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;genoma&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;Genoma: material genético de um organismo. Inclui todos os
+  genes, as sequências de DNA &lt;em&gt;não codificante&lt;/em&gt; (que não são genes) e também o
+  material genético em organelas como as mitocôndrias. Por exemplo, os 22 mil genes
+  humanos constituem menos de 2% do genoma humano.
+&lt;/span&gt;&lt;/p&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/1/14/Professor_Svante_Paabo_ForMemRS.jpg&quot; alt=&quot;Svante Pääbo&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/1/14/Professor_Svante_Paabo_ForMemRS.jpg&quot; alt=&quot;Svante Pääbo&quot; /&gt;
+&lt;em&gt;Svante Pääbo. Fonte: &lt;a href=&quot;https://pt.wikipedia.org/wiki/Svante_P%C3%A4%C3%A4bo&quot;&gt;Wikipedia&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;2023-tecnologia-de-vacinas-de-mrna&quot;&gt;2023: Tecnologia de Vacinas de mRNA&lt;/h3&gt;
 
@@ -288,12 +341,15 @@
   &lt;li&gt;&lt;strong&gt;Tema:&lt;/strong&gt; Descobertas que permitiram o desenvolvimento das vacinas de mRNA, fundamentais no combate à COVID-19 e abrindo novas possibilidades para vacinas e terapias.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Karikó e Weissman enfrentaram anos de descrédito e falta de financiamento, mas sua persistência levou à modificação do mRNA para evitar resposta inflamatória, tornando possível o uso clínico. A tecnologia foi rapidamente aplicada nas vacinas contra COVID-19, batendo recorde de velocidade no desenvolvimento de uma vacina eficaz e salvando milhões de vidas. Hoje, a plataforma de mRNA está sendo testada para vacinas contra câncer, HIV e doenças autoimunes. Karikó e Weissman colaboraram diretamente, e suas trajetórias inspiram cientistas sobre a importância da resiliência e da colaboração internacional.&lt;/p&gt;
+&lt;p&gt;Karikó e Weissman enfrentaram anos de descrédito e falta de financiamento, mas sua persistência levou à modificação do mRNA para evitar resposta inflamatória, tornando possível o uso clínico. A tecnologia foi rapidamente aplicada nas vacinas contra COVID-19, batendo recorde de velocidade no desenvolvimento de uma vacina eficaz e salvando milhões de vidas. Hoje, a plataforma de mRNA está sendo testada para vacinas contra câncer, HIV e doenças autoimunes. Karikó e Weissman colaboraram diretamente, e suas trajetórias inspiram cientistas sobre a importância da resiliência e da colaboração internacional.
+&lt;label for=&quot;mrna-pt&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;mrna-pt&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;mRNA (RNA mensageiro): tipo de RNA que carrega a informação genética do DNA até a maquinaria celular responsável pela produção de proteínas (ribossomos). O mRNA serve como molde para a síntese de proteínas, desempenhando papel central na expressão gênica.&lt;/span&gt;&lt;/p&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/3/3e/Katalin_Karik%C3%B3_at_the_United_States_Embassy_Sweden%2C_2023_Nobel_Reception_%28cropped%29.jpg&quot; alt=&quot;Katalin Karikó&quot; /&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/7/7b/Drew_Weissman_Life_Science_medalist.jpg&quot; alt=&quot;Drew Weissman&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/3/3e/Katalin_Karik%C3%B3_at_the_United_States_Embassy_Sweden%2C_2023_Nobel_Reception_%28cropped%29.jpg&quot; alt=&quot;Katalin Karikó&quot; /&gt;
+&lt;em&gt;Katalin Karikó. Fonte: &lt;a href=&quot;https://pt.wikipedia.org/wiki/Katalin_Karik%C3%B3&quot;&gt;Wikipedia&lt;/a&gt;&lt;/em&gt;
+&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/7/7b/Drew_Weissman_Life_Science_medalist.jpg&quot; alt=&quot;Drew Weissman&quot; /&gt;
+&lt;em&gt;Drew Weissman. Fonte: &lt;a href=&quot;https://pt.wikipedia.org/wiki/Drew_Weissman&quot;&gt;Wikipedia&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;2024-descoberta-do-microrna-e-regulação-gênica&quot;&gt;2024: Descoberta do microRNA e Regulação Gênica&lt;/h3&gt;
 
@@ -302,12 +358,25 @@
   &lt;li&gt;&lt;strong&gt;Tema:&lt;/strong&gt; Descoberta dos microRNAs, pequenas moléculas de RNA que regulam a expressão gênica, com impacto profundo no desenvolvimento, doenças e terapias.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Ambros e Ruvkun, que trabalharam em paralelo e também colaboraram, mostraram que pequenos RNAs não codificantes controlam a expressão de genes em animais e humanos. O campo do microRNA explodiu, revelando seu papel em câncer, doenças cardíacas, neurodegenerativas e imunidade. A primeira terapia de interferência de RNA aprovada para uso clínico (patisiran, para amiloidose hereditária) é um exemplo direto do impacto dessas descobertas. Terapias baseadas em microRNA já estão em testes clínicos, e a descoberta mudou a visão sobre o chamado “DNA lixo”. Ambos os laureados têm histórico de colaboração com outros ganhadores do Nobel, como Robert Horvitz.&lt;/p&gt;
+&lt;p&gt;Ambros e Ruvkun, que trabalharam em paralelo e também colaboraram, mostraram que pequenos RNAs não codificantes controlam a expressão de genes em animais e humanos. O campo do microRNA explodiu, revelando seu papel em câncer, doenças cardíacas, neurodegenerativas e imunidade. A primeira terapia de interferência de RNA aprovada para uso clínico (patisiran, para amiloidose hereditária) é um exemplo direto do impacto dessas descobertas. Terapias baseadas em microRNA já estão em testes clínicos, e a descoberta mudou a visão sobre o chamado “DNA lixo”. Ambos os laureados têm histórico de colaboração com outros ganhadores do Nobel, como Robert Horvitz.
+&lt;label for=&quot;dna&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;dna&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;DNA (ou ADN = ácido desoxiribonucléico): molécula orgânica
+  complexa, o DNA é um polímero, uma cadeia formada da união de moléculas mais simples.
+  Ele é formado de 4 tipos de moléculas: adenina, citosina, guanina e timina, as
+  quais são &lt;em&gt;nucleotídeos&lt;/em&gt;, os monômeros (partes individuais que compõem, em conjunto,
+  um polímero) do DNA. Cada molécula de DNA é formada pela união de duas longas
+  fitas de nucleotídeos, que se enrolam em espiral. A posição dos nucleotídeos
+  ao longo da fita de DNA não é casual, ela forma um código, chamado de &lt;em&gt;código
+  genético&lt;/em&gt;, que armazena as informações necessárias para a produção de todas as
+  proteínas de uma célula. Na verdade, o DNA contido em cada célula carrega as
+  informações necessárias para reproduzir &lt;em&gt;todo&lt;/em&gt; o organismo.
+&lt;/span&gt;&lt;/p&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/8/8e/Victor_Ambros.jpg&quot; alt=&quot;Victor Ambros&quot; /&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/c/ce/Gary_Ruvkun%2C_2024_Nobel_Prize_Laureate_in_Medicine.jpg&quot; alt=&quot;Gary Ruvkun&quot; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/d/de/Victor_Ambros%2C_2024_Nobel_Prize_Laureate_in_Medicine.jpg&quot; alt=&quot;Victor Ambros&quot; /&gt;
+&lt;em&gt;Victor Ambros. Fonte: &lt;a href=&quot;https://pt.wikipedia.org/wiki/Victor_Ambros&quot;&gt;Wikipedia&lt;/a&gt;&lt;/em&gt;
+&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/c/ce/Gary_Ruvkun%2C_2024_Nobel_Prize_Laureate_in_Medicine.jpg&quot; alt=&quot;Gary Ruvkun&quot; /&gt;
+&lt;em&gt;Gary Ruvkun. Fonte: &lt;a href=&quot;https://pt.wikipedia.org/wiki/Gary_Ruvkun&quot;&gt;Wikipedia&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;o-que-une-os-temas-e-os-laureados&quot;&gt;O que une os temas e os laureados?&lt;/h2&gt;
 
