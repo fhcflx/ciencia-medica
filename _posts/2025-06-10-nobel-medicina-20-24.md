@@ -47,9 +47,9 @@ Antes dessas descobertas, milhões de pessoas eram infectadas por transfusões d
 Julius utilizou a capsaicina (composto da pimenta) para identificar o receptor TRPV1, responsável pela sensação de calor. Patapoutian identificou os receptores Piezo1 e Piezo2, essenciais para a sensação de toque e pressão. Essas descobertas abriram novas áreas na neurociência sensorial, com impacto direto no desenvolvimento de analgésicos e tratamentos para dor crônica, além de explicar doenças genéticas raras ligadas à propriocepção. Julius e Patapoutian também colaboraram e publicaram juntos em alguns momentos, mostrando a interconexão da comunidade científica.
 {% include receptor-pt.html %}
 
-![David Julius](https://upload.wikimedia.org/wikipedia/commons/4/49/Dr_David_Julius_by_christopher_michel_in_2022_04_%28cropped2%29.jpg)
+![David Julius](https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Dr_David_Julius_by_christopher_michel_in_2022_04_%28cropped2%29.jpg/250px-Dr_David_Julius_by_christopher_michel_in_2022_04_%28cropped2%29.jpg)
 *David Julius. Fonte: [Wikipedia](https://pt.wikipedia.org/wiki/David_Julius)*
-![Ardem Patapoutian](https://upload.wikimedia.org/wikipedia/commons/e/e6/Ardem_Patapoutian_by_C_Michel_67_%28cropped%29.jpg)
+![Ardem Patapoutian](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Ardem_Patapoutian_by_C_Michel_67_%28cropped%29.jpg/250px-Ardem_Patapoutian_by_C_Michel_67_%28cropped%29.jpg)
 *Ardem Patapoutian. Fonte: [Wikipedia](https://pt.wikipedia.org/wiki/Ardem_Patapoutian)*
 
 ### 2022: Genomas de Hominídeos Extintos e Evolução Humana
@@ -60,7 +60,7 @@ Julius utilizou a capsaicina (composto da pimenta) para identificar o receptor T
 Pääbo fundou a paleogenômica, superando desafios técnicos para extrair e sequenciar DNA antigo. Sua equipe mostrou que humanos modernos herdaram genes de neandertais e denisovanos, influenciando imunidade, metabolismo e até resposta a doenças como COVID-19. Por exemplo, variantes de genes neandertais afetam a coagulação do sangue e a sensibilidade à dor, enquanto um gene herdado dos denisovanos aumenta a resistência à altitude em populações do Himalaia. O trabalho de Pääbo inspirou colaborações multidisciplinares entre genética, arqueologia e antropologia, e seu filho, Hugo Zeberg, também atua na área, mostrando continuidade familiar na pesquisa.
 {% include genoma.html %}
 
-![Svante Pääbo](https://upload.wikimedia.org/wikipedia/commons/1/14/Professor_Svante_Paabo_ForMemRS.jpg)
+![Svante Pääbo](hhttps://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Professor_Svante_Paabo_ForMemRS_%28cropped%29.jpg/250px-Professor_Svante_Paabo_ForMemRS_%28cropped%29.jpg)
 *Svante Pääbo. Fonte: [Wikipedia](https://pt.wikipedia.org/wiki/Svante_P%C3%A4%C3%A4bo)*
 
 ### 2023: Tecnologia de Vacinas de mRNA
@@ -71,9 +71,9 @@ Pääbo fundou a paleogenômica, superando desafios técnicos para extrair e seq
 Karikó e Weissman enfrentaram anos de descrédito e falta de financiamento, mas sua persistência levou à modificação do mRNA para evitar resposta inflamatória, tornando possível o uso clínico. A tecnologia foi rapidamente aplicada nas vacinas contra COVID-19, batendo recorde de velocidade no desenvolvimento de uma vacina eficaz e salvando milhões de vidas. Hoje, a plataforma de mRNA está sendo testada para vacinas contra câncer, HIV e doenças autoimunes. Karikó e Weissman colaboraram diretamente, e suas trajetórias inspiram cientistas sobre a importância da resiliência e da colaboração internacional.
 {% include mrna-pt.html %}
 
-![Katalin Karikó](https://upload.wikimedia.org/wikipedia/commons/3/3e/Katalin_Karik%C3%B3_at_the_United_States_Embassy_Sweden%2C_2023_Nobel_Reception_%28cropped%29.jpg)
+![Katalin Karikó](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Katalin_Karik%C3%B3_at_the_United_States_Embassy_Sweden%2C_2023_Nobel_Reception_%28cropped%29.jpg/250px-Katalin_Karik%C3%B3_at_the_United_States_Embassy_Sweden%2C_2023_Nobel_Reception_%28cropped%29.jpg)
 *Katalin Karikó. Fonte: [Wikipedia](https://pt.wikipedia.org/wiki/Katalin_Karik%C3%B3)*
-![Drew Weissman](https://upload.wikimedia.org/wikipedia/commons/7/7b/Drew_Weissman_Life_Science_medalist.jpg)
+![Drew Weissman](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Drew_Weissman%2C_2023_Nobel_Laureate_in_Medicine_%28cropped%29.jpg/250px-Drew_Weissman%2C_2023_Nobel_Laureate_in_Medicine_%28cropped%29.jpg)
 *Drew Weissman. Fonte: [Wikipedia](https://pt.wikipedia.org/wiki/Drew_Weissman)*
 
 ### 2024: Descoberta do microRNA e Regulação Gênica
@@ -84,9 +84,9 @@ Karikó e Weissman enfrentaram anos de descrédito e falta de financiamento, mas
 Ambros e Ruvkun, que trabalharam em paralelo e também colaboraram, mostraram que pequenos RNAs não codificantes controlam a expressão de genes em animais e humanos. O campo do microRNA explodiu, revelando seu papel em câncer, doenças cardíacas, neurodegenerativas e imunidade. A primeira terapia de interferência de RNA aprovada para uso clínico (patisiran, para amiloidose hereditária) é um exemplo direto do impacto dessas descobertas. Terapias baseadas em microRNA já estão em testes clínicos, e a descoberta mudou a visão sobre o chamado "DNA lixo". Ambos os laureados têm histórico de colaboração com outros ganhadores do Nobel, como Robert Horvitz.
 {% include dna.html %}
 
-![Victor Ambros](https://upload.wikimedia.org/wikipedia/commons/d/de/Victor_Ambros%2C_2024_Nobel_Prize_Laureate_in_Medicine.jpg)
+![Victor Ambros](https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Victor_Ambros%2C_2024_Nobel_Prize_Laureate_in_Medicine.jpg/250px-Victor_Ambros%2C_2024_Nobel_Prize_Laureate_in_Medicine.jpg)
 *Victor Ambros. Fonte: [Wikipedia](https://pt.wikipedia.org/wiki/Victor_Ambros)*
-![Gary Ruvkun](https://upload.wikimedia.org/wikipedia/commons/c/ce/Gary_Ruvkun%2C_2024_Nobel_Prize_Laureate_in_Medicine.jpg)
+![Gary Ruvkun](hhttps://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Gary_Ruvkun%2C_2024_Nobel_Prize_Laureate_in_Medicine_3_%28cropped%29.jpg/250px-Gary_Ruvkun%2C_2024_Nobel_Prize_Laureate_in_Medicine_3_%28cropped%29.jpg)
 *Gary Ruvkun. Fonte: [Wikipedia](https://pt.wikipedia.org/wiki/Gary_Ruvkun)*
 
 ## O que une os temas e os laureados?

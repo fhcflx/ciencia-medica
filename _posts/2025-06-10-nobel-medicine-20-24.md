@@ -47,9 +47,9 @@ Before these discoveries, millions were infected through contaminated blood tran
 Julius used capsaicin (the spicy compound in chili peppers) to identify the TRPV1 receptor, responsible for heat sensation. Patapoutian discovered Piezo1 and Piezo2 receptors, essential for touch and pressure. These findings opened new fields in sensory neuroscience, directly impacting the development of painkillers and treatments for chronic pain, and explaining rare genetic diseases related to proprioception. Julius and Patapoutian also collaborated and co-published, highlighting the interconnectedness of the scientific community.
 {% include receptor-en.html %}
 
-- ![David Julius](https://upload.wikimedia.org/wikipedia/commons/4/49/Dr_David_Julius_by_christopher_michel_in_2022_04_%28cropped2%29.jpg)
+- ![David Julius](https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Dr_David_Julius_by_christopher_michel_in_2022_04_%28cropped2%29.jpg/250px-Dr_David_Julius_by_christopher_michel_in_2022_04_%28cropped2%29.jpg)
   *David Julius. Source: [Wikipedia](https://en.wikipedia.org/wiki/David_Julius)*
-- ![Ardem Patapoutian](https://upload.wikimedia.org/wikipedia/commons/e/e6/Ardem_Patapoutian_by_C_Michel_67_%28cropped%29.jpg)
+- ![Ardem Patapoutian](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Ardem_Patapoutian_by_C_Michel_67_%28cropped%29.jpg/250px-Ardem_Patapoutian_by_C_Michel_67_%28cropped%29.jpg)
   *Ardem Patapoutian. Source: [Wikipedia](https://en.wikipedia.org/wiki/Ardem_Patapoutian)*
 
 ### 2022: Genomes of Extinct Hominins and Human Evolution
@@ -60,7 +60,7 @@ Julius used capsaicin (the spicy compound in chili peppers) to identify the TRPV
 Pääbo founded paleogenomics, overcoming technical challenges to extract and sequence ancient DNA. His team showed that modern humans inherited genes from Neanderthals and Denisovans, influencing immunity, metabolism, and even responses to diseases like COVID-19. For example, Neanderthal gene variants affect blood clotting (*F5*), pain sensitivity (*SCN9A*), and antiviral immunity (OAS gene cluster), while a Denisovan gene (*EPAS1*) increases altitude tolerance in Himalayan populations. Pääbo's work inspired multidisciplinary collaborations, and his son, Hugo Zeberg, also works in the field, showing family continuity in research.
 {% include genome-en.html %}
 
-- ![Svante Pääbo](https://upload.wikimedia.org/wikipedia/commons/1/14/Professor_Svante_Paabo_ForMemRS.jpg)
+- ![Svante Pääbo](hhttps://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Professor_Svante_Paabo_ForMemRS_%28cropped%29.jpg/250px-Professor_Svante_Paabo_ForMemRS_%28cropped%29.jpg)
   *Svante Pääbo. Source: [Wikipedia](https://en.wikipedia.org/wiki/Svante_P%C3%A4%C3%A4bo)*
 
 ### 2023: mRNA Vaccine Technology
@@ -71,9 +71,9 @@ Pääbo founded paleogenomics, overcoming technical challenges to extract and se
 Karikó and Weissman faced years of skepticism and lack of funding, but their persistence led to the modification of mRNA to avoid inflammatory responses, making clinical use possible. The technology was rapidly applied to COVID-19 vaccines, setting a record for speed and saving millions of lives. Today, mRNA platforms are being tested for cancer, HIV, and autoimmune diseases. Karikó and Weissman collaborated directly, and their stories inspire scientists about the importance of resilience and international collaboration.
 {% include mrna-en.html %}
 
-- ![Katalin Karikó](https://upload.wikimedia.org/wikipedia/commons/3/3e/Katalin_Karik%C3%B3_at_the_United_States_Embassy_Sweden%2C_2023_Nobel_Reception_%28cropped%29.jpg)
+- ![Katalin Karikó](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Katalin_Karik%C3%B3_at_the_United_States_Embassy_Sweden%2C_2023_Nobel_Reception_%28cropped%29.jpg/250px-Katalin_Karik%C3%B3_at_the_United_States_Embassy_Sweden%2C_2023_Nobel_Reception_%28cropped%29.jpg)
   *Katalin Karikó. Source: [Wikipedia](https://en.wikipedia.org/wiki/Katalin_Karik%C3%B3)*
-- ![Drew Weissman](https://upload.wikimedia.org/wikipedia/commons/7/7b/Drew_Weissman_Life_Science_medalist.jpg)
+- ![Drew Weissman](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Drew_Weissman%2C_2023_Nobel_Laureate_in_Medicine_%28cropped%29.jpg/250px-Drew_Weissman%2C_2023_Nobel_Laureate_in_Medicine_%28cropped%29.jpg)
   *Drew Weissman. Source: [Wikipedia](https://en.wikipedia.org/wiki/Drew_Weissman)*
 
 ### 2024: Discovery of microRNA and Gene Regulation
@@ -84,9 +84,9 @@ Karikó and Weissman faced years of skepticism and lack of funding, but their pe
 Ambros and Ruvkun, who worked in parallel and also collaborated, showed that small non-coding RNAs control gene expression in animals and humans. The microRNA field exploded, revealing roles in cancer, heart disease, neurodegeneration, and immunity. The first RNA interference therapy approved for clinical use (patisiran, for hereditary amyloidosis) is a direct result of these discoveries. RNA-based therapies are now in clinical trials, and the discovery changed our view of so-called "junk DNA." Both laureates have collaborated with other Nobel winners, such as Robert Horvitz.
 {% include dna-en.html %}
 
-- ![Victor Ambros](https://upload.wikimedia.org/wikipedia/commons/d/de/Victor_Ambros%2C_2024_Nobel_Prize_Laureate_in_Medicine.jpg)
+- ![Victor Ambros](https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Victor_Ambros%2C_2024_Nobel_Prize_Laureate_in_Medicine.jpg/250px-Victor_Ambros%2C_2024_Nobel_Prize_Laureate_in_Medicine.jpg)
   *Victor Ambros. Source: [Wikipedia](https://en.wikipedia.org/wiki/Victor_Ambros)*
-- ![Gary Ruvkun](https://upload.wikimedia.org/wikipedia/commons/c/ce/Gary_Ruvkun%2C_2024_Nobel_Prize_Laureate_in_Medicine.jpg)
+- ![Gary Ruvkun](hhttps://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Gary_Ruvkun%2C_2024_Nobel_Prize_Laureate_in_Medicine_3_%28cropped%29.jpg/250px-Gary_Ruvkun%2C_2024_Nobel_Prize_Laureate_in_Medicine_3_%28cropped%29.jpg)
   *Gary Ruvkun. Source: [Wikipedia](https://en.wikipedia.org/wiki/Gary_Ruvkun)*
 
 ## What Unites the Themes and Laureates?
