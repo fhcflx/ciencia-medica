@@ -6,8 +6,8 @@
 </description>
     <link>https://fhcflx.github.io/ciencia-medica/</link>
     <atom:link href="https://fhcflx.github.io/ciencia-medica/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 10 Jun 2025 22:36:04 -0300</pubDate>
-    <lastBuildDate>Tue, 10 Jun 2025 22:36:04 -0300</lastBuildDate>
+    <pubDate>Tue, 10 Jun 2025 22:47:45 -0300</pubDate>
+    <lastBuildDate>Tue, 10 Jun 2025 22:47:45 -0300</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
     
       <item>
@@ -70,16 +70,15 @@
 &lt;p&gt;Before these discoveries, millions were infected through contaminated blood transfusions, with no precise diagnosis. The laureates’ work enabled highly sensitive blood tests, eliminating transfusion-related transmission and leading to antivirals that now cure hepatitis C in over 95% of cases. The global impact is profound, with the World Health Organization targeting hepatitis C elimination as a public health threat.
 &lt;label for=&quot;gene-en&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
 &lt;input type=&quot;checkbox&quot; id=&quot;gene-en&quot; class=&quot;margin-toggle&quot; /&gt;
-&lt;span class=&quot;sidenote&quot;&gt;Gene: a segment of DNA that encodes a molecule (usually a protein) with a specific function. Genes are the units of inheritance first hypothesized by Mendel and named by the Danish botanist Wilhelm Johannsen in 1909. Genes make up only a small fraction of a cell’s DNA; most DNA does not code for proteins and is not part of genes. The phrase “one gene, one protein” summarizes the central dogma of biology: genetic information is transferred from DNA to RNA and then to a protein.&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;label for=&quot;who-en&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;span class=&quot;sidenote&quot;&gt;Gene: a segment of DNA that encodes a molecule (usually a protein) with a specific function. Genes are the units of inheritance first hypothesized by Mendel and named by the Danish botanist Wilhelm Johannsen in 1909. Genes make up only a small fraction of a cell’s DNA; most DNA does not code for proteins and is not part of genes. The phrase “one gene, one protein” summarizes the central dogma of biology: genetic information is transferred from DNA to RNA and then to a protein.&lt;/span&gt;
+&lt;label for=&quot;who-en&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
 &lt;input type=&quot;checkbox&quot; id=&quot;who-en&quot; class=&quot;margin-toggle&quot; /&gt;
 &lt;span class=&quot;sidenote&quot;&gt;World Health Organization (WHO): a specialized agency of the United Nations responsible for international public health. Founded in 1948, the WHO coordinates global health responses, sets standards, and provides guidance on health issues, disease prevention, and control.&lt;/span&gt;&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/b/ba/Dr._Harvey_J._Alter_wins_2020_Nobel_Prize_%28cropped%29.jpg&quot; alt=&quot;Harvey J. Alter&quot; /&gt;
-&lt;em&gt;Harvey J. Alter. Source: &lt;a href=&quot;https://en.wikipedia.org/wiki/Harvey_J._Alter&quot;&gt;Wikipedia&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/e/e4/Prof_Michael_Houghton.jpg&quot; alt=&quot;Michael Houghton&quot; /&gt;
+  &lt;li&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Dr._Harvey_J._Alter_wins_2020_Nobel_Prize_%28cropped%29.jpg/250px-Dr._Harvey_J._Alter_wins_2020_Nobel_Prize_%28cropped%29.jpg&quot; alt=&quot;Harvey J. Alter&quot; /&gt;
+&lt;em&gt;Harvey J. Alter. Source: &lt;a href=&quot;https://en.wikipedia.org/wiki/Harvey_J._Alter&quot;&gt;Wikipedia&lt;/a&gt;&lt;/em&gt;
+&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Prof_Michael_Houghton.jpg/250px-Prof_Michael_Houghton.jpg&quot; alt=&quot;Michael Houghton&quot; /&gt;
 &lt;em&gt;Michael Houghton. Source: &lt;a href=&quot;https://en.wikipedia.org/wiki/Michael_Houghton&quot;&gt;Wikipedia&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
   &lt;li&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/6/6d/Charles_M._Rice.jpg&quot; alt=&quot;Charles M. Rice&quot; /&gt;
 &lt;em&gt;Charles M. Rice. Source: &lt;a href=&quot;https://en.wikipedia.org/wiki/Charles_M._Rice&quot;&gt;Wikipedia&lt;/a&gt;&lt;/em&gt;&lt;/li&gt;
@@ -285,15 +284,14 @@
   não codifica proteínas e, portanto, não faz parte de genes. A expressão “um gene,
   uma proteína” resume o &lt;em&gt;dogma central da biologia&lt;/em&gt;, de que a informação genética
   é transferida (codificada) do DNA para o RNA e deste para uma proteína
-&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;label for=&quot;oms-pt&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;/span&gt;
+&lt;label for=&quot;oms-pt&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
 &lt;input type=&quot;checkbox&quot; id=&quot;oms-pt&quot; class=&quot;margin-toggle&quot; /&gt;
 &lt;span class=&quot;sidenote&quot;&gt;Organização Mundial da Saúde (OMS): agência especializada das Nações Unidas responsável pela saúde pública internacional. Fundada em 1948, a OMS coordena respostas globais, define padrões e fornece orientações sobre saúde, prevenção e controle de doenças.&lt;/span&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/b/ba/Dr._Harvey_J._Alter_wins_2020_Nobel_Prize_%28cropped%29.jpg&quot; alt=&quot;Harvey J. Alter&quot; /&gt;
+&lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Dr._Harvey_J._Alter_wins_2020_Nobel_Prize_%28cropped%29.jpg/250px-Dr._Harvey_J._Alter_wins_2020_Nobel_Prize_%28cropped%29.jpg&quot; alt=&quot;Harvey J. Alter&quot; /&gt;
 &lt;em&gt;Harvey J. Alter. Fonte: &lt;a href=&quot;https://pt.wikipedia.org/wiki/Harvey_J._Alter&quot;&gt;Wikipedia&lt;/a&gt;&lt;/em&gt;
-&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/e/e4/Prof_Michael_Houghton.jpg&quot; alt=&quot;Michael Houghton&quot; /&gt;
+&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Prof_Michael_Houghton.jpg/250px-Prof_Michael_Houghton.jpg&quot; alt=&quot;Michael Houghton&quot; /&gt;
 &lt;em&gt;Michael Houghton. Fonte: &lt;a href=&quot;https://pt.wikipedia.org/wiki/Michael_Houghton&quot;&gt;Wikipedia&lt;/a&gt;&lt;/em&gt;
 &lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/6/6d/Charles_M._Rice.jpg&quot; alt=&quot;Charles M. Rice&quot; /&gt;
 &lt;em&gt;Charles M. Rice. Fonte: &lt;a href=&quot;https://pt.wikipedia.org/wiki/Charles_M._Rice&quot;&gt;Wikipedia&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
