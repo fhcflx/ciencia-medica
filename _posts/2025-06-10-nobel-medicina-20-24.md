@@ -29,13 +29,15 @@ Nos últimos cinco anos, o Prêmio Nobel de Fisiologia ou Medicina reconheceu de
 - **Laureados:** Harvey J. Alter (EUA), Michael Houghton (Reino Unido/Canadá), Charles M. Rice (EUA)
 - **Tema:** Identificação do vírus da hepatite C, permitindo testes sanguíneos e terapias curativas para uma das principais causas de hepatite crônica e câncer de fígado.
 
-Antes dessas descobertas, milhões de pessoas eram infectadas por transfusões de sangue contaminado, sem diagnóstico preciso. O trabalho dos laureados permitiu o desenvolvimento de testes altamente sensíveis, tornando possível eliminar a transmissão do vírus por transfusões e levando ao desenvolvimento de antivirais que hoje curam a hepatite C em mais de 95% dos casos. O impacto é global, com a Organização Mundial da Saúde estabelecendo a meta de erradicação da hepatite C como problema de saúde pública.
+Antes dessas descobertas, milhões de pessoas eram infectadas por transfusões de sangue contaminado, sem diagnóstico preciso. O trabalho dos laureados permitiu o desenvolvimento de testes altamente sensíveis, tornando possível eliminar a transmissão do vírus por transfusões e levando ao desenvolvimento de antivirais que hoje curam a hepatite C em mais de 95% dos casos. {% include antiviral-pt.html %} O impacto é global, com a Organização Mundial da Saúde estabelecendo a meta de erradicação da hepatite C como problema de saúde pública.
 {% include gene.html %}{% include oms-pt.html %}
 
 ![Harvey J. Alter](https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Dr._Harvey_J._Alter_wins_2020_Nobel_Prize_%28cropped%29.jpg/250px-Dr._Harvey_J._Alter_wins_2020_Nobel_Prize_%28cropped%29.jpg)
 *Harvey J. Alter. Fonte: [Wikipedia](https://pt.wikipedia.org/wiki/Harvey_J._Alter)*
+
 ![Michael Houghton](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Prof_Michael_Houghton.jpg/250px-Prof_Michael_Houghton.jpg)
 *Michael Houghton. Fonte: [Wikipedia](https://pt.wikipedia.org/wiki/Michael_Houghton)*
+
 ![Charles M. Rice](https://upload.wikimedia.org/wikipedia/commons/6/6d/Charles_M._Rice.jpg)
 *Charles M. Rice. Fonte: [Wikipedia](https://pt.wikipedia.org/wiki/Charles_M._Rice)*
 
@@ -44,7 +46,7 @@ Antes dessas descobertas, milhões de pessoas eram infectadas por transfusões d
 - **Laureados:** David Julius (EUA), Ardem Patapoutian (Líbano/EUA)
 - **Tema:** Descoberta de como o corpo sente temperatura e estímulos mecânicos, através dos receptores TRP e Piezo.
 
-Julius utilizou a capsaicina (composto da pimenta) para identificar o receptor TRPV1, responsável pela sensação de calor. Patapoutian identificou os receptores Piezo1 e Piezo2, essenciais para a sensação de toque e pressão. Essas descobertas abriram novas áreas na neurociência sensorial, com impacto direto no desenvolvimento de analgésicos e tratamentos para dor crônica, além de explicar doenças genéticas raras ligadas à propriocepção. Julius e Patapoutian também colaboraram e publicaram juntos em alguns momentos, mostrando a interconexão da comunidade científica.
+Julius utilizou a capsaicina (composto da pimenta) para identificar o receptor TRPV1, responsável pela sensação de calor. Patapoutian identificou os receptores Piezo1 e Piezo2, essenciais para a sensação de toque e pressão. Essas descobertas abriram novas áreas na neurociência sensorial, com impacto direto no desenvolvimento de analgésicos e tratamentos para dor crônica, além de explicar doenças genéticas raras ligadas à propriocepção. {% include pain-pt.html %} Julius e Patapoutian também colaboraram e publicaram juntos em alguns momentos, mostrando a interconexão da comunidade científica.
 {% include receptor-pt.html %}
 
 ![David Julius](https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Dr_David_Julius_by_christopher_michel_in_2022_04_%28cropped2%29.jpg/250px-Dr_David_Julius_by_christopher_michel_in_2022_04_%28cropped2%29.jpg)
@@ -57,7 +59,7 @@ Julius utilizou a capsaicina (composto da pimenta) para identificar o receptor T
 - **Laureado:** Svante Pääbo (Suécia/Alemanha)
 - **Tema:** Sequenciamento do genoma neandertal e descoberta dos denisovanos, revelando cruzamentos com Homo sapiens e transformando a compreensão da evolução humana.
 
-Pääbo fundou a paleogenômica, superando desafios técnicos para extrair e sequenciar DNA antigo. Sua equipe mostrou que humanos modernos herdaram genes de neandertais e denisovanos, influenciando imunidade, metabolismo e até resposta a doenças como COVID-19. Por exemplo, variantes de genes neandertais afetam a coagulação do sangue e a sensibilidade à dor, enquanto um gene herdado dos denisovanos aumenta a resistência à altitude em populações do Himalaia. O trabalho de Pääbo inspirou colaborações multidisciplinares entre genética, arqueologia e antropologia, e seu filho, Hugo Zeberg, também atua na área, mostrando continuidade familiar na pesquisa.
+Pääbo fundou a paleogenômica, superando desafios técnicos para extrair e sequenciar DNA antigo. Sua equipe mostrou que humanos modernos herdaram genes de neandertais e denisovanos, influenciando imunidade, metabolismo e até resposta a doenças como COVID-19. {% include immune-pt.html %} Por exemplo, variantes de genes neandertais afetam a coagulação do sangue e a sensibilidade à dor, enquanto um gene herdado dos denisovanos aumenta a resistência à altitude em populações do Himalaia. O trabalho de Pääbo inspirou colaborações multidisciplinares entre genética, arqueologia e antropologia, e seu filho, Hugo Zeberg, também atua na área, mostrando continuidade familiar na pesquisa.
 {% include genoma.html %}
 
 ![Svante Pääbo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Professor_Svante_Paabo_ForMemRS_%28cropped%29.jpg/250px-Professor_Svante_Paabo_ForMemRS_%28cropped%29.jpg)
@@ -71,8 +73,9 @@ Pääbo fundou a paleogenômica, superando desafios técnicos para extrair e seq
 Karikó e Weissman enfrentaram anos de descrédito e falta de financiamento, mas sua persistência levou à modificação do mRNA para evitar resposta inflamatória, tornando possível o uso clínico. A tecnologia foi rapidamente aplicada nas vacinas contra COVID-19, batendo recorde de velocidade no desenvolvimento de uma vacina eficaz e salvando milhões de vidas. Hoje, a plataforma de mRNA está sendo testada para vacinas contra câncer, HIV e doenças autoimunes. Karikó e Weissman colaboraram diretamente, e suas trajetórias inspiram cientistas sobre a importância da resiliência e da colaboração internacional.
 {% include mrna-pt.html %}
 
-![Katalin Karikó](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Katalin_Karik%C3%B3_at_the_United_States_Embassy_Sweden%2C_2023_Nobel_Reception_%28cropped%29.jpg/250px-Katalin_Karik%C3%B3_at_the_United_States_Embassy_Sweden%2C_2023_Nobel_Reception_%28cropped%29.jpg)
+![Katalin Karikó](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Katalin_Karik%C3%B3_at_the_United_States_Embassy_Sweden%2C_2023_Nobel_Reception_%28cropped%29.jpg/250px-Katalin_Karik%C3%BÓ_at_the_United_States_Embassy_Sweden%2C_2023_Nobel_Reception_%28cropped%29.jpg)
 *Katalin Karikó. Fonte: [Wikipedia](https://pt.wikipedia.org/wiki/Katalin_Karik%C3%B3)*
+
 ![Drew Weissman](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Drew_Weissman%2C_2023_Nobel_Laureate_in_Medicine_%28cropped%29.jpg/250px-Drew_Weissman%2C_2023_Nobel_Laureate_in_Medicine_%28cropped%29.jpg)
 *Drew Weissman. Fonte: [Wikipedia](https://pt.wikipedia.org/wiki/Drew_Weissman)*
 
@@ -86,6 +89,7 @@ Ambros e Ruvkun, que trabalharam em paralelo e também colaboraram, mostraram qu
 
 ![Victor Ambros](https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Victor_Ambros%2C_2024_Nobel_Prize_Laureate_in_Medicine.jpg/250px-Victor_Ambros%2C_2024_Nobel_Prize_Laureate_in_Medicine.jpg)
 *Victor Ambros. Fonte: [Wikipedia](https://pt.wikipedia.org/wiki/Victor_Ambros)*
+
 ![Gary Ruvkun](https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Gary_Ruvkun%2C_2024_Nobel_Prize_Laureate_in_Medicine_3_%28cropped%29.jpg/250px-Gary_Ruvkun%2C_2024_Nobel_Prize_Laureate_in_Medicine_3_%28cropped%29.jpg)
 *Gary Ruvkun. Fonte: [Wikipedia](https://pt.wikipedia.org/wiki/Gary_Ruvkun)*
 

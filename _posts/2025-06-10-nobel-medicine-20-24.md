@@ -29,7 +29,7 @@ Over the last five years, the Nobel Prize in Physiology or Medicine has recogniz
 - **Laureates:** Harvey J. Alter (USA), Michael Houghton (UK/Canada), Charles M. Rice (USA)
 - **Theme:** Identification of the hepatitis C virus, enabling blood tests and curative therapies for a major cause of chronic hepatitis and liver cancer.
 
-Before these discoveries, millions were infected through contaminated blood transfusions, with no precise diagnosis. The laureates' work enabled highly sensitive blood tests, eliminating transfusion-related transmission and leading to antivirals that now cure hepatitis C in over 95% of cases. The global impact is profound, with the World Health Organization targeting hepatitis C elimination as a public health threat.
+Before these discoveries, millions were infected through contaminated blood transfusions, with no precise diagnosis. The laureates' work enabled highly sensitive blood tests, eliminating transfusion-related transmission and leading to antivirals that now cure hepatitis C in over 95% of cases. {% include antiviral-en.html %} The global impact is profound, with the World Health Organization targeting hepatitis C elimination as a public health threat.
 {% include gene-en.html %}{% include who-en.html %}
 
 ![Harvey J. Alter](https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Dr._Harvey_J._Alter_wins_2020_Nobel_Prize_%28cropped%29.jpg/250px-Dr._Harvey_J._Alter_wins_2020_Nobel_Prize_%28cropped%29.jpg)
@@ -46,7 +46,7 @@ Before these discoveries, millions were infected through contaminated blood tran
 - **Laureates:** David Julius (USA), Ardem Patapoutian (Lebanon/USA)
 - **Theme:** Discovery of how our bodies sense temperature and mechanical stimuli, through TRP and Piezo receptors.
 
-Julius used capsaicin (the spicy compound in chili peppers) to identify the TRPV1 receptor, responsible for heat sensation. Patapoutian discovered Piezo1 and Piezo2 receptors, essential for touch and pressure. These findings opened new fields in sensory neuroscience, directly impacting the development of painkillers and treatments for chronic pain, and explaining rare genetic diseases related to proprioception. Julius and Patapoutian also collaborated and co-published, highlighting the interconnectedness of the scientific community.
+Julius used capsaicin (the spicy compound in chili peppers) to identify the TRPV1 receptor, responsible for heat sensation. Patapoutian discovered Piezo1 and Piezo2 receptors, essential for touch and pressure. These findings opened new fields in sensory neuroscience, directly impacting the development of painkillers and treatments for chronic pain, and explaining rare genetic diseases related to proprioception. {% include pain-en.html %} Julius and Patapoutian also collaborated and co-published, highlighting the interconnectedness of the scientific community.
 {% include receptor-en.html %}
 
 ![David Julius](https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Dr_David_Julius_by_christopher_michel_in_2022_04_%28cropped2%29.jpg/250px-Dr_David_Julius_by_christopher_michel_in_2022_04_%28cropped2%29.jpg)
@@ -60,7 +60,7 @@ Julius used capsaicin (the spicy compound in chili peppers) to identify the TRPV
 - **Laureate:** Svante Pääbo (Sweden/Germany)
 - **Theme:** Sequencing the Neanderthal genome and discovering Denisovans, revealing interbreeding with Homo sapiens and transforming our understanding of human evolution.
 
-Pääbo founded paleogenomics, overcoming technical challenges to extract and sequence ancient DNA. His team showed that modern humans inherited genes from Neanderthals and Denisovans, influencing immunity, metabolism, and even responses to diseases like COVID-19. For example, Neanderthal gene variants affect blood clotting (*F5*), pain sensitivity (*SCN9A*), and antiviral immunity (OAS gene cluster), while a Denisovan gene (*EPAS1*) increases altitude tolerance in Himalayan populations. Pääbo's work inspired multidisciplinary collaborations, and his son, Hugo Zeberg, also works in the field, showing family continuity in research.
+Pääbo founded paleogenomics, overcoming technical challenges to extract and sequence ancient DNA. His team showed that modern humans inherited genes from Neanderthals and Denisovans, influencing immunity, metabolism, and even responses to diseases like COVID-19. {% include immune-en.html %} For example, Neanderthal gene variants affect blood clotting (*F5*), pain sensitivity (*SCN9A*), and antiviral immunity (OAS gene cluster), while a Denisovan gene (*EPAS1*) increases altitude tolerance in Himalayan populations. Pääbo's work inspired multidisciplinary collaborations, and his son, Hugo Zeberg, also works in the field, showing family continuity in research.
 {% include genome-en.html %}
 
 ![Svante Pääbo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Professor_Svante_Paabo_ForMemRS_%28cropped%29.jpg/250px-Professor_Svante_Paabo_ForMemRS_%28cropped%29.jpg)
@@ -74,7 +74,7 @@ Pääbo founded paleogenomics, overcoming technical challenges to extract and se
 Karikó and Weissman faced years of skepticism and lack of funding, but their persistence led to the modification of mRNA to avoid inflammatory responses, making clinical use possible. The technology was rapidly applied to COVID-19 vaccines, setting a record for speed and saving millions of lives. Today, mRNA platforms are being tested for cancer, HIV, and autoimmune diseases. Karikó and Weissman collaborated directly, and their stories inspire scientists about the importance of resilience and international collaboration.
 {% include mrna-en.html %}
 
-![Katalin Karikó](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Katalin_Karik%C3%B3_at_the_United_States_Embassy_Sweden%2C_2023_Nobel_Reception_%28cropped%29.jpg/250px-Katalin_Karik%C3%B3_at_the_United_States_Embassy_Sweden%2C_2023_Nobel_Reception_%28cropped%29.jpg)
+![Katalin Karikó](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Katalin_Karik%C3%B3_at_the_United_States_Embassy_Sweden%2C_2023_Nobel_Reception_%28cropped%29.jpg/250px-Katalin_Karik%C3%BÓ_at_the_United_States_Embassy_Sweden%2C_2023_Nobel_Reception_%28cropped%29.jpg)
 *Katalin Karikó. Source: [Wikipedia](https://en.wikipedia.org/wiki/Katalin_Karik%C3%B3)*
 
 ![Drew Weissman](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Drew_Weissman%2C_2023_Nobel_Laureate_in_Medicine_%28cropped%29.jpg/250px-Drew_Weissman%2C_2023_Nobel_Laureate_in_Medicine_%28cropped%29.jpg)
