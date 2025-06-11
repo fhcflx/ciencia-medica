@@ -29,7 +29,7 @@ Over the last five years, the Nobel Prize in Physiology or Medicine has recogniz
 - **Laureates:** Harvey J. Alter (USA), Michael Houghton (UK/Canada), Charles M. Rice (USA)
 - **Theme:** Identification of the hepatitis C virus, enabling blood tests and curative therapies for a major cause of chronic hepatitis and liver cancer.
 
-Before these discoveries, millions were infected through contaminated blood transfusions, with no precise diagnosis. The laureates' work enabled highly sensitive blood tests, eliminating transfusion-related transmission and leading to antivirals that now cure hepatitis C in over 95% of cases. The global impact is profound, with the World Health Organization targeting hepatitis C elimination as a public health threat. 
+Before these discoveries, millions were infected through contaminated blood transfusions, with no precise diagnosis. The laureates' work enabled highly sensitive blood tests, eliminating transfusion-related transmission and leading to antivirals that now cure hepatitis C in over 95% of cases. The global impact is profound, with the World Health Organization targeting hepatitis C elimination as a public health threat.
 
 - ![Harvey J. Alter](https://upload.wikimedia.org/wikipedia/commons/b/ba/Dr._Harvey_J._Alter_wins_2020_Nobel_Prize_%28cropped%29.jpg)
 - ![Michael Houghton](https://upload.wikimedia.org/wikipedia/commons/e/e4/Prof_Michael_Houghton.jpg)
@@ -95,11 +95,18 @@ Ambros and Ruvkun, who worked in parallel and also collaborated, showed that sma
 
 The awarded technologies and discoveries already have a profound impact today:
 
-- **Hepatitis C:** The disease is close to eradication in several countries thanks to tests and treatments derived from the 2020 discoveries. [Learn more: WHO - Hepatitis C](https://www.who.int/news-room/fact-sheets/detail/hepatitis-c)
-- **mRNA Vaccines:** The mRNA platform is being adapted for vaccines against cancer, HIV, influenza, and autoimmune diseases, with clinical trials underway. The record speed of COVID-19 vaccine development demonstrated the potential of this technology. [Nature - mRNA vaccines](https://www.nature.com/articles/d41586-021-02483-w)
-- **microRNA and RNAi:** The first RNA interference therapy approved for clinical use was patisiran (Onpattro), for hereditary transthyretin amyloidosis, in 2018. Since then, six RNAi therapies have been FDA-approved, expanding treatment options for genetic and chronic diseases and potentially revolutionizing personalized medicine. [FDA - RNAi therapies](https://www.fda.gov/drugs/news-events-human-drugs/fda-approves-first-sirna-treatment-rare-disease) [Nature Reviews Drug Discovery - RNAi](https://www.nature.com/articles/d41573-023-00097-2)
-- **Evolutionary Genetics:** Genes inherited from Neanderthals, such as *F5* (clotting), *SCN9A* (pain sensitivity), and variants in the *OAS* cluster (antiviral immunity), affect current human traits. A Denisovan gene, *EPAS1*, increases altitude tolerance in Tibetans. These findings help explain disease susceptibility and human adaptations. [Nature - Neanderthal DNA and COVID-19](https://www.nature.com/articles/d41586-020-02550-8) [Science - Denisovan gene and altitude](https://www.science.org/doi/10.1126/science.1199403)
-- **Sensory Neuroscience:** New painkillers and treatments for chronic pain and neurological diseases are being developed based on the receptors discovered in 2021. [Science - Pain research](https://www.science.org/doi/10.1126/science.abj9954)
+- **Hepatitis C:** The disease is close to eradication in several countries thanks to tests and treatments derived from the 2020 discoveries.
+- [Learn more: WHO - Hepatitis C](https://www.who.int/news-room/fact-sheets/detail/hepatitis-c)
+- **mRNA Vaccines:** The mRNA platform is being adapted for vaccines against cancer, HIV, influenza, and autoimmune diseases, with clinical trials underway. The record speed of COVID-19 vaccine development demonstrated the potential of this technology.
+- [Nature - mRNA vaccines](https://www.nature.com/articles/d41586-021-02483-w)
+- **microRNA and RNAi:** The first RNA interference therapy approved for clinical use was patisiran (Onpattro), for hereditary transthyretin amyloidosis, in 2018. Since then, six RNAi therapies have been FDA-approved, expanding treatment options for genetic and chronic diseases and potentially revolutionizing personalized medicine.
+- [FDA - RNAi therapies](https://www.fda.gov/drugs/spotlight-cder-science/new-class-drugs-fulfills-promise-rna-based-medicine)
+- [Nature Reviews Drug Discovery - RNAi](https://www.nature.com/articles/s41573-024-00912-9)
+- **Evolutionary Genetics:** Genes inherited from Neanderthals, such as *F5* (clotting), *SCN9A* (pain sensitivity), and variants in the *OAS* cluster (antiviral immunity), affect current human traits. A Denisovan gene, *EPAS1*, increases altitude tolerance in Tibetans. These findings help explain disease susceptibility and human adaptations.
+- [Nature - Neanderthal DNA and COVID-19](https://www.nature.com/articles/s41586-020-2818-3)
+- [Science - Denisovan gene and altitude](https://www.science.org/content/article/tibetans-inherited-high-altitude-gene-ancient-human)
+- **Sensory Neuroscience:** New painkillers and treatments for chronic pain and neurological diseases are being developed based on the receptors discovered in 2021.
+- [Science - Pain research](https://www.science.org/content/article/hot-and-cool-research-wins-nobel-prize-physiology-or-medicine)
 
 In the future, these discoveries are expected to continue transforming medicine, making diagnostics more precise, treatments more personalized, and deepening our understanding of life's fundamental mechanisms. International exchange, multidisciplinary collaboration, and the value of basic science have proven essential for advances that benefit all humanity.
 

@@ -29,7 +29,7 @@ Nos últimos cinco anos, o Prêmio Nobel de Fisiologia ou Medicina reconheceu de
 - **Laureados:** Harvey J. Alter (EUA), Michael Houghton (Reino Unido/Canadá), Charles M. Rice (EUA)
 - **Tema:** Identificação do vírus da hepatite C, permitindo testes sanguíneos e terapias curativas para uma das principais causas de hepatite crônica e câncer de fígado.
 
-Antes dessas descobertas, milhões de pessoas eram infectadas por transfusões de sangue contaminado, sem diagnóstico preciso. O trabalho dos laureados permitiu o desenvolvimento de testes altamente sensíveis, tornando possível eliminar a transmissão do vírus por transfusões e levando ao desenvolvimento de antivirais que hoje curam a hepatite C em mais de 95% dos casos. O impacto é global, com a Organização Mundial da Saúde estabelecendo a meta de erradicação da hepatite C como problema de saúde pública. 
+Antes dessas descobertas, milhões de pessoas eram infectadas por transfusões de sangue contaminado, sem diagnóstico preciso. O trabalho dos laureados permitiu o desenvolvimento de testes altamente sensíveis, tornando possível eliminar a transmissão do vírus por transfusões e levando ao desenvolvimento de antivirais que hoje curam a hepatite C em mais de 95% dos casos. O impacto é global, com a Organização Mundial da Saúde estabelecendo a meta de erradicação da hepatite C como problema de saúde pública.
 
 - ![Harvey J. Alter](https://upload.wikimedia.org/wikipedia/commons/b/ba/Dr._Harvey_J._Alter_wins_2020_Nobel_Prize_%28cropped%29.jpg)
 - ![Michael Houghton](https://upload.wikimedia.org/wikipedia/commons/e/e4/Prof_Michael_Houghton.jpg)
@@ -95,11 +95,18 @@ Ambros e Ruvkun, que trabalharam em paralelo e também colaboraram, mostraram qu
 
 As tecnologias e descobertas premiadas já têm impacto profundo no presente:
 
-- **Hepatite C:** A doença está próxima de ser erradicada em vários países graças a testes e tratamentos derivados das descobertas de 2020. [Saiba mais: OMS - Hepatite C](https://www.who.int/news-room/fact-sheets/detail/hepatitis-c)
-- **Vacinas de mRNA:** A plataforma de mRNA está sendo adaptada para vacinas contra câncer, HIV, gripe e doenças autoimunes, com ensaios clínicos em andamento. O recorde de velocidade no desenvolvimento da vacina contra COVID-19 mostrou o potencial dessa tecnologia. [Nature - mRNA vaccines](https://www.nature.com/articles/d41586-021-02483-w)
-- **MicroRNA e RNAi:** A primeira terapia de interferência de RNA aprovada para uso clínico foi o patisiran (Onpattro), para amiloidose hereditária por transtirretina, em 2018. Desde então, já existem seis terapias de interferência de RNA aprovadas pelo FDA, ampliando as possibilidades de tratamento para doenças genéticas e crônicas e podendo revolucionar a medicina personalizada. [FDA - RNAi therapies](https://www.fda.gov/drugs/news-events-human-drugs/fda-approves-first-sirna-treatment-rare-disease) [Nature Reviews Drug Discovery - RNAi](https://www.nature.com/articles/d41573-023-00097-2)
-- **Genética evolutiva:** Genes herdados de neandertais, como o *F5* (coagulação), *SCN9A* (sensibilidade à dor) e variantes do cluster *OAS* (imunidade antiviral), afetam características humanas atuais. Um gene de denisovanos, *EPAS1*, aumenta a resistência à altitude em tibetanos. Esses achados ajudam a entender susceptibilidade a doenças e adaptações humanas. [Nature - Neanderthal DNA and COVID-19](https://www.nature.com/articles/d41586-020-02550-8) [Science - Denisovan gene and altitude](https://www.science.org/doi/10.1126/science.1199403)
-- **Neurociência sensorial:** Novos analgésicos e tratamentos para dor crônica e doenças neurológicas estão sendo desenvolvidos com base nos receptores descobertos em 2021. [Science - Pain research](https://www.science.org/doi/10.1126/science.abj9954)
+- **Hepatite C:** A doença está próxima de ser erradicada em vários países graças a testes e tratamentos derivados das descobertas de 2020.
+- [Saiba mais: OMS - Hepatite C](https://www.who.int/news-room/fact-sheets/detail/hepatitis-c)
+- **Vacinas de mRNA:** A plataforma de mRNA está sendo adaptada para vacinas contra câncer, HIV, gripe e doenças autoimunes, com ensaios clínicos em andamento. O recorde de velocidade no desenvolvimento da vacina contra COVID-19 mostrou o potencial dessa tecnologia.
+- [Nature - mRNA vaccines](https://www.nature.com/articles/d41586-021-02483-w)
+- **MicroRNA e RNAi:** A primeira terapia de interferência de RNA aprovada para uso clínico foi o patisiran (Onpattro), para amiloidose hereditária por transtirretina, em 2018. Desde então, já existem seis terapias de interferência de RNA aprovadas pelo FDA, ampliando as possibilidades de tratamento para doenças genéticas e crônicas e podendo revolucionar a medicina personalizada.
+- [FDA - RNAi therapies](https://www.fda.gov/drugs/spotlight-cder-science/new-class-drugs-fulfills-promise-rna-based-medicine)
+- [Nature Reviews Drug Discovery - RNAi](https://www.nature.com/articles/s41573-024-00912-9)
+- **Genética evolutiva:** Genes herdados de neandertais, como o *F5* (coagulação), *SCN9A* (sensibilidade à dor) e variantes do cluster *OAS* (imunidade antiviral), afetam características humanas atuais. Um gene de denisovanos, *EPAS1*, aumenta a resistência à altitude em tibetanos. Esses achados ajudam a entender susceptibilidade a doenças e adaptações humanas.
+- [Nature - Neanderthal DNA and COVID-19](https://www.nature.com/articles/s41586-020-2818-3)
+- [Science - Denisovan gene and altitude](https://www.science.org/content/article/tibetans-inherited-high-altitude-gene-ancient-human)
+**Neurociência sensorial:** Novos analgésicos e tratamentos para dor crônica e doenças neurológicas estão sendo desenvolvidos com base nos receptores descobertos em 2021.
+- [Science - Pain research](https://www.science.org/content/article/hot-and-cool-research-wins-nobel-prize-physiology-or-medicine)
 
 No futuro, espera-se que essas descobertas continuem a transformar a medicina, tornando diagnósticos mais precisos, tratamentos mais personalizados e ampliando a compreensão dos mecanismos fundamentais da vida. O intercâmbio internacional, a colaboração multidisciplinar e a valorização da ciência básica mostraram ser essenciais para avanços que beneficiam toda a humanidade.
 
