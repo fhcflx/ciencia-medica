@@ -1,65 +1,72 @@
 ---
 layout: post
-title: 'Fibromyalgia, chronic pain and the role of the gut microbiome: new findings from 2025'
+title: 'Fibromialgia, dor crônica e o papel do microbioma intestinal: novos achados de 2025'
 date: '2025-06-12T12:00:00-03:00'
 author: ffelix
+
 tags:
-- Fibromyalgia
-- Microbiome
-- Chronic pain
-- Clinical research
-lang: en
-ref: fibromyalgia-microbiome-2025
+- Fibromialgia
+- Microbioma
+- Dor crônica
+- Pesquisa clínica
+
+lang: pt-br
+default_lang: pt-br
+ref: fibromialgia-microbioma-2025
+
 ---
 
-A study published in [Neuron](https://doi.org/10.1016/j.neuron.2025.03.032) in 2025 and discussed on the TWIM (This Week in Microbiology) podcast on May 27th brought new evidence about the relationship between the gut microbiome and chronic pain in fibromyalgia. The work shows that changes in gut bacteria may not only be associated with, but also directly contribute to, pain and other symptoms of the disease.
+Um estudo publicado na revista [Neuron](https://doi.org/10.1016/j.neuron.2025.03.032) em 2025 e discutido no podcast TWIM (This Week in Microbiology) de 27 de maio trouxe novas evidências sobre a relação entre o microbioma intestinal e a dor crônica na fibromialgia. O trabalho mostra que alterações nas bactérias intestinais podem não só estar associadas, mas também contribuir diretamente para a dor e outros sintomas da doença.
 <!--more-->
 
-## Introduction: What is fibromyalgia and why does the microbiome matter?
+## Introdução: O que é fibromialgia e por que o microbioma importa?
 
-Fibromyalgia is a common syndrome, marked by widespread pain, fatigue, sleep disturbances, and cognitive difficulties, mainly affecting women. It is estimated that fibromyalgia affects about 2% to 4% of the world population, being more prevalent in women between 30 and 60 years old. In Brazil, this represents millions of people living with chronic pain and a significant impact on quality of life, productivity, and healthcare costs. {% include fibromyalgia-epid-en.html %} Despite its high prevalence, the causes of fibromyalgia are still poorly understood and available treatments are often unsatisfactory.
+A fibromialgia é uma síndrome comum, marcada por dor generalizada, fadiga, distúrbios do sono e dificuldades cognitivas, afetando principalmente mulheres. Estima-se que a fibromialgia atinja cerca de 2% a 4% da população mundial, sendo mais prevalente em mulheres entre 30 e 60 anos. No Brasil, isso representa milhões de pessoas convivendo com dor crônica e impacto significativo na qualidade de vida, produtividade e custos de saúde. {% include fibromialgia-epid.html %} Apesar de sua alta prevalência, as causas da fibromialgia ainda são pouco compreendidas e os tratamentos disponíveis costumam ser insatisfatórios.
 
-**Why does the microbiome matter for health?**
+**Por que o microbioma importa para a saúde?**
 
-The gut microbiome is the set of trillions of microorganisms (mainly bacteria) that live in our digestive tract. It acts as a true "biochemical factory," helping digest food, produce vitamins, regulate the immune system, and protect against infectious agents. In addition, the microbiome communicates with the brain through chemical substances and the enteric nervous system, influencing mood, metabolism, and even pain perception. Changes in the balance of these bacteria (dysbiosis) have been associated with several diseases, including metabolic, autoimmune, psychiatric disorders, and chronic pain conditions such as fibromyalgia. {% include microbiome-en.html %}
+O microbioma intestinal é o conjunto de trilhões de microrganismos (principalmente bactérias) que vivem no nosso trato digestivo. Ele atua como uma verdadeira "fábrica bioquímica", ajudando na digestão de alimentos, produção de vitaminas, regulação do sistema imunológico e proteção contra agentes infecciosos. Além disso, o microbioma se comunica com o cérebro por meio de substâncias químicas e do sistema nervoso entérico, influenciando o humor, o metabolismo e até a percepção da dor. Alterações no equilíbrio dessas bactérias (disbiose) têm sido associadas a diversas doenças, incluindo distúrbios metabólicos, autoimunes, psiquiátricos e condições de dor crônica como a fibromialgia. {% include microbioma.html %}
 
-Recent studies suggest that the gut microbiome—the set of trillions of bacteria living in our intestines—can influence the functioning of the nervous and immune systems, even affecting pain perception.
+Estudos recentes sugerem que o microbioma intestinal pode influenciar o funcionamento do sistema nervoso e do sistema imunológico, afetando inclusive a percepção da dor.
 
-## Methods: How was the study conducted?
+## Metodologia: Como o estudo foi feito?
 
-The researchers transplanted the microbiome (gut bacteria) from women with fibromyalgia into germ-free mice, comparing with transplants from healthy individuals. They also conducted a small open clinical study, in which women with fibromyalgia received microbiota transplants from healthy donors after antibiotic and bowel preparation.
+Os pesquisadores transplantaram o microbioma (bactérias intestinais) de mulheres com fibromialgia para camundongos criados em ambiente estéril (germ-free), comparando com transplantes de pessoas saudáveis. Também realizaram um pequeno estudo clínico aberto, em que mulheres com fibromialgia receberam transplante de microbiota de doadoras saudáveis, após preparo com antibióticos e limpeza intestinal.
 
-## Main results
+## Resultados principais
 
-- **In mice:** Transplanting microbiota from fibromyalgia patients induced persistent pain, immune system changes, metabolic alterations, and reduced skin innervation—all phenomena similar to those observed in human patients. The mice showed increased sensitivity to mechanical, thermal (heat and cold), and spontaneous pain, without motor or cognitive changes. The study also showed that the patients' microbiota led to changes in immune cells, activation of microglia in the spinal cord (cells involved in chronic pain), and changes in metabolites such as bile acids and neuroactive amino acids. {% include microglia-en.html %} When the mice later received microbiota from healthy people, the pain was reversed and part of the metabolic and immune changes returned to normal, suggesting a causal role of the microbiome in chronic pain in fibromyalgia.
-- **Reversal:** When the mice subsequently received healthy microbiota, the pain was relieved.
+- **Em camundongos:** O transplante de microbiota de pacientes com fibromialgia induziu dor persistente, alterações no sistema imunológico, mudanças no metabolismo e redução da inervação da pele — todos fenômenos semelhantes aos observados em pacientes humanos. Os camundongos apresentaram maior sensibilidade à dor mecânica, térmica (calor e frio) e espontânea, sem alterações motoras ou cognitivas. O estudo também mostrou que a microbiota de pacientes levou a alterações em células do sistema imune, ativação de microglia na medula espinhal (células envolvidas na dor crônica) e mudanças em metabólitos como ácidos biliares e aminoácidos neuroativos. {% include microglia.html %} Quando os camundongos receberam, posteriormente, microbiota de pessoas saudáveis, a dor foi revertida e parte das alterações metabólicas e imunes voltou ao normal, sugerindo um papel causal do microbioma na dor crônica da fibromialgia.
 
-![Figure 5 from the article](https://www.cell.com/cms/10.1016/j.neuron.2025.03.032/asset/c4101b78-70b3-4e9b-84f1-25c59bce8c12/main.assets/gr5_lrg.jpg)
-*Figure 5 from the article: Graphs show that mice receiving microbiota from fibromyalgia patients had greater sensitivity to pain (mechanical, thermal, and spontaneous), and that subsequent transplantation of healthy microbiota reversed this, normalizing pain thresholds. Source: Cai W et al., Neuron, 2025.*
+- **Reversão do quadro:** Quando os camundongos receberam, posteriormente, microbiota de pessoas saudáveis, a dor foi aliviada.
 
-- **In the clinical study:** Women with severe, treatment-resistant fibromyalgia showed significant pain reduction and improved quality of life after receiving healthy microbiota transplants. The open clinical study involved 14 women, who received capsules of microbiota from healthy donors after bowel preparation. There was an average drop of 2 points on the pain scale (NRS), improvement in global disease impact (FIQ), reduction in anxiety and depression, better sleep, and improved physical quality of life. Sensory tests showed increased cold pain threshold and a trend toward improvement in heat pain. The metabolic profile and microbiome composition also changed, becoming more similar to the donors'. Adverse effects were mild and transient, mainly fatigue and mild gastrointestinal symptoms. {% include fmt-en.html %}
+![Figura 5 do artigo](https://www.cell.com/cms/10.1016/j.neuron.2025.03.032/asset/c4101b78-70b3-4e9b-84f1-25c59bce8c12/main.assets/gr5_lrg.jpg)
+*Figura 5 do artigo: Gráficos mostram que camundongos que receberam microbiota de pacientes com fibromialgia apresentaram maior sensibilidade à dor (mecânica, térmica e espontânea), e que o transplante subsequente de microbiota saudável reverteu esse quadro, normalizando os limiares de dor. Fonte: Cai W et al., Neuron, 2025.*
 
-![Figure 6 from the article](https://www.cell.com/cms/10.1016/j.neuron.2025.03.032/asset/86701a65-abed-49f6-9c26-9a92e9d705fc/main.assets/gr6_lrg.jpg)
-*Figure 6 from the article: Graphs show that after healthy microbiota transplantation, women with fibromyalgia had significant reduction in pain intensity, improvement in global disease impact, anxiety, depression, sleep quality, and physical quality of life. The graphs also show changes in cold and heat pain thresholds. Source: Cai W et al., Neuron, 2025.*
+- **No estudo clínico:** Mulheres com fibromialgia grave e resistente a tratamentos apresentaram redução significativa da dor e melhora da qualidade de vida após receberem transplante de microbiota saudável. O estudo clínico aberto envolveu 14 mulheres, que receberam cápsulas de microbiota de doadoras saudáveis após preparo intestinal. Houve queda média de 2 pontos na escala de dor (NRS), melhora do impacto global da doença (FIQ), redução de ansiedade e depressão, melhora do sono e da qualidade de vida física. Testes sensoriais mostraram aumento do limiar de dor ao frio e tendência de melhora ao calor. O perfil metabólico e a composição do microbioma também mudaram, aproximando-se do perfil das doadoras. Os efeitos adversos foram leves e transitórios, principalmente fadiga e sintomas gastrointestinais leves. {% include fmt.html %}
 
-## Significance for the field and for patients
+![Figura 6 do artigo](https://www.cell.com/cms/10.1016/j.neuron.2025.03.032/asset/86701a65-abed-49f6-9c26-9a92e9d705fc/main.assets/gr6_lrg.jpg)
+*Figura 6 do artigo: Gráficos mostram que, após o transplante de microbiota saudável, mulheres com fibromialgia apresentaram redução significativa da intensidade da dor, melhora do impacto global da doença, ansiedade, depressão, qualidade do sono e qualidade de vida física. Os gráficos também mostram a mudança no limiar de dor ao frio e calor. Fonte: Cai W et al., Neuron, 2025.*
 
-The study provides evidence that the gut microbiome is not just a "bystander" in fibromyalgia, but may be one of the factors causing or perpetuating chronic pain. This opens the way for new therapeutic approaches, such as microbiota transplantation or the use of specific probiotics, and reinforces the importance of research on the relationship between the gut, immune system, and brain. {% include probiotic-en.html %}
+## Significado para o campo e para os pacientes
 
-Despite the promising results, it is important to remember that the clinical study was small and open-label (without a control group), and more research is needed before microbiota transplantation can be routinely recommended. Still, the work represents an important advance in understanding fibromyalgia and may inspire new strategies to treat chronic pain.
+O estudo fornece evidências de que o microbioma intestinal não é apenas um "espectador" na fibromialgia, mas pode ser um dos fatores que causam ou perpetuam a dor crônica. Isso abre caminho para novas abordagens terapêuticas, como o transplante de microbiota ou o uso de probióticos específicos, além de reforçar a importância de pesquisas sobre a relação entre intestino, sistema imunológico e cérebro. {% include probiotico.html %}
 
-**What is TWiM?**
+Apesar dos resultados promissores, é importante lembrar que o estudo clínico foi pequeno e aberto (sem grupo controle), e mais pesquisas são necessárias antes que o transplante de microbiota possa ser recomendado rotineiramente. Ainda assim, o trabalho representa um avanço importante na compreensão da fibromialgia e pode inspirar novas estratégias para tratar a dor crônica.
 
-TWiM (This Week in Microbiology) is a podcast created by virologist Vincent Racaniello, from Columbia University (USA), in 2010. The program discusses weekly advances and curiosities in microbiology, focusing on recent scientific articles and topics relevant to health and science. The regular members include:
+**O que é o TWiM?**
 
-- Vincent Racaniello (Columbia University, USA)
-- Petra Levin (Washington University in St. Louis, USA)
-- Michele Swanson (University of Michigan, USA)
-- Michael Schmidt (Medical University of South Carolina, USA)
+O TWiM (This Week in Microbiology) é um podcast criado pelo virologista Vincent Racaniello, da Universidade Columbia (EUA), em 2010. O programa discute semanalmente avanços e curiosidades em microbiologia, com foco em artigos científicos recentes e temas relevantes para a saúde e a ciência. Os integrantes regulares incluem:
 
-All are recognized scientists in their fields. TWiM is part of the MicrobeTV network and is available for free at [microbe.tv/twim](https://www.microbe.tv/twim/).
+- Vincent Racaniello (Universidade Columbia, EUA)
+- Petra Levin (Universidade Washington em St. Louis, EUA)
+- Michele Swanson (Universidade de Michigan, EUA)
+- Michael Schmidt (Universidade Médica da Carolina do Sul, EUA).
 
-**References:**
+Todos são cientistas reconhecidos em suas áreas. O TWiM faz parte da rede MicrobeTV e está disponível gratuitamente em [microbe.tv/twim](https://www.microbe.tv/twim/).
 
-- [Original article in Neuron](https://doi.org/10.1016/j.neuron.2025.03.032)
+**Referências:**
+
+- [Artigo original na Neuron](https://doi.org/10.1016/j.neuron.2025.03.032)
 - [TWIM 332: Fibromyalgia pain and the gut microbiome](https://www.microbe.tv/twim/twim-332/)
+
+---
