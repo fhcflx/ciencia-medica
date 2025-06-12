@@ -25,7 +25,14 @@ Em maio de 2024, a Terra foi atingida por uma série de intensas tempestades geo
 
 ![Aurora em Melbourne, Austrália, 11 de maio de 2024](https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Aurora_Australis_From_Melbourne.jpg/330px-Aurora_Australis_From_Melbourne.jpg)
 ![Aurora em Cwmbran, País de Gales, Reino Unido, 11 de maio de 2024](https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Aurora_Borealis_from_Cwmbran%2C_Wales.png/330px-Aurora_Borealis_from_Cwmbran%2C_Wales.png)
+
 *Aurora vista em Melbourne, Austrália (38°S GLAT, 48°S MLAT) e em Cwmbran, País de Gales, Reino Unido (51°N GLAT, 47°N MLAT), 11 de maio de 2024. Fonte: [Wikipedia](https://en.wikipedia.org/wiki/May_2024_solar_storms)*
+
+{% include geomag-cme-pt.html %}
+{% include geomag-erupcao-pt.html %}
+{% include geomag-tempestade-pt.html %}
+{% include geomag-aurora-pt.html %}
+{% include geomag-kp-pt.html %}
 
 ## O que são tempestades geomagnéticas?
 
@@ -52,13 +59,14 @@ As tempestades de maio de 2024 foram classificadas como G5 (extrema) pelo NOAA S
 | Tempestade de julho  | 1958| 9      | Auroras em baixas latitudes                    |
 | Tempestade de setembro| 1941| 9     | Falhas em comunicações, auroras                |
 
-## Seção Histórica Expandida: Os Eventos Carrington e Quebec
+## Seção Histórica: Os Eventos Carrington e Quebec
 
 ### O Evento Carrington (1859)
 
 O Evento Carrington é considerado a tempestade geomagnética mais poderosa já registrada. Em 1º de setembro de 1859, o astrônomo britânico Richard Carrington observou e desenhou um grande grupo de manchas solares, seguido por um clarão brilhante—hoje conhecido como flare solar. Foi a primeira vez que um flare solar foi diretamente associado a distúrbios geomagnéticos na Terra.
 
 ![Desenho das manchas solares por Carrington, 1º de setembro de 1859](https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Carrington_Richard_drawing_of_1859_sunspots.jpeg/330px-Carrington_Richard_drawing_of_1859_sunspots.jpeg)
+
 *Desenho das manchas solares por Richard Carrington, 1859. Fonte: [Wikipedia](https://en.wikipedia.org/wiki/Carrington_Event)*
 
 Em apenas 17 horas, uma ejeção de massa coronal (CME) atingiu a Terra, causando auroras visíveis até o Caribe e norte da América do Sul. Sistemas de telégrafo em toda a Europa e América do Norte falharam, com operadores recebendo choques elétricos e papéis pegando fogo. Alguns sistemas continuaram a operar mesmo desconectados da fonte de energia, alimentados por correntes induzidas geomagneticamente.

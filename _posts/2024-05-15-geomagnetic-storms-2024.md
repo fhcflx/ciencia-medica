@@ -25,8 +25,14 @@ In May 2024, Earth was struck by a series of intense geomagnetic storms triggere
 
 ![Aurora in Melbourne, Australia, May 11, 2024](https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Aurora_Australis_From_Melbourne.jpg/330px-Aurora_Australis_From_Melbourne.jpg)
 ![Aurora in Cwmbran, Wales, U.K., May 11, 2024](https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Aurora_Borealis_from_Cwmbran%2C_Wales.png/330px-Aurora_Borealis_from_Cwmbran%2C_Wales.png)
-![Aurora in Cwmbran, Wales, U.K., May 11, 2024]
+
 *Aurora seen Melbourne, Australia (38°S GLAT, 48°S MLAT), and in Cwmbran, Wales, U.K. (51°N GLAT, 47°N MLAT), May 11, 2024. Source: [Wikipedia](https://en.wikipedia.org/wiki/May_2024_solar_storms)*
+
+{% include geomag-cme-en.html %}
+{% include geomag-flare-en.html %}
+{% include geomag-storm-en.html %}
+{% include geomag-aurora-en.html %}
+{% include geomag-kp-en.html %}
 
 ## What are geomagnetic storms?
 
@@ -53,13 +59,14 @@ The May 2024 storms were classified as G5 (extreme) by NOAA SWPC, with Kp indice
 | July Storm           | 1958 | 9      | Auroras at low latitudes                     |
 | September Storm      | 1941 | 9      | Telegraph/telephone outages, auroras         |
 
-## Expanded Historical Section: The Carrington and Quebec Events
+## Historical Section: The Carrington and Quebec Events
 
 ### The Carrington Event (1859)
 
 The Carrington Event is considered the most powerful geomagnetic storm ever recorded. On September 1, 1859, British astronomer Richard Carrington observed and drew a massive group of sunspots, followed by a sudden bright flash—now known as a solar flare. This was the first time a solar flare was directly linked to geomagnetic disturbances on Earth.
 
 ![Carrington's sunspot drawing, September 1, 1859](https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Carrington_Richard_drawing_of_1859_sunspots.jpeg/330px-Carrington_Richard_drawing_of_1859_sunspots.jpeg)
+
 *Richard Carrington's drawing of the sunspots, 1859. Source: [Wikipedia](https://en.wikipedia.org/wiki/Carrington_Event)*
 
 Within 17 hours, a coronal mass ejection (CME) reached Earth, causing auroras visible as far south as the Caribbean and northern South America. Telegraph systems across Europe and North America failed, with some operators receiving electric shocks and telegraph paper catching fire. Some systems continued to operate even when disconnected from their power supplies, powered by geomagnetically induced currents.
@@ -75,12 +82,14 @@ The Quebec geomagnetic storm occurred on March 13, 1989, and is one of the most 
 *GOES-7 monitors the space weather conditions during the Great Geomagnetic storm of March 1989, the Moscow neutron monitor recorded the passage of a CME as a drop in levels known as a Forbush decrease. Source: [Wikipedia](https://en.wikipedia.org/wiki/March_1989_geomagnetic_storm)*
 
 **Repercussions:**
+
 - Power grid transformers were damaged in Canada and the US.
 - Satellite operations were disrupted, and some satellites tumbled out of control.
 - Shortwave radio and navigation systems experienced outages.
 - The event led to major investments in space weather monitoring and grid protection.
 
 **Dates involved:**
+
 - March 9, 1989: Solar flare and CME observed.
 - March 13, 1989: Geomagnetic storm and blackout in Quebec.
 
@@ -109,11 +118,11 @@ Most agencies operate public alert systems that notify utilities, satellite oper
 
 - **Kp Index:** A global geomagnetic activity index ranging from 0 (very quiet) to 9 (extremely disturbed). Kp values of 5 or higher indicate geomagnetic storm conditions.
 - **G Scale (NOAA):** The NOAA SWPC uses the G scale to classify geomagnetic storms:
-    - G1 (Minor, Kp=5)
-    - G2 (Moderate, Kp=6)
-    - G3 (Strong, Kp=7)
-    - G4 (Severe, Kp=8)
-    - G5 (Extreme, Kp=9)
+  - G1 (Minor, Kp=5)
+  - G2 (Moderate, Kp=6)
+  - G3 (Strong, Kp=7)
+  - G4 (Severe, Kp=8)
+  - G5 (Extreme, Kp=9)
 
 These scales help communicate the severity and potential impacts of geomagnetic storms to decision-makers and the public.
 
