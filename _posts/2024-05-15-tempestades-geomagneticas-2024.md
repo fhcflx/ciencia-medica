@@ -44,8 +44,6 @@ As tempestades de maio de 2024 foram classificadas como G5 (extrema) pelo NOAA S
 - **Tempestade de Quebec (1989):** Provocou apagão no Canadá e auroras em latitudes médias.
 - **Tempestades de maio de 2024:** Auroras vistas até o sul do Brasil e Texas, com relatos de perturbações em redes elétricas e navegação.
 
------
-
 | Evento                | Ano | Kp Máx | Impacto Principal                              |
 |----------------------|-----|--------|-----------------------------------------------|
 | Carrington           | 1859| 9+     | Falhas em telégrafos, auroras tropicais        |

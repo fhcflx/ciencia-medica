@@ -24,13 +24,13 @@ The phenomenon was widely documented by observers and scientists, marking one of
 ![Aurora in Mazatlán, Mexico, May 11, 2024](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Palm_Trees_and_Auroras_In_Mazatlan.jpg/960px-Palm_Trees_and_Auroras_In_Mazatlan.jpg)
 *Aurora seen in Mazatlán, Mexico (23°N GLAT, 31°N MLAT), May 11, 2024. Source: [Wikipedia][wiki]*
 
+![Aurora in Algeria, May 11, 2024](https://iresizer.devops.arabiaweather.com/resize?url=https://adminassets.devops.arabiaweather.com/sites/default/files/field/image/In%20pictures%20in%20a%20historic%20precedent%20watching%20the%20Northern%20Lights%20from%20Algeria.jpeg&size=800x450&force_webp=1)
+*Aurora seen in Algeria, May 11, 2024. Source: [ArabiaWeather.com][arabiaweather]*
+
 ![Aurora in Melbourne, Australia, May 11, 2024](https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Aurora_Australis_From_Melbourne.jpg/330px-Aurora_Australis_From_Melbourne.jpg)
 ![Aurora in Cwmbran, Wales, U.K., May 11, 2024](https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Aurora_Borealis_from_Cwmbran%2C_Wales.png/330px-Aurora_Borealis_from_Cwmbran%2C_Wales.png)
 
 *Aurora seen Melbourne, Australia (38°S GLAT, 48°S MLAT), and in Cwmbran, Wales, U.K. (51°N GLAT, 47°N MLAT), May 11, 2024. Source: [Wikipedia][wiki]*
-
-![Aurora in Algeria, May 11, 2024](https://iresizer.devops.arabiaweather.com/resize?url=https://adminassets.devops.arabiaweather.com/sites/default/files/field/image/In%20pictures%20in%20a%20historic%20precedent%20watching%20the%20Northern%20Lights%20from%20Algeria.jpeg&size=800x450&force_webp=1)
-*Aurora seen in Algeria, May 11, 2024. Source: [ArabiaWeather.com][arabiaweather]*
 
 ## What are geomagnetic storms?
 
@@ -43,8 +43,6 @@ The May 2024 storms were classified as G5 (extreme) by NOAA SWPC, with Kp {% inc
 - **Carrington Event (1859):** The largest geomagnetic storm ever recorded, causing telegraph failures and auroras as far south as the Caribbean.
 - **Quebec Storm (1989):** Caused a blackout in Canada and auroras at mid-latitudes.
 - **May 2024 Storms:** Auroras seen as far south as southern Brazil and Texas, with reports of power grid and navigation disruptions.
-
------
 
 | Event                | Year | Max Kp | Main Impact                                 |
 |----------------------|------|--------|----------------------------------------------|
