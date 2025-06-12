@@ -6,9 +6,99 @@
 </description>
     <link>https://fhcflx.github.io/ciencia-medica/</link>
     <atom:link href="https://fhcflx.github.io/ciencia-medica/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 12 Jun 2025 13:26:25 -0300</pubDate>
-    <lastBuildDate>Thu, 12 Jun 2025 13:26:25 -0300</lastBuildDate>
+    <pubDate>Thu, 12 Jun 2025 14:15:57 -0300</pubDate>
+    <lastBuildDate>Thu, 12 Jun 2025 14:15:57 -0300</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
+    
+      <item>
+        <title>Fibromialgia, dor crônica e o papel do microbioma intestinal: novos achados de 2025</title>
+        <description>&lt;p&gt;Um estudo publicado na revista &lt;a href=&quot;https://doi.org/10.1016/j.neuron.2025.03.032&quot;&gt;Neuron&lt;/a&gt; em 2025  e discutido no podcast TWIM (This Week in Microbiology) de 27 de maio trouxe novas evidências sobre a relação entre o microbioma intestinal e a dor crônica na fibromialgia. O trabalho mostra que alterações nas bactérias intestinais podem não só estar associadas, mas também contribuir diretamente para a dor e outros sintomas da doença.
+&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;introdução-o-que-é-fibromialgia-e-por-que-o-microbioma-importa&quot;&gt;Introdução: O que é fibromialgia e por que o microbioma importa?&lt;/h2&gt;
+
+&lt;p&gt;A fibromialgia é uma síndrome comum, marcada por dor generalizada, fadiga, distúrbios do sono e dificuldades cognitivas, afetando principalmente mulheres. Estima-se que a fibromialgia atinja cerca de 2% a 4% da população mundial, sendo mais prevalente em mulheres entre 30 e 60 anos. No Brasil, isso representa milhões de pessoas convivendo com dor crônica e impacto significativo na qualidade de vida, produtividade e custos de saúde. &lt;label for=&quot;fibromialgia-epid&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;fibromialgia-epid&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;
+&lt;strong&gt;Epidemiologia da fibromialgia:&lt;/strong&gt; A fibromialgia afeta cerca de 2% a 4% da população mundial, sendo mais comum em mulheres. No Brasil, estima-se que milhões de pessoas convivam com a síndrome, que é uma das principais causas de dor crônica e incapacidade.
+&lt;/span&gt;
+ Apesar de sua alta prevalência, as causas da fibromialgia ainda são pouco compreendidas e os tratamentos disponíveis costumam ser insatisfatórios. Estudos recentes sugerem que o microbioma intestinal — o conjunto de trilhões de bactérias que vivem no nosso intestino — pode influenciar o funcionamento do sistema nervoso e do sistema imunológico, afetando inclusive a percepção da dor. &lt;label for=&quot;microbioma&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;microbioma&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;
+&lt;strong&gt;Microbioma intestinal:&lt;/strong&gt; É o conjunto de trilhões de microrganismos que habitam o trato gastrointestinal humano. O microbioma influencia digestão, imunidade, metabolismo e até o funcionamento do sistema nervoso.
+&lt;/span&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;metodologia-como-o-estudo-foi-feito&quot;&gt;Metodologia: Como o estudo foi feito?&lt;/h2&gt;
+
+&lt;p&gt;Os pesquisadores transplantaram o microbioma (bactérias intestinais) de mulheres com fibromialgia para camundongos criados em ambiente estéril (germ-free), comparando com transplantes de pessoas saudáveis. Também realizaram um pequeno estudo clínico aberto, em que mulheres com fibromialgia receberam transplante de microbiota de doadoras saudáveis, após preparo com antibióticos e limpeza intestinal.&lt;/p&gt;
+
+&lt;h2 id=&quot;resultados-principais&quot;&gt;Resultados principais&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Em camundongos:&lt;/strong&gt; O transplante de microbiota de pacientes com fibromialgia induziu dor persistente, alterações no sistema imunológico, mudanças no metabolismo e redução da inervação da pele — todos fenômenos semelhantes aos observados em pacientes humanos. Os camundongos apresentaram maior sensibilidade à dor mecânica, térmica (calor e frio) e espontânea, sem alterações motoras ou cognitivas. O estudo também mostrou que a microbiota de pacientes levou a alterações em células do sistema imune, ativação de microglia na medula espinhal (células envolvidas na dor crônica) e mudanças em metabólitos como ácidos biliares e aminoácidos neuroativos. &lt;label for=&quot;microglia&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;microglia&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;
+&lt;strong&gt;Microglia:&lt;/strong&gt; São células do sistema nervoso central que atuam como “defensoras” do cérebro e da medula espinhal. Quando ativadas de forma crônica, podem contribuir para a dor persistente e inflamação.
+&lt;/span&gt;
+ Quando os camundongos receberam, posteriormente, microbiota de pessoas saudáveis, a dor foi revertida e parte das alterações metabólicas e imunes voltou ao normal, sugerindo um papel causal do microbioma na dor crônica da fibromialgia.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Reversão do quadro:&lt;/strong&gt; Quando os camundongos receberam, posteriormente, microbiota de pessoas saudáveis, a dor foi aliviada.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://www.cell.com/cms/10.1016/j.neuron.2025.03.032/asset/c4101b78-70b3-4e9b-84f1-25c59bce8c12/main.assets/gr5_lrg.jpg&quot; alt=&quot;Figura 5 do artigo: Gráficos mostram que camundongos que receberam microbiota de pacientes com fibromialgia apresentaram maior sensibilidade à dor (mecânica, térmica e espontânea), e que o transplante subsequente de microbiota saudável reverteu esse quadro, normalizando os limiares de dor. Fonte: Cai W et al., Neuron, 2025.&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;No estudo clínico:&lt;/strong&gt; Mulheres com fibromialgia grave e resistente a tratamentos apresentaram redução significativa da dor e melhora da qualidade de vida após receberem transplante de microbiota saudável. O estudo clínico aberto envolveu 14 mulheres, que receberam cápsulas de microbiota de doadoras saudáveis após preparo intestinal. Houve queda média de 2 pontos na escala de dor (NRS), melhora do impacto global da doença (FIQ), redução de ansiedade e depressão, melhora do sono e da qualidade de vida física. Testes sensoriais mostraram aumento do limiar de dor ao frio e tendência de melhora ao calor. O perfil metabólico e a composição do microbioma também mudaram, aproximando-se do perfil das doadoras. Os efeitos adversos foram leves e transitórios, principalmente fadiga e sintomas gastrointestinais leves. &lt;label for=&quot;fmt&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;fmt&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;
+&lt;strong&gt;Transplante de Microbiota Fecal (FMT):&lt;/strong&gt; Procedimento em que bactérias intestinais de um doador saudável são transferidas para o intestino de um paciente, visando restaurar o equilíbrio do microbioma. Já é usado para tratar infecções por &lt;em&gt;Clostridioides difficile&lt;/em&gt; e está em estudo para outras condições.
+&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://www.cell.com/cms/10.1016/j.neuron.2025.03.032/asset/86701a65-abed-49f6-9c26-9a92e9d705fc/main.assets/gr6_lrg.jpg&quot; alt=&quot;Figura 6 do artigo: Gráficos mostram que, após o transplante de microbiota saudável, mulheres com fibromialgia apresentaram redução significativa da intensidade da dor, melhora do impacto global da doença, ansiedade, depressão, qualidade do sono e qualidade de vida física. Os gráficos também mostram a mudança no limiar de dor ao frio e calor. Fonte: Cai W et al., Neuron, 2025.&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;significado-para-o-campo-e-para-os-pacientes&quot;&gt;Significado para o campo e para os pacientes&lt;/h2&gt;
+
+&lt;p&gt;O estudo fornece evidências de que o microbioma intestinal não é apenas um “espectador” na fibromialgia, mas pode ser um dos fatores que causam ou perpetuam a dor crônica. Isso abre caminho para novas abordagens terapêuticas, como o transplante de microbiota ou o uso de probióticos específicos, além de reforçar a importância de pesquisas sobre a relação entre intestino, sistema imunológico e cérebro. &lt;label for=&quot;probiotico&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;probiotico&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;
+&lt;strong&gt;Probióticos:&lt;/strong&gt; São microrganismos vivos que, quando administrados em quantidades adequadas, conferem benefícios à saúde. Podem modular o microbioma intestinal e estão sendo estudados como terapia complementar em doenças crônicas.
+&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;Apesar dos resultados promissores, é importante lembrar que o estudo clínico foi pequeno e aberto (sem grupo controle), e mais pesquisas são necessárias antes que o transplante de microbiota possa ser recomendado rotineiramente. Ainda assim, o trabalho representa um avanço importante na compreensão da fibromialgia e pode inspirar novas estratégias para tratar a dor crônica.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;O que é o TWiM?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;O TWiM (This Week in Microbiology) é um podcast criado pelo virologista Vincent Racaniello, da Universidade Columbia (EUA), em 2010. O programa discute semanalmente avanços e curiosidades em microbiologia, com foco em artigos científicos recentes e temas relevantes para a saúde e a ciência. Os integrantes regulares incluem:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Vincent Racaniello (Universidade Columbia, EUA)&lt;/li&gt;
+  &lt;li&gt;Petra Levin (Universidade Washington em St. Louis, EUA)&lt;/li&gt;
+  &lt;li&gt;Michele Swanson (Universidade de Michigan, EUA)&lt;/li&gt;
+  &lt;li&gt;Michael Schmidt (Universidade Médica da Carolina do Sul, EUA)
+Todos são cientistas reconhecidos em suas áreas. O TWiM faz parte da rede MicrobeTV e está disponível gratuitamente em &lt;a href=&quot;https://www.microbe.tv/twim/&quot;&gt;microbe.tv/twim&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Referências:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://doi.org/10.1016/j.neuron.2025.03.032&quot;&gt;Artigo original na Neuron&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.microbe.tv/twim/twim-332/&quot;&gt;TWIM 332: Fibromyalgia pain and the gut microbiome&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Thu, 12 Jun 2025 12:00:00 -0300</pubDate>
+        <link>https://fhcflx.github.io/ciencia-medica/2025/06/12/fibromialgia-microbioma-2025.html</link>
+        <guid isPermaLink="true">https://fhcflx.github.io/ciencia-medica/2025/06/12/fibromialgia-microbioma-2025.html</guid>
+        
+        <category>Fibromialgia</category>
+        
+        <category>Microbioma</category>
+        
+        <category>Dor crônica</category>
+        
+        <category>Pesquisa clínica</category>
+        
+        
+      </item>
     
       <item>
         <title>Nobel Prize in Physiology or Medicine 2020–2024: Five Years of Breakthroughs</title>
@@ -1130,44 +1220,6 @@ Studies estimate that Carrington-class storms have a probability of about 1–2%
         <category>Genetics</category>
         
         <category>Anthropology</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Prêmio Nobel de Fisiologia ou Medicina 2022: Desvendando os Segredos da Evolução Humana</title>
-        <description>&lt;p&gt;O Prêmio Nobel de Fisiologia ou Medicina de 2022 foi concedido a &lt;strong&gt;Svante Pääbo&lt;/strong&gt;, por suas descobertas inovadoras sobre os genomas de hominídeos extintos e a evolução humana. 
-  &lt;!--more--&gt;&lt;/p&gt;
-
-&lt;p&gt;Pääbo, um geneticista sueco, dedicou sua carreira a desvendar os segredos da história da humanidade, utilizando o poder da genética para analisar os restos mortais de nossos ancestrais.&lt;/p&gt;
-
-&lt;p&gt;Seus trabalhos pioneiros na década de 1990, enquanto pesquisador na Universidade de Munique, se concentraram em recuperar e analisar o DNA de neandertais, um hominídeo extinto que habitou a Europa e a Ásia há milhares de anos.&lt;/p&gt;
-
-&lt;p&gt;A análise do genoma neandertal, um feito considerado impossível na época, revolucionou a compreensão da evolução humana. Pääbo e sua equipe conseguiram não apenas sequenciar o genoma completo de um neandertal, mas também demonstrar que nossa espécie, o Homo sapiens, cruzou com os neandertais.&lt;/p&gt;
-
-&lt;p&gt;Essa descoberta desafiou ideias preconcebidas sobre a evolução humana e forneceu evidências importantes sobre os fluxos genéticos entre diferentes espécies de hominídeos.&lt;/p&gt;
-
-&lt;p&gt;Pääbo, então diretor do Instituto Max Planck de Antropologia Evolutiva em Leipzig, Alemanha, continuou suas pesquisas, expandindo seus estudos para outros hominídeos extintos.&lt;/p&gt;
-
-&lt;p&gt;Em 2010, sua equipe anunciou a descoberta de um novo hominídeo, chamado Denisovanos, a partir de um fragmento de osso encontrado na caverna Denisova, na Sibéria. A análise do genoma dos Denisovanos revelou que eles também se cruzaram com o Homo sapiens, contribuindo para a diversidade genética de populações humanas atuais, especialmente na Ásia e Oceania.&lt;/p&gt;
-
-&lt;p&gt;As pesquisas de Pääbo revolucionaram a forma como entendemos a evolução humana, desvendando os segredos da nossa história genética e os mistérios da relação entre diferentes espécies de hominídeos.&lt;/p&gt;
-
-&lt;p&gt;O Prêmio Nobel de 2022 reconhece a contribuição fundamental de Pääbo para a genética evolutiva e a antropologia, abrindo portas para novas descobertas e aprofundando o conhecimento sobre os nossos ancestrais e a história da humanidade.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 03 Oct 2022 20:22:00 -0300</pubDate>
-        <link>https://fhcflx.github.io/ciencia-medica/2022/10/03/nobel-medicina-22.html</link>
-        <guid isPermaLink="true">https://fhcflx.github.io/ciencia-medica/2022/10/03/nobel-medicina-22.html</guid>
-        
-        <category>Fisiologia ou Medicina</category>
-        
-        <category>Nobel</category>
-        
-        <category>Evolução Humana</category>
-        
-        <category>Genética</category>
-        
-        <category>Antropologia</category>
         
         
       </item>
