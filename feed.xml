@@ -6,8 +6,8 @@
 </description>
     <link>https://fhcflx.github.io/ciencia-medica/</link>
     <atom:link href="https://fhcflx.github.io/ciencia-medica/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 12 Jun 2025 10:57:33 -0300</pubDate>
-    <lastBuildDate>Thu, 12 Jun 2025 10:57:33 -0300</lastBuildDate>
+    <pubDate>Thu, 12 Jun 2025 11:03:19 -0300</pubDate>
+    <lastBuildDate>Thu, 12 Jun 2025 11:03:19 -0300</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
     
       <item>
@@ -554,15 +554,21 @@
     
       <item>
         <title>Tempestades Geomagnéticas de Maio de 2024: Auroras Históricas e a Comparação com Carrington</title>
-        <description>&lt;p&gt;Em maio de 2024, a Terra foi atingida por uma série de intensas tempestades geomagnéticas &amp;lt;aside class=&quot;sidenote&quot;&amp;gt;
-&lt;strong&gt;Tempestade Geomagnética:&lt;/strong&gt; Distúrbio temporário no campo magnético da Terra causado por atividade solar, como CMEs ou erupções solares. Essas tempestades podem afetar tecnologias e gerar auroras.
-&amp;lt;/aside&amp;gt;
- desencadeadas por poderosas ejeções de massa coronal (CMEs) &amp;lt;aside class=&quot;sidenote&quot;&amp;gt;
-&lt;strong&gt;Ejeção de Massa Coronal (CME):&lt;/strong&gt; Uma grande liberação de vento solar e campos magnéticos da coroa solar para o espaço. As CMEs podem desencadear tempestades geomagnéticas na Terra.
-&amp;lt;/aside&amp;gt;
- do Sol. Essas tempestades produziram auroras &amp;lt;aside class=&quot;sidenote&quot;&amp;gt;
-&lt;strong&gt;Aurora:&lt;/strong&gt; Fenômeno luminoso natural observado em regiões de altas latitudes, causado pela interação do vento solar com o campo magnético e a atmosfera da Terra.
-&amp;lt;/aside&amp;gt;
+        <description>&lt;p&gt;Em maio de 2024, a Terra foi atingida por uma série de intensas tempestades geomagnéticas &lt;label for=&quot;geomag-tempestade-pt&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;geomag-tempestade-pt&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;
+&lt;strong&gt;Tempestade Geomagnética:&lt;/strong&gt; Uma tempestade geomagnética é um distúrbio temporário no campo magnético da Terra causado por atividade solar, como CMEs ou erupções solares. Essas tempestades podem afetar tecnologias, navegação e gerar auroras longe dos polos.
+&lt;/span&gt;
+ desencadeadas por poderosas ejeções de massa coronal (CMEs) &lt;label for=&quot;geomag-cme-pt&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;geomag-cme-pt&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;
+&lt;strong&gt;Ejeção de Massa Coronal (CME):&lt;/strong&gt; Uma CME é uma grande liberação de vento solar e campos magnéticos da coroa do Sol para o espaço. Quando direcionadas à Terra, as CMEs podem desencadear tempestades geomagnéticas, afetando satélites, redes elétricas e produzindo auroras em latitudes incomuns.
+&lt;/span&gt;
+ do Sol. Essas tempestades produziram auroras &lt;label for=&quot;geomag-aurora-pt&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;geomag-aurora-pt&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;
+&lt;strong&gt;Aurora:&lt;/strong&gt; Aurora é um fenômeno luminoso natural observado no céu, geralmente em regiões de altas latitudes. Auroras são causadas por partículas solares carregadas interagindo com o campo magnético e a atmosfera da Terra, produzindo luzes coloridas.
+&lt;/span&gt;
  visíveis em latitudes excepcionalmente baixas, incluindo partes dos Estados Unidos, Brasil, Europa e até Norte da África. O fenômeno foi amplamente documentado por observadores e cientistas, marcando um dos eventos de clima espacial mais significativos do século XXI.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/May_2024_Aurora_SC.jpg/960px-May_2024_Aurora_SC.jpg&quot; alt=&quot;Aurora em Pawleys Island, EUA, 11 de maio de 2024&quot; /&gt;
@@ -585,9 +591,11 @@
 
 &lt;h2 id=&quot;comparação-com-eventos-históricos&quot;&gt;Comparação com eventos históricos&lt;/h2&gt;
 
-&lt;p&gt;As tempestades de maio de 2024 foram classificadas como G5 (extrema) pelo NOAA SWPC, com índices Kp &amp;lt;aside class=&quot;sidenote&quot;&amp;gt;
-&lt;strong&gt;Índice Kp:&lt;/strong&gt; Escala de 0 a 9 que mede a intensidade global da atividade geomagnética. Valores altos indicam tempestades mais fortes.
-&amp;lt;/aside&amp;gt;
+&lt;p&gt;As tempestades de maio de 2024 foram classificadas como G5 (extrema) pelo NOAA SWPC, com índices Kp &lt;label for=&quot;geomag-kp-pt&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;geomag-kp-pt&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;
+&lt;strong&gt;Índice Kp:&lt;/strong&gt; O índice Kp é uma escala de 0 a 9 que mede a intensidade global da atividade geomagnética. Valores altos de Kp indicam tempestades mais fortes e maior chance de auroras em latitudes baixas.
+&lt;/span&gt;
  chegando a 9. Para comparação:&lt;/p&gt;
 
 &lt;ul&gt;
@@ -673,9 +681,11 @@
 
 &lt;h3 id=&quot;o-evento-carrington-1859&quot;&gt;O Evento Carrington (1859)&lt;/h3&gt;
 
-&lt;p&gt;O Evento Carrington é considerado a tempestade geomagnética mais poderosa já registrada. Em 1º de setembro de 1859, o astrônomo britânico Richard Carrington observou e desenhou um grande grupo de manchas solares, seguido por um clarão brilhante — hoje conhecido como erupção solar &amp;lt;aside class=&quot;sidenote&quot;&amp;gt;
-&lt;strong&gt;Erupção Solar:&lt;/strong&gt; Explosão repentina de brilho intenso na superfície do Sol, geralmente próxima a grupos de manchas solares. Erupções solares liberam grandes quantidades de energia e partículas no espaço.
-&amp;lt;/aside&amp;gt;
+&lt;p&gt;O Evento Carrington é considerado a tempestade geomagnética mais poderosa já registrada. Em 1º de setembro de 1859, o astrônomo britânico Richard Carrington observou e desenhou um grande grupo de manchas solares, seguido por um clarão brilhante — hoje conhecido como erupção solar &lt;label for=&quot;geomag-erupcao-pt&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;geomag-erupcao-pt&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;
+&lt;strong&gt;Erupção Solar:&lt;/strong&gt; Uma erupção solar é um aumento súbito de brilho intenso na superfície do Sol, geralmente próximo a grupos de manchas solares. Erupções liberam grandes quantidades de energia e partículas no espaço, podendo causar tempestades geomagnéticas na Terra.
+&lt;/span&gt;
 . Foi a primeira vez que uma erupção solar foi diretamente associada a distúrbios geomagnéticos na Terra.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Carrington_Richard_drawing_of_1859_sunspots.jpeg/330px-Carrington_Richard_drawing_of_1859_sunspots.jpeg&quot; alt=&quot;Desenho das manchas solares por Carrington, 1º de setembro de 1859&quot; /&gt;&lt;/p&gt;
@@ -779,15 +789,21 @@ Estudos estimam que tempestades desse porte tenham probabilidade de 1–2% por d
     
       <item>
         <title>May 2024 Geomagnetic Storms: Historic Auroras and the Carrington Comparison</title>
-        <description>&lt;p&gt;In May 2024, Earth was struck by a series of intense geomagnetic storms &amp;lt;aside class=&quot;sidenote&quot;&amp;gt;
-&lt;strong&gt;Geomagnetic Storm:&lt;/strong&gt; A temporary disturbance of Earth’s magnetic field caused by solar activity, such as CMEs or solar flares. These storms can disrupt technology and create auroras.
-&amp;lt;/aside&amp;gt;
- triggered by powerful coronal mass ejections (CMEs) &amp;lt;aside class=&quot;sidenote&quot;&amp;gt;
-&lt;strong&gt;Coronal Mass Ejection (CME):&lt;/strong&gt; A massive burst of solar wind and magnetic fields rising above the solar corona or being released into space. CMEs can trigger geomagnetic storms on Earth.
-&amp;lt;/aside&amp;gt;
- from the Sun. These storms produced auroras &amp;lt;aside class=&quot;sidenote&quot;&amp;gt;
-&lt;strong&gt;Aurora:&lt;/strong&gt; A natural light display in Earth’s sky, typically seen in high-latitude regions, caused by the interaction of solar wind with the planet’s magnetic field and atmosphere.
-&amp;lt;/aside&amp;gt;
+        <description>&lt;p&gt;In May 2024, Earth was struck by a series of intense geomagnetic storms &lt;label for=&quot;geomag-storm&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;geomag-storm&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;
+&lt;strong&gt;Geomagnetic Storm:&lt;/strong&gt; A geomagnetic storm is a temporary disturbance of Earth’s magnetic field caused by solar activity, such as CMEs or solar flares. These storms can disrupt technology, navigation, and create auroras far from the poles.
+&lt;/span&gt;
+ triggered by powerful coronal mass ejections (CMEs) &lt;label for=&quot;geomag-cme&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;geomag-cme&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;
+&lt;strong&gt;Coronal Mass Ejection (CME):&lt;/strong&gt; A CME is a massive burst of solar wind and magnetic fields released from the Sun’s corona into space. When directed toward Earth, CMEs can trigger geomagnetic storms, affecting satellites, power grids, and producing auroras at unusual latitudes.
+&lt;/span&gt;
+ from the Sun. These storms produced auroras &lt;label for=&quot;geomag-aurora&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;geomag-aurora&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;
+&lt;strong&gt;Aurora:&lt;/strong&gt; An aurora is a natural light display in Earth’s sky, usually seen in high-latitude regions. Auroras are caused by charged solar particles interacting with Earth’s magnetic field and atmosphere, producing colorful lights.
+&lt;/span&gt;
  visible at exceptionally low latitudes, including parts of the United States, Brazil, Europe, and even North Africa. The phenomenon was widely documented by observers and scientists, marking one of the most significant space weather events of the 21st century.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/May_2024_Aurora_SC.jpg/960px-May_2024_Aurora_SC.jpg&quot; alt=&quot;Aurora in Pawleys Island, USA, May 11, 2024&quot; /&gt;
@@ -810,9 +826,11 @@ Estudos estimam que tempestades desse porte tenham probabilidade de 1–2% por d
 
 &lt;h2 id=&quot;comparison-with-historic-events&quot;&gt;Comparison with historic events&lt;/h2&gt;
 
-&lt;p&gt;The May 2024 storms were classified as G5 (extreme) by NOAA SWPC, with Kp &amp;lt;aside class=&quot;sidenote&quot;&amp;gt;
-&lt;strong&gt;Kp Index:&lt;/strong&gt; A scale from 0 to 9 that measures the global intensity of geomagnetic activity. Higher values indicate stronger geomagnetic storms.
-&amp;lt;/aside&amp;gt;
+&lt;p&gt;The May 2024 storms were classified as G5 (extreme) by NOAA SWPC, with Kp &lt;label for=&quot;geomag-kp&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;geomag-kp&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;
+&lt;strong&gt;Kp Index:&lt;/strong&gt; The Kp index is a scale from 0 to 9 that measures the global intensity of geomagnetic activity. Higher Kp values mean stronger geomagnetic storms and a greater chance of seeing auroras at lower latitudes.
+&lt;/span&gt;
  indices reaching 9. For comparison:&lt;/p&gt;
 
 &lt;ul&gt;
@@ -898,9 +916,11 @@ Estudos estimam que tempestades desse porte tenham probabilidade de 1–2% por d
 
 &lt;h3 id=&quot;the-carrington-event-1859&quot;&gt;The Carrington Event (1859)&lt;/h3&gt;
 
-&lt;p&gt;The Carrington Event is considered the most powerful geomagnetic storm ever recorded. On September 1, 1859, British astronomer Richard Carrington observed and drew a massive group of sunspots, followed by a sudden bright flash—now known as a solar flare &amp;lt;aside class=&quot;sidenote&quot;&amp;gt;
-&lt;strong&gt;Solar Flare:&lt;/strong&gt; A sudden flash of increased brightness on the Sun, usually observed near its surface and in close proximity to a sunspot group. Solar flares can release large amounts of energy and particles into space.
-&amp;lt;/aside&amp;gt;
+&lt;p&gt;The Carrington Event is considered the most powerful geomagnetic storm ever recorded. On September 1, 1859, British astronomer Richard Carrington observed and drew a massive group of sunspots, followed by a sudden bright flash—now known as a solar flare &lt;label for=&quot;geomag-flare&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;geomag-flare&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;
+&lt;strong&gt;Solar Flare:&lt;/strong&gt; A solar flare is a sudden flash of increased brightness on the Sun, usually near sunspot groups. Flares release large amounts of energy and particles into space, sometimes leading to geomagnetic storms on Earth.
+&lt;/span&gt;
 . This was the first time a solar flare was directly linked to geomagnetic disturbances on Earth.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Carrington_Richard_drawing_of_1859_sunspots.jpeg/330px-Carrington_Richard_drawing_of_1859_sunspots.jpeg&quot; alt=&quot;Carrington&apos;s sunspot drawing, September 1, 1859&quot; /&gt;&lt;/p&gt;
