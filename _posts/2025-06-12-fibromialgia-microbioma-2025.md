@@ -68,5 +68,3 @@ Todos são cientistas reconhecidos em suas áreas. O TWiM faz parte da rede Micr
 
 - [Artigo original na Neuron](https://doi.org/10.1016/j.neuron.2025.03.032)
 - [TWIM 332: Fibromyalgia pain and the gut microbiome](https://www.microbe.tv/twim/twim-332/)
-
----
