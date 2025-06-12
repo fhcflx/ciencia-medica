@@ -12,7 +12,7 @@ lang: pt-br
 ref: geomag2024
 ---
 
-Em maio de 2024, a Terra foi atingida por uma série de intensas tempestades geomagnéticas desencadeadas por poderosas ejeções de massa coronal (CMEs) do Sol. Essas tempestades produziram auroras visíveis em latitudes excepcionalmente baixas, incluindo partes dos Estados Unidos, Brasil, Europa e até Norte da África. O fenômeno foi amplamente documentado por observadores e cientistas, marcando um dos eventos de clima espacial mais significativos do século XXI.
+Em maio de 2024, a Terra foi atingida por uma série de intensas tempestades geomagnéticas {% include geomag-tempestade-pt.html %} desencadeadas por poderosas ejeções de massa coronal (CMEs) {% include geomag-cme-pt.html %} do Sol. Essas tempestades produziram auroras {% include geomag-aurora-pt.html %} visíveis em latitudes excepcionalmente baixas, incluindo partes dos Estados Unidos, Brasil, Europa e até Norte da África. O fenômeno foi amplamente documentado por observadores e cientistas, marcando um dos eventos de clima espacial mais significativos do século XXI.
 
 ![Aurora em Pawleys Island, EUA, 11 de maio de 2024](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/May_2024_Aurora_SC.jpg/960px-May_2024_Aurora_SC.jpg)
 *Aurora vista em Pawleys Island, Carolina do Sul, EUA (33°N GLAT, 43°N MLAT), 11 de maio de 2024. Fonte: [Wikipedia](https://en.wikipedia.org/wiki/May_2024_solar_storms)*
@@ -28,19 +28,13 @@ Em maio de 2024, a Terra foi atingida por uma série de intensas tempestades geo
 
 *Aurora vista em Melbourne, Austrália (38°S GLAT, 48°S MLAT) e em Cwmbran, País de Gales, Reino Unido (51°N GLAT, 47°N MLAT), 11 de maio de 2024. Fonte: [Wikipedia](https://en.wikipedia.org/wiki/May_2024_solar_storms)*
 
-{% include geomag-cme-pt.html %}
-{% include geomag-erupcao-pt.html %}
-{% include geomag-tempestade-pt.html %}
-{% include geomag-aurora-pt.html %}
-{% include geomag-kp-pt.html %}
-
 ## O que são tempestades geomagnéticas?
 
 Tempestades geomagnéticas são distúrbios no campo magnético da Terra causados por interações com partículas solares altamente energéticas, especialmente durante CMEs. Elas podem afetar comunicações, redes elétricas, satélites e até causar auroras em latitudes incomuns.
 
 ## Comparação com eventos históricos
 
-As tempestades de maio de 2024 foram classificadas como G5 (extrema) pelo NOAA SWPC, com índices Kp chegando a 9. Para comparação:
+As tempestades de maio de 2024 foram classificadas como G5 (extrema) pelo NOAA SWPC, com índices Kp {% include geomag-kp-pt.html %} chegando a 9. Para comparação:
 
 - **Evento Carrington (1859):** A maior tempestade geomagnética já registrada, causando falhas em telégrafos e auroras até o Caribe.
 - **Tempestade de Quebec (1989):** Provocou apagão no Canadá e auroras em latitudes médias.
@@ -63,7 +57,7 @@ As tempestades de maio de 2024 foram classificadas como G5 (extrema) pelo NOAA S
 
 ### O Evento Carrington (1859)
 
-O Evento Carrington é considerado a tempestade geomagnética mais poderosa já registrada. Em 1º de setembro de 1859, o astrônomo britânico Richard Carrington observou e desenhou um grande grupo de manchas solares, seguido por um clarão brilhante—hoje conhecido como flare solar. Foi a primeira vez que um flare solar foi diretamente associado a distúrbios geomagnéticos na Terra.
+O Evento Carrington é considerado a tempestade geomagnética mais poderosa já registrada. Em 1º de setembro de 1859, o astrônomo britânico Richard Carrington observou e desenhou um grande grupo de manchas solares, seguido por um clarão brilhante — hoje conhecido como erupção solar {% include geomag-erupcao-pt.html %}. Foi a primeira vez que uma erupção solar foi diretamente associada a distúrbios geomagnéticos na Terra.
 
 ![Desenho das manchas solares por Carrington, 1º de setembro de 1859](https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Carrington_Richard_drawing_of_1859_sunspots.jpeg/330px-Carrington_Richard_drawing_of_1859_sunspots.jpeg)
 

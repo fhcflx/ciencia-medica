@@ -12,7 +12,7 @@ lang: en-us
 ref: geomag2024
 ---
 
-In May 2024, Earth was struck by a series of intense geomagnetic storms triggered by powerful coronal mass ejections (CMEs) from the Sun. These storms produced auroras visible at exceptionally low latitudes, including parts of the United States, Brazil, Europe, and even North Africa. The phenomenon was widely documented by observers and scientists, marking one of the most significant space weather events of the 21st century.
+In May 2024, Earth was struck by a series of intense geomagnetic storms {% include geomag-storm-en.html %} triggered by powerful coronal mass ejections (CMEs) {% include geomag-cme-en.html %} from the Sun. These storms produced auroras {% include geomag-aurora-en.html %} visible at exceptionally low latitudes, including parts of the United States, Brazil, Europe, and even North Africa. The phenomenon was widely documented by observers and scientists, marking one of the most significant space weather events of the 21st century.
 
 ![Aurora in Pawleys Island, USA, May 11, 2024](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/May_2024_Aurora_SC.jpg/960px-May_2024_Aurora_SC.jpg)
 *Aurora seen in Pawleys Island, South Carolina, U.S. (33°N GLAT, 43°N MLAT) May 11, 2024. Source: [Wikipedia](https://en.wikipedia.org/wiki/May_2024_solar_storms)*
@@ -28,19 +28,13 @@ In May 2024, Earth was struck by a series of intense geomagnetic storms triggere
 
 *Aurora seen Melbourne, Australia (38°S GLAT, 48°S MLAT), and in Cwmbran, Wales, U.K. (51°N GLAT, 47°N MLAT), May 11, 2024. Source: [Wikipedia](https://en.wikipedia.org/wiki/May_2024_solar_storms)*
 
-{% include geomag-cme-en.html %}
-{% include geomag-flare-en.html %}
-{% include geomag-storm-en.html %}
-{% include geomag-aurora-en.html %}
-{% include geomag-kp-en.html %}
-
 ## What are geomagnetic storms?
 
 Geomagnetic storms are disturbances in Earth's magnetic field caused by interactions with highly energetic solar particles, especially during CMEs. They can disrupt communications, power grids, satellites, and even cause auroras at unusual latitudes.
 
 ## Comparison with historic events
 
-The May 2024 storms were classified as G5 (extreme) by NOAA SWPC, with Kp indices reaching 9. For comparison:
+The May 2024 storms were classified as G5 (extreme) by NOAA SWPC, with Kp {% include geomag-kp-en.html %} indices reaching 9. For comparison:
 
 - **Carrington Event (1859):** The largest geomagnetic storm ever recorded, causing telegraph failures and auroras as far south as the Caribbean.
 - **Quebec Storm (1989):** Caused a blackout in Canada and auroras at mid-latitudes.
@@ -63,7 +57,7 @@ The May 2024 storms were classified as G5 (extreme) by NOAA SWPC, with Kp indice
 
 ### The Carrington Event (1859)
 
-The Carrington Event is considered the most powerful geomagnetic storm ever recorded. On September 1, 1859, British astronomer Richard Carrington observed and drew a massive group of sunspots, followed by a sudden bright flash—now known as a solar flare. This was the first time a solar flare was directly linked to geomagnetic disturbances on Earth.
+The Carrington Event is considered the most powerful geomagnetic storm ever recorded. On September 1, 1859, British astronomer Richard Carrington observed and drew a massive group of sunspots, followed by a sudden bright flash—now known as a solar flare {% include geomag-flare-en.html %}. This was the first time a solar flare was directly linked to geomagnetic disturbances on Earth.
 
 ![Carrington's sunspot drawing, September 1, 1859](https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Carrington_Richard_drawing_of_1859_sunspots.jpeg/330px-Carrington_Richard_drawing_of_1859_sunspots.jpeg)
 
