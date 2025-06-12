@@ -6,8 +6,8 @@
 </description>
     <link>https://fhcflx.github.io/ciencia-medica/</link>
     <atom:link href="https://fhcflx.github.io/ciencia-medica/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 11 Jun 2025 19:37:35 -0300</pubDate>
-    <lastBuildDate>Wed, 11 Jun 2025 19:37:35 -0300</lastBuildDate>
+    <pubDate>Wed, 11 Jun 2025 23:34:08 -0300</pubDate>
+    <lastBuildDate>Wed, 11 Jun 2025 23:34:08 -0300</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
     
       <item>
@@ -553,6 +553,406 @@
       </item>
     
       <item>
+        <title>Tempestades Geomagnéticas de Maio de 2024: Auroras Históricas e Comparações com o Evento de Carrington</title>
+        <description>&lt;p&gt;Em maio de 2024, a Terra foi atingida por uma série de tempestades geomagnéticas intensas, provocadas por ejeções de massa coronal (CMEs) do Sol. Essas tempestades resultaram em auroras visíveis em latitudes excepcionalmente baixas, incluindo regiões do Brasil, Estados Unidos, Europa e até o norte da África. O fenômeno foi amplamente registrado por observadores e cientistas, marcando um dos eventos mais intensos do século XXI.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/2/2e/Aurora_Minas_Gerais_2024.jpg&quot; alt=&quot;Aurora em Minas Gerais, Brasil, 11 de maio de 2024&quot; /&gt;
+&lt;em&gt;Aurora observada em Minas Gerais, Brasil, 11 de maio de 2024. Fonte: &lt;a href=&quot;https://pt.wikipedia.org/wiki/Tempestade_geomagn%C3%A9tica_de_maio_de_2024&quot;&gt;Wikipedia&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/3/3b/Aurora_Oklahoma_2024.jpg&quot; alt=&quot;Aurora em Oklahoma, EUA, 11 de maio de 2024&quot; /&gt;
+&lt;em&gt;Aurora observada em Oklahoma, EUA, 11 de maio de 2024. Fonte: &lt;a href=&quot;https://www.swpc.noaa.gov/news/aurora-photos-may-2024&quot;&gt;NOAA SWPC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;o-que-são-tempestades-geomagnéticas&quot;&gt;O que são tempestades geomagnéticas?&lt;/h2&gt;
+
+&lt;p&gt;Tempestades geomagnéticas são perturbações do campo magnético da Terra causadas pela interação com partículas solares altamente energéticas, especialmente durante CMEs. Elas podem afetar sistemas de comunicação, redes elétricas, satélites e até mesmo causar auroras em latitudes incomuns.&lt;/p&gt;
+
+&lt;h2 id=&quot;comparação-com-eventos-históricos&quot;&gt;Comparação com eventos históricos&lt;/h2&gt;
+
+&lt;p&gt;As tempestades de maio de 2024 foram classificadas como G5 (extrema) pelo NOAA SWPC, com índices Kp atingindo 9. Para efeito de comparação:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Evento de Carrington (1859):&lt;/strong&gt; Considerada a maior tempestade geomagnética já registrada, causou falhas em telégrafos e auroras até o Caribe.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Tempestade de Quebec (1989):&lt;/strong&gt; Provocou apagão no Canadá e auroras em latitudes médias.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Tempestades de maio de 2024:&lt;/strong&gt; Auroras visíveis em latitudes tão baixas quanto o sul do Brasil e Texas, com relatos de perturbações em redes elétricas e sistemas de navegação.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Evento&lt;/th&gt;
+      &lt;th&gt;Ano&lt;/th&gt;
+      &lt;th&gt;Kp Máximo&lt;/th&gt;
+      &lt;th&gt;Impacto Principal&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Carrington&lt;/td&gt;
+      &lt;td&gt;1859&lt;/td&gt;
+      &lt;td&gt;9+&lt;/td&gt;
+      &lt;td&gt;Falhas em telégrafo, auroras tropicais&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;New York Railroad&lt;/td&gt;
+      &lt;td&gt;1921&lt;/td&gt;
+      &lt;td&gt;9&lt;/td&gt;
+      &lt;td&gt;Incêndios em ferrovias, falhas em comunicações&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Quebec&lt;/td&gt;
+      &lt;td&gt;1989&lt;/td&gt;
+      &lt;td&gt;9&lt;/td&gt;
+      &lt;td&gt;Apagão, auroras em latitudes médias&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Halloween&lt;/td&gt;
+      &lt;td&gt;2003&lt;/td&gt;
+      &lt;td&gt;9&lt;/td&gt;
+      &lt;td&gt;Satélites, GPS, aviação afetados&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Maio de 2024&lt;/td&gt;
+      &lt;td&gt;2024&lt;/td&gt;
+      &lt;td&gt;9&lt;/td&gt;
+      &lt;td&gt;Auroras em baixa latitude, perturbações&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Março de 1989&lt;/td&gt;
+      &lt;td&gt;1989&lt;/td&gt;
+      &lt;td&gt;9&lt;/td&gt;
+      &lt;td&gt;Falhas em redes elétricas, auroras&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Maio de 1921&lt;/td&gt;
+      &lt;td&gt;1921&lt;/td&gt;
+      &lt;td&gt;9&lt;/td&gt;
+      &lt;td&gt;Falhas em telégrafos/telefones, incêndios&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Agosto de 1972&lt;/td&gt;
+      &lt;td&gt;1972&lt;/td&gt;
+      &lt;td&gt;8-9&lt;/td&gt;
+      &lt;td&gt;Satélites, comunicações afetadas&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Julho de 1958&lt;/td&gt;
+      &lt;td&gt;1958&lt;/td&gt;
+      &lt;td&gt;9&lt;/td&gt;
+      &lt;td&gt;Auroras em baixa latitude&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Setembro de 1941&lt;/td&gt;
+      &lt;td&gt;1941&lt;/td&gt;
+      &lt;td&gt;9&lt;/td&gt;
+      &lt;td&gt;Falhas em comunicações, auroras&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&quot;seção-histórica-expandida-carrington-e-quebec&quot;&gt;Seção Histórica Expandida: Carrington e Quebec&lt;/h2&gt;
+
+&lt;h3 id=&quot;o-evento-de-carrington-1859&quot;&gt;O Evento de Carrington (1859)&lt;/h3&gt;
+
+&lt;p&gt;O Evento de Carrington é considerado a tempestade geomagnética mais intensa já registrada. Em 1º de setembro de 1859, o astrônomo britânico Richard Carrington observou e desenhou um grande grupo de manchas solares, seguido de um clarão súbito — hoje conhecido como flare solar. Foi a primeira vez que um flare foi diretamente associado a distúrbios geomagnéticos na Terra.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Carrington_Richard_drawing_of_1859_sunspots.jpeg/330px-Carrington_Richard_drawing_of_1859_sunspots.jpeg&quot; alt=&quot;Desenho das manchas solares de Carrington, 1º de setembro de 1859&quot; /&gt;
+&lt;em&gt;Desenho de Richard Carrington das manchas solares e flare, 1859. Fonte: &lt;a href=&quot;https://pt.wikipedia.org/wiki/Evento_Carrington&quot;&gt;Wikipedia&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Em apenas 17 horas, uma ejeção de massa coronal (CME) atingiu a Terra, causando auroras visíveis até o Caribe e norte da América do Sul. Sistemas de telégrafo falharam na Europa e América do Norte, com relatos de operadores recebendo choques elétricos e papéis pegando fogo. Alguns sistemas continuaram funcionando mesmo desconectados da fonte de energia, alimentados por correntes induzidas geomagneticamente.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Sobre Richard Carrington:&lt;/strong&gt;
+Richard Christopher Carrington (1826–1875) foi um astrônomo inglês pioneiro em física solar. Suas observações em 1859 forneceram a primeira evidência direta da ligação entre atividade solar e tempestades geomagnéticas na Terra.&lt;/p&gt;
+
+&lt;h3 id=&quot;a-tempestade-de-quebec-março-de-1989&quot;&gt;A Tempestade de Quebec (março de 1989)&lt;/h3&gt;
+
+&lt;p&gt;A tempestade geomagnética de Quebec ocorreu em 13 de março de 1989 e é um dos eventos de clima espacial mais marcantes da era moderna. Provocada por uma CME intensa, causou um apagão de nove horas na província canadense de Quebec, deixando seis milhões de pessoas sem eletricidade. O evento também afetou satélites, comunicações de rádio e causou auroras até o Texas e a Flórida.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/6/6e/Quebec_Blackout_1989.jpg&quot; alt=&quot;Apagão de Quebec, 13 de março de 1989&quot; /&gt;
+&lt;em&gt;Sala de controle durante o apagão de Quebec, 1989. Fonte: &lt;a href=&quot;https://pt.wikipedia.org/wiki/Tempestade_geomagn%C3%A9tica_de_mar%C3%A7o_de_1989&quot;&gt;Wikipedia&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Repercussões:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Transformadores foram danificados no Canadá e nos EUA.&lt;/li&gt;
+  &lt;li&gt;Satélites foram afetados, alguns saíram de controle.&lt;/li&gt;
+  &lt;li&gt;Sistemas de rádio e navegação apresentaram falhas.&lt;/li&gt;
+  &lt;li&gt;O evento levou a grandes investimentos em monitoramento e proteção de redes elétricas.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Datas envolvidas:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;9 de março de 1989: Flare solar e CME observados.&lt;/li&gt;
+  &lt;li&gt;13 de março de 1989: Tempestade geomagnética e apagão em Quebec.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;e-se-um-evento-como-o-de-carrington-ocorresse-hoje&quot;&gt;E se um evento como o de Carrington ocorresse hoje?&lt;/h3&gt;
+
+&lt;p&gt;Uma tempestade da magnitude de Carrington poderia causar apagões generalizados, danos a transformadores, falhas em satélites, GPS e comunicações, além de prejuízos econômicos trilionários. A sociedade moderna é muito mais dependente de eletricidade e tecnologia do que em 1859, tornando-nos mais vulneráveis.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Qual o risco de um novo evento Carrington?&lt;/strong&gt;
+Estudos estimam que tempestades desse porte têm probabilidade de 1–2% por década (aproximadamente uma vez a cada 50–100 anos). Apesar de raros, o risco é suficiente para justificar investimentos em monitoramento e mitigação.&lt;/p&gt;
+
+&lt;h2 id=&quot;monitoramento-do-clima-espacial-e-sua-importância&quot;&gt;Monitoramento do Clima Espacial e Sua Importância&lt;/h2&gt;
+
+&lt;p&gt;O monitoramento do clima espacial é fundamental para proteger a infraestrutura tecnológica moderna dos efeitos das tempestades geomagnéticas. Diversas agências nacionais e internacionais mantêm sistemas de vigilância e alerta:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;NOAA Space Weather Prediction Center (SWPC, EUA):&lt;/strong&gt; Principal agência dos EUA para previsão, monitoramento e alertas de clima espacial. Fornece dados em tempo real, avisos e recursos educativos.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;ESA Space Weather Office (Europa):&lt;/strong&gt; A Agência Espacial Europeia coordena o monitoramento e pesquisa do clima espacial no continente.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;UK Met Office Space Weather Operations Centre (Reino Unido):&lt;/strong&gt; Fornece previsões e alertas para o Reino Unido e colabora internacionalmente.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Agência Meteorológica do Japão (JMA):&lt;/strong&gt; Monitora a atividade solar e geomagnética no leste asiático.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Outras agências:&lt;/strong&gt; Canadá, Rússia, China e Austrália também mantêm programas de clima espacial.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Essas agências compartilham dados e colaboram por meio do International Space Environment Service (ISES), uma rede global para troca de informações sobre clima espacial.&lt;/p&gt;
+
+&lt;h3 id=&quot;programas-de-alerta-de-clima-espacial&quot;&gt;Programas de Alerta de Clima Espacial&lt;/h3&gt;
+
+&lt;p&gt;A maioria das agências opera sistemas públicos de alerta que notificam concessionárias, operadores de satélites, companhias aéreas e o público sobre eventos em andamento ou previstos. Os alertas usam escalas padronizadas:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Índice Kp:&lt;/strong&gt; Índice global de atividade geomagnética que vai de 0 (muito calmo) a 9 (extremamente perturbado). Valores de Kp igual ou acima de 5 indicam tempestade geomagnética.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Escala G (NOAA):&lt;/strong&gt; O SWPC utiliza a escala G para classificar tempestades geomagnéticas:
+    &lt;ul&gt;
+      &lt;li&gt;G1 (Menor, Kp=5)&lt;/li&gt;
+      &lt;li&gt;G2 (Moderada, Kp=6)&lt;/li&gt;
+      &lt;li&gt;G3 (Forte, Kp=7)&lt;/li&gt;
+      &lt;li&gt;G4 (Severa, Kp=8)&lt;/li&gt;
+      &lt;li&gt;G5 (Extrema, Kp=9)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Essas escalas ajudam a comunicar a gravidade e os possíveis impactos das tempestades geomagnéticas para tomadores de decisão e o público.&lt;/p&gt;
+
+&lt;h2 id=&quot;fontes-e-leituras-recomendadas&quot;&gt;Fontes e leituras recomendadas&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://pt.wikipedia.org/wiki/Tempestade_geomagn%C3%A9tica_de_maio_de_2024&quot;&gt;Wikipedia: Tempestade geomagnética de maio de 2024&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.swpc.noaa.gov/news/aurora-photos-may-2024&quot;&gt;NOAA SWPC - Aurora Photos May 2024&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.swpc.noaa.gov/noaa-scales-explanation&quot;&gt;NOAA SWPC - Space Weather Scales&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;conclusão&quot;&gt;Conclusão&lt;/h2&gt;
+
+&lt;p&gt;As tempestades geomagnéticas de maio de 2024 entram para a história como um dos maiores espetáculos naturais do século, lembrando a importância do monitoramento do clima espacial e da preparação para seus impactos em nossa sociedade tecnológica.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 15 May 2024 12:00:00 -0300</pubDate>
+        <link>https://fhcflx.github.io/ciencia-medica/2024/05/15/tempestades-geomagneticas-2024.html</link>
+        <guid isPermaLink="true">https://fhcflx.github.io/ciencia-medica/2024/05/15/tempestades-geomagneticas-2024.html</guid>
+        
+        <category>Geomagnetismo</category>
+        
+        <category>Aurora</category>
+        
+        <category>Espaço</category>
+        
+        <category>História da Ciência</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>May 2024 Geomagnetic Storms: Historic Auroras and the Carrington Comparison</title>
+        <description>&lt;p&gt;In May 2024, Earth was struck by a series of intense geomagnetic storms triggered by powerful coronal mass ejections (CMEs) from the Sun. These storms produced auroras visible at exceptionally low latitudes, including parts of the United States, Brazil, Europe, and even North Africa. The phenomenon was widely documented by observers and scientists, marking one of the most significant space weather events of the 21st century.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/May_2024_Aurora_SC.jpg/330px-May_2024_Aurora_SC.jpg&quot; alt=&quot;Aurora in Oklahoma, USA, May 11, 2024&quot; /&gt;
+&lt;em&gt;Aurora seen in Pawleys Island, South Carolina, U.S. (33°N GLAT, 43°N MLAT) May 11, 2024. Source: &lt;a href=&quot;https://www.swpc.noaa.gov/news/aurora-photos-may-2024&quot;&gt;NOAA SWPC&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/2/2e/Aurora_Minas_Gerais_2024.jpg&quot; alt=&quot;Aurora in Minas Gerais, Brazil, May 11, 2024&quot; /&gt;
+&lt;em&gt;Aurora seen in Minas Gerais, Brazil, May 11, 2024. Source: &lt;a href=&quot;https://en.wikipedia.org/wiki/May_2024_geomagnetic_storms&quot;&gt;Wikipedia&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;what-are-geomagnetic-storms&quot;&gt;What are geomagnetic storms?&lt;/h2&gt;
+
+&lt;p&gt;Geomagnetic storms are disturbances in Earth’s magnetic field caused by interactions with highly energetic solar particles, especially during CMEs. They can disrupt communications, power grids, satellites, and even cause auroras at unusual latitudes.&lt;/p&gt;
+
+&lt;h2 id=&quot;comparison-with-historic-events&quot;&gt;Comparison with historic events&lt;/h2&gt;
+
+&lt;p&gt;The May 2024 storms were classified as G5 (extreme) by NOAA SWPC, with Kp indices reaching 9. For comparison:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Carrington Event (1859):&lt;/strong&gt; The largest geomagnetic storm ever recorded, causing telegraph failures and auroras as far south as the Caribbean.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Quebec Storm (1989):&lt;/strong&gt; Caused a blackout in Canada and auroras at mid-latitudes.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;May 2024 Storms:&lt;/strong&gt; Auroras seen as far south as southern Brazil and Texas, with reports of power grid and navigation disruptions.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Event&lt;/th&gt;
+      &lt;th&gt;Year&lt;/th&gt;
+      &lt;th&gt;Max Kp&lt;/th&gt;
+      &lt;th&gt;Main Impact&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Carrington&lt;/td&gt;
+      &lt;td&gt;1859&lt;/td&gt;
+      &lt;td&gt;9+&lt;/td&gt;
+      &lt;td&gt;Telegraph failures, tropical auroras&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;New York Railroad&lt;/td&gt;
+      &lt;td&gt;1921&lt;/td&gt;
+      &lt;td&gt;9&lt;/td&gt;
+      &lt;td&gt;Railroad fires, telegraph/telephone outages&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Quebec&lt;/td&gt;
+      &lt;td&gt;1989&lt;/td&gt;
+      &lt;td&gt;9&lt;/td&gt;
+      &lt;td&gt;Blackout, mid-latitude auroras&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Halloween Storms&lt;/td&gt;
+      &lt;td&gt;2003&lt;/td&gt;
+      &lt;td&gt;9&lt;/td&gt;
+      &lt;td&gt;Satellite, GPS, aviation disruptions&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;May 2024&lt;/td&gt;
+      &lt;td&gt;2024&lt;/td&gt;
+      &lt;td&gt;9&lt;/td&gt;
+      &lt;td&gt;Low-latitude auroras, power disruptions&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;March Storm&lt;/td&gt;
+      &lt;td&gt;1989&lt;/td&gt;
+      &lt;td&gt;9&lt;/td&gt;
+      &lt;td&gt;Power grid failures, auroras&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;May Storm&lt;/td&gt;
+      &lt;td&gt;1921&lt;/td&gt;
+      &lt;td&gt;9&lt;/td&gt;
+      &lt;td&gt;Telegraph/telephone outages, fires&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;August Storm&lt;/td&gt;
+      &lt;td&gt;1972&lt;/td&gt;
+      &lt;td&gt;8-9&lt;/td&gt;
+      &lt;td&gt;Satellite, communication disruptions&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;July Storm&lt;/td&gt;
+      &lt;td&gt;1958&lt;/td&gt;
+      &lt;td&gt;9&lt;/td&gt;
+      &lt;td&gt;Auroras at low latitudes&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;September Storm&lt;/td&gt;
+      &lt;td&gt;1941&lt;/td&gt;
+      &lt;td&gt;9&lt;/td&gt;
+      &lt;td&gt;Telegraph/telephone outages, auroras&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&quot;expanded-historical-section-the-carrington-and-quebec-events&quot;&gt;Expanded Historical Section: The Carrington and Quebec Events&lt;/h2&gt;
+
+&lt;h3 id=&quot;the-carrington-event-1859&quot;&gt;The Carrington Event (1859)&lt;/h3&gt;
+
+&lt;p&gt;The Carrington Event is considered the most powerful geomagnetic storm ever recorded. On September 1, 1859, British astronomer Richard Carrington observed and drew a massive group of sunspots, followed by a sudden bright flash—now known as a solar flare. This was the first time a solar flare was directly linked to geomagnetic disturbances on Earth.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Carrington_Richard_drawing_of_1859_sunspots.jpeg/330px-Carrington_Richard_drawing_of_1859_sunspots.jpeg&quot; alt=&quot;Carrington&apos;s sunspot drawing, September 1, 1859&quot; /&gt;
+&lt;em&gt;Richard Carrington’s drawing of the sunspots and flare, 1859. Source: &lt;a href=&quot;https://en.wikipedia.org/wiki/Carrington_Event&quot;&gt;Wikipedia&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Within 17 hours, a coronal mass ejection (CME) reached Earth, causing auroras visible as far south as the Caribbean and northern South America. Telegraph systems across Europe and North America failed, with some operators receiving electric shocks and telegraph paper catching fire. Some systems continued to operate even when disconnected from their power supplies, powered by geomagnetically induced currents.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;About Richard Carrington:&lt;/strong&gt;
+Richard Christopher Carrington (1826–1875) was a pioneering English astronomer who made significant contributions to solar physics. His observations in 1859 provided the first evidence of a direct connection between solar activity and geomagnetic storms on Earth.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-quebec-storm-march-1989&quot;&gt;The Quebec Storm (March 1989)&lt;/h3&gt;
+
+&lt;p&gt;The Quebec geomagnetic storm occurred on March 13, 1989, and is one of the most significant space weather events of the modern era. Triggered by a powerful CME, the storm caused a nine-hour blackout in the Canadian province of Quebec, leaving six million people without electricity. The event also disrupted satellites, radio communications, and caused auroras as far south as Texas and Florida.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;hhttps://upload.wikimedia.org/wikipedia/commons/thumb/2/20/ExtremeEvent_19890310-00h_19890315-24h.jpg/960px-ExtremeEvent_19890310-00h_19890315-24h.jpg&quot; alt=&quot;Quebec blackout, March 13, 1989&quot; /&gt;
+&lt;em&gt;GOES-7 monitors the space weather conditions during the Great Geomagnetic storm of March 1989, the Moscow neutron monitor recorded the passage of a CME as a drop in levels known as a Forbush decrease. Source: &lt;a href=&quot;https://en.wikipedia.org/wiki/March_1989_geomagnetic_storm&quot;&gt;Wikipedia&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Repercussions:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Power grid transformers were damaged in Canada and the US.&lt;/li&gt;
+  &lt;li&gt;Satellite operations were disrupted, and some satellites tumbled out of control.&lt;/li&gt;
+  &lt;li&gt;Shortwave radio and navigation systems experienced outages.&lt;/li&gt;
+  &lt;li&gt;The event led to major investments in space weather monitoring and grid protection.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Dates involved:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;March 9, 1989: Solar flare and CME observed.&lt;/li&gt;
+  &lt;li&gt;March 13, 1989: Geomagnetic storm and blackout in Quebec.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;what-if-a-carrington-level-event-happened-today&quot;&gt;What if a Carrington-level event happened today?&lt;/h3&gt;
+
+&lt;p&gt;A storm of Carrington magnitude could cause widespread blackouts, damage to transformers, satellite failures, GPS and communication disruptions, and economic losses in the trillions of dollars. Modern society is far more dependent on electricity and technology than in 1859, making us more vulnerable to such events.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;How likely is another Carrington event?&lt;/strong&gt;
+Studies estimate that Carrington-class storms have a probability of about 1–2% per decade (roughly once every 50–100 years). While rare, the risk is significant enough that governments and utilities are investing in monitoring and mitigation strategies.&lt;/p&gt;
+
+&lt;h2 id=&quot;space-weather-monitoring-and-its-importance&quot;&gt;Space Weather Monitoring and Its Importance&lt;/h2&gt;
+
+&lt;p&gt;Space weather monitoring is crucial for protecting modern technological infrastructure from the effects of geomagnetic storms. Several national and international agencies operate space weather monitoring and alert systems:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;NOAA Space Weather Prediction Center (SWPC, USA):&lt;/strong&gt; The leading U.S. agency for space weather forecasting, monitoring, and alerts. Provides real-time data, warnings, and educational resources.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;ESA Space Weather Office (Europe):&lt;/strong&gt; The European Space Agency coordinates space weather monitoring and research across Europe.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;UK Met Office Space Weather Operations Centre (UK):&lt;/strong&gt; Provides forecasts and alerts for the UK and collaborates internationally.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Japan Meteorological Agency (JMA):&lt;/strong&gt; Monitors solar and geomagnetic activity in East Asia.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Other agencies:&lt;/strong&gt; Canada, Russia, China, and Australia also maintain space weather programs.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;These agencies share data and collaborate through the International Space Environment Service (ISES), a global network for space weather information exchange.&lt;/p&gt;
+
+&lt;h3 id=&quot;space-weather-alert-programs&quot;&gt;Space Weather Alert Programs&lt;/h3&gt;
+
+&lt;p&gt;Most agencies operate public alert systems that notify utilities, satellite operators, airlines, and the public about ongoing or expected space weather events. Alerts are issued using standardized scales:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Kp Index:&lt;/strong&gt; A global geomagnetic activity index ranging from 0 (very quiet) to 9 (extremely disturbed). Kp values of 5 or higher indicate geomagnetic storm conditions.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;G Scale (NOAA):&lt;/strong&gt; The NOAA SWPC uses the G scale to classify geomagnetic storms:
+    &lt;ul&gt;
+      &lt;li&gt;G1 (Minor, Kp=5)&lt;/li&gt;
+      &lt;li&gt;G2 (Moderate, Kp=6)&lt;/li&gt;
+      &lt;li&gt;G3 (Strong, Kp=7)&lt;/li&gt;
+      &lt;li&gt;G4 (Severe, Kp=8)&lt;/li&gt;
+      &lt;li&gt;G5 (Extreme, Kp=9)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;These scales help communicate the severity and potential impacts of geomagnetic storms to decision-makers and the public.&lt;/p&gt;
+
+&lt;h2 id=&quot;sources-and-further-reading&quot;&gt;Sources and further reading&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/May_2024_solar_storms&quot;&gt;Wikipedia: May 2024 geomagnetic storms&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.swpc.noaa.gov/news/aurora-photos-may-2024&quot;&gt;NOAA SWPC - Aurora Photos May 2024&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.swpc.noaa.gov/noaa-scales-explanation&quot;&gt;NOAA SWPC - Space Weather Scales&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;The geomagnetic storms of May 2024 will be remembered as one of the greatest natural spectacles of the century, highlighting the importance of space weather monitoring and preparedness for its impacts on our technological society.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 15 May 2024 12:00:00 -0300</pubDate>
+        <link>https://fhcflx.github.io/ciencia-medica/2024/05/15/geomagnetic-storms-2024.html</link>
+        <guid isPermaLink="true">https://fhcflx.github.io/ciencia-medica/2024/05/15/geomagnetic-storms-2024.html</guid>
+        
+        <category>Geomagnetism</category>
+        
+        <category>Aurora</category>
+        
+        <category>Space</category>
+        
+        <category>Science History</category>
+        
+        
+      </item>
+    
+      <item>
         <title>2023 Nobel Prize in Physiology or Medicine: The mRNA Revolution with Karikó and Weissman</title>
         <description>&lt;p&gt;The 2023 Nobel Prize in Physiology or Medicine was awarded to &lt;strong&gt;Katalin Karikó&lt;/strong&gt; and &lt;strong&gt;Drew Weissman&lt;/strong&gt;, for their groundbreaking discoveries that led to the development of mRNA vaccines against COVID-19.
   &lt;!--more--&gt;&lt;/p&gt;
@@ -688,78 +1088,6 @@
         <category>Genética</category>
         
         <category>Antropologia</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>2021 Nobel Prize in Physiology or Medicine: Unlocking the Secrets of Touch and Temperature</title>
-        <description>&lt;p&gt;The 2021 Nobel Prize in Physiology or Medicine was awarded to &lt;strong&gt;David Julius&lt;/strong&gt; and &lt;strong&gt;Ardem Patapoutian&lt;/strong&gt;, for their discoveries of receptors for temperature and touch. 
-  &lt;!--more--&gt;&lt;/p&gt;
-
-&lt;p&gt;Julius and Patapoutian, working independently, unlocked the molecular mechanisms that allow living beings to feel heat, cold, and pressure, opening doors to new discoveries in areas such as pain, disease treatment, and neuroscience.&lt;/p&gt;
-
-&lt;p&gt;David Julius, from the University of California, San Francisco, used capsaicin, the substance that gives chili peppers their spiciness, to identify a sensory receptor in the skin that responds to heat.&lt;/p&gt;
-
-&lt;p&gt;This discovery led to the identification of a family of sensory receptors, called TRP (Transient Receptor Potential), which are responsible for detecting different temperatures, from extreme heat to intense cold.&lt;/p&gt;
-
-&lt;p&gt;Ardem Patapoutian, from the Scripps Research Institute in California, in turn, focused on identifying sensory receptors for pressure. Using cultured cells in the laboratory, he developed a system to identify cells that responded to mechanical stimuli.&lt;/p&gt;
-
-&lt;p&gt;With this system, Patapoutian managed to identify a new type of receptor, called Piezo1 and Piezo2, that respond to pressure and the deformation of the cell membrane. These receptors are important for the sensation of touch, blood pressure, and proprioception, the ability to sense the body’s position in space.&lt;/p&gt;
-
-&lt;p&gt;The discoveries of Julius and Patapoutian revolutionized the understanding of sensory mechanisms, paving the way for the development of new drugs to treat a variety of conditions, such as chronic pain, inflammatory diseases, and neurological diseases.&lt;/p&gt;
-
-&lt;p&gt;The 2021 Nobel Prize recognizes the fundamental importance of the discoveries of Julius and Patapoutian, who unlocked the secrets of touch and temperature, sensations that are essential for our interaction with the world and for our survival.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 04 Oct 2021 20:22:00 -0300</pubDate>
-        <link>https://fhcflx.github.io/ciencia-medica/2021/10/04/nobel-medicine-21.html</link>
-        <guid isPermaLink="true">https://fhcflx.github.io/ciencia-medica/2021/10/04/nobel-medicine-21.html</guid>
-        
-        <category>Physiology or Medicine</category>
-        
-        <category>Nobel Prize</category>
-        
-        <category>Touch</category>
-        
-        <category>Temperature</category>
-        
-        <category>Sensory Receptors</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Prêmio Nobel de Fisiologia ou Medicina 2021: Desvendando os Segredos do Tato e da Temperatura</title>
-        <description>&lt;p&gt;O Prêmio Nobel de Fisiologia ou Medicina de 2021 foi concedido a &lt;strong&gt;David Julius&lt;/strong&gt; e &lt;strong&gt;Ardem Patapoutian&lt;/strong&gt;, por suas descobertas de receptores para a temperatura e o tato. 
-  &lt;!--more--&gt;&lt;/p&gt;
-
-&lt;p&gt;Julius e Patapoutian, trabalhando independentemente, desvendaram os mecanismos moleculares que permitem aos seres vivos sentir o calor, o frio e a pressão, abrindo portas para novas descobertas em áreas como a dor, o tratamento de doenças e a neurociência.&lt;/p&gt;
-
-&lt;p&gt;David Julius, da Universidade da Califórnia em San Francisco, utilizou capsaicina, a substância que dá ardência à pimenta, para identificar um receptor sensorial na pele que responde ao calor.&lt;/p&gt;
-
-&lt;p&gt;Essa descoberta levou à identificação de uma família de receptores sensoriais, denominados TRP (Transient Receptor Potential), que são responsáveis pela detecção de diferentes temperaturas, desde o calor extremo até o frio intenso.&lt;/p&gt;
-
-&lt;p&gt;Ardem Patapoutian, do Instituto Scripps de Pesquisa na Califórnia, por sua vez, focou na identificação de receptores sensoriais para a pressão. Utilizando células cultivadas em laboratório, ele desenvolveu um sistema para identificar células que respondiam a estímulos mecânicos.&lt;/p&gt;
-
-&lt;p&gt;Com esse sistema, Patapoutian conseguiu identificar um novo tipo de receptor, chamado Piezo1 e Piezo2, que respondem à pressão e à deformação da membrana celular. Esses receptores são importantes para a sensação de tato, pressão arterial e a propriocepção, a capacidade de sentir a posição do corpo no espaço.&lt;/p&gt;
-
-&lt;p&gt;As descobertas de Julius e Patapoutian revolucionaram a compreensão dos mecanismos sensoriais, abrindo caminho para o desenvolvimento de novos fármacos para tratar uma variedade de condições, como dor crônica, doenças inflamatórias e doenças neurológicas.&lt;/p&gt;
-
-&lt;p&gt;O Prêmio Nobel de 2021 reconhece a importância fundamental das descobertas de Julius e Patapoutian, que desvendaram os segredos do tato e da temperatura, sensações que são essenciais para a nossa interação com o mundo e para a nossa sobrevivência.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 04 Oct 2021 20:22:00 -0300</pubDate>
-        <link>https://fhcflx.github.io/ciencia-medica/2021/10/04/nobel-medicina-21.html</link>
-        <guid isPermaLink="true">https://fhcflx.github.io/ciencia-medica/2021/10/04/nobel-medicina-21.html</guid>
-        
-        <category>Fisiologia ou Medicina</category>
-        
-        <category>Nobel</category>
-        
-        <category>Tato</category>
-        
-        <category>Temperatura</category>
-        
-        <category>Receptores Sensoriais</category>
         
         
       </item>
