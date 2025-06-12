@@ -12,21 +12,25 @@ lang: en-us
 ref: geomag2024
 ---
 
-In May 2024, Earth was struck by a series of intense geomagnetic storms {% include geomag-storm-en.html %} triggered by powerful coronal mass ejections (CMEs) {% include geomag-cme-en.html %} from the Sun. These storms produced auroras {% include geomag-aurora-en.html %} visible at exceptionally low latitudes, including parts of the United States, Brazil, Europe, and even North Africa. The phenomenon was widely documented by observers and scientists, marking one of the most significant space weather events of the 21st century.
+In May 2024, Earth was struck by a series of intense geomagnetic storms {% include geomag-storm-en.html %} triggered by powerful coronal mass ejections (CMEs) {% include geomag-cme-en.html %} from the Sun. These storms produced auroras {% include geomag-aurora-en.html %} visible at exceptionally low latitudes, including parts of the United States, Brazil, Europe, and even [North Africa][arabiaweather].   <!--more-->
+The phenomenon was widely documented by observers and scientists, marking one of the most significant space weather events of the 21st century.
 
 ![Aurora in Pawleys Island, USA, May 11, 2024](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/May_2024_Aurora_SC.jpg/960px-May_2024_Aurora_SC.jpg)
-*Aurora seen in Pawleys Island, South Carolina, U.S. (33°N GLAT, 43°N MLAT) May 11, 2024. Source: [Wikipedia](https://en.wikipedia.org/wiki/May_2024_solar_storms)*
+*Aurora seen in Pawleys Island, South Carolina, U.S. (33°N GLAT, 43°N MLAT) May 11, 2024. Source: [Wikipedia][wiki]*
 
 ![Aurora in Quillon, Chile, May 11, 2024](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Aurora_austral.jpg/960px-Aurora_austral.jpg)
-*Aurora seen in Quillón, Chile (36°S GLAT, 24°S MLAT), May 11, 2024. Source: [Wikipedia](https://en.wikipedia.org/wiki/May_2024_solar_storms)*
+*Aurora seen in Quillón, Chile (36°S GLAT, 24°S MLAT), May 11, 2024. Source: [Wikipedia][wiki]*
 
 ![Aurora in Mazatlán, Mexico, May 11, 2024](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Palm_Trees_and_Auroras_In_Mazatlan.jpg/960px-Palm_Trees_and_Auroras_In_Mazatlan.jpg)
-*Aurora seen in Mazatlán, Mexico (23°N GLAT, 31°N MLAT), May 11, 2024. Source: [Wikipedia](https://en.wikipedia.org/wiki/May_2024_solar_storms)*
+*Aurora seen in Mazatlán, Mexico (23°N GLAT, 31°N MLAT), May 11, 2024. Source: [Wikipedia][wiki]*
 
 ![Aurora in Melbourne, Australia, May 11, 2024](https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Aurora_Australis_From_Melbourne.jpg/330px-Aurora_Australis_From_Melbourne.jpg)
 ![Aurora in Cwmbran, Wales, U.K., May 11, 2024](https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Aurora_Borealis_from_Cwmbran%2C_Wales.png/330px-Aurora_Borealis_from_Cwmbran%2C_Wales.png)
 
-*Aurora seen Melbourne, Australia (38°S GLAT, 48°S MLAT), and in Cwmbran, Wales, U.K. (51°N GLAT, 47°N MLAT), May 11, 2024. Source: [Wikipedia](https://en.wikipedia.org/wiki/May_2024_solar_storms)*
+*Aurora seen Melbourne, Australia (38°S GLAT, 48°S MLAT), and in Cwmbran, Wales, U.K. (51°N GLAT, 47°N MLAT), May 11, 2024. Source: [Wikipedia][wiki]*
+
+![Aurora in Algeria, May 11, 2024](https://iresizer.devops.arabiaweather.com/resize?url=https://adminassets.devops.arabiaweather.com/sites/default/files/field/image/In%20pictures%20in%20a%20historic%20precedent%20watching%20the%20Northern%20Lights%20from%20Algeria.jpeg&size=800x450&force_webp=1)
+*Aurora seen in Algeria, May 11, 2024. Source: [ArabiaWeather.com][arabiaweather]*
 
 ## What are geomagnetic storms?
 
@@ -39,6 +43,8 @@ The May 2024 storms were classified as G5 (extreme) by NOAA SWPC, with Kp {% inc
 - **Carrington Event (1859):** The largest geomagnetic storm ever recorded, causing telegraph failures and auroras as far south as the Caribbean.
 - **Quebec Storm (1989):** Caused a blackout in Canada and auroras at mid-latitudes.
 - **May 2024 Storms:** Auroras seen as far south as southern Brazil and Texas, with reports of power grid and navigation disruptions.
+
+-----
 
 | Event                | Year | Max Kp | Main Impact                                 |
 |----------------------|------|--------|----------------------------------------------|
@@ -61,7 +67,7 @@ The Carrington Event is considered the most powerful geomagnetic storm ever reco
 
 ![Carrington's sunspot drawing, September 1, 1859](https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Carrington_Richard_drawing_of_1859_sunspots.jpeg/330px-Carrington_Richard_drawing_of_1859_sunspots.jpeg)
 
-*Richard Carrington's drawing of the sunspots, 1859. Source: [Wikipedia](https://en.wikipedia.org/wiki/Carrington_Event)*
+*Richard Carrington's drawing of the sunspots, 1859. Source: [Wikipedia][carrington]*
 
 Within 17 hours, a coronal mass ejection (CME) reached Earth, causing auroras visible as far south as the Caribbean and northern South America. Telegraph systems across Europe and North America failed, with some operators receiving electric shocks and telegraph paper catching fire. Some systems continued to operate even when disconnected from their power supplies, powered by geomagnetically induced currents.
 
@@ -73,7 +79,7 @@ Richard Christopher Carrington (1826–1875) was a pioneering English astronomer
 The Quebec geomagnetic storm occurred on March 13, 1989, and is one of the most significant space weather events of the modern era. Triggered by a powerful CME, the storm caused a nine-hour blackout in the Canadian province of Quebec, leaving six million people without electricity. The event also disrupted satellites, radio communications, and caused auroras as far south as Texas and Florida.
 
 ![Quebec blackout, March 13, 1989](https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/ExtremeEvent_19890310-00h_19890315-24h.jpg/960px-ExtremeEvent_19890310-00h_19890315-24h.jpg)
-*GOES-7 monitors the space weather conditions during the Great Geomagnetic storm of March 1989, the Moscow neutron monitor recorded the passage of a CME as a drop in levels known as a Forbush decrease. Source: [Wikipedia](https://en.wikipedia.org/wiki/March_1989_geomagnetic_storm)*
+*GOES-7 monitors the space weather conditions during the Great Geomagnetic storm of March 1989, the Moscow neutron monitor recorded the passage of a CME as a drop in levels known as a Forbush decrease. Source: [Wikipedia][quebec]*
 
 **Repercussions:**
 
@@ -122,10 +128,17 @@ These scales help communicate the severity and potential impacts of geomagnetic 
 
 ## Sources and further reading
 
-- [Wikipedia: May 2024 geomagnetic storms](https://en.wikipedia.org/wiki/May_2024_solar_storms)
-- [NOAA SWPC - Extreme geomagnetic storm](https://satlib.cira.colostate.edu/event/extreme-geomagnetic-storm/)
-- [NOAA SWPC - Space Weather Scales](https://www.swpc.noaa.gov/noaa-scales-explanation)
+- [Wikipedia: May 2024 geomagnetic storms][wiki]
+- [NOAA SWPC - Extreme geomagnetic storm][noaa1]
+- [NOAA SWPC - Space Weather Scales][noaa2]
 
 ## Conclusion
 
 The geomagnetic storms of May 2024 will be remembered as one of the greatest natural spectacles of the century, highlighting the importance of space weather monitoring and preparedness for its impacts on our technological society.
+
+[wiki]: https://en.wikipedia.org/wiki/May_2024_solar_storms
+[carrington]: https://en.wikipedia.org/wiki/Carrington_Event
+[quebec]: https://en.wikipedia.org/wiki/March_1989_geomagnetic_storm
+[noaa1]: https://satlib.cira.colostate.edu/event/extreme-geomagnetic-storm/
+[noaa2]: https://www.swpc.noaa.gov/noaa-scales-explanation
+[arabiaweather]: https://www.arabiaweather.com/ar/content/%D8%A8%D8%B3%D8%A8%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D8%B5%D9%81%D8%A9-%D8%A7%D9%84%D8%B4%D9%85%D8%B3%D9%8A%D8%A9-%D9%88%D9%81%D9%8A-%D8%B3%D8%A7%D8%A8%D9%82%D8%A9-%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE%D9%8A%D8%A9-%D9%85%D8%B4%D8%A7%D9%87%D8%AF%D8%A9-%D8%A7%D9%84%D8%B4%D9%81%D9%82-%D8%A7%D9%84%D9%82%D8%B7%D8%A8%D9%8A-%D9%85%D9%86-%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1-%D9%88%D9%85%D9%86%D8%A7%D8%B7%D9%82-%D8%B9%D9%84%D9%89-%D8%AE%D8%B7-%D8%A7%D8%B3%D8%AA%D9%88%D8%A7%D8%A1
