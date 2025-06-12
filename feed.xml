@@ -6,8 +6,8 @@
 </description>
     <link>https://fhcflx.github.io/ciencia-medica/</link>
     <atom:link href="https://fhcflx.github.io/ciencia-medica/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 12 Jun 2025 14:15:57 -0300</pubDate>
-    <lastBuildDate>Thu, 12 Jun 2025 14:15:57 -0300</lastBuildDate>
+    <pubDate>Thu, 12 Jun 2025 14:24:36 -0300</pubDate>
+    <lastBuildDate>Thu, 12 Jun 2025 14:24:36 -0300</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
     
       <item>
@@ -22,11 +22,17 @@
 &lt;span class=&quot;sidenote&quot;&gt;
 &lt;strong&gt;Epidemiologia da fibromialgia:&lt;/strong&gt; A fibromialgia afeta cerca de 2% a 4% da população mundial, sendo mais comum em mulheres. No Brasil, estima-se que milhões de pessoas convivam com a síndrome, que é uma das principais causas de dor crônica e incapacidade.
 &lt;/span&gt;
- Apesar de sua alta prevalência, as causas da fibromialgia ainda são pouco compreendidas e os tratamentos disponíveis costumam ser insatisfatórios. Estudos recentes sugerem que o microbioma intestinal — o conjunto de trilhões de bactérias que vivem no nosso intestino — pode influenciar o funcionamento do sistema nervoso e do sistema imunológico, afetando inclusive a percepção da dor. &lt;label for=&quot;microbioma&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+ Apesar de sua alta prevalência, as causas da fibromialgia ainda são pouco compreendidas e os tratamentos disponíveis costumam ser insatisfatórios.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Por que o microbioma importa para a saúde?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;O microbioma intestinal é o conjunto de trilhões de microrganismos (principalmente bactérias) que vivem no nosso trato digestivo. Ele atua como uma verdadeira “fábrica bioquímica”, ajudando na digestão de alimentos, produção de vitaminas, regulação do sistema imunológico e proteção contra agentes infecciosos. Além disso, o microbioma se comunica com o cérebro por meio de substâncias químicas e do sistema nervoso entérico, influenciando o humor, o metabolismo e até a percepção da dor. Alterações no equilíbrio dessas bactérias (disbiose) têm sido associadas a diversas doenças, incluindo distúrbios metabólicos, autoimunes, psiquiátricos e condições de dor crônica como a fibromialgia. &lt;label for=&quot;microbioma&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
 &lt;input type=&quot;checkbox&quot; id=&quot;microbioma&quot; class=&quot;margin-toggle&quot; /&gt;
 &lt;span class=&quot;sidenote&quot;&gt;
 &lt;strong&gt;Microbioma intestinal:&lt;/strong&gt; É o conjunto de trilhões de microrganismos que habitam o trato gastrointestinal humano. O microbioma influencia digestão, imunidade, metabolismo e até o funcionamento do sistema nervoso.
 &lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;Estudos recentes sugerem que o microbioma intestinal — o conjunto de trilhões de bactérias que vivem no nosso intestino — pode influenciar o funcionamento do sistema nervoso e do sistema imunológico, afetando inclusive a percepção da dor.&lt;/p&gt;
 
 &lt;h2 id=&quot;metodologia-como-o-estudo-foi-feito&quot;&gt;Metodologia: Como o estudo foi feito?&lt;/h2&gt;
 
@@ -44,7 +50,8 @@
   &lt;li&gt;&lt;strong&gt;Reversão do quadro:&lt;/strong&gt; Quando os camundongos receberam, posteriormente, microbiota de pessoas saudáveis, a dor foi aliviada.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://www.cell.com/cms/10.1016/j.neuron.2025.03.032/asset/c4101b78-70b3-4e9b-84f1-25c59bce8c12/main.assets/gr5_lrg.jpg&quot; alt=&quot;Figura 5 do artigo: Gráficos mostram que camundongos que receberam microbiota de pacientes com fibromialgia apresentaram maior sensibilidade à dor (mecânica, térmica e espontânea), e que o transplante subsequente de microbiota saudável reverteu esse quadro, normalizando os limiares de dor. Fonte: Cai W et al., Neuron, 2025.&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://www.cell.com/cms/10.1016/j.neuron.2025.03.032/asset/c4101b78-70b3-4e9b-84f1-25c59bce8c12/main.assets/gr5_lrg.jpg&quot; alt=&quot;Figura 5 do artigo&quot; /&gt;
+&lt;em&gt;Figura 5 do artigo: Gráficos mostram que camundongos que receberam microbiota de pacientes com fibromialgia apresentaram maior sensibilidade à dor (mecânica, térmica e espontânea), e que o transplante subsequente de microbiota saudável reverteu esse quadro, normalizando os limiares de dor. Fonte: Cai W et al., Neuron, 2025.&lt;/em&gt;&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;strong&gt;No estudo clínico:&lt;/strong&gt; Mulheres com fibromialgia grave e resistente a tratamentos apresentaram redução significativa da dor e melhora da qualidade de vida após receberem transplante de microbiota saudável. O estudo clínico aberto envolveu 14 mulheres, que receberam cápsulas de microbiota de doadoras saudáveis após preparo intestinal. Houve queda média de 2 pontos na escala de dor (NRS), melhora do impacto global da doença (FIQ), redução de ansiedade e depressão, melhora do sono e da qualidade de vida física. Testes sensoriais mostraram aumento do limiar de dor ao frio e tendência de melhora ao calor. O perfil metabólico e a composição do microbioma também mudaram, aproximando-se do perfil das doadoras. Os efeitos adversos foram leves e transitórios, principalmente fadiga e sintomas gastrointestinais leves. &lt;label for=&quot;fmt&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
@@ -54,7 +61,8 @@
 &lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://www.cell.com/cms/10.1016/j.neuron.2025.03.032/asset/86701a65-abed-49f6-9c26-9a92e9d705fc/main.assets/gr6_lrg.jpg&quot; alt=&quot;Figura 6 do artigo: Gráficos mostram que, após o transplante de microbiota saudável, mulheres com fibromialgia apresentaram redução significativa da intensidade da dor, melhora do impacto global da doença, ansiedade, depressão, qualidade do sono e qualidade de vida física. Os gráficos também mostram a mudança no limiar de dor ao frio e calor. Fonte: Cai W et al., Neuron, 2025.&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://www.cell.com/cms/10.1016/j.neuron.2025.03.032/asset/86701a65-abed-49f6-9c26-9a92e9d705fc/main.assets/gr6_lrg.jpg&quot; alt=&quot;Figura 6 do artigo&quot; /&gt;
+&lt;em&gt;Figura 6 do artigo: Gráficos mostram que, após o transplante de microbiota saudável, mulheres com fibromialgia apresentaram redução significativa da intensidade da dor, melhora do impacto global da doença, ansiedade, depressão, qualidade do sono e qualidade de vida física. Os gráficos também mostram a mudança no limiar de dor ao frio e calor. Fonte: Cai W et al., Neuron, 2025.&lt;/em&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;significado-para-o-campo-e-para-os-pacientes&quot;&gt;Significado para o campo e para os pacientes&lt;/h2&gt;
 
@@ -74,9 +82,10 @@
   &lt;li&gt;Vincent Racaniello (Universidade Columbia, EUA)&lt;/li&gt;
   &lt;li&gt;Petra Levin (Universidade Washington em St. Louis, EUA)&lt;/li&gt;
   &lt;li&gt;Michele Swanson (Universidade de Michigan, EUA)&lt;/li&gt;
-  &lt;li&gt;Michael Schmidt (Universidade Médica da Carolina do Sul, EUA)
-Todos são cientistas reconhecidos em suas áreas. O TWiM faz parte da rede MicrobeTV e está disponível gratuitamente em &lt;a href=&quot;https://www.microbe.tv/twim/&quot;&gt;microbe.tv/twim&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;Michael Schmidt (Universidade Médica da Carolina do Sul, EUA).&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;p&gt;Todos são cientistas reconhecidos em suas áreas. O TWiM faz parte da rede MicrobeTV e está disponível gratuitamente em &lt;a href=&quot;https://www.microbe.tv/twim/&quot;&gt;microbe.tv/twim&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Referências:&lt;/strong&gt;&lt;/p&gt;
 
