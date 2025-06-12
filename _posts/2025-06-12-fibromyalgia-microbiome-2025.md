@@ -11,7 +11,7 @@ tags:
 - Clinical research
 
 lang: en-us
-ref: fibromyalgia-microbiome-2025
+ref: fibromialgia-microbioma-2025
 
 ---
 
