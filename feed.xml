@@ -6,8 +6,8 @@
 </description>
     <link>https://fhcflx.github.io/ciencia-medica/</link>
     <atom:link href="https://fhcflx.github.io/ciencia-medica/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 14 Jun 2025 18:02:52 -0300</pubDate>
-    <lastBuildDate>Sat, 14 Jun 2025 18:02:52 -0300</lastBuildDate>
+    <pubDate>Sat, 14 Jun 2025 18:10:17 -0300</pubDate>
+    <lastBuildDate>Sat, 14 Jun 2025 18:10:17 -0300</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
     
       <item>
@@ -745,7 +745,7 @@
       </item>
     
       <item>
-        <title>Tempestades Geomagnéticas de Maio de 2024: Auroras Históricas e a Comparação com Carrington</title>
+        <title>Tempestades Geomagnéticas de Maio de 2024: Auroras Históricas</title>
         <description>&lt;p&gt;Em maio de 2024, a Terra foi atingida por uma série de intensas tempestades geomagnéticas &lt;label for=&quot;geomag-tempestade-pt&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
 &lt;input type=&quot;checkbox&quot; id=&quot;geomag-tempestade-pt&quot; class=&quot;margin-toggle&quot; /&gt;
 &lt;span class=&quot;sidenote&quot;&gt;
@@ -941,14 +941,9 @@ Estudos estimam que tempestades desse porte tenham probabilidade de 1–2% por d
 
 &lt;p&gt;A maioria das agências opera sistemas públicos de alerta que notificam concessionárias, operadores de satélites, companhias aéreas e o público sobre eventos de clima espacial em andamento ou previstos. Os alertas usam escalas padronizadas:&lt;/p&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Índice Kp:&lt;/strong&gt; Índice global de atividade geomagnética de 0 (muito calmo) a 9 (extremamente perturbado). Valores de Kp igual ou acima de 5 indicam tempestade geomagnética.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Escala G (NOAA):&lt;/strong&gt; O SWPC dos EUA usa a escala G para classificar tempestades geomagnéticas:&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Índice Kp:&lt;/strong&gt; Índice global de atividade geomagnética de 0 (muito calmo) a 9 (extremamente perturbado). Valores de Kp igual ou acima de 5 indicam tempestade geomagnética.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Escala G (NOAA):&lt;/strong&gt; O SWPC dos EUA usa a escala G para classificar tempestades geomagnéticas:&lt;/p&gt;
 
 &lt;table&gt;
   &lt;thead&gt;
@@ -1024,7 +1019,7 @@ Estudos estimam que tempestades desse porte tenham probabilidade de 1–2% por d
       </item>
     
       <item>
-        <title>May 2024 Geomagnetic Storms: Historic Auroras and the Carrington Comparison</title>
+        <title>May 2024 Geomagnetic Storms: Historic Auroras</title>
         <description>&lt;p&gt;In May 2024, Earth was struck by a series of intense geomagnetic storms &lt;label for=&quot;geomag-storm&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
 &lt;input type=&quot;checkbox&quot; id=&quot;geomag-storm&quot; class=&quot;margin-toggle&quot; /&gt;
 &lt;span class=&quot;sidenote&quot;&gt;
@@ -1220,14 +1215,9 @@ Studies estimate that Carrington-class storms have a probability of about 1–2%
 
 &lt;p&gt;Most agencies operate public alert systems that notify utilities, satellite operators, airlines, and the public about ongoing or expected space weather events. Alerts are issued using standardized scales:&lt;/p&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Kp Index:&lt;/strong&gt; A global geomagnetic activity index ranging from 0 (very quiet) to 9 (extremely disturbed). Kp values of 5 or higher indicate geomagnetic storm conditions.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;G Scale (NOAA):&lt;/strong&gt; The NOAA SWPC uses the G scale to classify geomagnetic storms:&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Kp Index:&lt;/strong&gt; A global geomagnetic activity index ranging from 0 (very quiet) to 9 (extremely disturbed). Kp values of 5 or higher indicate geomagnetic storm conditions.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;G Scale (NOAA):&lt;/strong&gt; The NOAA SWPC uses the G scale to classify geomagnetic storms:&lt;/p&gt;
 
 &lt;table&gt;
   &lt;thead&gt;
