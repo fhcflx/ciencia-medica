@@ -24,7 +24,7 @@ O fenômeno foi amplamente documentado por observadores e cientistas, marcando u
 ![Aurora em Mazatlán, México, 11 de maio de 2024](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Palm_Trees_and_Auroras_In_Mazatlan.jpg/960px-Palm_Trees_and_Auroras_In_Mazatlan.jpg)
 *Aurora vista em Mazatlán, México (23°N GLAT, 31°N MLAT), 11 de maio de 2024. Fonte: [Wikipedia][wiki]*
 
-![Aurora na Argélia, 11 de maio de 2024](/assets/aurora-algeria-24.png)
+![Aurora na Argélia, 11 de maio de 2024](/assets/img/aurora-algeria-24.png)
 *Aurora vista na Argélia, 11 de maio de 2024. Fonte: [ArabiaWeather.com][arabiaweather]*
 
 ![Aurora em Melbourne, Austrália, 11 de maio de 2024](https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Aurora_Australis_From_Melbourne.jpg/330px-Aurora_Australis_From_Melbourne.jpg)
