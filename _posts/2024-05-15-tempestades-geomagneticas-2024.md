@@ -40,9 +40,11 @@ Tempestades geomagnéticas são distúrbios no campo magnético da Terra causado
 
 As tempestades de maio de 2024 foram classificadas como G5 (extrema) pelo NOAA SWPC, com índices Kp {% include geomag-kp-pt.html %} chegando a 9. Para comparação:
 
-- **Evento Carrington (1859):** A maior tempestade geomagnética já registrada, causando falhas em telégrafos e auroras até o Caribe.
-- **Tempestade de Quebec (1989):** Provocou apagão no Canadá e auroras em latitudes médias.
-- **Tempestades de maio de 2024:** Auroras vistas até o sul do Brasil e Texas, com relatos de perturbações em redes elétricas e navegação.
+**Evento Carrington (1859):** A maior tempestade geomagnética já registrada, causando falhas em telégrafos e auroras até o Caribe.
+
+**Tempestade de Quebec (1989):** Provocou apagão no Canadá e auroras em latitudes médias.
+
+**Tempestades de maio de 2024:** Auroras vistas até o sul do Brasil e Texas, com relatos de perturbações em redes elétricas e navegação.
 
 | Evento                | Ano | Kp Máx | Impacto Principal                              |
 |----------------------|-----|--------|-----------------------------------------------|
@@ -102,11 +104,15 @@ Estudos estimam que tempestades desse porte tenham probabilidade de 1–2% por d
 
 O monitoramento do clima espacial é crucial para proteger a infraestrutura tecnológica moderna dos efeitos das tempestades geomagnéticas. Diversas agências nacionais e internacionais operam sistemas de monitoramento e alerta:
 
-- **NOAA Space Weather Prediction Center (SWPC, EUA):** Principal agência dos EUA para previsão, monitoramento e alertas de clima espacial. Fornece dados em tempo real, avisos e recursos educativos.
-- **ESA Space Weather Office (Europa):** A Agência Espacial Europeia coordena o monitoramento e a pesquisa em clima espacial no continente.
-- **UK Met Office Space Weather Operations Centre (Reino Unido):** Fornece previsões e alertas para o Reino Unido e colabora internacionalmente.
-- **Agência Meteorológica do Japão (JMA):** Monitora atividade solar e geomagnética no Leste Asiático.
-- **Outras agências:** Canadá, Rússia, China e Austrália também mantêm programas de clima espacial.
+**NOAA Space Weather Prediction Center (SWPC, EUA):** Principal agência dos EUA para previsão, monitoramento e alertas de clima espacial. Fornece dados em tempo real, avisos e recursos educativos.
+
+**ESA Space Weather Office (Europa):** A Agência Espacial Europeia coordena o monitoramento e a pesquisa em clima espacial no continente.
+
+**UK Met Office Space Weather Operations Centre (Reino Unido):** Fornece previsões e alertas para o Reino Unido e colabora internacionalmente.
+
+**Agência Meteorológica do Japão (JMA):** Monitora atividade solar e geomagnética no Leste Asiático.
+
+**Outras agências:** Canadá, Rússia, China e Austrália também mantêm programas de clima espacial.
 
 Essas agências compartilham dados e colaboram por meio do International Space Environment Service (ISES), uma rede global para troca de informações sobre clima espacial.
 

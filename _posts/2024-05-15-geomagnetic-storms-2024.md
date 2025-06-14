@@ -40,9 +40,11 @@ Geomagnetic storms are disturbances in Earth's magnetic field caused by interact
 
 The May 2024 storms were classified as G5 (extreme) by NOAA SWPC, with Kp {% include geomag-kp-en.html %} indices reaching 9. For comparison:
 
-- **Carrington Event (1859):** The largest geomagnetic storm ever recorded, causing telegraph failures and auroras as far south as the Caribbean.
-- **Quebec Storm (1989):** Caused a blackout in Canada and auroras at mid-latitudes.
-- **May 2024 Storms:** Auroras seen as far south as southern Brazil and Texas, with reports of power grid and navigation disruptions.
+**Carrington Event (1859):** The largest geomagnetic storm ever recorded, causing telegraph failures and auroras as far south as the Caribbean.
+
+**Quebec Storm (1989):** Caused a blackout in Canada and auroras at mid-latitudes.
+
+**May 2024 Storms:** Auroras seen as far south as southern Brazil and Texas, with reports of power grid and navigation disruptions.
 
 | Event                | Year | Max Kp | Main Impact                                 |
 |----------------------|------|--------|----------------------------------------------|
@@ -102,11 +104,15 @@ Studies estimate that Carrington-class storms have a probability of about 1–2%
 
 Space weather monitoring is crucial for protecting modern technological infrastructure from the effects of geomagnetic storms. Several national and international agencies operate space weather monitoring and alert systems:
 
-- **NOAA Space Weather Prediction Center (SWPC, USA):** The leading U.S. agency for space weather forecasting, monitoring, and alerts. Provides real-time data, warnings, and educational resources.
-- **ESA Space Weather Office (Europe):** The European Space Agency coordinates space weather monitoring and research across Europe.
-- **UK Met Office Space Weather Operations Centre (UK):** Provides forecasts and alerts for the UK and collaborates internationally.
-- **Japan Meteorological Agency (JMA):** Monitors solar and geomagnetic activity in East Asia.
-- **Other agencies:** Canada, Russia, China, and Australia also maintain space weather programs.
+**NOAA Space Weather Prediction Center (SWPC, USA):** The leading U.S. agency for space weather forecasting, monitoring, and alerts. Provides real-time data, warnings, and educational resources.
+
+**ESA Space Weather Office (Europe):** The European Space Agency coordinates space weather monitoring and research across Europe.
+
+**UK Met Office Space Weather Operations Centre (UK):** Provides forecasts and alerts for the UK and collaborates internationally.
+
+**Japan Meteorological Agency (JMA):** Monitors solar and geomagnetic activity in East Asia.
+
+**Other agencies:** Canada, Russia, China, and Australia also maintain space weather programs.
 
 These agencies share data and collaborate through the International Space Environment Service (ISES), a global network for space weather information exchange.
 
