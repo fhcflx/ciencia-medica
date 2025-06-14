@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tempestades Geomagnéticas de Maio de 2024: Auroras Históricas e a Comparação com Carrington"
+title: "Tempestades Geomagnéticas de Maio de 2024: Auroras Históricas"
 date: '2024-05-15T12:00:00-03:00'
 author: ffelix
 tags:
@@ -114,9 +114,9 @@ Essas agências compartilham dados e colaboram por meio do International Space E
 
 A maioria das agências opera sistemas públicos de alerta que notificam concessionárias, operadores de satélites, companhias aéreas e o público sobre eventos de clima espacial em andamento ou previstos. Os alertas usam escalas padronizadas:
 
-- **Índice Kp:** Índice global de atividade geomagnética de 0 (muito calmo) a 9 (extremamente perturbado). Valores de Kp igual ou acima de 5 indicam tempestade geomagnética.
+**Índice Kp:** Índice global de atividade geomagnética de 0 (muito calmo) a 9 (extremamente perturbado). Valores de Kp igual ou acima de 5 indicam tempestade geomagnética.
 
-- **Escala G (NOAA):** O SWPC dos EUA usa a escala G para classificar tempestades geomagnéticas:
+**Escala G (NOAA):** O SWPC dos EUA usa a escala G para classificar tempestades geomagnéticas:
 
 | Nível G | Descrição | Kp | Efeitos típicos |
 |---------|-----------|----|-----------------|

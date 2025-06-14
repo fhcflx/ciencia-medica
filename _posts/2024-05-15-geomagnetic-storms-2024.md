@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "May 2024 Geomagnetic Storms: Historic Auroras and the Carrington Comparison"
+title: "May 2024 Geomagnetic Storms: Historic Auroras"
 date: '2024-05-15T12:00:00-03:00'
 author: ffelix
 tags:
@@ -114,9 +114,9 @@ These agencies share data and collaborate through the International Space Enviro
 
 Most agencies operate public alert systems that notify utilities, satellite operators, airlines, and the public about ongoing or expected space weather events. Alerts are issued using standardized scales:
 
-- **Kp Index:** A global geomagnetic activity index ranging from 0 (very quiet) to 9 (extremely disturbed). Kp values of 5 or higher indicate geomagnetic storm conditions.
+**Kp Index:** A global geomagnetic activity index ranging from 0 (very quiet) to 9 (extremely disturbed). Kp values of 5 or higher indicate geomagnetic storm conditions.
 
-- **G Scale (NOAA):** The NOAA SWPC uses the G scale to classify geomagnetic storms:
+**G Scale (NOAA):** The NOAA SWPC uses the G scale to classify geomagnetic storms:
 
 | G Level | Description | Kp Index | Typical Effects |
 |---------|-------------|----------|-----------------|
