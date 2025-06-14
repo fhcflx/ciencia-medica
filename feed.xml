@@ -6,8 +6,8 @@
 </description>
     <link>https://fhcflx.github.io/ciencia-medica/</link>
     <atom:link href="https://fhcflx.github.io/ciencia-medica/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 14 Jun 2025 18:10:17 -0300</pubDate>
-    <lastBuildDate>Sat, 14 Jun 2025 18:10:17 -0300</lastBuildDate>
+    <pubDate>Sat, 14 Jun 2025 18:13:44 -0300</pubDate>
+    <lastBuildDate>Sat, 14 Jun 2025 18:13:44 -0300</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
     
       <item>
@@ -794,11 +794,11 @@ O fenômeno foi amplamente documentado por observadores e cientistas, marcando u
 &lt;/span&gt;
  chegando a 9. Para comparação:&lt;/p&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Evento Carrington (1859):&lt;/strong&gt; A maior tempestade geomagnética já registrada, causando falhas em telégrafos e auroras até o Caribe.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Tempestade de Quebec (1989):&lt;/strong&gt; Provocou apagão no Canadá e auroras em latitudes médias.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Tempestades de maio de 2024:&lt;/strong&gt; Auroras vistas até o sul do Brasil e Texas, com relatos de perturbações em redes elétricas e navegação.&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Evento Carrington (1859):&lt;/strong&gt; A maior tempestade geomagnética já registrada, causando falhas em telégrafos e auroras até o Caribe.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Tempestade de Quebec (1989):&lt;/strong&gt; Provocou apagão no Canadá e auroras em latitudes médias.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Tempestades de maio de 2024:&lt;/strong&gt; Auroras vistas até o sul do Brasil e Texas, com relatos de perturbações em redes elétricas e navegação.&lt;/p&gt;
 
 &lt;table&gt;
   &lt;thead&gt;
@@ -927,13 +927,15 @@ Estudos estimam que tempestades desse porte tenham probabilidade de 1–2% por d
 
 &lt;p&gt;O monitoramento do clima espacial é crucial para proteger a infraestrutura tecnológica moderna dos efeitos das tempestades geomagnéticas. Diversas agências nacionais e internacionais operam sistemas de monitoramento e alerta:&lt;/p&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;NOAA Space Weather Prediction Center (SWPC, EUA):&lt;/strong&gt; Principal agência dos EUA para previsão, monitoramento e alertas de clima espacial. Fornece dados em tempo real, avisos e recursos educativos.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;ESA Space Weather Office (Europa):&lt;/strong&gt; A Agência Espacial Europeia coordena o monitoramento e a pesquisa em clima espacial no continente.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;UK Met Office Space Weather Operations Centre (Reino Unido):&lt;/strong&gt; Fornece previsões e alertas para o Reino Unido e colabora internacionalmente.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Agência Meteorológica do Japão (JMA):&lt;/strong&gt; Monitora atividade solar e geomagnética no Leste Asiático.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Outras agências:&lt;/strong&gt; Canadá, Rússia, China e Austrália também mantêm programas de clima espacial.&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;NOAA Space Weather Prediction Center (SWPC, EUA):&lt;/strong&gt; Principal agência dos EUA para previsão, monitoramento e alertas de clima espacial. Fornece dados em tempo real, avisos e recursos educativos.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;ESA Space Weather Office (Europa):&lt;/strong&gt; A Agência Espacial Europeia coordena o monitoramento e a pesquisa em clima espacial no continente.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;UK Met Office Space Weather Operations Centre (Reino Unido):&lt;/strong&gt; Fornece previsões e alertas para o Reino Unido e colabora internacionalmente.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Agência Meteorológica do Japão (JMA):&lt;/strong&gt; Monitora atividade solar e geomagnética no Leste Asiático.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Outras agências:&lt;/strong&gt; Canadá, Rússia, China e Austrália também mantêm programas de clima espacial.&lt;/p&gt;
 
 &lt;p&gt;Essas agências compartilham dados e colaboram por meio do International Space Environment Service (ISES), uma rede global para troca de informações sobre clima espacial.&lt;/p&gt;
 
@@ -1068,11 +1070,11 @@ The phenomenon was widely documented by observers and scientists, marking one of
 &lt;/span&gt;
  indices reaching 9. For comparison:&lt;/p&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Carrington Event (1859):&lt;/strong&gt; The largest geomagnetic storm ever recorded, causing telegraph failures and auroras as far south as the Caribbean.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Quebec Storm (1989):&lt;/strong&gt; Caused a blackout in Canada and auroras at mid-latitudes.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;May 2024 Storms:&lt;/strong&gt; Auroras seen as far south as southern Brazil and Texas, with reports of power grid and navigation disruptions.&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Carrington Event (1859):&lt;/strong&gt; The largest geomagnetic storm ever recorded, causing telegraph failures and auroras as far south as the Caribbean.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Quebec Storm (1989):&lt;/strong&gt; Caused a blackout in Canada and auroras at mid-latitudes.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;May 2024 Storms:&lt;/strong&gt; Auroras seen as far south as southern Brazil and Texas, with reports of power grid and navigation disruptions.&lt;/p&gt;
 
 &lt;table&gt;
   &lt;thead&gt;
@@ -1201,13 +1203,15 @@ Studies estimate that Carrington-class storms have a probability of about 1–2%
 
 &lt;p&gt;Space weather monitoring is crucial for protecting modern technological infrastructure from the effects of geomagnetic storms. Several national and international agencies operate space weather monitoring and alert systems:&lt;/p&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;NOAA Space Weather Prediction Center (SWPC, USA):&lt;/strong&gt; The leading U.S. agency for space weather forecasting, monitoring, and alerts. Provides real-time data, warnings, and educational resources.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;ESA Space Weather Office (Europe):&lt;/strong&gt; The European Space Agency coordinates space weather monitoring and research across Europe.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;UK Met Office Space Weather Operations Centre (UK):&lt;/strong&gt; Provides forecasts and alerts for the UK and collaborates internationally.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Japan Meteorological Agency (JMA):&lt;/strong&gt; Monitors solar and geomagnetic activity in East Asia.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Other agencies:&lt;/strong&gt; Canada, Russia, China, and Australia also maintain space weather programs.&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;NOAA Space Weather Prediction Center (SWPC, USA):&lt;/strong&gt; The leading U.S. agency for space weather forecasting, monitoring, and alerts. Provides real-time data, warnings, and educational resources.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;ESA Space Weather Office (Europe):&lt;/strong&gt; The European Space Agency coordinates space weather monitoring and research across Europe.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;UK Met Office Space Weather Operations Centre (UK):&lt;/strong&gt; Provides forecasts and alerts for the UK and collaborates internationally.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Japan Meteorological Agency (JMA):&lt;/strong&gt; Monitors solar and geomagnetic activity in East Asia.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Other agencies:&lt;/strong&gt; Canada, Russia, China, and Australia also maintain space weather programs.&lt;/p&gt;
 
 &lt;p&gt;These agencies share data and collaborate through the International Space Environment Service (ISES), a global network for space weather information exchange.&lt;/p&gt;
 
