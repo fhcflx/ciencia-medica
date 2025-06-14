@@ -115,12 +115,16 @@ These agencies share data and collaborate through the International Space Enviro
 Most agencies operate public alert systems that notify utilities, satellite operators, airlines, and the public about ongoing or expected space weather events. Alerts are issued using standardized scales:
 
 - **Kp Index:** A global geomagnetic activity index ranging from 0 (very quiet) to 9 (extremely disturbed). Kp values of 5 or higher indicate geomagnetic storm conditions.
+
 - **G Scale (NOAA):** The NOAA SWPC uses the G scale to classify geomagnetic storms:
-  - G1 (Minor, Kp=5)
-  - G2 (Moderate, Kp=6)
-  - G3 (Strong, Kp=7)
-  - G4 (Severe, Kp=8)
-  - G5 (Extreme, Kp=9)
+
+| G Level | Description | Kp Index | Typical Effects |
+|---------|-------------|----------|-----------------|
+| G1      | Minor       | 5        | Weak power grid fluctuations, minor satellite impact, auroras at high latitudes |
+| G2      | Moderate    | 6        | Possible voltage alarms, transformer damage at high latitudes, auroras at mid-latitudes |
+| G3      | Strong      | 7        | Voltage corrections required, false alarms on some protection devices, auroras as far south as Illinois/Oregon (US) |
+| G4      | Severe      | 8        | Widespread voltage control problems, possible transformer damage, auroras as far south as Alabama (US) |
+| G5      | Extreme     | 9        | Widespread power system problems, grid collapse possible, auroras seen in Texas/Florida (US) |
 
 These scales help communicate the severity and potential impacts of geomagnetic storms to decision-makers and the public.
 
