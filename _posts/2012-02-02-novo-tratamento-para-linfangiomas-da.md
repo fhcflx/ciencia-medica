@@ -32,6 +32,7 @@ _Figura: estrutura 3D da sildenafila. Créditos By Ben Mills, Domínio Público,
 _Esta postagem não representa sugestão de tratamento. Apenas um especialista pode judiciosamente decidir quais informações divulgadas podem modificar de alguma forma um esquema de tratamento, e de que forma._
 
 Leia a publicação:
+
 - Swetman GL, Berk DR, Vasanawala SS, Feinstein JA, Lane AT, Bruckner AL.
 Sildenafil for severe lymphatic malformations. N Engl J Med. 2012 Jan
 26;366(4):384-6. [doi:10.10156/NEJMc1112482](https://doi.org/10.1056/NEJMc1112482)

@@ -19,5 +19,6 @@ Em um estudo com 467 pacientes com neuroblastoma, 192 receberam 4 ciclos de quim
 "O resultado final é que, com uma quimioterapia significativamente menos intensa, alcançamos uma sobrevida geral de 96% em 3 anos", disse o Dr. David L. Baker na 43ª reunião anual da Sociedade Americana de Oncologia Clínica (ASCO).
 
 Publicações relevantes:
+
 - [Baker et al., A phase III trial of biologically-based therapy reduction for intermediate risk neuroblastoma. JCO 25, 9504-9504(2007). - Apresentação na reunião da ASCO de 2007](https://doi.org/10.1200/jco.2007.25.18_suppl.9504)
 - [Baker et al., Outcome after reduced chemotherapy for intermediate-risk neuroblastoma. N Engl J Med. 2010 Sep 30;363(14):1313-23. - Publicação final, revisada por pares](https://doi.org/10.1056/NEJMoa1001527)

@@ -26,6 +26,7 @@ O fármaco antes usado como primeira escolha para o tratamento de hemangiomas in
 _Esta postagem não representa sugestão de tratamento. Apenas um especialista pode judiciosamente decidir quais informações divulgadas podem modificar de alguma forma um esquema de tratamento, e de que forma._
 
 Leia a publicação:
+
 - Marcia Hogeling, Susan Adams, Orli Wargon. A Randomized Controlled Trial of Propranolol for Infantile Hemangiomas. Pediatrics Aug 2011, 128 (2) e259-e266; [doi:10.1542/peds.2010-0029](https://doi.org/10.1542/peds.2010-0029)
 
 Postagem original em Pharmakon [aqui]({{ page.blogger_orig_url }}).
