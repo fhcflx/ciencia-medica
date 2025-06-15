@@ -30,21 +30,21 @@ Em conclusão, mais uma vez um medicamento desenvolvido e utilizado para outro f
 
 | Classificação inicial | Classificação revisada |
 | --- | --- |
-| | ALG |
-| ML | Síndrome de Gorham |
-| | Linfangiomatose kaposiforme |
-| | ML |
-| HEK ou AT com FKM | HEK com FKM |
+|  | Anomalia linfática generalizada (ALG) |
+| Malformação linfática microcística (ML) | Síndrome de Gorham |
+|  | Linfangiomatose kaposiforme |
+|  | Malformação linfática microcística (ML) |
+| Hemangioendotelioma kaposiforme (HEK) ou Angioma em tufos (AT) com Fenômeno de Kasabach-Merritt (FKM) | HEK com FKM |
 | HEK ou AT sem FKM | HEK sem FKM |
-| MLVC | MLVC |
-| Linfangiectasia | ACLC |
-| PTEN com AV | PTEN/MAV |
-| | PTEN/hipertrofia/AV |
-| MLV | MLV |
-| LEMT | LEMT |
-| MLAC | MLAC |
+| Malformação linfáticovenosa capilar (MLVC) | MLVC |
+| Linfangiectasia | Anomalias dos canais linfáticos centrais (ACLC) |
+| Síndrome de mutação do gene PTEN (PTEN) com anomalia vascular (AV) | PTEN/malformação arteriovenosa (MAV) |
+|  | PTEN/hipertrofia/AV |
+| Malformação linfáticovenosa (MLV) | MLV |
+| Linfangioendoteliomatose multifocal com trombocitopenia (LEMT) | LEMT |
+| Malformação linfático-arterial capilar (MLAC) | MLAC |
 
-_Tabela: tipos de anomalias vasculares incluídos no ensaio clínicos de Adams et al. ALG = anomalia linfática generalizada, ML = malformação linfática microcística, HEK = hemangioendotelioma kaposiforme, AT = angioma em tufos, FKM = fenômeno de Kasabach-Merritt, MLVC = malformação linfáticovenosa capilar, ACLC = anomalias dos canais linfáticos centrais, PTEN = Síndrome de mutação do gene PTEN, AV = anomalia vascular, MAV = malformação arteriovenosa, MLV = malformação linfáticovenosa, LEMT = linfangioendoteliomatose multifocal com trombocitopenia, MLAC = malformação linfático-arterial capilar._
+_Tabela: tipos de anomalias vasculares incluídos no ensaio clínico de Adams et al. ALG = anomalia linfática generalizada, ML = malformação linfática microcística, HEK = hemangioendotelioma kaposiforme, AT = angioma em tufos, FKM = fenômeno de Kasabach-Merritt, MLVC = malformação linfáticovenosa capilar, ACLC = anomalias dos canais linfáticos centrais, PTEN = Síndrome de mutação do gene PTEN, AV = anomalia vascular, MAV = malformação arteriovenosa, MLV = malformação linfáticovenosa, LEMT = linfangioendoteliomatose multifocal com trombocitopenia, MLAC = malformação linfático-arterial capilar._
 
 Leia a publicação:
 
