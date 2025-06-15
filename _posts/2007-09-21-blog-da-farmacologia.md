@@ -5,6 +5,7 @@ date: '2007-09-21T10:48:00.001-03:00'
 author: Francisco H C Felix
 tags:
 - Farmacologia
+lang: pt-br
 ref: blog-da-farmacologia
 modified_time: '2011-03-18T21:26:20.583-03:00'
 thumbnail: https://4.bp.blogspot.com/_ltzeFnIlO7Q/RvVdOHXoXYI/AAAAAAAAAAk/zdYFrIPau2k/s72-c/Eu.jpg
