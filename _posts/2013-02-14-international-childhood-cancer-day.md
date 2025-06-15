@@ -1,6 +1,5 @@
 ---
 layout: post
-published: FALSE
 title: International Childhood Cancer Day
 date: '2013-02-14T23:14:00.003-03:00'
 author: Francisco H C Felix
@@ -13,7 +12,6 @@ blogger_id: tag:blogger.com,1999:blog-2993346515708552092.post-83325157329644726
 blogger_orig_url: https://pharmak.blogspot.com/2013/02/international-childhood-cancer-day.html
 ---
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://2.bp.blogspot.com/-Pcpyrrv89-M/UR2ZnzAg6CI/AAAAAAAAQl0/iut8V1aB7ko/s1600/International+Childhood+Cancer+Day.png" imageanchor="1"
-  style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;">
-  <img border="0" height="640" src="https://2.bp.blogspot.com/-Pcpyrrv89-M/UR2ZnzAg6CI/AAAAAAAAQl0/iut8V1aB7ko/s640/International+Childhood+Cancer+Day.png" width="452" /></a></div>
-  <br />
+![International Childhood Cancer Day](https://2.bp.blogspot.com/-Pcpyrrv89-M/UR2ZnzAg6CI/AAAAAAAAQl0/iut8V1aB7ko/s640/International+Childhood+Cancer+Day.png)
+
+Postagem original em Pharmakon [aqui]({{ page.blogger_orig_url }}).

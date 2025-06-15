@@ -1,6 +1,5 @@
 ---
 layout: post
-published: FALSE
 title: Primeiros Resultados do Tratamento de Hemangiomas com Propranolol no Ceará
 date: '2011-10-20T13:07:00.001-03:00'
 author: Francisco H C Felix

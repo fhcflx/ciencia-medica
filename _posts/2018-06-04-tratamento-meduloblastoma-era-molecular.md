@@ -1,6 +1,5 @@
 ---
 layout: post
-published: FALSE
 title:  "O tratamento de meduloblastoma na era molecular"
 date:   2018-06-04 18:00:00 -0300
 lang: pt-br
