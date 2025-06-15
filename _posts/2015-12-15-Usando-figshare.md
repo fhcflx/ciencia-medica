@@ -6,7 +6,7 @@ tags:
   - figshare
   - Publicação acadêmica
 lang: pt-br
-ref: figshare
+ref: figshare-use
 ---
 Bem [antes](https://pharmak.blogspot.com/2013/09/gliomas-em-criancas-aula-de-atualizacao.html) de me interessar por repositórios institucionais para pôsteres e slides, eu já havia começado a depositá-los no [Slideshare](https://pt.slideshare.net/?ss), serviço de armazenamento na nuvem que permite a visualização de slides em sites, blogs, redes sociais, etc. <!--more-->
 Esta funcionalidade do Slideshare sempre me agradou muito. Ele tinha tudo o que eu achava interessante para difusão de ideias: integração automática com o LinkedIn e outras redes sociais, snippets para incorporação fácil em blogs, páginas pessoais, institucionais e outras, além de uma página pessoal que centralizava todos os meus carregamentos. Além de todas estas facilidades, funcionalidades de edição online e análise de tráfego. Mas o Slideshare não é uma via de publicação. Seu conteúdo não tem facilidades para citação científica.
@@ -19,10 +19,8 @@ Não há limites quanto à linguagem e tipo de material a ser submetido, EXCETO 
 
 O Figshare tem uma página pessoal com suas publicações e snippets para incorporação em sites e blogs e tem facilidades para redes sociais. Veja aqui embaixo uma das aulas que publiquei no Figshare:
 
-[Ver aula publicada no Figshare](https://widgets.figshare.com/articles/2007588/embed?show_title=1)
+<iframe frameborder="0" height="426" src="https://widgets.figshare.com/articles/2007588/embed?show_title=1" width="568"></iframe>
 
 O número de DOI atribuído pelo Figshare é do DataCite, e não do CrossRef, se isso fizer realmente alguma diferença. Concluindo, em minha opinião, a plataforma acadêmica ideal para depositar material alternativo, incluindo pôsteres, slides, textos variados, etc é o Figshare. Apesar das características positivas do F1000Research, sua plataforma tem muito que crescer para fazer frente ao Figshare.
 
 Atualização: infelizmente, conheci posteriormente uma característica negativa do Figshare. Veja [aqui](https://pharmak.blogspot.com/2016/01/figshare-receives-postprints-of.html) na minha postagem.
-
-<iframe frameborder="0" height="426" src="https://widgets.figshare.com/articles/2007588/embed?show_title=1" width="568"></iframe>

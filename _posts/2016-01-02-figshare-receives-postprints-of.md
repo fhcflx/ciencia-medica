@@ -16,7 +16,7 @@ blogger_orig_url: https://pharmak.blogspot.com/2016/01/figshare-receives-postpri
 ---
 
 Recently, I've [posted](https://pharmak.blogspot.com/2015/12/usando-o-figshare.html) about the self-archiving of academic conference posters in [Figshare](https://figshare.com/).
-I've pointed out many advantages of Figshare compared to similar services that allow the archiving of preprints, conference posters, datasets and other types of academic production.
+I've pointed out many advantages of Figshare compared to similar services that allow the archiving of preprints, conference posters, datasets and other types of academic production.<!--more-->
 I myself have published [posters](https://dx.doi.org/10.6084/m9.figshare.2007588) and [postprints](https://dx.doi.org/10.6084/m9.figshare.2059851) in Figshare, and maintain my opinion about this service's versatility and utility. For me, it is still superior in many aspects to other alternative academic publishing venues. However... Well, there seems always to be some catch! Look to what I saw today when I opened Figshare's site:
 
 ![fig-omics](https://1.bp.blogspot.com/-w6vEEIldTl4/VofBpt5dUgI/AAAAAAAAgMY/VyoVw3_lkmk/s400/fig-omics.png)
