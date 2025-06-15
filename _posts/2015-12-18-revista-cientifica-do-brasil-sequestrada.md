@@ -28,6 +28,6 @@ Acima, o logo da revista verdadeira, abaixo, a versão falsa.
 
 Existência de uma cópia fake, usando o mesmo nome e ISSN da revista brasileira, configurando o sequestro. Não tenho ideia se os editores da revista ou o staff do Scielo sabem deste cybercrime em andamento. Aos pesquisadores brasileiros recomendamos cuidado e checar cuidadosamente se a revista para a qual estão submetendo um trabalho é aquilo que diz ser!
 
-A partir de hoje, receberei e reportarei relatos de problemas dessa natureza com revistas brasileiras, fraudes, sequestros, plágio, publicações predatórias. Os interessados em denunciar casos podem enviá-los para meu email (heldercfelix@gmail.com) ou meu twitter (@cmprsk).
+A partir de hoje, receberei e reportarei relatos de problemas dessa natureza com revistas brasileiras, fraudes, sequestros, plágio, publicações predatórias. Os interessados em denunciar casos podem enviá-los para meu email (heldercfelix@gmail.com) ou meu twitter (@neurodiversie).
 
 Postagem original em Pharmakon [aqui]({{ page.blogger_orig_url }}).
