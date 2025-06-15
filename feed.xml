@@ -6,9 +6,143 @@
 </description>
     <link>https://fhcflx.github.io/ciencia-medica/</link>
     <atom:link href="https://fhcflx.github.io/ciencia-medica/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 14 Jun 2025 18:13:44 -0300</pubDate>
-    <lastBuildDate>Sat, 14 Jun 2025 18:13:44 -0300</lastBuildDate>
+    <pubDate>Sat, 14 Jun 2025 23:33:37 -0300</pubDate>
+    <lastBuildDate>Sat, 14 Jun 2025 23:33:37 -0300</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
+    
+      <item>
+        <title></title>
+        <description>&lt;h1 id=&quot;the-problem-with-p-values-how-significant-are-they-really&quot;&gt;The problem with p values: how significant are they, really?&lt;/h1&gt;
+
+&lt;p&gt;By &lt;a href=&quot;https://theconversation.com/profiles/geoff-cumming-4100&quot;&gt;Geoff Cumming&lt;/a&gt;, &lt;em&gt;La Trobe University&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;For researchers there’s a lot that turns on the &lt;em&gt;p&lt;/em&gt; value, the number used to determine whether a result is statistically significant. The current consensus is that if &lt;em&gt;p&lt;/em&gt; is less than .05, a study has reached the holy grail of being statistically significant, and therefore likely to be published. Over .05 and it’s usually back to the drawing board.&lt;/p&gt;
+
+&lt;p&gt;But today, Texas A&amp;amp;M University professor &lt;a href=&quot;https://www.stat.tamu.edu/directory-details.php?directoryid=321&quot;&gt;Valen Johnson&lt;/a&gt;, writing in the prestigious journal Proceedings of the National Academy of Sciences, &lt;a href=&quot;https://www.pnas.org/cgi/doi/10.1073/pnas.1313476110&quot;&gt;argues&lt;/a&gt; that &lt;em&gt;p&lt;/em&gt; less than .05 is far too weak a standard.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;Using .05 is, he contends, a key reason why false claims are published and many published results fail to replicate. He advocates requiring .005 or even .001 as the criterion for statistical significance.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-is-a-p-value-anyway&quot;&gt;What is a &lt;em&gt;p&lt;/em&gt; value anyway?&lt;/h2&gt;
+
+&lt;p&gt;The &lt;em&gt;p&lt;/em&gt; value is at the heart of the most common approach to data analysis – null hypothesis significance testing (NHST). Think of NHST as a waltz with three steps:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;State a &lt;a href=&quot;https://www.null-hypothesis.co.uk/science/item/what_is_a_null_hypothesis/&quot;&gt;null hypothesis&lt;/a&gt;: that is, there is no effect.&lt;/li&gt;
+  &lt;li&gt;Calculate the &lt;em&gt;p&lt;/em&gt; value, which is the probability of getting results like ours – &lt;em&gt;if&lt;/em&gt; the null hypothesis is true.&lt;/li&gt;
+  &lt;li&gt;If &lt;em&gt;p&lt;/em&gt; is sufficiently small, reject the null hypothesis and sound the trumpets: our effect is not zero, it’s statistically significant!&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;British statistician and geneticist &lt;a href=&quot;https://en.wikipedia.org/wiki/Ronald_Fisher&quot;&gt;Sir Ronald Fisher&lt;/a&gt; introduced &lt;a href=&quot;https://psychclassics.yorku.ca/Fisher/Methods/index.htm&quot;&gt;the &lt;em&gt;p&lt;/em&gt; value&lt;/a&gt; in 1925. He adopted .05 as a reference point for rejecting a null hypothesis. For him it was not a sharp cutoff: a thoughtful researcher should consider the context, and other results as well.&lt;/p&gt;
+
+&lt;p&gt;NHST has, however, become deeply entrenched in medicine and numerous other disciplines. The precise value .05 has become a bar to wriggle under to achieve publication in top journals. Generations of students have been inducted into the rituals of .05 meaning “significant”, and .01 “highly significant”.&lt;/p&gt;
+
+&lt;h2 id=&quot;sounds-good-whats-the-problem&quot;&gt;Sounds good. What’s the problem?&lt;/h2&gt;
+
+&lt;p&gt;The trouble is there are &lt;a href=&quot;https://www.apastyle.org/manual/related/kline-2004.pdf&quot;&gt;numerous deep flaws&lt;/a&gt; in NHST.&lt;/p&gt;
+
+&lt;p&gt;There’s &lt;a href=&quot;https://tiny.cc/nhstohdear&quot;&gt;evidence&lt;/a&gt; that students, researchers and even many teachers of statistics don’t understand NHST properly. More worryingly, there’s &lt;a href=&quot;https://www.nature.com/neuro/journal/v14/n9/full/nn.2886.html&quot;&gt;evidence&lt;/a&gt; it’s widely misused, even in top journals.&lt;/p&gt;
+
+&lt;p&gt;Most researchers don’t appreciate that &lt;em&gt;p&lt;/em&gt; is highly unreliable. Repeat your experiment and you’ll get a &lt;em&gt;p&lt;/em&gt; value that could be extremely different. Even more surprisingly, &lt;em&gt;p&lt;/em&gt; is highly unreliable even for &lt;a href=&quot;https://tiny.cc/pintervals&quot;&gt;very large samples&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;NHST may be a waltz, but the dance of &lt;em&gt;p&lt;/em&gt; is highly frenetic. Here’s a demonstration of why we simply shouldn’t trust any &lt;em&gt;p&lt;/em&gt; value:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=5OL1RqHrZQ8&quot;&gt;YouTube: Why p-values are unreliable&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Despite all those problems, NHST persists, perhaps because we yearn for certainty. Declaring a result “significant” suggests certainty, even though our results almost always contain considerable uncertainty.&lt;/p&gt;
+
+&lt;h2 id=&quot;should-we-require-stronger-evidence&quot;&gt;Should we require stronger evidence?&lt;/h2&gt;
+
+&lt;p&gt;Johnson makes a cogent argument that .05 provides only weak evidence against the null hypothesis: perhaps only odds of 3 or 4 to 1 against reasonable alternative hypotheses.&lt;/p&gt;
+
+&lt;p&gt;He suggests we should require more persuasive odds, say 50 to 1 or even 200 to 1.&lt;/p&gt;
+
+&lt;p&gt;To do this, we need to adopt .005 or .001 as our &lt;em&gt;p&lt;/em&gt; value criterion for statistical significance.&lt;/p&gt;
+
+&lt;p&gt;He recognises there’s a price to pay for demanding stronger evidence. In typical cases, we’d need to roughly double our sample sizes to still have a reasonable chance of finding true effects. Using larger samples would indeed be highly desirable, but sometimes that’s simply not possible. And are research grants about to double?&lt;/p&gt;
+
+&lt;p&gt;Johnson is correct that .05 corresponds to weak evidence, and .005 or .001 to evidence that’s usefully stronger. Adopting his stricter criterion would, however, mean that the majority of all published research analysed using NHST would fail the new test, and suddenly be statistically non-significant!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://c479107.ssl.cf2.rackcdn.com/files/34853/width237/kzzxq98g-1384132459.jpg&quot; alt=&quot;shutupyourface&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;More fundamentally, merely shifting the criterion does not overcome the unreliability of &lt;em&gt;p&lt;/em&gt;, or most of the other deep flaws of NHST. The core problem is that NHST panders to our yearning for certainty by presenting the world as black or white — an effect is statistically significant or not; it exists or it doesn’t.&lt;/p&gt;
+
+&lt;p&gt;In fact our world is many shades of grey — I won’t pretend to know how many. We need something more nuanced than NHST, and fortunately there are good alternatives.&lt;/p&gt;
+
+&lt;h2 id=&quot;a-better-way-estimation-and-meta-analysis&quot;&gt;A better way: estimation and meta-analysis&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.indiana.edu/~kruschke/DoingBayesianDataAnalysis/&quot;&gt;Bayesian techniques&lt;/a&gt; are highly promising and becoming widely used. Most readily available and already widely used is estimation based on &lt;a href=&quot;https://tiny.cc/GeoffConversation&quot;&gt;confidence intervals&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;A confidence interval gives us the best estimate of the true effect, and also indicates the extent of uncertainty in our results. Confidence intervals are also what we need to use &lt;a href=&quot;https://tiny.cc/GeoffConversation&quot;&gt;meta-analysis&lt;/a&gt;, which allows us to integrate results from a number of experiments that investigate the same issue.&lt;/p&gt;
+
+&lt;p&gt;We often need to make clear decisions — whether or not to licence the new drug, for example — but NHST provides a poor basis for such decisions. It’s far better to use the integration of all available evidence to guide decisions, and estimation and meta-analysis provides that.&lt;/p&gt;
+
+&lt;p&gt;Merely shifting the NHST goal posts simply won’t do.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Further reading:&lt;/strong&gt; &lt;a href=&quot;https://theconversation.com/give-p-a-chance-significance-testing-is-misunderstood-20207&quot;&gt;Give p a chance: significance testing is misunderstood&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Geoff Cumming has received funding from the Australian Research Council.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;This article was originally published at &lt;a href=&quot;https://theconversation.com&quot;&gt;The Conversation&lt;/a&gt;. Read the &lt;a href=&quot;https://theconversation.com/the-problem-with-p-values-how-significant-are-they-really-20029&quot;&gt;original article&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Postagem original em Pharmakon &lt;a href=&quot;&quot;&gt;aqui&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 14 Jun 2025 23:33:37 -0300</pubDate>
+        <link>https://fhcflx.github.io/ciencia-medica/2025/06/14/2013-11-19-the-problem-with-p-values-how.html</link>
+        <guid isPermaLink="true">https://fhcflx.github.io/ciencia-medica/2025/06/14/2013-11-19-the-problem-with-p-values-how.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title></title>
+        <description>&lt;p&gt;&lt;a href=&quot;https://www.slideshare.net/slideshow/embed_code/26671435&quot;&gt;Aula original no Slideshare&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Essa aula de atualização em gliomas de crianças e adolescentes foi apresentada em 15 de setembro de 2011, dois anos atrás, na Liga do Câncer da Universidade Federal do Ceará.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;Na oportunidade, expus o conhecimento mais recente sobre o tratamento e o diagnóstico molecular em gliomas pediátricos, tanto tumores de baixo grau, quanto lesões de alto grau. Alterei discretamente o layout da aula, mas o conteúdo é, essencialmente, o mesmo. A maioria dos slides é fácil de entender, mas achei interessante acrescentar comentários sobre os principais slides:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Slide 1: título&lt;/li&gt;
+  &lt;li&gt;Slide 2: tipos de gliomas de baixo grau. A variedade de diagnósticos que podem ser arbitrariamente designados de “gliomas de baixo grau” é grande. Basicamente, são tumores formados pela predominância de células astrocitárias, olidendrocitárias ou uma mistura de ambas as linhagens celulares. Astrocitomas são, de longe, os mais comuns. Oligodendrogliomas e os tumores mistos (oligoastrocitomas) são bem mais raros. O subtipo de astrocitoma mais frequente em crianças é o pilocítico, o qual pode ocorrer em qualquer localização do sistema nervoso central, mas surge principalmente no cerebelo.&lt;/li&gt;
+  &lt;li&gt;Slide 3: o paradigma de tratamento de gliomas de baixo grau em crianças: cirurgia, quando possível. Tumores cerebelares pode ser retirados em virtualmente 100% dos casos, em metade deles completamente. A ressecção completa destes tumores é curativa. Tumores de hipotálamo e vias ópticas (diencéfalo) hoje em dia são diagnosticados apenas por imagem, devido ao risco de complicações. Quando existe dúvida diagnóstica, deve-se realizar apenas uma biópsia, estereotáxica de preferência. Estas lesões são tratadas tanto com quimioterapia quanto com radioterapia, mas o tratamento ideal ainda encontra-se por definir. Tumores focais do tronco são comumente ressecados parcialmente, ou apenas biopsiados. No caso deles, a confirmação histológica é importante para afastar a possibilidade de lesões de alto grau. Seu tratamento ainda é discutido, mas os pacientes costumam ter sobrevida longa com quimioterapia e/ou radioterapia. Tumores hemisféricos podem recidivar se não forem completamente ressecados (basta um resíduo mínimo). Apenas após a recidiva ou progressão indica-se tratamento com quimio ou radioterapia.&lt;/li&gt;
+  &lt;li&gt;Slide 5: gliomas de baixo grau são os tumores cerebrais mais frequentes em crianças, adolescentes e adultos jovens, ao contrário dos idosos, em quem são raros. São tumores indolentes e de crescimento lento, com raras exceções. O tratamento é bem sucedido na maioria dos casos, seja com cirurgia apenas, ou combinado com quimioterapia e/ou radioterapia. Infelizmente, exceto no caso dos astrocitomas pilocíticos cerebelares (quase nunca recidivam), recorrências são muito comuns. Os efeitos colaterais a longo prazo das diversas modalidades de tratamento ainda são pouco estudados.&lt;/li&gt;
+  &lt;li&gt;Slide 6: gráfico da publicação sobre o banco de dados de gliomas do SEER, mostrando o efeito do grau de malignidade na sobrevida. Lesões de baixo grau (I e II) têm bom prognóstico, ao contrário de lesões de alto grau (III e IV).&lt;/li&gt;
+  &lt;li&gt;Slide 7: em 2008, Fischer et al publicaram um trabalho relatando um grupo de crianças que foi seguido sem tratamento após a cirurgia, completa ou parcial. Neste gráfico vemos a sobrevida livre de progressão, a qual foi de 55% em 5 anos (48% em tumores ressecados parcialmente). Este trabalho demonstra o crescimento indolente das lesões e indica que parte dos pacientes vai permanecer livre de progressão de doença sem terapia adjuvante, mesmo após ressecção parcial.&lt;/li&gt;
+  &lt;li&gt;Slide 8: quando é possível, a cirurgia é curativa em 80-90% dos casos. Nos gliomas de vias ópticas e tálamo, a ressecção completa não costuma ser possível. Hoje em dia, os gliomas de vias ópticas, &lt;strong&gt;em pacientes com pouco ou nenhum déficit&lt;/strong&gt;, não são nem mesmo biopsiados.&lt;/li&gt;
+  &lt;li&gt;Slide 9: 3 gráficos sucessivos de uma publicação de 2010, mostrando a importância da ressecção completa em gliomas de baixo grau.&lt;/li&gt;
+  &lt;li&gt;Slide 13: a radioterapia é indicada em pré-adolescentes e adolescentes, e é contra-indicada em qualquer idade em pacientes com NF-1, devido ao risco de vasculopatia. Evidências recentes mostram que é um tratamento definitivo em 80% dos pacientes. Ensaios em andamento no SIOP e COG vão esclarecer melhor seu papel.&lt;/li&gt;
+  &lt;li&gt;Slide 15: incidência cumulativa de déficits neuro-hormonais em pacientes que realizaram radioterapia na série de Merchant. Infelizmente, o preço pela eficiência da radio ainda é a ocorrência de múltiplos déficits hormonais pelo resto da vida do paciente.&lt;/li&gt;
+  &lt;li&gt;Slide 16: gráfico mostrando a perda de QI ao longo do tempo após radioterapia para glioma de baixo grau na série de Merchant. Crianças com 4 anos de idade perdem até 20 pontos de QI ao longo de 5 anos, enquanto crianças de 12 anos perdem pouco ou não perdem. Idades intermediárias mostram um gradação deste efeito. Ainda não está definida a idade ótima para realizar radio em crianças e adolescentes com glioma de baixo grau.&lt;/li&gt;
+  &lt;li&gt;Slide 17: a quimioterapia foi usada originalmente para estabilizar a perda visual em pacientes com gliomas de vias ópticas, adiando o uso da radioterapia em crianças pequenas. Seus melhores resultados têm sido a estabilização das lesões e o adiamento da radio para idades com menor risco. A menor experiência com quimioterapia nesta doença não permite vislumbrar ainda seus possíveis efeitos a longo prazo.&lt;/li&gt;
+  &lt;li&gt;Slide 18: o esquema mais usado inclui carboplatina e vincristina, mas os resultados do ensaio do COG publicados recentemente mostraram que o esquema TPCV é algo superior. O esquema TPCV, mais antigo, usa carmustina, uma droga muito relacionada à ocorrência de segundas neoplasias, a maioria leucemias. Isso inibe seu uso atual como primeira escolha. Infelizmente, um terço ou mais dos pacientes desenvolve alergia à carboplatina durante o tratamento. Estudos recentes com poucos pacientes têm mostrados eficácia de alguns esquemas alternativos.&lt;/li&gt;
+  &lt;li&gt;Slide 19: a terapia-alvo tornou-se realidade para tumores cerebrais em crianças com a aprovação pelo FDA do everolimo (inibidor da via mTOR) para tratar SEGA, um raro tumor astrocítico, mais comum em pacientes com esclerose tuberosa.&lt;/li&gt;
+  &lt;li&gt;Slide 21: tipos de gliomas de alto grau, as variantes malignas dos gliomas de baixo grau. Ao contrário de idosos, são raros em crianças, adolescentes e adultos jovens.&lt;/li&gt;
+  &lt;li&gt;Slide 22: infelizmente, seu tratamento tem resultados insatisfatórios, com sobrevida relativamente curta em quase todos os pacientes, independente do esquema usado.&lt;/li&gt;
+  &lt;li&gt;Slide 23: Finlay, em 1995, mostrou que a ressecção cirúrgica é importante para crianças com gliomas de alto grau.&lt;/li&gt;
+  &lt;li&gt;Slide 24: em 2003, Pollack et al reviram sua série clássica de crianças com glioma maligno, mostrando que a sobrevida era, na verdade, pior do que se supunha antes, alcançando menos de 20% em 10 anos.&lt;/li&gt;
+  &lt;li&gt;Slide 25: a superexpressão da enzima MGMT nos tumores também é fator de prognóstico em crianças&lt;/li&gt;
+  &lt;li&gt;Slide 26 e 27: o mais recente ensaio do COG confirmou o péssimo prognóstico, com sobrevida livre de doença menor que 10% em 5 anos.&lt;/li&gt;
+  &lt;li&gt;Slide 28: o ensaio do grupo germânico GPOH (HIT-GBM-C) mostrou um resultado melhor, mas apenas em pacientes onde a ressecção completa (sem nenhuma lesão residual) foi possível.&lt;/li&gt;
+  &lt;li&gt;Slide 29 e 30: a maior novidade molecular recente em gliomas de alto grau foi a descoberta da importância prognóstica dos genes que codificam a enzima isocitrato-desidrogenase (IDH), através de estudos de genômica.&lt;/li&gt;
+  &lt;li&gt;Slide 32: a IDH participa do ciclo de Krebs&lt;/li&gt;
+  &lt;li&gt;Slide 33 a 36: a mutação de IDH confere melhor prognóstico aos pacientes com gliomas de alto grau&lt;/li&gt;
+  &lt;li&gt;Slide 37: também em gliomas de baixo grau a IDH parece ter importância prognóstica&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Espero que tenham apreciado a aula! Obrigado!&lt;/p&gt;
+
+&lt;p&gt;Postagem original em Pharmakon &lt;a href=&quot;&quot;&gt;aqui&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 14 Jun 2025 23:33:37 -0300</pubDate>
+        <link>https://fhcflx.github.io/ciencia-medica/2025/06/14/2013-09-29-gliomas-em-criancas-aula-de-atualizacao.html</link>
+        <guid isPermaLink="true">https://fhcflx.github.io/ciencia-medica/2025/06/14/2013-09-29-gliomas-em-criancas-aula-de-atualizacao.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>Fibromyalgia, chronic pain and the role of the gut microbiome: new findings from 2025</title>
@@ -1292,70 +1426,6 @@ Studies estimate that Carrington-class storms have a probability of about 1–2%
         <category>Space</category>
         
         <category>Science History</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>2023 Nobel Prize in Physiology or Medicine: The mRNA Revolution with Karikó and Weissman</title>
-        <description>&lt;p&gt;The 2023 Nobel Prize in Physiology or Medicine was awarded to &lt;strong&gt;Katalin Karikó&lt;/strong&gt; and &lt;strong&gt;Drew Weissman&lt;/strong&gt;, for their groundbreaking discoveries that led to the development of mRNA vaccines against COVID-19.
-  &lt;!--more--&gt;&lt;/p&gt;
-
-&lt;p&gt;Karikó and Weissman, working independently but with a common goal, dedicated their careers to unraveling the potential of messenger RNA (mRNA) as a tool for human health. mRNA, the molecule that carries the genetic instructions for protein production, was seen as a promising pathway for developing new therapies, but it faced significant obstacles.&lt;/p&gt;
-
-&lt;p&gt;The main challenge was the inflammatory response of the immune system to mRNA, which prevented its clinical application. Karikó, in her work at the University of Pennsylvania, spent years researching to understand and overcome this barrier. She discovered that a specific chemical modification to mRNA, replacing uridine with pseudouridine, could reduce the inflammatory response and increase the molecule’s stability.&lt;/p&gt;
-
-&lt;p&gt;Meanwhile, Drew Weissman, also at the University of Pennsylvania, was conducting research on the role of TLR7, an immune receptor that recognizes mRNA and triggers the inflammatory response. His studies revealed that the chemical modification discovered by Karikó did, in fact, reduce TLR7 activation.&lt;/p&gt;
-
-&lt;p&gt;The collaboration between Karikó and Weissman proved crucial in validating and developing this discovery, paving the way for the creation of safe and effective mRNA vaccines. This technology proved fundamental in the fight against the COVID-19 pandemic, with mRNA vaccines being developed in record time and saving millions of lives.&lt;/p&gt;
-
-&lt;p&gt;Karikó and Weissman’s discoveries are not limited to the pandemic. mRNA technology has become one of the most promising areas of medical research, with the potential to treat a variety of diseases, including cancer, rare diseases, and infectious diseases.&lt;/p&gt;
-
-&lt;p&gt;The 2023 Nobel Prize recognizes the profound influence of Karikó and Weissman’s work, which has transformed modern medicine and opened doors to a future of innovation and hope in the field of health.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 03 Oct 2023 20:22:00 -0300</pubDate>
-        <link>https://fhcflx.github.io/ciencia-medica/2023/10/03/nobel-medicine-23.html</link>
-        <guid isPermaLink="true">https://fhcflx.github.io/ciencia-medica/2023/10/03/nobel-medicine-23.html</guid>
-        
-        <category>Physiology or Medicine</category>
-        
-        <category>Nobel Prize</category>
-        
-        <category>mRNA Vaccine</category>
-        
-        <category>COVID-19</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Prêmio Nobel de Fisiologia ou Medicina 2023: A Revolução do mRNA com Karikó e Weissman</title>
-        <description>&lt;p&gt;O Prêmio Nobel de Fisiologia ou Medicina de 2023 foi concedido a &lt;strong&gt;Katalin Karikó&lt;/strong&gt; e &lt;strong&gt;Drew Weissman&lt;/strong&gt;, por suas descobertas revolucionárias que levaram ao desenvolvimento das vacinas de mRNA contra a COVID-19. 
-  &lt;!--more--&gt;&lt;/p&gt;
-
-&lt;p&gt;Karikó e Weissman, trabalhando independentemente, mas com um objetivo comum, dedicaram suas carreiras a desvendar o potencial do RNA mensageiro (mRNA) como ferramenta para a saúde humana. O mRNA, molécula que carrega as instruções genéticas para a produção de proteínas, era visto como um caminho promissor para o desenvolvimento de novas terapias, mas enfrentava obstáculos significativos.&lt;/p&gt;
-
-&lt;p&gt;O principal desafio era a resposta inflamatória do sistema imunológico ao mRNA, que impedia sua aplicação clínica. Karikó, em seus trabalhos na Universidade da Pensilvânia, dedicou anos de pesquisa para entender e superar essa barreira.  Ela descobriu que uma modificação química específica no mRNA, substituindo a uridina por pseudouridina, poderia reduzir a resposta inflamatória e aumentar a estabilidade da molécula.&lt;/p&gt;
-
-&lt;p&gt;Paralelamente, Drew Weissman, na Universidade da Pensilvânia, conduzia pesquisas sobre o papel do TLR7, um receptor imune que reconhece o mRNA e desencadeia a resposta inflamatória. Seus estudos revelaram que a modificação química descoberta por Karikó, de fato, reduzia a ativação do TLR7.&lt;/p&gt;
-
-&lt;p&gt;A colaboração entre Karikó e Weissman se mostrou crucial para validar e desenvolver essa descoberta, abrindo caminho para a criação de vacinas de mRNA seguras e eficazes. Essa tecnologia se provou fundamental na luta contra a pandemia de COVID-19, com vacinas de mRNA sendo desenvolvidas em tempo recorde e salvando milhões de vidas.&lt;/p&gt;
-
-&lt;p&gt;As descobertas de Karikó e Weissman não se limitam à pandemia. A tecnologia de mRNA se tornou uma das áreas mais promissoras da pesquisa médica, com potencial para tratar uma variedade de doenças, incluindo câncer, doenças raras e doenças infecciosas.&lt;/p&gt;
-
-&lt;p&gt;O Prêmio Nobel de 2023 reconhece a profunda influência do trabalho de Karikó e Weissman, que transformou a medicina moderna e abriu portas para um futuro de inovação e esperança na área da saúde.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 03 Oct 2023 20:22:00 -0300</pubDate>
-        <link>https://fhcflx.github.io/ciencia-medica/2023/10/03/nobel-medicina-2023.html</link>
-        <guid isPermaLink="true">https://fhcflx.github.io/ciencia-medica/2023/10/03/nobel-medicina-2023.html</guid>
-        
-        <category>Fisiologia ou Medicina</category>
-        
-        <category>Nobel</category>
-        
-        <category>Vacina de mRNA</category>
-        
-        <category>COVID-19</category>
         
         
       </item>
