@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Gliomas em crianças: aula de atualização
+title: 'Gliomas em crianças: aula de atualização'
 date: '2013-09-29T17:51:00.000-03:00'
 author: Francisco H C Felix
 tags:
