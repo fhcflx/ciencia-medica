@@ -149,4 +149,4 @@ The geomagnetic storms of May 2024 will be remembered as one of the greatest nat
 [quebec]: https://en.wikipedia.org/wiki/March_1989_geomagnetic_storm
 [noaa1]: https://satlib.cira.colostate.edu/event/extreme-geomagnetic-storm/
 [noaa2]: https://www.swpc.noaa.gov/noaa-scales-explanation
-[arabiaweather]: https://www.arabiaweather.com/ar/content/%D8%A8%D8%B3%D8%A8%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D8%B5%D9%81%D8%A9-%D8%A7%D9%84%D8%B4%D9%85%D8%B3%D9%8A%D8%A9-%D9%88%D9%81%D9%8A-%D8%B3%D8%A7%D8%A8%D9%82%D8%A9-%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE%D9%8A%D8%A9-%D9%85%D8%B4%D8%A7%D9%87%D8%AF%D8%A9-%D8%A7%D9%84%D8%B4%D9%81%D9%82-%D8%A7%D9%84%D9%82%D8%B7%D8%A8%D9%8A-%D9%85%D9%86-%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1-%D9%88%D9%85%D9%86%D8%A7%D8%B7%D9%82-%D8%B9%D9%84%D9%89-%D8%AE%D8%B7-%D8%A7%D8%B3%D8%AA%D9%88%D8%A7%D8%A1
+[arabiaweather]: https://www.arabiaweather.com/en/content/due-to-the-solar-storm-and-in-a-historical-precedent-the-northern-lights-were-seen-from-algeria-and-areas-on-the-equator

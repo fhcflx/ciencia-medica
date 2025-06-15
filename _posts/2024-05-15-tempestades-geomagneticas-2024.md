@@ -24,7 +24,7 @@ O fenômeno foi amplamente documentado por observadores e cientistas, marcando u
 ![Aurora em Mazatlán, México, 11 de maio de 2024](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Palm_Trees_and_Auroras_In_Mazatlan.jpg/960px-Palm_Trees_and_Auroras_In_Mazatlan.jpg)
 *Aurora vista em Mazatlán, México (23°N GLAT, 31°N MLAT), 11 de maio de 2024. Fonte: [Wikipedia][wiki]*
 
-![Aurora na Argélia, 11 de maio de 2024](/assets/img/aurora-algeria-24.png)
+![Aurora na Argélia, 11 de maio de 2024]({{ site.baseurl }}/assets/img/aurora-algeria-24.png)
 *Aurora vista na Argélia, 11 de maio de 2024. Fonte: [ArabiaWeather.com][arabiaweather]*
 
 ![Aurora em Melbourne, Austrália, 11 de maio de 2024](https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Aurora_Australis_From_Melbourne.jpg/330px-Aurora_Australis_From_Melbourne.jpg)
@@ -149,4 +149,4 @@ As tempestades geomagnéticas de maio de 2024 serão lembradas como um dos maior
 [quebec]: https://en.wikipedia.org/wiki/March_1989_geomagnetic_storm
 [noaa1]: https://satlib.cira.colostate.edu/event/extreme-geomagnetic-storm/
 [noaa2]: https://www.swpc.noaa.gov/noaa-scales-explanation
-[arabiaweather]: https://www.arabiaweather.com/ar/content/%D8%A8%D8%B3%D8%A8%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D8%B5%D9%81%D8%A9-%D8%A7%D9%84%D8%B4%D9%85%D8%B3%D9%8A%D8%A9-%D9%88%D9%81%D9%8A-%D8%B3%D8%A7%D8%A8%D9%82%D8%A9-%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE%D9%8A%D8%A9-%D9%85%D8%B4%D8%A7%D9%87%D8%AF%D8%A9-%D8%A7%D9%84%D8%B4%D9%81%D9%82-%D8%A7%D9%84%D9%82%D8%B7%D8%A8%D9%8A-%D9%85%D9%86-%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1-%D9%88%D9%85%D9%86%D8%A7%D8%B7%D9%82-%D8%B9%D9%84%D9%89-%D8%AE%D8%B7-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D9%88%D8%A7%D8%A1
+[arabiaweather]: https://www.arabiaweather.com/en/content/due-to-the-solar-storm-and-in-a-historical-precedent-the-northern-lights-were-seen-from-algeria-and-areas-on-the-equator
