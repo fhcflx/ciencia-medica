@@ -8,7 +8,7 @@ tags:
 lang: pt-br
 ref: blog-da-farmacologia
 modified_time: '2011-03-18T21:26:20.583-03:00'
-thumbnail: https://4.bp.blogspot.com/_ltzeFnIlO7Q/RvVdOHXoXYI/AAAAAAAAAAk/zdYFrIPau2k/s72-c/Eu.jpg
+thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhD01fUvipmi7OObeJI_pcGjXbU_vBxnrhXdewI0sQ5qgWr7p5MYm5K4_eGj8Vcr0J4We6oSksPbe91adpiBl3zqyXZXeO4mPeCARJx1jv9Dk0GQXMWq0etOriPe_TBFoub4i4aDztDPg2M/s1600/Eu.jpg
 blogger_id: tag:blogger.com,1999:blog-2993346515708552092.post-1704608538333004129
 blogger_orig_url: https://pharmak.blogspot.com/2007/09/blog-da-farmacologia.html
 ---
