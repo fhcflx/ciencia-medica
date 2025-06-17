@@ -22,6 +22,6 @@ Os arquivos podem ser abertos apenas no modo "somente leitura".
 
 2) [Farmacologia da asma e DPOC](https://1drv.ms/p/s!Am6SEOdThfkKguVIosEGxe8R0_2gpQ?e=5tCKHo)
 
-P.S. (2025): os caminhos originais não estão mais ativos e foram trocados por caminhos do Onedrive que vão expirar em 01/01/2027. Essas aulas foram feitas a quase 20 anos atrás e tem apenas valor histórico, não estão atualizadas com os conhecimentos mais recentes.
+P.S. (2025): os caminhos originais não estão mais ativos e foram trocados por caminhos do Onedrive que vão expirar em 01/01/2027. Essas aulas foram feitas a quase 20 anos atrás e tem apenas valor histórico, não estão atualizadas com os conhecimentos mais recentes. O conteúdo não pode ser utilizado sem autorização do autor. O logotipo da FMJ é de propriedade dela.
 
 Postagem original em Pharmakon [aqui]({{ page.blogger_orig_url }}).

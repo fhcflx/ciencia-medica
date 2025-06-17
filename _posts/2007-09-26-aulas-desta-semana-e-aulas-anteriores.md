@@ -30,6 +30,6 @@ Lembrando: coloque a senha de visitação "helder" na janela do disco virtual e 
 
 6) [Anti-histamínicos](https://1drv.ms/p/s!Am6SEOdThfkKguVTNd18pI-Fcjslqg?e=rw0Flj)
 
-P.S. (2025): os caminhos originais não estão mais ativos e foram trocados por caminhos do Onedrive que vão expirar em 01/01/2027. Essas aulas foram feitas a quase 20 anos atrás e tem apenas valor histórico, não estão atualizadas com os conhecimentos mais recentes.
+P.S. (2025): os caminhos originais não estão mais ativos e foram trocados por caminhos do Onedrive que vão expirar em 01/01/2027. Essas aulas foram feitas a quase 20 anos atrás e tem apenas valor histórico, não estão atualizadas com os conhecimentos mais recentes. O conteúdo não pode ser utilizado sem autorização do autor. O logotipo da FMJ é de propriedade dela.
 
 Postagem original em Pharmakon [aqui]({{ page.blogger_orig_url }}).
