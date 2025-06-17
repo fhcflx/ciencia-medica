@@ -34,13 +34,14 @@ a equipe testou o novo tratamento em mais 9 crianças, com resultado positivo.
 A publicação deu início a uma onda mundial de euforia, com especialistas ao redor do planeta usando a droga para tratar
 hemangiomas em crianças.
 
-![](https://upload.wikimedia.org/wikipedia/commons/a/af/Propranolol-from-xtal-3D-balls.png)
+![Estrutura do propranolol](https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Propranolol-from-xtal-3D-balls.png/250px-Propranolol-from-xtal-3D-balls.png)
 
 _Figura: estrutura tridimensional do propranolol. Créditos Ben Mills, Domínio Público, via Wikicommons._
 
 _Esta postagem não representa sugestão de tratamento. Apenas um especialista pode judiciosamente decidir quais informações divulgadas podem modificar de alguma forma um esquema de tratamento, e de que forma._
 
 Leia a publicação:
+
 - Léauté-Labrèze C, Dumas de la Roque E, Hubiche T, Boralevi F, Thambo JB, Taïeb A. Propranolol for severe hemangiomas of infancy. N Engl J Med. 2008 Jun
 12;358(24):2649-51. [doi:10.1056/NEJMc0708819](https://doi.org/10.1056/NEJMc0708819)
 
