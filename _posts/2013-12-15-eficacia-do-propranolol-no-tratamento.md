@@ -14,7 +14,7 @@ blogger_id: tag:blogger.com,1999:blog-2993346515708552092.post-68678776350581087
 blogger_orig_url: https://pharmak.blogspot.com/2013/12/eficacia-do-propranolol-no-tratamento.html
 ---
 
-A utilidade do propranolol{% include propranolol.html %} no tratamento de crianças com hemangiomas infantis{% include hemangioma.html %}, ou hemangiomas capilares, foi proposta há cerca de 5 anos por um grupo de dermatologistas franceses da cidade de Bordeaux, numa revolucionária [publicação](https://bit.ly/fhcflxEw)
+A utilidade do propranolol{% include propranolol.html %} no tratamento de crianças com hemangiomas infantis{% include hemangioma.html %}, ou hemangiomas capilares, foi proposta há cerca de 5 anos por um grupo de dermatologistas franceses da cidade de Bordeaux, numa revolucionária [publicação](../../../2009/03/30/uso-de-propranolol-revoluciona.html)
 no New England Journal of Medicine.
 <!--more-->
 
@@ -24,11 +24,12 @@ A fim de estabelecer com certeza a eficácia de um tratamento, o ideal é planej
 
 Um grupo de pesquisadores de Ho-fei, na China, acaba de publicar no British Journal of Clinical Pharmacology uma meta-análise reunindo 35 estudos de eficácia do propranolol em pacientes com hemangiomas infantis. O estudo reuniu 324 pacientes tratados com propranolol e 248 pacientes não tratados com ele (controle). A conclusão do estudo é que o propranolol tem grande eficácia para o tratamento de hemangiomas capilares e que ele é melhor do que o tratamento padrão atualmente (corticosteróides) na maioria dos casos.
 
-Os autores recomendam fortemente que o propranolol seja usado como tratamento inicial para crianças com hemangiomas capilares complicados. Essa pesquisa vem confirmar e comprovar os resultados anteriores de estudos realizados no mundo inteiro, inclusive <a href="https://pharmak.blogspot.com.br/2011/10/primeiros-resultados-do-tratamento-de.html">aqui</a>.
+Os autores recomendam fortemente que o propranolol seja usado como tratamento inicial para crianças com hemangiomas capilares complicados. Essa pesquisa vem confirmar e comprovar os resultados anteriores de estudos realizados no mundo inteiro, inclusive [aqui](../../../2011/10/20/primeiros-resultados-do-tratamento-de.html).
 
 _Esta postagem não representa sugestão de tratamento. Apenas um especialista pode judiciosamente decidir quais informações divulgadas podem modificar de alguma forma um esquema de tratamento, e de que forma._
 
 Leia a publicação:
+
 - Lou, Y. , Peng, W. , Cao, Y. , Cao, D. , Xie, J. and Li, H. (2014), The effectiveness of propranolol in treating infantile haemangiomas: a meta‐analysis including 35 studies. Br J Clin Pharmacol, 78: 44-57. [doi:10.1111/bcp.12235](https://doi.org/10.1111/bcp.12235)
 
 Postagem original em Pharmakon [aqui]({{ page.blogger_orig_url }}).

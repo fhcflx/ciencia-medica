@@ -32,6 +32,8 @@ A aluna Juliana, que faz parte do programa de Iniciação Científica da UFC com
 
 _Esta postagem não representa sugestão de tratamento. Apenas um especialista pode judiciosamente decidir quais informações divulgadas podem modificar de alguma forma um esquema de tratamento, e de que forma._
 
-Link para o poster: [bit.ly/fhcflxZ1](https://bit.ly/fhcflxZ1)
+Link para o poster [aqui](https://f1000research.com/posters/7-1305).
+
+![poster hemangioma]({{ site.baseurl}}/assets/img/poster-hemangioma.jpg)
 
 Postagem original em Pharmakon [aqui]({{ page.blogger_orig_url }}).

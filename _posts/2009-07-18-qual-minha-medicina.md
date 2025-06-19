@@ -18,6 +18,6 @@ Na mídia formal e informal, incluindo a internet, pode-se entrar em contato com
 
 De um modo geral, a classificação geral mais utilizada para estas práticas diferentes e conflitantes é a da "Medicina Alternativa" em contraposição à "Medicina Tradicional". Frequentemente, pacientes com câncer e outras doenças são bombardeados com um grande número de possibilidades de práticas terapêuticas diferentes, cada uma propagandeada pelos seus profissionais atuantes como a melhor. Não é incomum que partidários desta ou daquela prática critiquem ferozmente as outras modalidades de tratamento na mesma área ou em áreas afins. Diante disto, como um leigo na área da saúde pode escolher adequadamente o melhor tratamento para si ou para um ente querido, como um filho? A partir de hoje, farei comentários, mostrarei fatos, opiniões de vários profissionais, além da minha própria, e tentarei dar uma direção geral a quem busca respostas numa série de posts intitulada "Qual a minha medicina?".
 
-P.S (2025): a série acabou tendo somente uma [postagem](.../27/qual-minha-medicina-capitulo-1-quai-as.html), duas se contarmos aquela sobre [medicina quantica](.../.../.../2017/08/14/Medicina-quantica-a-farsa.html).
+P.S (2025): a série acabou tendo somente uma [postagem](../27/qual-minha-medicina-capitulo-1-quai-as.html), duas se contarmos aquela sobre [medicina quantica](../../../2017/08/14/Medicina-quantica-a-farsa.html).
 
 Postagem original em Pharmakon [aqui]({{ page.blogger_orig_url }}).
