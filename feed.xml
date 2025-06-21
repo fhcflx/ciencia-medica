@@ -6,8 +6,8 @@
 </description>
     <link>https://fhcflx.github.io/ciencia-medica/</link>
     <atom:link href="https://fhcflx.github.io/ciencia-medica/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 20 Jun 2025 22:06:05 -0300</pubDate>
-    <lastBuildDate>Fri, 20 Jun 2025 22:06:05 -0300</lastBuildDate>
+    <pubDate>Sat, 21 Jun 2025 02:09:15 -0300</pubDate>
+    <lastBuildDate>Sat, 21 Jun 2025 02:09:15 -0300</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
     
       <item>
@@ -88,9 +88,167 @@
 
 &lt;p&gt;Postagem original em Pharmakon &lt;a href=&quot;&quot;&gt;aqui&lt;/a&gt;.&lt;/p&gt;
 </description>
-        <pubDate>Fri, 20 Jun 2025 22:06:05 -0300</pubDate>
-        <link>https://fhcflx.github.io/ciencia-medica/2025/06/20/2013-11-19-the-problem-with-p-values-how.html</link>
-        <guid isPermaLink="true">https://fhcflx.github.io/ciencia-medica/2025/06/20/2013-11-19-the-problem-with-p-values-how.html</guid>
+        <pubDate>Sat, 21 Jun 2025 02:09:15 -0300</pubDate>
+        <link>https://fhcflx.github.io/ciencia-medica/2025/06/21/2013-11-19-the-problem-with-p-values-how.html</link>
+        <guid isPermaLink="true">https://fhcflx.github.io/ciencia-medica/2025/06/21/2013-11-19-the-problem-with-p-values-how.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>The Merchant, the Portal, and Time Loops: Science and Fiction in Ted Chiang</title>
+        <description>&lt;p&gt;In his award-winning short story “The Merchant and the Alchemist’s Gate,” Ted Chiang weaves a fascinating narrative around a real scientific concept: closed timelike curves.&lt;label for=&quot;closed-timelike-curve&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;closed-timelike-curve&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;
+&lt;strong&gt;Closed timelike curve:&lt;/strong&gt; A trajectory in spacetime that returns to the same point, theoretically allowing time travel without violating general relativity.
+&lt;/span&gt;
+ Inspired by a lecture from physicist Kip Thorne, Chiang explores the idea of trajectories in spacetime that return to the same point—meaning, mathematically possible time travel.
+&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/en/e/e3/The_Merchant_and_the_Alchemist%27s_Gate.jpg&quot; alt=&quot;Cover of the original edition of &amp;quot;The Merchant and the Alchemist&apos;s Gate&amp;quot;&quot; /&gt;
+&lt;em&gt;Cover of the original edition of “The Merchant and the Alchemist’s Gate”. Image by Subterranean Press, published on &lt;a href=&quot;https://en.wikipedia.org/wiki/File:The_Merchant_and_the_Alchemist%27s_Gate.jpg&quot;&gt;Wikimedia Commons&lt;/a&gt; under Creative Commons Attribution 3.0 Unported license.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Before we get lost in paradoxes and portals, it’s worth asking: what is time, after all? Long before time became a theme in Western philosophy, Hindus wrote in the Vedas about cycles of creation and destruction lasting more than 4 million years each. The Egyptian Ptahotep said that wasting time was an abomination (perhaps already anticipating Novikov? - see below). The Incas saw space and time as one: pacha. And probably the ancient speakers of Proto-Semitic already had the concept of remote time and an origin of time.&lt;/p&gt;
+
+&lt;p&gt;For Aristotle, time was not an independent entity, but the measure of change—time exists only because things change. Newton, on the other hand, saw time (and space) as absolutes, a fixed stage where everything happens, regardless of what exists or changes. Then Einstein brought the big surprise: time can “stretch” or “shrink” depending on speed and gravity, becoming relative to the observer.&lt;label for=&quot;relativity&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;relativity&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;
+&lt;strong&gt;Relativity:&lt;/strong&gt; The physical theory developed by Einstein that revolutionized our understanding of space, time, and gravity, showing they are relative to the observer.
+&lt;/span&gt;
+ Other philosophers also gave their interpretations, but none changed our understanding as much as modern physics.&lt;/p&gt;
+
+&lt;p&gt;But what are these curves, after all? Technically, they are “closed worldlines of a Lorentzian manifold in spacetime.”&lt;label for=&quot;closed-timelike-curve&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;closed-timelike-curve&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;
+&lt;strong&gt;Closed timelike curve:&lt;/strong&gt; A trajectory in spacetime that returns to the same point, theoretically allowing time travel without violating general relativity.
+&lt;/span&gt;
+ In simpler terms: they are trajectories that allow an object to return to the same point in space and time. The first mathematical solution for this concept was found by Willem Jacob van Stockum in 1937, and later confirmed by Kurt Gödel in 1949, both using Einstein’s field equations.&lt;/p&gt;
+
+&lt;p&gt;Even before time travel was seriously considered, Karl Schwarzschild—adventurer, mountaineer, and physicist—found the first exact solution to Einstein’s equations during World War I.&lt;label for=&quot;wormhole-en&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;wormhole-en&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;
+&lt;strong&gt;Wormhole:&lt;/strong&gt; A theoretical solution to Einstein’s equations connecting two distinct points in spacetime, acting as a cosmic shortcut.
+&lt;/span&gt;
+ His work paved the way for the concept of wormholes, which would later be considered possible mechanisms for closed timelike curves. If anyone had to be a time traveler, it would be him.&lt;/p&gt;
+
+&lt;p&gt;One of the concepts that most fascinated Chiang was Novikov’s self-consistency principle. But who was Novikov? Igor Dmitriyevich Novikov is a Russian astrophysicist and cosmologist, known for his contributions to black hole physics, cosmology, and especially to the study of time travel.&lt;label for=&quot;novikov-en&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;novikov-en&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;
+&lt;strong&gt;Novikov self-consistency principle:&lt;/strong&gt; States that events causing time paradoxes have zero probability of occurring, making the universe “self-consistent”.
+&lt;/span&gt;
+ He formulated the self-consistency principle, which states that the probability of worldlines causing time paradoxes is zero. In other words, the universe “adjusts itself” to prevent paradoxes, making them impossible.&lt;/p&gt;
+
+&lt;p&gt;In the 1990s, Thorne and other physicists found mathematical solutions suggesting the existence of infinite closed timelike curves that avoid paradoxes.&lt;label for=&quot;time-paradox&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;time-paradox&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;
+&lt;strong&gt;Time paradox:&lt;/strong&gt; A hypothetical situation in which an action in the past changes the future in a contradictory way, such as preventing one’s own birth.
+&lt;/span&gt;
+ This could be used in traversable wormholes—true “windows” to the past or future, but always in worldlines where paradoxes cannot occur. The result would be similar to Chiang’s description in his story, something quite different from the wormhole in Carl Sagan’s book Contact.&lt;/p&gt;
+
+&lt;p&gt;Chiang is a master at building stories around singular scientific concepts, always in a romanticized fantasy setting. “The Merchant and the Alchemist’s Gate” won the Nebula and Hugo awards in 2008, showing how great science fiction can arise from mathematically possible ideas that remain mysterious to most of us.&lt;/p&gt;
+
+&lt;p&gt;Ted Chiang is an American science fiction writer, known for his stories that explore deep scientific and philosophical concepts. His most popular work is the short story “Story of Your Life,” which was adapted into the acclaimed film “Arrival” (2016), directed by Denis Villeneuve. Chiang has received several major awards in speculative fiction, including the Nebula, Hugo, and Locus awards.&lt;/p&gt;
+
+&lt;p&gt;P.S.: The concepts discussed in this post also apply to other works of fiction in different media, such as the Netflix series “Dark” and the anime “Steins;Gate”—each of which deserves its own dedicated post in the future.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 20 Jun 2025 12:00:00 -0300</pubDate>
+        <link>https://fhcflx.github.io/ciencia-medica/2025/06/20/chiang-merchant-portal-en.html</link>
+        <guid isPermaLink="true">https://fhcflx.github.io/ciencia-medica/2025/06/20/chiang-merchant-portal-en.html</guid>
+        
+        <category>Science fiction</category>
+        
+        <category>Time travel</category>
+        
+        <category>Relativity</category>
+        
+        <category>Wormhole</category>
+        
+        <category>Ted Chiang</category>
+        
+        <category>Kip Thorne</category>
+        
+        <category>Gödel</category>
+        
+        <category>Novikov</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>O mercador, o portal e as curvas do tempo: ciência e ficção em Ted Chiang</title>
+        <description>&lt;p&gt;Ted Chiang, em seu premiado conto “O Mercador e o Portal do Alquimista”, constrói uma narrativa fascinante ao redor de um conceito científico real: as curvas fechadas do tipo tempo.&lt;label for=&quot;curva-fechada-tempo&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;curva-fechada-tempo&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;
+&lt;strong&gt;Curva fechada do tipo tempo:&lt;/strong&gt; Trajetória no espaço-tempo que retorna ao mesmo ponto, permitindo, em teoria, viagens no tempo sem violar as equações da relatividade geral.
+&lt;/span&gt;
+ Inspirado por uma palestra do físico Kip Thorne, Chiang explora a ideia de trajetórias no espaço-tempo que retornam ao mesmo ponto — ou seja, viagens no tempo matematicamente possíveis.
+&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/en/e/e3/The_Merchant_and_the_Alchemist%27s_Gate.jpg&quot; alt=&quot;Capa da edição original de &amp;quot;The Merchant and the Alchemist&apos;s Gate&amp;quot;&quot; /&gt;
+&lt;em&gt;Capa da edição original de “The Merchant and the Alchemist’s Gate”. Imagem de Subterranean Press, publicada na &lt;a href=&quot;https://en.wikipedia.org/wiki/File:The_Merchant_and_the_Alchemist%27s_Gate.jpg&quot;&gt;Wikimedia Commons&lt;/a&gt; sob licença Creative Commons Attribution 3.0 Unported.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Antes de nos perdermos nos paradoxos e portais, vale perguntar: afinal, o que é o tempo? Muito antes de o tempo ser tema da filosofia ocidental, os hindus já escreviam nos Vedas sobre ciclos de criação e destruição que duravam mais de 4 milhões de anos cada. O egípcio Ptahotep dizia que a perda de tempo era uma abominação (talvez já antecipando Novikov? - veja adiante). Os Incas viam espaço e tempo como uma coisa só: &lt;em&gt;pacha&lt;/em&gt;. E, provavelmente, os antigos falantes do proto-semítico já tinham o conceito de tempo remoto e de uma origem do tempo.&lt;/p&gt;
+
+&lt;p&gt;Para Aristóteles, o tempo não era uma entidade independente, mas a medida da mudança — só existe tempo porque as coisas mudam. Newton, por outro lado, via o tempo (e o espaço) como absolutos, um palco fixo onde tudo acontece, independentemente do que existe ou muda. Já Einstein trouxe a grande surpresa: o tempo pode “esticar” ou “encolher” dependendo da velocidade e da gravidade, tornando-se relativo ao observador.&lt;label for=&quot;relatividade&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;relatividade&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;
+&lt;strong&gt;Relatividade:&lt;/strong&gt; Teoria física desenvolvida por Einstein que revolucionou a compreensão do espaço, tempo e gravidade, mostrando que são relativos ao observador.
+&lt;/span&gt;
+ Outros filósofos também deram suas interpretações, mas nenhuma delas mudou tanto nossa compreensão quanto a física moderna.&lt;/p&gt;
+
+&lt;p&gt;Mas afinal o que são as tais curvas? Em termos técnicos, são “linhas do universo fechadas de um distribuidor Lorentziano no espaço-tempo”.&lt;label for=&quot;curva-fechada-tempo&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;curva-fechada-tempo&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;
+&lt;strong&gt;Curva fechada do tipo tempo:&lt;/strong&gt; Trajetória no espaço-tempo que retorna ao mesmo ponto, permitindo, em teoria, viagens no tempo sem violar as equações da relatividade geral.
+&lt;/span&gt;
+ Traduzindo: são trajetórias que permitem a um objeto voltar ao mesmo ponto no espaço e no tempo. A primeira solução matemática para esse conceito foi encontrada por Willem Jacob van Stockum em 1937, e depois confirmada por Kurt Gödel em 1949, ambos usando as equações de campo de Einstein.&lt;/p&gt;
+
+&lt;p&gt;Antes mesmo de se falar em viagens no tempo, Karl Schwarzschild — aventureiro, alpinista e físico — encontrou a primeira solução exata das equações de Einstein durante a Primeira Guerra Mundial.&lt;label for=&quot;wormhole&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;wormhole&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;
+&lt;strong&gt;Buraco de minhoca:&lt;/strong&gt; Solução teórica das equações de Einstein que conecta dois pontos distintos do espaço-tempo, funcionando como um atalho cósmico.
+&lt;/span&gt;
+ Sua solução abriu caminho para o conceito de buracos de minhoca, que mais tarde seriam considerados possíveis mecanismos para curvas fechadas do tempo. Se alguém tivesse que ser um viajante do tempo, seria ele.&lt;/p&gt;
+
+&lt;p&gt;Um dos conceitos que mais fascinaram Chiang foi o princípio de autoconsistência de Novikov (um astrofísico e cosmólogo russo, conhecido por suas contribuições à física dos buracos negros, à cosmologia e, especialmente, ao estudo das viagens no tempo).&lt;label for=&quot;novikov&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;novikov&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;
+&lt;strong&gt;Princípio de autoconsistência de Novikov:&lt;/strong&gt; Postula que eventos que causariam paradoxos temporais têm probabilidade zero de ocorrer, tornando o universo “autoconsistente”.
+&lt;/span&gt;
+ Esse princípio postula que a probabilidade de linhas do universo que causam paradoxos temporais é zero. Ou seja, o universo “se ajusta” para impedir paradoxos, tornando-os impossíveis.&lt;/p&gt;
+
+&lt;p&gt;Nos anos 90, Thorne e outros físicos encontraram soluções matemáticas que sugerem a existência de infinitas curvas fechadas do tempo que evitam paradoxos.&lt;label for=&quot;paradoxo-temporal&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;paradoxo-temporal&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;
+&lt;strong&gt;Paradoxo temporal:&lt;/strong&gt; Situação hipotética em que uma ação no passado altera o futuro de forma contraditória, como impedir o próprio nascimento.
+&lt;/span&gt;
+ Isso poderia ser usado em buracos de minhoca atravessáveis — verdadeiras “janelas” para o passado ou futuro, mas sempre em linhas do universo onde paradoxos não podem ocorrer. O resultado seria semelhante à descrição de Chiang em seu conto, algo bem diferente do buraco de minhoca do livro Contato, de Carl Sagan.&lt;/p&gt;
+
+&lt;p&gt;Chiang é mestre em criar contos ao redor de conceitos científicos singulares, sempre em cenários de fantasia romanceada. “O Mercador e o Portal do Alquimista” ganhou os prêmios Nebula e Hugo em 2008, mostrando como a boa ficção científica pode nascer de ideias matematicamente possíveis, mas ainda misteriosas para a maioria de nós.&lt;/p&gt;
+
+&lt;p&gt;Ted Chiang é um escritor norte-americano de ficção científica, conhecido por suas histórias que exploram conceitos científicos e filosóficos profundos. Sua obra mais popular é o conto “Story of Your Life” (“A História da Sua Vida”), que foi adaptado para o cinema no premiado filme “A Chegada” (“Arrival”, 2016), dirigido por Denis Villeneuve. Chiang já recebeu diversos prêmios importantes da literatura fantástica, incluindo o Nebula, o Hugo e o Locus.&lt;/p&gt;
+
+&lt;p&gt;P.S.: Os conceitos discutidos nesta postagem também se aplicam a outras obras de ficção em diferentes mídias, como a série da Netflix “Dark” e o anime “Steins;Gate” — cada uma delas merece, no futuro, uma postagem própria.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 20 Jun 2025 12:00:00 -0300</pubDate>
+        <link>https://fhcflx.github.io/ciencia-medica/2025/06/20/chiang-mercador-portal-pt.html</link>
+        <guid isPermaLink="true">https://fhcflx.github.io/ciencia-medica/2025/06/20/chiang-mercador-portal-pt.html</guid>
+        
+        <category>Ficção científica</category>
+        
+        <category>Viagem no tempo</category>
+        
+        <category>Relatividade</category>
+        
+        <category>Buraco de minhoca</category>
+        
+        <category>Ted Chiang</category>
+        
+        <category>Kip Thorne</category>
+        
+        <category>Gödel</category>
+        
+        <category>Novikov</category>
         
         
       </item>
@@ -949,332 +1107,6 @@
         <category>microRNA</category>
         
         <category>Gene Regulation</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Prêmio Nobel de Fisiologia ou Medicina 2024: A Revolução Silenciosa do MicroRNA</title>
-        <description>&lt;p&gt;O Prêmio Nobel de Fisiologia ou Medicina de 2024 foi concedido aos cientistas americanos &lt;strong&gt;Victor Ambros&lt;/strong&gt; e &lt;strong&gt;Gary Ruvkun&lt;/strong&gt;, por sua descoberta do microRNA (miRNA) e seu papel fundamental na regulação gênica pós-transcricional. [1, 2]
-  &lt;!--more--&gt;&lt;/p&gt;
-
-&lt;p&gt;As pesquisas pioneiras de Ambros e Ruvkun revelaram uma nova e sofisticada camada de controle genético, demonstrando que pequenas moléculas de RNA, antes consideradas irrelevantes, desempenham um papel crucial em como e quando os genes são ativados. [3] Essa descoberta não apenas reescreveu partes fundamentais dos manuais de biologia molecular, mas também abriu vastos novos caminhos para a compreensão e o tratamento de doenças complexas, como o câncer e as doenças cardíacas. [4]&lt;/p&gt;
-
-&lt;p&gt;Tudo começou na década de 1980, quando ambos os cientistas, então pós-doutorandos no laboratório de Robert Horvitz (laureado com o Nobel em 2002), estudavam o desenvolvimento do verme nematoide &lt;em&gt;Caenorhabditis elegans&lt;/em&gt;. [2] Esse organismo simples, com seu desenvolvimento celular precisamente mapeado, era o modelo perfeito para investigar os mistérios da regulação genética. [5] Trabalhando de forma independente, mas com foco no mesmo enigma, eles investigavam como certos genes governavam as transições de estágio larval do verme.&lt;/p&gt;
-
-&lt;p&gt;Foi no laboratório de Victor Ambros que a primeira peça do quebra-cabeça foi encontrada. Em 1993, sua equipe descobriu que o gene &lt;em&gt;lin-4&lt;/em&gt; não codificava uma proteína, como se esperava, mas sim uma pequena molécula de RNA, com aproximadamente 22 nucleotídeos. [6] Essa molécula se ligava a uma região específica do RNA mensageiro (mRNA) de outro gene, o &lt;em&gt;lin-14&lt;/em&gt;, impedindo sua tradução em proteína. [7] Era um mecanismo de regulação inteiramente novo, denominado regulação pós-transcricional. [1]&lt;/p&gt;
-
-&lt;p&gt;Simultaneamente, o laboratório de Gary Ruvkun fez uma descoberta complementar crucial. Ele confirmou o mecanismo de ação proposto, mostrando como o pequeno RNA &lt;em&gt;lin-4&lt;/em&gt; efetivamente silenciava o mRNA de &lt;em&gt;lin-14&lt;/em&gt;. [7] Anos mais tarde, em 2000, o laboratório de Ruvkun descobriu outra dessas moléculas, o &lt;em&gt;let-7&lt;/em&gt;, e, de forma surpreendente, demonstrou que ela era conservada evolutivamente em inúmeras espécies, incluindo os seres humanos. [8] Isso sinalizou que não se tratava de uma peculiaridade dos vermes, mas de um mecanismo biológico fundamental. [2, 3]&lt;/p&gt;
-
-&lt;p&gt;As descobertas de Ambros e Ruvkun revelaram que porções do genoma antes consideradas “lixo” continham, na verdade, tesouros funcionais. Hoje, sabemos que o genoma humano codifica mais de mil tipos de microRNAs. [2] Essas moléculas são essenciais para o desenvolvimento, o metabolismo, a diferenciação celular e a função imunológica. O mau funcionamento dos microRNAs está implicado em diversas patologias, e o desenvolvimento de terapias baseadas em miRNA é uma das áreas mais promissoras da medicina moderna. [4, 9]&lt;/p&gt;
-
-&lt;p&gt;O Prêmio Nobel de 2024 reconhece uma descoberta verdadeiramente fundamental, que mudou drasticamente nossa compreensão de como a informação genética é orquestrada para criar a complexidade da vida. [1] O trabalho de Victor Ambros e Gary Ruvkun abriu um novo universo na biologia, cujas implicações para a saúde humana ainda estão sendo exploradas.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/MiRNA.svg/960px-MiRNA.svg.png?20190519102305&quot; alt=&quot;Figure: Diagrama mostrando a formação e função do micro RNA. Credit: Kelvinsong, CC BY 3.0 &amp;lt;https://creativecommons.org/licenses/by/3.0&amp;gt;, via Wikimedia Commons&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;referências&quot;&gt;Referências&lt;/h3&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.nobelprize.org/prizes/medicine/2024/press-release/&quot;&gt;1 - The Nobel Prize in Physiology or Medicine 2024 - Press Release (NobelPrize.org)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.nobelprize.org/prizes/medicine/2024/advanced-information/&quot;&gt;2 - Scientific Background: Discoveries of microRNA (NobelPrize.org)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.theguardian.com/science/2024/oct/07/nobel-prize-in-medicine-awarded-to-scientists-for-work-on-microrna-victor-ambros-gary-ruvkun&quot;&gt;3 - Nobel prize in medicine awarded to scientists for work on microRNA - The Guardian&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.nature.com/articles/d41586-024-03212-9&quot;&gt;4 - Medicine Nobel awarded for gene-regulating ‘microRNAs’ - Nature&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.statnews.com/2024/10/07/nobel-prize-medicine-ambros-ruvkun-awarded-prize/&quot;&gt;5 - 2024 Nobel prize in medicine: Ruvkun, Ambros win for discovery of microRNA - STAT News&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://doi.org/10.1016/0092-8674(93)90529-y&quot;&gt;6 - Lee, R., Feinbaum, R. &amp;amp; Ambros, V. (1993). The &lt;em&gt;C. elegans&lt;/em&gt; heterochronic gene &lt;em&gt;lin-4&lt;/em&gt; encodes small RNAs with antisense complementarity to &lt;em&gt;lin-14&lt;/em&gt;. &lt;em&gt;Cell&lt;/em&gt;, 75(5), 843-854.&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://doi.org/10.1016/0092-8674(93)90530-4&quot;&gt;7 - Wightman, B., Ha, I. &amp;amp; Ruvkun, G. (1993). Posttranscriptional regulation of the heterochronic gene &lt;em&gt;lin-14&lt;/em&gt; by &lt;em&gt;lin-4&lt;/em&gt; mediates temporal pattern formation in &lt;em&gt;C. elegans&lt;/em&gt;. &lt;em&gt;Cell&lt;/em&gt;, 75(5), 855-862.&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://doi.org/10.1038/35040556&quot;&gt;8 - Pasquinelli, A. E., et al. (2000). Conservation of the sequence and temporal expression of &lt;em&gt;let-7&lt;/em&gt; heterochronic regulatory RNA. &lt;em&gt;Nature&lt;/em&gt;, 408(6808), 86-89.&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://doi.org/10.1038/nrd.2016.246&quot;&gt;9 - Rupaimoole, R., &amp;amp; Slack, F. J. (2017). MicroRNA therapeutics: towards a new era for the management of cancer and other diseases. &lt;em&gt;Nature Reviews Drug Discovery&lt;/em&gt;, 16(3), 203-222.&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-</description>
-        <pubDate>Mon, 07 Oct 2024 20:22:00 -0300</pubDate>
-        <link>https://fhcflx.github.io/ciencia-medica/2024/10/07/nobel-medicina-24.html</link>
-        <guid isPermaLink="true">https://fhcflx.github.io/ciencia-medica/2024/10/07/nobel-medicina-24.html</guid>
-        
-        <category>Fisiologia ou Medicina</category>
-        
-        <category>Nobel</category>
-        
-        <category>Genética</category>
-        
-        <category>microRNA</category>
-        
-        <category>Regulação Gênica</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Tempestades Geomagnéticas de Maio de 2024: Auroras Históricas</title>
-        <description>&lt;p&gt;Em maio de 2024, a Terra foi atingida por uma série de intensas tempestades geomagnéticas &lt;label for=&quot;geomag-tempestade-pt&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
-&lt;input type=&quot;checkbox&quot; id=&quot;geomag-tempestade-pt&quot; class=&quot;margin-toggle&quot; /&gt;
-&lt;span class=&quot;sidenote&quot;&gt;
-&lt;strong&gt;Tempestade Geomagnética:&lt;/strong&gt; Uma tempestade geomagnética é um distúrbio temporário no campo magnético da Terra causado por atividade solar, como CMEs ou erupções solares. Essas tempestades podem afetar tecnologias, navegação e gerar auroras longe dos polos.
-&lt;/span&gt;
- desencadeadas por poderosas ejeções de massa coronal (CMEs) &lt;label for=&quot;geomag-cme-pt&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
-&lt;input type=&quot;checkbox&quot; id=&quot;geomag-cme-pt&quot; class=&quot;margin-toggle&quot; /&gt;
-&lt;span class=&quot;sidenote&quot;&gt;
-&lt;strong&gt;Ejeção de Massa Coronal (CME):&lt;/strong&gt; Uma CME é uma grande liberação de vento solar e campos magnéticos da coroa do Sol para o espaço. Quando direcionadas à Terra, as CMEs podem desencadear tempestades geomagnéticas, afetando satélites, redes elétricas e produzindo auroras em latitudes incomuns.
-&lt;/span&gt;
- do Sol. Essas tempestades produziram auroras &lt;label for=&quot;geomag-aurora-pt&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
-&lt;input type=&quot;checkbox&quot; id=&quot;geomag-aurora-pt&quot; class=&quot;margin-toggle&quot; /&gt;
-&lt;span class=&quot;sidenote&quot;&gt;
-&lt;strong&gt;Aurora:&lt;/strong&gt; Aurora é um fenômeno luminoso natural observado no céu, geralmente em regiões de altas latitudes. Auroras são causadas por partículas solares carregadas interagindo com o campo magnético e a atmosfera da Terra, produzindo luzes coloridas.
-&lt;/span&gt;
- visíveis em latitudes excepcionalmente baixas, incluindo partes dos Estados Unidos, Brasil, Europa e até &lt;a href=&quot;https://www.arabiaweather.com/en/content/due-to-the-solar-storm-and-in-a-historical-precedent-the-northern-lights-were-seen-from-algeria-and-areas-on-the-equator&quot;&gt;Norte da África&lt;/a&gt;.   &lt;!--more--&gt;
-O fenômeno foi amplamente documentado por observadores e cientistas, marcando um dos eventos de clima espacial mais significativos do século XXI.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/May_2024_Aurora_SC.jpg/960px-May_2024_Aurora_SC.jpg&quot; alt=&quot;Aurora em Pawleys Island, EUA, 11 de maio de 2024&quot; /&gt;
-&lt;em&gt;Aurora vista em Pawleys Island, Carolina do Sul, EUA (33°N GLAT, 43°N MLAT), 11 de maio de 2024. Fonte: &lt;a href=&quot;https://en.wikipedia.org/wiki/May_2024_solar_storms&quot;&gt;Wikipedia&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Aurora_austral.jpg/960px-Aurora_austral.jpg&quot; alt=&quot;Aurora em Quillón, Chile, 11 de maio de 2024&quot; /&gt;
-&lt;em&gt;Aurora vista em Quillón, Chile (36°S GLAT, 24°S MLAT), 11 de maio de 2024. Fonte: &lt;a href=&quot;https://en.wikipedia.org/wiki/May_2024_solar_storms&quot;&gt;Wikipedia&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Palm_Trees_and_Auroras_In_Mazatlan.jpg/960px-Palm_Trees_and_Auroras_In_Mazatlan.jpg&quot; alt=&quot;Aurora em Mazatlán, México, 11 de maio de 2024&quot; /&gt;
-&lt;em&gt;Aurora vista em Mazatlán, México (23°N GLAT, 31°N MLAT), 11 de maio de 2024. Fonte: &lt;a href=&quot;https://en.wikipedia.org/wiki/May_2024_solar_storms&quot;&gt;Wikipedia&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/ciencia-medica/assets/img/aurora-algeria-24.png&quot; alt=&quot;Aurora na Argélia, 11 de maio de 2024&quot; /&gt;
-&lt;em&gt;Aurora vista na Argélia, 11 de maio de 2024. Fonte: &lt;a href=&quot;https://www.arabiaweather.com/en/content/due-to-the-solar-storm-and-in-a-historical-precedent-the-northern-lights-were-seen-from-algeria-and-areas-on-the-equator&quot;&gt;ArabiaWeather.com&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Aurora_Australis_From_Melbourne.jpg/330px-Aurora_Australis_From_Melbourne.jpg&quot; alt=&quot;Aurora em Melbourne, Austrália, 11 de maio de 2024&quot; /&gt;
-&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Aurora_Borealis_from_Cwmbran%2C_Wales.png/330px-Aurora_Borealis_from_Cwmbran%2C_Wales.png&quot; alt=&quot;Aurora em Cwmbran, País de Gales, Reino Unido, 11 de maio de 2024&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Aurora vista em Melbourne, Austrália (38°S GLAT, 48°S MLAT) e em Cwmbran, País de Gales, Reino Unido (51°N GLAT, 47°N MLAT), 11 de maio de 2024. Fonte: &lt;a href=&quot;https://en.wikipedia.org/wiki/May_2024_solar_storms&quot;&gt;Wikipedia&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;o-que-são-tempestades-geomagnéticas&quot;&gt;O que são tempestades geomagnéticas?&lt;/h2&gt;
-
-&lt;p&gt;Tempestades geomagnéticas são distúrbios no campo magnético da Terra causados por interações com partículas solares altamente energéticas, especialmente durante CMEs. Elas podem afetar comunicações, redes elétricas, satélites e até causar auroras em latitudes incomuns.&lt;/p&gt;
-
-&lt;h2 id=&quot;comparação-com-eventos-históricos&quot;&gt;Comparação com eventos históricos&lt;/h2&gt;
-
-&lt;p&gt;As tempestades de maio de 2024 foram classificadas como G5 (extrema) pelo NOAA SWPC, com índices Kp &lt;label for=&quot;geomag-kp-pt&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
-&lt;input type=&quot;checkbox&quot; id=&quot;geomag-kp-pt&quot; class=&quot;margin-toggle&quot; /&gt;
-&lt;span class=&quot;sidenote&quot;&gt;
-&lt;strong&gt;Índice Kp:&lt;/strong&gt; O índice Kp é uma escala de 0 a 9 que mede a intensidade global da atividade geomagnética. Valores altos de Kp indicam tempestades mais fortes e maior chance de auroras em latitudes baixas.
-&lt;/span&gt;
- chegando a 9. Para comparação:&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Evento Carrington (1859):&lt;/strong&gt; A maior tempestade geomagnética já registrada, causando falhas em telégrafos e auroras até o Caribe.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Tempestade de Quebec (1989):&lt;/strong&gt; Provocou apagão no Canadá e auroras em latitudes médias.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Tempestades de maio de 2024:&lt;/strong&gt; Auroras vistas até o sul do Brasil e Texas, com relatos de perturbações em redes elétricas e navegação.&lt;/p&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Evento&lt;/th&gt;
-      &lt;th&gt;Ano&lt;/th&gt;
-      &lt;th&gt;Kp Máx&lt;/th&gt;
-      &lt;th&gt;Impacto Principal&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Carrington&lt;/td&gt;
-      &lt;td&gt;1859&lt;/td&gt;
-      &lt;td&gt;9+&lt;/td&gt;
-      &lt;td&gt;Falhas em telégrafos, auroras tropicais&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;New York Railroad&lt;/td&gt;
-      &lt;td&gt;1921&lt;/td&gt;
-      &lt;td&gt;9&lt;/td&gt;
-      &lt;td&gt;Incêndios em ferrovias, falhas em comunicações&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Quebec&lt;/td&gt;
-      &lt;td&gt;1989&lt;/td&gt;
-      &lt;td&gt;9&lt;/td&gt;
-      &lt;td&gt;Apagão, auroras em latitudes médias&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Tempestades de Halloween&lt;/td&gt;
-      &lt;td&gt;2003&lt;/td&gt;
-      &lt;td&gt;9&lt;/td&gt;
-      &lt;td&gt;Satélites, GPS, aviação afetados&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Maio de 2024&lt;/td&gt;
-      &lt;td&gt;2024&lt;/td&gt;
-      &lt;td&gt;9&lt;/td&gt;
-      &lt;td&gt;Auroras em baixas latitudes, falhas elétricas&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Tempestade de março&lt;/td&gt;
-      &lt;td&gt;1989&lt;/td&gt;
-      &lt;td&gt;9&lt;/td&gt;
-      &lt;td&gt;Falhas em redes elétricas, auroras&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Tempestade de maio&lt;/td&gt;
-      &lt;td&gt;1921&lt;/td&gt;
-      &lt;td&gt;9&lt;/td&gt;
-      &lt;td&gt;Falhas em comunicações, incêndios&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Tempestade de agosto&lt;/td&gt;
-      &lt;td&gt;1972&lt;/td&gt;
-      &lt;td&gt;8-9&lt;/td&gt;
-      &lt;td&gt;Satélites, comunicações afetadas&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Tempestade de julho&lt;/td&gt;
-      &lt;td&gt;1958&lt;/td&gt;
-      &lt;td&gt;9&lt;/td&gt;
-      &lt;td&gt;Auroras em baixas latitudes&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Tempestade de setembro&lt;/td&gt;
-      &lt;td&gt;1941&lt;/td&gt;
-      &lt;td&gt;9&lt;/td&gt;
-      &lt;td&gt;Falhas em comunicações, auroras&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;h2 id=&quot;seção-histórica-os-eventos-carrington-e-quebec&quot;&gt;Seção Histórica: Os Eventos Carrington e Quebec&lt;/h2&gt;
-
-&lt;h3 id=&quot;o-evento-carrington-1859&quot;&gt;O Evento Carrington (1859)&lt;/h3&gt;
-
-&lt;p&gt;O Evento Carrington é considerado a tempestade geomagnética mais poderosa já registrada. Em 1º de setembro de 1859, o astrônomo britânico Richard Carrington observou e desenhou um grande grupo de manchas solares, seguido por um clarão brilhante — hoje conhecido como erupção solar &lt;label for=&quot;geomag-erupcao-pt&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
-&lt;input type=&quot;checkbox&quot; id=&quot;geomag-erupcao-pt&quot; class=&quot;margin-toggle&quot; /&gt;
-&lt;span class=&quot;sidenote&quot;&gt;
-&lt;strong&gt;Erupção Solar:&lt;/strong&gt; Uma erupção solar é um aumento súbito de brilho intenso na superfície do Sol, geralmente próximo a grupos de manchas solares. Erupções liberam grandes quantidades de energia e partículas no espaço, podendo causar tempestades geomagnéticas na Terra.
-&lt;/span&gt;
-. Foi a primeira vez que uma erupção solar foi diretamente associada a distúrbios geomagnéticos na Terra.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Carrington_Richard_drawing_of_1859_sunspots.jpeg/330px-Carrington_Richard_drawing_of_1859_sunspots.jpeg&quot; alt=&quot;Desenho das manchas solares por Carrington, 1º de setembro de 1859&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Desenho das manchas solares por Richard Carrington, 1859. Fonte: &lt;a href=&quot;https://en.wikipedia.org/wiki/Carrington_Event&quot;&gt;Wikipedia&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Em apenas 17 horas, uma ejeção de massa coronal (CME) atingiu a Terra, causando auroras visíveis até o Caribe e norte da América do Sul. Sistemas de telégrafo em toda a Europa e América do Norte falharam, com operadores recebendo choques elétricos e papéis pegando fogo. Alguns sistemas continuaram a operar mesmo desconectados da fonte de energia, alimentados por correntes induzidas geomagneticamente.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Sobre Richard Carrington:&lt;/strong&gt;
-Richard Christopher Carrington (1826–1875) foi um astrônomo inglês pioneiro que fez contribuições significativas à física solar. Suas observações em 1859 forneceram a primeira evidência de uma conexão direta entre atividade solar e tempestades geomagnéticas na Terra.&lt;/p&gt;
-
-&lt;h3 id=&quot;a-tempestade-de-quebec-março-de-1989&quot;&gt;A Tempestade de Quebec (março de 1989)&lt;/h3&gt;
-
-&lt;p&gt;A tempestade geomagnética de Quebec ocorreu em 13 de março de 1989 e é um dos eventos de clima espacial mais significativos da era moderna. Desencadeada por uma poderosa CME, a tempestade causou um apagão de nove horas na província canadense de Quebec, deixando seis milhões de pessoas sem eletricidade. O evento também afetou satélites, comunicações de rádio e causou auroras até o Texas e a Flórida.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/ExtremeEvent_19890310-00h_19890315-24h.jpg/960px-ExtremeEvent_19890310-00h_19890315-24h.jpg&quot; alt=&quot;Apagão de Quebec, 13 de março de 1989&quot; /&gt;
-&lt;em&gt;GOES-7 monitorando as condições do clima espacial durante a grande tempestade geomagnética de março de 1989. O monitor de nêutrons de Moscou registrou a passagem de uma CME como uma queda nos níveis conhecida como Forbush decrease. Fonte: &lt;a href=&quot;https://en.wikipedia.org/wiki/March_1989_geomagnetic_storm&quot;&gt;Wikipedia&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Repercussões:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Transformadores de redes elétricas foram danificados no Canadá e nos EUA.&lt;/li&gt;
-  &lt;li&gt;Operações de satélites foram afetadas, e alguns saíram de controle.&lt;/li&gt;
-  &lt;li&gt;Sistemas de rádio e navegação sofreram interrupções.&lt;/li&gt;
-  &lt;li&gt;O evento levou a grandes investimentos em monitoramento do clima espacial e proteção das redes elétricas.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Datas envolvidas:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;9 de março de 1989: Flare solar e CME observados.&lt;/li&gt;
-  &lt;li&gt;13 de março de 1989: Tempestade geomagnética e apagão em Quebec.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;e-se-um-evento-do-nível-carrington-ocorresse-hoje&quot;&gt;E se um evento do nível Carrington ocorresse hoje?&lt;/h3&gt;
-
-&lt;p&gt;Uma tempestade da magnitude de Carrington poderia causar apagões generalizados, danos a transformadores, falhas em satélites, GPS e comunicações, além de prejuízos econômicos trilionários. A sociedade moderna é muito mais dependente de eletricidade e tecnologia do que em 1859, tornando-nos mais vulneráveis a tais eventos.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Qual a probabilidade de outro evento Carrington?&lt;/strong&gt;
-Estudos estimam que tempestades desse porte tenham probabilidade de 1–2% por década (aproximadamente uma vez a cada 50–100 anos). Embora raros, o risco é suficiente para que governos e concessionárias invistam em monitoramento e estratégias de mitigação.&lt;/p&gt;
-
-&lt;h2 id=&quot;monitoramento-do-clima-espacial-e-sua-importância&quot;&gt;Monitoramento do Clima Espacial e Sua Importância&lt;/h2&gt;
-
-&lt;p&gt;O monitoramento do clima espacial é crucial para proteger a infraestrutura tecnológica moderna dos efeitos das tempestades geomagnéticas. Diversas agências nacionais e internacionais operam sistemas de monitoramento e alerta:&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;NOAA Space Weather Prediction Center (SWPC, EUA):&lt;/strong&gt; Principal agência dos EUA para previsão, monitoramento e alertas de clima espacial. Fornece dados em tempo real, avisos e recursos educativos.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;ESA Space Weather Office (Europa):&lt;/strong&gt; A Agência Espacial Europeia coordena o monitoramento e a pesquisa em clima espacial no continente.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;UK Met Office Space Weather Operations Centre (Reino Unido):&lt;/strong&gt; Fornece previsões e alertas para o Reino Unido e colabora internacionalmente.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Agência Meteorológica do Japão (JMA):&lt;/strong&gt; Monitora atividade solar e geomagnética no Leste Asiático.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Outras agências:&lt;/strong&gt; Canadá, Rússia, China e Austrália também mantêm programas de clima espacial.&lt;/p&gt;
-
-&lt;p&gt;Essas agências compartilham dados e colaboram por meio do International Space Environment Service (ISES), uma rede global para troca de informações sobre clima espacial.&lt;/p&gt;
-
-&lt;h3 id=&quot;programas-de-alerta-de-clima-espacial&quot;&gt;Programas de Alerta de Clima Espacial&lt;/h3&gt;
-
-&lt;p&gt;A maioria das agências opera sistemas públicos de alerta que notificam concessionárias, operadores de satélites, companhias aéreas e o público sobre eventos de clima espacial em andamento ou previstos. Os alertas usam escalas padronizadas:&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Índice Kp:&lt;/strong&gt; Índice global de atividade geomagnética de 0 (muito calmo) a 9 (extremamente perturbado). Valores de Kp igual ou acima de 5 indicam tempestade geomagnética.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Escala G (NOAA):&lt;/strong&gt; O SWPC dos EUA usa a escala G para classificar tempestades geomagnéticas:&lt;/p&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Nível G&lt;/th&gt;
-      &lt;th&gt;Descrição&lt;/th&gt;
-      &lt;th&gt;Kp&lt;/th&gt;
-      &lt;th&gt;Efeitos típicos&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;G1&lt;/td&gt;
-      &lt;td&gt;Menor&lt;/td&gt;
-      &lt;td&gt;5&lt;/td&gt;
-      &lt;td&gt;Flutuações fracas na rede elétrica, impacto menor em satélites, auroras em altas latitudes&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;G2&lt;/td&gt;
-      &lt;td&gt;Moderada&lt;/td&gt;
-      &lt;td&gt;6&lt;/td&gt;
-      &lt;td&gt;Possíveis alarmes de tensão, danos em transformadores em altas latitudes, auroras em latitudes médias&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;G3&lt;/td&gt;
-      &lt;td&gt;Forte&lt;/td&gt;
-      &lt;td&gt;7&lt;/td&gt;
-      &lt;td&gt;Correções de tensão necessárias, alarmes falsos em dispositivos de proteção, auroras até o sul do Brasil/EUA&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;G4&lt;/td&gt;
-      &lt;td&gt;Severa&lt;/td&gt;
-      &lt;td&gt;8&lt;/td&gt;
-      &lt;td&gt;Problemas generalizados de controle de tensão, possíveis danos a transformadores, auroras até o sul do Brasil/Europa&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;G5&lt;/td&gt;
-      &lt;td&gt;Extrema&lt;/td&gt;
-      &lt;td&gt;9&lt;/td&gt;
-      &lt;td&gt;Problemas generalizados na rede elétrica, possível colapso do sistema, auroras vistas em regiões tropicais&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;Essas escalas ajudam a comunicar a gravidade e os possíveis impactos das tempestades geomagnéticas para tomadores de decisão e o público.&lt;/p&gt;
-
-&lt;h2 id=&quot;fontes-e-leituras-adicionais&quot;&gt;Fontes e leituras adicionais&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/May_2024_solar_storms&quot;&gt;Wikipedia: Tempestades geomagnéticas de maio de 2024&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://satlib.cira.colostate.edu/event/extreme-geomagnetic-storm/&quot;&gt;NOAA SWPC - Tempestade geomagnética extrema&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.swpc.noaa.gov/noaa-scales-explanation&quot;&gt;NOAA SWPC - Escalas de Clima Espacial&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;conclusão&quot;&gt;Conclusão&lt;/h2&gt;
-
-&lt;p&gt;As tempestades geomagnéticas de maio de 2024 serão lembradas como um dos maiores espetáculos naturais do século, ressaltando a importância do monitoramento do clima espacial e da preparação para seus impactos em nossa sociedade tecnológica.&lt;/p&gt;
-
-</description>
-        <pubDate>Wed, 15 May 2024 12:00:00 -0300</pubDate>
-        <link>https://fhcflx.github.io/ciencia-medica/2024/05/15/tempestades-geomagneticas-2024.html</link>
-        <guid isPermaLink="true">https://fhcflx.github.io/ciencia-medica/2024/05/15/tempestades-geomagneticas-2024.html</guid>
-        
-        <category>Geomagnetismo</category>
-        
-        <category>Aurora</category>
-        
-        <category>Espaço</category>
-        
-        <category>História da Ciência</category>
         
         
       </item>
