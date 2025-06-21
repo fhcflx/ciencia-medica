@@ -6,8 +6,8 @@
 </description>
     <link>https://fhcflx.github.io/ciencia-medica/</link>
     <atom:link href="https://fhcflx.github.io/ciencia-medica/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 20 Jun 2025 16:33:43 -0300</pubDate>
-    <lastBuildDate>Fri, 20 Jun 2025 16:33:43 -0300</lastBuildDate>
+    <pubDate>Fri, 20 Jun 2025 22:06:05 -0300</pubDate>
+    <lastBuildDate>Fri, 20 Jun 2025 22:06:05 -0300</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
     
       <item>
@@ -88,9 +88,183 @@
 
 &lt;p&gt;Postagem original em Pharmakon &lt;a href=&quot;&quot;&gt;aqui&lt;/a&gt;.&lt;/p&gt;
 </description>
-        <pubDate>Fri, 20 Jun 2025 16:33:43 -0300</pubDate>
+        <pubDate>Fri, 20 Jun 2025 22:06:05 -0300</pubDate>
         <link>https://fhcflx.github.io/ciencia-medica/2025/06/20/2013-11-19-the-problem-with-p-values-how.html</link>
         <guid isPermaLink="true">https://fhcflx.github.io/ciencia-medica/2025/06/20/2013-11-19-the-problem-with-p-values-how.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>O lobo terrível não voltou: o que realmente significa o anúncio da &quot;desextinção&quot; e por que o futuro é mais importante que o passado</title>
+        <description>&lt;p&gt;Em abril de 2025, manchetes ao redor do mundo anunciaram a suposta “desextinção” do lobo terrível (dire wolf), espécie extinta há milhares de anos, após divulgação de um preprint e comunicado da empresa Colossal Biosciences.&lt;label for=&quot;desextincao&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;desextincao&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;
+&lt;strong&gt;Desextinção:&lt;/strong&gt; Conceito que se refere à tentativa de recriar ou restaurar espécies extintas por meio de técnicas biotecnológicas, como clonagem, edição genética ou cruzamentos seletivos. Até hoje, nenhum caso de desextinção plena foi comprovado cientificamente.
+&lt;/span&gt;
+ Mas, afinal, o que realmente aconteceu? A resposta é mais complexa e interessante do que o sensacionalismo sugere.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/9/92/Canis_dirus_Sergiodlarosa.jpg&quot; alt=&quot;Reconstrução artística do lobo terrível (Canis dirus)&quot; /&gt;
+&lt;em&gt;Reconstrução artística do lobo terrível (Canis dirus). Ilustração de Sergiodlarosa, publicada sob licença Creative Commons Attribution 3.0 Unported. Fonte: &lt;a href=&quot;https://commons.wikimedia.org/wiki/File:Canis_dirus_Sergiodlarosa.jpg&quot;&gt;Wikimedia Commons&lt;/a&gt;&lt;/em&gt; &lt;label for=&quot;lobo-terrivel&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;lobo-terrivel&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;
+&lt;strong&gt;Lobo terrível (Canis dirus):&lt;/strong&gt; Espécie de lobo pré-histórico que viveu nas Américas durante o Pleistoceno e se extinguiu há cerca de 10 mil anos. Era maior e mais robusto que os lobos modernos.
+&lt;/span&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;o-que-foi-feito-e-o-que-não-foi&quot;&gt;O que foi feito (e o que não foi)&lt;/h2&gt;
+
+&lt;p&gt;A Colossal Biosciences utilizou material genético de lobos cinzentos modernos, não de cães. Um dos  grandes avanços metodológicos nesse caso foi o uso de clonagem a partir de células progenitoras endoteliais, que normalmente existem em quantidade diminuta no revestimento interno dos vasos sanguíneos. Diferente das técnicas tradicionais de clonagem, que dependem de amostras de tecido obtidas por biópsia (e podem ser contaminadas por células diferenciadas), essa abordagem requer apenas uma amostra de sangue e a separação específica dessas células progenitoras — algo que até pouco tempo parecia ficção científica, como no filme ‘O Sexto Dia’. &lt;label for=&quot;clonagem&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;clonagem&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;
+&lt;strong&gt;Clonagem:&lt;/strong&gt; Técnica de reprodução assexuada que gera um organismo geneticamente idêntico ao original. Pode ser feita por transferência nuclear, como no caso da ovelha Dolly, ou por outros métodos laboratoriais.
+&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;O DNA dos lobos cinzentos foi então editado geneticamente usando uma técnica com a enzima CRISPR-Cas9, permitindo a modificação de 20 posições de nucleotídeos do material genético original. Essas 20 alterações foram suficientes para dar aos animais gerados a aparência do lobo terrível. No entanto, os lobos terríveis originais tinham milhões de pares de bases diferentes dos lobos cinzentos modernos — ou seja, a modificação é superficial e limitada. &lt;label for=&quot;crispr&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;crispr&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;
+&lt;strong&gt;CRISPR:&lt;/strong&gt; Ferramenta de edição genética baseada em um sistema natural de defesa bacteriana, que permite modificar o DNA de organismos de forma precisa, rápida e relativamente barata. Revolucionou a biotecnologia e a medicina.
+&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;Após a edição genética, o núcleo dessas células modificadas foi transferido para óvulos de lobo cujo núcleo havia sido removido, etapa semelhante à técnica clássica de clonagem utilizada no caso da famosa ovelha Dolly. Assim, os embriões resultantes continham o material genético editado e puderam ser implantados para o desenvolvimento dos filhotes.&lt;/p&gt;
+
+&lt;p&gt;Os embriões de lobo cinzento geneticamente modificados foram implantados em cadelas, que gestaram e deram à luz três filhotes. Portanto, não são lobos terríveis, mas sim lobos cinzentos modificados para parecerem lobos terríveis.&lt;/p&gt;
+
+&lt;p&gt;A polêmica aumentou em maio de 2025, quando a própria cientista-chefe da Colossal admitiu publicamente que os animais criados não são lobos terríveis e que nunca houve, de fato, uma desextinção. Essa admissão, amplamente repercutida na mídia, reforçou o caráter midiático do anúncio e evidenciou a importância de uma comunicação científica precisa e transparente.&lt;/p&gt;
+
+&lt;p&gt;Cientistas e veículos como a &lt;a href=&quot;https://www.science.org/content/article/dire-wolf-back-dead-not-exactly&quot;&gt;Science&lt;/a&gt; e a &lt;a href=&quot;https://www.bbc.com/portuguese/articles/c62973qwx4do&quot;&gt;BBC&lt;/a&gt; foram claros: não existe desextinção real, nem evidências de que lobos terríveis estejam de volta. O anúncio foi, em grande parte, um golpe de mídia, como apontou também a &lt;a href=&quot;https://jornal.usp.br/radio-usp/nao-existem-evidencias-cientificas-da-recuperacao-dos-lobos-terriveis-extintos-ha-milhares-de-anos/&quot;&gt;Universidade de São Paulo - USP&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;o-verdadeiro-marco-crispr-e-o-futuro&quot;&gt;O verdadeiro marco: CRISPR e o futuro&lt;/h2&gt;
+
+&lt;p&gt;Apesar do exagero midiático, o trabalho representa um avanço notável na aplicação da edição genética em mamíferos, especialmente usando CRISPR para inserir modificações genéticas semelhantes aquelas de espécies extintas em genomas modernos. Isso abre portas para pesquisas em biotecnologia, saúde animal e humana, e até para a conservação de espécies ameaçadas — mas não para “ressuscitar” o passado.&lt;/p&gt;
+
+&lt;p&gt;O impacto prático imediato para a ecologia ou proteção de espécies é nulo. Não há benefícios para o meio ambiente, nem para a biodiversidade, neste momento. O que há, de fato, é um salto tecnológico que pode, no futuro, revolucionar a medicina, tornando possível criar animais (e talvez humanos) resistentes a doenças, ou com características otimizadas.&lt;/p&gt;
+
+&lt;h2 id=&quot;o-debate-ético-e-o-futuro-disruptivo&quot;&gt;O debate ético e o futuro disruptivo&lt;/h2&gt;
+
+&lt;p&gt;O aspecto mais relevante — e pouco discutido — é o potencial da edição genética para criar seres vivos com características inéditas. O “lobo terrível” é só um símbolo: o verdadeiro dilema está em como a sociedade lidará com a possibilidade de modificar profundamente seres humanos e animais. A tecnologia CRISPR pode, em médio e longo prazo, transformar a saúde, mas também traz desafios éticos enormes. &lt;label for=&quot;bioetica&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;bioetica&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;
+&lt;strong&gt;Bioética:&lt;/strong&gt; Campo interdisciplinar que discute os limites éticos, sociais e legais das intervenções biomédicas, como clonagem, edição genética e desextinção. Fundamental para orientar decisões responsáveis na ciência.
+&lt;/span&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;conclusão&quot;&gt;Conclusão&lt;/h2&gt;
+
+&lt;p&gt;A notícia da “desextinção” do lobo terrível é, na verdade, um marco para o futuro, não para o passado. O mais importante não é o que foi recuperado, mas o que poderá ser criado. O debate sobre os limites e usos da edição genética está só começando.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Fontes:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.biorxiv.org/content/10.1101/2025.04.09.647074v1.full.pdf&quot;&gt;Preprint científico&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.science.org/content/article/dire-wolf-back-dead-not-exactly&quot;&gt;Science&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.bbc.com/portuguese/articles/c62973qwx4do&quot;&gt;BBC&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://jornal.usp.br/radio-usp/nao-existem-evidencias-cientificas-da-recuperacao-dos-lobos-terriveis-extintos-ha-milhares-de-anos/&quot;&gt;Universidade de São Paulo - USP&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://colossal.com/direwolf/&quot;&gt;Colossal Biosciences&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://colossal.com/direwolf/science/&quot;&gt;Colossal - Science&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://time.com/7274542/colossal-dire-wolf/&quot;&gt;Time&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Wed, 18 Jun 2025 12:00:00 -0300</pubDate>
+        <link>https://fhcflx.github.io/ciencia-medica/2025/06/18/direwolf-2025.html</link>
+        <guid isPermaLink="true">https://fhcflx.github.io/ciencia-medica/2025/06/18/direwolf-2025.html</guid>
+        
+        <category>Desextinção</category>
+        
+        <category>CRISPR</category>
+        
+        <category>Edição genética</category>
+        
+        <category>Lobo terrível</category>
+        
+        <category>Bioética</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>The dire wolf is not back: what the &quot;de-extinction&quot; announcement really means and why the future matters more than the past</title>
+        <description>&lt;p&gt;In April 2025, headlines around the world announced the supposed “de-extinction” of the dire wolf, a species extinct for thousands of years, following the release of a preprint and a statement from Colossal Biosciences.&lt;label for=&quot;deextinction&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;deextinction&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;
+&lt;strong&gt;De-extinction:&lt;/strong&gt; The concept of attempting to recreate or restore extinct species using biotechnological techniques such as cloning, genetic editing, or selective breeding. To date, no full de-extinction has been scientifically achieved.
+&lt;/span&gt;
+ But what really happened? The answer is more complex and interesting than the hype suggests.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/9/92/Canis_dirus_Sergiodlarosa.jpg&quot; alt=&quot;Artistic reconstruction of the dire wolf (Canis dirus)&quot; /&gt;
+&lt;em&gt;Artistic reconstruction of the dire wolf (Canis dirus). Illustration by Sergiodlarosa, published under Creative Commons Attribution 3.0 Unported license. Source: &lt;a href=&quot;https://commons.wikimedia.org/wiki/File:Canis_dirus_Sergiodlarosa.jpg&quot;&gt;Wikimedia Commons&lt;/a&gt;&lt;/em&gt; &lt;label for=&quot;dire-wolf&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;dire-wolf&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;
+&lt;strong&gt;Dire wolf (Canis dirus):&lt;/strong&gt; A prehistoric wolf species that lived in the Americas during the Pleistocene and went extinct about 10,000 years ago. It was larger and more robust than modern wolves.
+&lt;/span&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;what-was-and-wasnt-done&quot;&gt;What was (and wasn’t) done&lt;/h2&gt;
+
+&lt;p&gt;Colossal Biosciences used genetic material from modern gray wolves, not dogs. One of the major methodological advances was the use of cloning from endothelial progenitor cells, which are normally found in very small quantities in the inner lining of blood vessels. Unlike traditional cloning techniques, which rely on tissue samples obtained by biopsy (and can be contaminated by differentiated cells), this approach requires only a blood sample and the specific separation of these progenitor cells—something that until recently seemed like science fiction, as in the movie ‘The 6th Day.’ &lt;label for=&quot;cloning&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;cloning&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;
+&lt;strong&gt;Cloning:&lt;/strong&gt; An asexual reproduction technique that generates a genetically identical organism to the original. It can be done by nuclear transfer, as in the case of Dolly the sheep, or by other laboratory methods.
+&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;The DNA of the gray wolves was then genetically edited using a CRISPR-Cas9 based technique, allowing for the modification of 20 DNA nucleotide positions in the original genetic material. These 20 changes were enough to give the resulting animals the appearance of a dire wolf. However, the original dire wolves had millions of base pairs different from modern gray wolves—so the modification is superficial and limited. &lt;label for=&quot;crispr-en&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;crispr-en&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;
+&lt;strong&gt;CRISPR:&lt;/strong&gt; A genetic editing tool based on a natural bacterial defense system, allowing precise, fast, and relatively inexpensive modification of DNA in organisms. It has revolutionized biotechnology and medicine.
+&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;After the genetic editing, the nuclei of these modified cells were transferred into gray wolf eggs whose nuclei had been removed, a step similar to the classic cloning technique used in the famous Dolly the sheep. The resulting embryos, containing the edited genetic material, could then be implanted for development.&lt;/p&gt;
+
+&lt;p&gt;The genetically modified gray wolf embryos were implanted into domestic dogs, which gestated and gave birth to three pups. Therefore, these are not dire wolves, but gray wolves modified to look like dire wolves.&lt;/p&gt;
+
+&lt;p&gt;The controversy increased in May 2025, when Colossal’s chief scientist publicly admitted that the animals created are not dire wolves and that there was, in fact, no de-extinction. This admission, widely reported in the media, reinforced the media-driven nature of the announcement and highlighted the importance of precise and transparent scientific communication.&lt;/p&gt;
+
+&lt;p&gt;Scientists and outlets such as &lt;a href=&quot;https://www.science.org/content/article/dire-wolf-back-dead-not-exactly&quot;&gt;Science&lt;/a&gt; and the &lt;a href=&quot;https://www.bbc.com/portuguese/articles/c62973qwx4do&quot;&gt;BBC&lt;/a&gt; were clear: there is no real de-extinction, nor evidence that dire wolves are back. The announcement was, for the most part, a media stunt, as also pointed out by &lt;a href=&quot;https://jornal.usp.br/radio-usp/nao-existem-evidencias-cientificas-da-recuperacao-dos-lobos-terriveis-extintos-ha-milhares-de-anos/&quot;&gt;Universidade de São Paulo - USP&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-real-milestone-crispr-and-the-future&quot;&gt;The real milestone: CRISPR and the future&lt;/h2&gt;
+
+&lt;p&gt;Despite the media exaggeration, the work represents a remarkable advance in the application of genetic editing in mammals, especially using CRISPR to insert genetic modifications similar to extinct species into modern genomes. This opens doors for research in biotechnology, animal and human health, and even for the conservation of endangered species—but not for “resurrecting” the past.&lt;/p&gt;
+
+&lt;p&gt;The immediate practical impact for ecology or species protection is zero. There are no benefits for the environment or biodiversity at this time. What we do have is a technological leap that could, in the future, revolutionize medicine, making it possible to create animals (and perhaps humans) resistant to diseases or with optimized traits.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-ethical-debate-and-a-disruptive-future&quot;&gt;The ethical debate and a disruptive future&lt;/h2&gt;
+
+&lt;p&gt;The most relevant—and underdiscussed—aspect is the potential of genetic editing to create living beings with unprecedented characteristics. The “dire wolf” is just a symbol: the real dilemma is how society will deal with the possibility of profoundly modifying humans and animals. CRISPR technology could, in the medium and long term, transform health, but it also brings enormous ethical challenges. &lt;label for=&quot;bioethics&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;bioethics&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;
+&lt;strong&gt;Bioethics:&lt;/strong&gt; An interdisciplinary field that discusses the ethical, social, and legal boundaries of biomedical interventions such as cloning, genetic editing, and de-extinction. Essential for guiding responsible decisions in science.
+&lt;/span&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;The news of the dire wolf’s “de-extinction” is, in fact, a milestone for the future, not the past. The most important thing is not what was recovered, but what could be created. The debate about the limits and uses of genetic editing is just beginning.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Sources:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.biorxiv.org/content/10.1101/2025.04.09.647074v1.full.pdf&quot;&gt;Scientific preprint&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.science.org/content/article/dire-wolf-back-dead-not-exactly&quot;&gt;Science&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.bbc.com/portuguese/articles/c62973qwx4do&quot;&gt;BBC&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://jornal.usp.br/radio-usp/nao-existem-evidencias-cientificas-da-recuperacao-dos-lobos-terriveis-extintos-ha-milhares-de-anos/&quot;&gt;Universidade de São Paulo - USP&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://colossal.com/direwolf/&quot;&gt;Colossal Biosciences&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://colossal.com/direwolf/science/&quot;&gt;Colossal - Science&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://time.com/7274542/colossal-dire-wolf/&quot;&gt;Time&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Wed, 18 Jun 2025 12:00:00 -0300</pubDate>
+        <link>https://fhcflx.github.io/ciencia-medica/2025/06/18/direwolf-2025-en.html</link>
+        <guid isPermaLink="true">https://fhcflx.github.io/ciencia-medica/2025/06/18/direwolf-2025-en.html</guid>
+        
+        <category>De-extinction</category>
+        
+        <category>CRISPR</category>
+        
+        <category>Genetic editing</category>
+        
+        <category>Dire wolf</category>
+        
+        <category>Bioethics</category>
         
         
       </item>
@@ -1101,314 +1275,6 @@ Estudos estimam que tempestades desse porte tenham probabilidade de 1–2% por d
         <category>Espaço</category>
         
         <category>História da Ciência</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>May 2024 Geomagnetic Storms: Historic Auroras</title>
-        <description>&lt;p&gt;In May 2024, Earth was struck by a series of intense geomagnetic storms &lt;label for=&quot;geomag-storm&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
-&lt;input type=&quot;checkbox&quot; id=&quot;geomag-storm&quot; class=&quot;margin-toggle&quot; /&gt;
-&lt;span class=&quot;sidenote&quot;&gt;
-&lt;strong&gt;Geomagnetic Storm:&lt;/strong&gt; A geomagnetic storm is a temporary disturbance of Earth’s magnetic field caused by solar activity, such as CMEs or solar flares. These storms can disrupt technology, navigation, and create auroras far from the poles.
-&lt;/span&gt;
- triggered by powerful coronal mass ejections (CMEs) &lt;label for=&quot;geomag-cme&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
-&lt;input type=&quot;checkbox&quot; id=&quot;geomag-cme&quot; class=&quot;margin-toggle&quot; /&gt;
-&lt;span class=&quot;sidenote&quot;&gt;
-&lt;strong&gt;Coronal Mass Ejection (CME):&lt;/strong&gt; A CME is a massive burst of solar wind and magnetic fields released from the Sun’s corona into space. When directed toward Earth, CMEs can trigger geomagnetic storms, affecting satellites, power grids, and producing auroras at unusual latitudes.
-&lt;/span&gt;
- from the Sun. These storms produced auroras &lt;label for=&quot;geomag-aurora&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
-&lt;input type=&quot;checkbox&quot; id=&quot;geomag-aurora&quot; class=&quot;margin-toggle&quot; /&gt;
-&lt;span class=&quot;sidenote&quot;&gt;
-&lt;strong&gt;Aurora:&lt;/strong&gt; An aurora is a natural light display in Earth’s sky, usually seen in high-latitude regions. Auroras are caused by charged solar particles interacting with Earth’s magnetic field and atmosphere, producing colorful lights.
-&lt;/span&gt;
- visible at exceptionally low latitudes, including parts of the United States, Brazil, Europe, and even &lt;a href=&quot;https://www.arabiaweather.com/en/content/due-to-the-solar-storm-and-in-a-historical-precedent-the-northern-lights-were-seen-from-algeria-and-areas-on-the-equator&quot;&gt;North Africa&lt;/a&gt;.   &lt;!--more--&gt;
-The phenomenon was widely documented by observers and scientists, marking one of the most significant space weather events of the 21st century.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/May_2024_Aurora_SC.jpg/960px-May_2024_Aurora_SC.jpg&quot; alt=&quot;Aurora in Pawleys Island, USA, May 11, 2024&quot; /&gt;
-&lt;em&gt;Aurora seen in Pawleys Island, South Carolina, U.S. (33°N GLAT, 43°N MLAT) May 11, 2024. Source: &lt;a href=&quot;https://en.wikipedia.org/wiki/May_2024_solar_storms&quot;&gt;Wikipedia&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Aurora_austral.jpg/960px-Aurora_austral.jpg&quot; alt=&quot;Aurora in Quillon, Chile, May 11, 2024&quot; /&gt;
-&lt;em&gt;Aurora seen in Quillón, Chile (36°S GLAT, 24°S MLAT), May 11, 2024. Source: &lt;a href=&quot;https://en.wikipedia.org/wiki/May_2024_solar_storms&quot;&gt;Wikipedia&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Palm_Trees_and_Auroras_In_Mazatlan.jpg/960px-Palm_Trees_and_Auroras_In_Mazatlan.jpg&quot; alt=&quot;Aurora in Mazatlán, Mexico, May 11, 2024&quot; /&gt;
-&lt;em&gt;Aurora seen in Mazatlán, Mexico (23°N GLAT, 31°N MLAT), May 11, 2024. Source: &lt;a href=&quot;https://en.wikipedia.org/wiki/May_2024_solar_storms&quot;&gt;Wikipedia&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/ciencia-medica/assets/img/aurora-algeria-24.png&quot; alt=&quot;Aurora in Algeria, May 11, 2024&quot; /&gt;
-&lt;em&gt;Aurora seen in Algeria, May 11, 2024. Source: &lt;a href=&quot;https://www.arabiaweather.com/en/content/due-to-the-solar-storm-and-in-a-historical-precedent-the-northern-lights-were-seen-from-algeria-and-areas-on-the-equator&quot;&gt;ArabiaWeather.com&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Aurora_Australis_From_Melbourne.jpg/330px-Aurora_Australis_From_Melbourne.jpg&quot; alt=&quot;Aurora in Melbourne, Australia, May 11, 2024&quot; /&gt;
-&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Aurora_Borealis_from_Cwmbran%2C_Wales.png/330px-Aurora_Borealis_from_Cwmbran%2C_Wales.png&quot; alt=&quot;Aurora in Cwmbran, Wales, U.K., May 11, 2024&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Aurora seen Melbourne, Australia (38°S GLAT, 48°S MLAT), and in Cwmbran, Wales, U.K. (51°N GLAT, 47°N MLAT), May 11, 2024. Source: &lt;a href=&quot;https://en.wikipedia.org/wiki/May_2024_solar_storms&quot;&gt;Wikipedia&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;what-are-geomagnetic-storms&quot;&gt;What are geomagnetic storms?&lt;/h2&gt;
-
-&lt;p&gt;Geomagnetic storms are disturbances in Earth’s magnetic field caused by interactions with highly energetic solar particles, especially during CMEs. They can disrupt communications, power grids, satellites, and even cause auroras at unusual latitudes.&lt;/p&gt;
-
-&lt;h2 id=&quot;comparison-with-historic-events&quot;&gt;Comparison with historic events&lt;/h2&gt;
-
-&lt;p&gt;The May 2024 storms were classified as G5 (extreme) by NOAA SWPC, with Kp &lt;label for=&quot;geomag-kp&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
-&lt;input type=&quot;checkbox&quot; id=&quot;geomag-kp&quot; class=&quot;margin-toggle&quot; /&gt;
-&lt;span class=&quot;sidenote&quot;&gt;
-&lt;strong&gt;Kp Index:&lt;/strong&gt; The Kp index is a scale from 0 to 9 that measures the global intensity of geomagnetic activity. Higher Kp values mean stronger geomagnetic storms and a greater chance of seeing auroras at lower latitudes.
-&lt;/span&gt;
- indices reaching 9. For comparison:&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Carrington Event (1859):&lt;/strong&gt; The largest geomagnetic storm ever recorded, causing telegraph failures and auroras as far south as the Caribbean.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Quebec Storm (1989):&lt;/strong&gt; Caused a blackout in Canada and auroras at mid-latitudes.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;May 2024 Storms:&lt;/strong&gt; Auroras seen as far south as southern Brazil and Texas, with reports of power grid and navigation disruptions.&lt;/p&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Event&lt;/th&gt;
-      &lt;th&gt;Year&lt;/th&gt;
-      &lt;th&gt;Max Kp&lt;/th&gt;
-      &lt;th&gt;Main Impact&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Carrington&lt;/td&gt;
-      &lt;td&gt;1859&lt;/td&gt;
-      &lt;td&gt;9+&lt;/td&gt;
-      &lt;td&gt;Telegraph failures, tropical auroras&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;New York Railroad&lt;/td&gt;
-      &lt;td&gt;1921&lt;/td&gt;
-      &lt;td&gt;9&lt;/td&gt;
-      &lt;td&gt;Railroad fires, telegraph/telephone outages&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Quebec&lt;/td&gt;
-      &lt;td&gt;1989&lt;/td&gt;
-      &lt;td&gt;9&lt;/td&gt;
-      &lt;td&gt;Blackout, mid-latitude auroras&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Halloween Storms&lt;/td&gt;
-      &lt;td&gt;2003&lt;/td&gt;
-      &lt;td&gt;9&lt;/td&gt;
-      &lt;td&gt;Satellite, GPS, aviation disruptions&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;May 2024&lt;/td&gt;
-      &lt;td&gt;2024&lt;/td&gt;
-      &lt;td&gt;9&lt;/td&gt;
-      &lt;td&gt;Low-latitude auroras, power disruptions&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;March Storm&lt;/td&gt;
-      &lt;td&gt;1989&lt;/td&gt;
-      &lt;td&gt;9&lt;/td&gt;
-      &lt;td&gt;Power grid failures, auroras&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;May Storm&lt;/td&gt;
-      &lt;td&gt;1921&lt;/td&gt;
-      &lt;td&gt;9&lt;/td&gt;
-      &lt;td&gt;Telegraph/telephone outages, fires&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;August Storm&lt;/td&gt;
-      &lt;td&gt;1972&lt;/td&gt;
-      &lt;td&gt;8-9&lt;/td&gt;
-      &lt;td&gt;Satellite, communication disruptions&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;July Storm&lt;/td&gt;
-      &lt;td&gt;1958&lt;/td&gt;
-      &lt;td&gt;9&lt;/td&gt;
-      &lt;td&gt;Auroras at low latitudes&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;September Storm&lt;/td&gt;
-      &lt;td&gt;1941&lt;/td&gt;
-      &lt;td&gt;9&lt;/td&gt;
-      &lt;td&gt;Telegraph/telephone outages, auroras&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;h2 id=&quot;historical-section-the-carrington-and-quebec-events&quot;&gt;Historical Section: The Carrington and Quebec Events&lt;/h2&gt;
-
-&lt;h3 id=&quot;the-carrington-event-1859&quot;&gt;The Carrington Event (1859)&lt;/h3&gt;
-
-&lt;p&gt;The Carrington Event is considered the most powerful geomagnetic storm ever recorded. On September 1, 1859, British astronomer Richard Carrington observed and drew a massive group of sunspots, followed by a sudden bright flash—now known as a solar flare &lt;label for=&quot;geomag-flare&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
-&lt;input type=&quot;checkbox&quot; id=&quot;geomag-flare&quot; class=&quot;margin-toggle&quot; /&gt;
-&lt;span class=&quot;sidenote&quot;&gt;
-&lt;strong&gt;Solar Flare:&lt;/strong&gt; A solar flare is a sudden flash of increased brightness on the Sun, usually near sunspot groups. Flares release large amounts of energy and particles into space, sometimes leading to geomagnetic storms on Earth.
-&lt;/span&gt;
-. This was the first time a solar flare was directly linked to geomagnetic disturbances on Earth.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Carrington_Richard_drawing_of_1859_sunspots.jpeg/330px-Carrington_Richard_drawing_of_1859_sunspots.jpeg&quot; alt=&quot;Carrington&apos;s sunspot drawing, September 1, 1859&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Richard Carrington’s drawing of the sunspots, 1859. Source: &lt;a href=&quot;https://en.wikipedia.org/wiki/Carrington_Event&quot;&gt;Wikipedia&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Within 17 hours, a coronal mass ejection (CME) reached Earth, causing auroras visible as far south as the Caribbean and northern South America. Telegraph systems across Europe and North America failed, with some operators receiving electric shocks and telegraph paper catching fire. Some systems continued to operate even when disconnected from their power supplies, powered by geomagnetically induced currents.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;About Richard Carrington:&lt;/strong&gt;
-Richard Christopher Carrington (1826–1875) was a pioneering English astronomer who made significant contributions to solar physics. His observations in 1859 provided the first evidence of a direct connection between solar activity and geomagnetic storms on Earth.&lt;/p&gt;
-
-&lt;h3 id=&quot;the-quebec-storm-march-1989&quot;&gt;The Quebec Storm (March 1989)&lt;/h3&gt;
-
-&lt;p&gt;The Quebec geomagnetic storm occurred on March 13, 1989, and is one of the most significant space weather events of the modern era. Triggered by a powerful CME, the storm caused a nine-hour blackout in the Canadian province of Quebec, leaving six million people without electricity. The event also disrupted satellites, radio communications, and caused auroras as far south as Texas and Florida.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/ExtremeEvent_19890310-00h_19890315-24h.jpg/960px-ExtremeEvent_19890310-00h_19890315-24h.jpg&quot; alt=&quot;Quebec blackout, March 13, 1989&quot; /&gt;
-&lt;em&gt;GOES-7 monitors the space weather conditions during the Great Geomagnetic storm of March 1989, the Moscow neutron monitor recorded the passage of a CME as a drop in levels known as a Forbush decrease. Source: &lt;a href=&quot;https://en.wikipedia.org/wiki/March_1989_geomagnetic_storm&quot;&gt;Wikipedia&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Repercussions:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Power grid transformers were damaged in Canada and the US.&lt;/li&gt;
-  &lt;li&gt;Satellite operations were disrupted, and some satellites tumbled out of control.&lt;/li&gt;
-  &lt;li&gt;Shortwave radio and navigation systems experienced outages.&lt;/li&gt;
-  &lt;li&gt;The event led to major investments in space weather monitoring and grid protection.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Dates involved:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;March 9, 1989: Solar flare and CME observed.&lt;/li&gt;
-  &lt;li&gt;March 13, 1989: Geomagnetic storm and blackout in Quebec.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;what-if-a-carrington-level-event-happened-today&quot;&gt;What if a Carrington-level event happened today?&lt;/h3&gt;
-
-&lt;p&gt;A storm of Carrington magnitude could cause widespread blackouts, damage to transformers, satellite failures, GPS and communication disruptions, and economic losses in the trillions of dollars. Modern society is far more dependent on electricity and technology than in 1859, making us more vulnerable to such events.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;How likely is another Carrington event?&lt;/strong&gt;
-Studies estimate that Carrington-class storms have a probability of about 1–2% per decade (roughly once every 50–100 years). While rare, the risk is significant enough that governments and utilities are investing in monitoring and mitigation strategies.&lt;/p&gt;
-
-&lt;h2 id=&quot;space-weather-monitoring-and-its-importance&quot;&gt;Space Weather Monitoring and Its Importance&lt;/h2&gt;
-
-&lt;p&gt;Space weather monitoring is crucial for protecting modern technological infrastructure from the effects of geomagnetic storms. Several national and international agencies operate space weather monitoring and alert systems:&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;NOAA Space Weather Prediction Center (SWPC, USA):&lt;/strong&gt; The leading U.S. agency for space weather forecasting, monitoring, and alerts. Provides real-time data, warnings, and educational resources.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;ESA Space Weather Office (Europe):&lt;/strong&gt; The European Space Agency coordinates space weather monitoring and research across Europe.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;UK Met Office Space Weather Operations Centre (UK):&lt;/strong&gt; Provides forecasts and alerts for the UK and collaborates internationally.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Japan Meteorological Agency (JMA):&lt;/strong&gt; Monitors solar and geomagnetic activity in East Asia.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Other agencies:&lt;/strong&gt; Canada, Russia, China, and Australia also maintain space weather programs.&lt;/p&gt;
-
-&lt;p&gt;These agencies share data and collaborate through the International Space Environment Service (ISES), a global network for space weather information exchange.&lt;/p&gt;
-
-&lt;h3 id=&quot;space-weather-alert-programs&quot;&gt;Space Weather Alert Programs&lt;/h3&gt;
-
-&lt;p&gt;Most agencies operate public alert systems that notify utilities, satellite operators, airlines, and the public about ongoing or expected space weather events. Alerts are issued using standardized scales:&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Kp Index:&lt;/strong&gt; A global geomagnetic activity index ranging from 0 (very quiet) to 9 (extremely disturbed). Kp values of 5 or higher indicate geomagnetic storm conditions.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;G Scale (NOAA):&lt;/strong&gt; The NOAA SWPC uses the G scale to classify geomagnetic storms:&lt;/p&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;G Level&lt;/th&gt;
-      &lt;th&gt;Description&lt;/th&gt;
-      &lt;th&gt;Kp Index&lt;/th&gt;
-      &lt;th&gt;Typical Effects&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;G1&lt;/td&gt;
-      &lt;td&gt;Minor&lt;/td&gt;
-      &lt;td&gt;5&lt;/td&gt;
-      &lt;td&gt;Weak power grid fluctuations, minor satellite impact, auroras at high latitudes&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;G2&lt;/td&gt;
-      &lt;td&gt;Moderate&lt;/td&gt;
-      &lt;td&gt;6&lt;/td&gt;
-      &lt;td&gt;Possible voltage alarms, transformer damage at high latitudes, auroras at mid-latitudes&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;G3&lt;/td&gt;
-      &lt;td&gt;Strong&lt;/td&gt;
-      &lt;td&gt;7&lt;/td&gt;
-      &lt;td&gt;Voltage corrections required, false alarms on some protection devices, auroras as far south as Illinois/Oregon (US)&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;G4&lt;/td&gt;
-      &lt;td&gt;Severe&lt;/td&gt;
-      &lt;td&gt;8&lt;/td&gt;
-      &lt;td&gt;Widespread voltage control problems, possible transformer damage, auroras as far south as Alabama (US)&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;G5&lt;/td&gt;
-      &lt;td&gt;Extreme&lt;/td&gt;
-      &lt;td&gt;9&lt;/td&gt;
-      &lt;td&gt;Widespread power system problems, grid collapse possible, auroras seen in Texas/Florida (US)&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;These scales help communicate the severity and potential impacts of geomagnetic storms to decision-makers and the public.&lt;/p&gt;
-
-&lt;h2 id=&quot;sources-and-further-reading&quot;&gt;Sources and further reading&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/May_2024_solar_storms&quot;&gt;Wikipedia: May 2024 geomagnetic storms&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://satlib.cira.colostate.edu/event/extreme-geomagnetic-storm/&quot;&gt;NOAA SWPC - Extreme geomagnetic storm&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.swpc.noaa.gov/noaa-scales-explanation&quot;&gt;NOAA SWPC - Space Weather Scales&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;
-
-&lt;p&gt;The geomagnetic storms of May 2024 will be remembered as one of the greatest natural spectacles of the century, highlighting the importance of space weather monitoring and preparedness for its impacts on our technological society.&lt;/p&gt;
-
-</description>
-        <pubDate>Wed, 15 May 2024 12:00:00 -0300</pubDate>
-        <link>https://fhcflx.github.io/ciencia-medica/2024/05/15/geomagnetic-storms-2024.html</link>
-        <guid isPermaLink="true">https://fhcflx.github.io/ciencia-medica/2024/05/15/geomagnetic-storms-2024.html</guid>
-        
-        <category>Geomagnetism</category>
-        
-        <category>Aurora</category>
-        
-        <category>Space</category>
-        
-        <category>Science History</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>2023 Nobel Prize in Physiology or Medicine: The mRNA Revolution with Karikó and Weissman</title>
-        <description>&lt;p&gt;The 2023 Nobel Prize in Physiology or Medicine was awarded to &lt;strong&gt;Katalin Karikó&lt;/strong&gt; and &lt;strong&gt;Drew Weissman&lt;/strong&gt;, for their groundbreaking discoveries that led to the development of mRNA vaccines against COVID-19.
-  &lt;!--more--&gt;&lt;/p&gt;
-
-&lt;p&gt;Karikó and Weissman, working independently but with a common goal, dedicated their careers to unraveling the potential of messenger RNA (mRNA) as a tool for human health. mRNA, the molecule that carries the genetic instructions for protein production, was seen as a promising pathway for developing new therapies, but it faced significant obstacles.&lt;/p&gt;
-
-&lt;p&gt;The main challenge was the inflammatory response of the immune system to mRNA, which prevented its clinical application. Karikó, in her work at the University of Pennsylvania, spent years researching to understand and overcome this barrier. She discovered that a specific chemical modification to mRNA, replacing uridine with pseudouridine, could reduce the inflammatory response and increase the molecule’s stability.&lt;/p&gt;
-
-&lt;p&gt;Meanwhile, Drew Weissman, also at the University of Pennsylvania, was conducting research on the role of TLR7, an immune receptor that recognizes mRNA and triggers the inflammatory response. His studies revealed that the chemical modification discovered by Karikó did, in fact, reduce TLR7 activation.&lt;/p&gt;
-
-&lt;p&gt;The collaboration between Karikó and Weissman proved crucial in validating and developing this discovery, paving the way for the creation of safe and effective mRNA vaccines. This technology proved fundamental in the fight against the COVID-19 pandemic, with mRNA vaccines being developed in record time and saving millions of lives.&lt;/p&gt;
-
-&lt;p&gt;Karikó and Weissman’s discoveries are not limited to the pandemic. mRNA technology has become one of the most promising areas of medical research, with the potential to treat a variety of diseases, including cancer, rare diseases, and infectious diseases.&lt;/p&gt;
-
-&lt;p&gt;The 2023 Nobel Prize recognizes the profound influence of Karikó and Weissman’s work, which has transformed modern medicine and opened doors to a future of innovation and hope in the field of health.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 03 Oct 2023 20:22:00 -0300</pubDate>
-        <link>https://fhcflx.github.io/ciencia-medica/2023/10/03/nobel-medicine-23.html</link>
-        <guid isPermaLink="true">https://fhcflx.github.io/ciencia-medica/2023/10/03/nobel-medicine-23.html</guid>
-        
-        <category>Physiology or Medicine</category>
-        
-        <category>Nobel Prize</category>
-        
-        <category>mRNA Vaccine</category>
-        
-        <category>COVID-19</category>
         
         
       </item>
