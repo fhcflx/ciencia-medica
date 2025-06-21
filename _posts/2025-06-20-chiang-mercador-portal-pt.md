@@ -24,6 +24,7 @@ Ted Chiang, em seu premiado conto "O Mercador e o Portal do Alquimista", constr�
 <!--more-->
 
 ![Capa da edição original de "The Merchant and the Alchemist's Gate"](https://upload.wikimedia.org/wikipedia/en/e/e3/The_Merchant_and_the_Alchemist%27s_Gate.jpg)
+
 *Capa da edição original de "The Merchant and the Alchemist's Gate". Imagem de Subterranean Press, publicada na [Wikimedia Commons](https://en.wikipedia.org/wiki/File:The_Merchant_and_the_Alchemist%27s_Gate.jpg) sob licença Creative Commons Attribution 3.0 Unported.*
 
 Antes de nos perdermos nos paradoxos e portais, vale perguntar: afinal, o que é o tempo? Muito antes de o tempo ser tema da filosofia ocidental, os hindus já escreviam nos Vedas sobre ciclos de criação e destruição que duravam mais de 4 milhões de anos cada. O egípcio Ptahotep dizia que a perda de tempo era uma abominação (talvez já antecipando Novikov? - veja adiante). Os Incas viam espaço e tempo como uma coisa só: _pacha_. E, provavelmente, os antigos falantes do proto-semítico já tinham o conceito de tempo remoto e de uma origem do tempo.

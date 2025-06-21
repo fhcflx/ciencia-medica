@@ -23,6 +23,7 @@ In his award-winning short story "The Merchant and the Alchemist's Gate," Ted Ch
 <!--more-->
 
 ![Cover of the original edition of "The Merchant and the Alchemist's Gate"](https://upload.wikimedia.org/wikipedia/en/e/e3/The_Merchant_and_the_Alchemist%27s_Gate.jpg)
+
 *Cover of the original edition of "The Merchant and the Alchemist's Gate". Image by Subterranean Press, published on [Wikimedia Commons](https://en.wikipedia.org/wiki/File:The_Merchant_and_the_Alchemist%27s_Gate.jpg) under Creative Commons Attribution 3.0 Unported license.*
 
 Before we get lost in paradoxes and portals, it's worth asking: what is time, after all? Long before time became a theme in Western philosophy, Hindus wrote in the Vedas about cycles of creation and destruction lasting more than 4 million years each. The Egyptian Ptahotep said that wasting time was an abomination (perhaps already anticipating Novikov? - see below). The Incas saw space and time as one: pacha. And probably the ancient speakers of Proto-Semitic already had the concept of remote time and an origin of time.
