@@ -6,8 +6,8 @@
 </description>
     <link>https://fhcflx.github.io/ciencia-medica/</link>
     <atom:link href="https://fhcflx.github.io/ciencia-medica/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 22 Jun 2025 11:34:31 -0300</pubDate>
-    <lastBuildDate>Sun, 22 Jun 2025 11:34:31 -0300</lastBuildDate>
+    <pubDate>Sun, 22 Jun 2025 17:24:26 -0300</pubDate>
+    <lastBuildDate>Sun, 22 Jun 2025 17:24:26 -0300</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
     
       <item>
@@ -33,12 +33,7 @@
 &lt;/span&gt;
  Other philosophers also gave their interpretations, but none changed our understanding as much as modern physics.&lt;/p&gt;
 
-&lt;p&gt;But what are these curves, after all? Technically, they are “closed worldlines of a Lorentzian manifold in spacetime.”&lt;label for=&quot;closed-timelike-curve&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
-&lt;input type=&quot;checkbox&quot; id=&quot;closed-timelike-curve&quot; class=&quot;margin-toggle&quot; /&gt;
-&lt;span class=&quot;sidenote&quot;&gt;
-&lt;strong&gt;Closed timelike curve:&lt;/strong&gt; A trajectory in spacetime that returns to the same point, theoretically allowing time travel without violating general relativity.
-&lt;/span&gt;
- In simpler terms: they are trajectories that allow an object to return to the same point in space and time. The first mathematical solution for this concept was found by Willem Jacob van Stockum in 1937, and later confirmed by Kurt Gödel in 1949, both using Einstein’s field equations.&lt;/p&gt;
+&lt;p&gt;But what are these curves, after all? Technically, they are “closed worldlines of a Lorentzian manifold in spacetime.” In simpler terms: they are trajectories that allow an object to return to the same point in space and time. The first mathematical solution for this concept was found by Willem Jacob van Stockum in 1937, and later confirmed by Kurt Gödel in 1949, both using Einstein’s field equations.&lt;/p&gt;
 
 &lt;p&gt;Even before time travel was seriously considered, Karl Schwarzschild—adventurer, mountaineer, and physicist—found the first exact solution to Einstein’s equations during World War I.&lt;label for=&quot;wormhole-en&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
 &lt;input type=&quot;checkbox&quot; id=&quot;wormhole-en&quot; class=&quot;margin-toggle&quot; /&gt;
@@ -113,12 +108,7 @@
 &lt;/span&gt;
  Outros filósofos também deram suas interpretações, mas nenhuma delas mudou tanto nossa compreensão quanto a física moderna.&lt;/p&gt;
 
-&lt;p&gt;Mas afinal o que são as tais curvas? Em termos técnicos, são “linhas do universo fechadas de um distribuidor Lorentziano no espaço-tempo”.&lt;label for=&quot;curva-fechada-tempo&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
-&lt;input type=&quot;checkbox&quot; id=&quot;curva-fechada-tempo&quot; class=&quot;margin-toggle&quot; /&gt;
-&lt;span class=&quot;sidenote&quot;&gt;
-&lt;strong&gt;Curva fechada do tipo tempo:&lt;/strong&gt; Trajetória no espaço-tempo que retorna ao mesmo ponto, permitindo, em teoria, viagens no tempo sem violar as equações da relatividade geral.
-&lt;/span&gt;
- Traduzindo: são trajetórias que permitem a um objeto voltar ao mesmo ponto no espaço e no tempo. A primeira solução matemática para esse conceito foi encontrada por Willem Jacob van Stockum em 1937, e depois confirmada por Kurt Gödel em 1949, ambos usando as equações de campo de Einstein.&lt;/p&gt;
+&lt;p&gt;Mas afinal o que são as tais curvas? Em termos técnicos, são “linhas do universo fechadas de um distribuidor Lorentziano no espaço-tempo”. Traduzindo: são trajetórias que permitem a um objeto voltar ao mesmo ponto no espaço e no tempo. A primeira solução matemática para esse conceito foi encontrada por Willem Jacob van Stockum em 1937, e depois confirmada por Kurt Gödel em 1949, ambos usando as equações de campo de Einstein.&lt;/p&gt;
 
 &lt;p&gt;Antes mesmo de se falar em viagens no tempo, Karl Schwarzschild — aventureiro, alpinista e físico — encontrou a primeira solução exata das equações de Einstein durante a Primeira Guerra Mundial.&lt;label for=&quot;wormhole&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
 &lt;input type=&quot;checkbox&quot; id=&quot;wormhole&quot; class=&quot;margin-toggle&quot; /&gt;

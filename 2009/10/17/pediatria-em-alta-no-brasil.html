@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
-  {# <!-- Google Analytics removido em 2025-06-21 por solicitação do usuário -->
-  <!-- Removido rastreamento Google Analytics em 2025-06-21 --> #}
+  
   <!-- Begin Jekyll SEO tag v2.8.0 -->
 <title>Pediatria em alta no Brasil! | Ciência médica</title>
 <meta name="generator" content="Jekyll v3.10.0" />
@@ -61,7 +60,7 @@
 
   <!-- Load up MathJax script if needed ... specify in /_data/options.yml file-->
   
-    <script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+    <script type="text/javascript" id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
   
 
   <link rel="stylesheet" type="text/css" href="/ciencia-medica/css/tufte.css">
@@ -96,7 +95,7 @@
 	
 		
 		    
-		      <a href="/ciencia-medica/index-ptbr.html">Ciência médica</a>
+		      <a href="/ciencia-medica/index.html">Ciência médica</a>
 		    
 	    
   	
@@ -134,7 +133,7 @@
             
             
                
-               <a class="page-link" href="/ciencia-medica/index-ptbr.html">Ciência médica</a>
+               <a class="page-link" href="/ciencia-medica/index.html">Ciência médica</a>
                
             
                
@@ -267,18 +266,52 @@ Outubro
   </ul>
 <div class="credits">
 <span>&copy; 2025 &nbsp;&nbsp;FHCFLX</span></br> <br>
+
 <span>Este sítio foi criado com o <a href="https://github.com/clayh53/tufte-jekyll">tema Tufte para Ciência médica </a> no <a href="https://jekyllrb.com">Jekyll</a>.</span>
+
 </div>
 </footer>
 
-    <script src="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.js"></script>
+    
+<script src="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.js"></script>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.css" />
+<style>
+.cc-window.cc-banner {
+  background: #fffff8 !important; /* cor de fundo do blog */
+  color: #a00000 !important;      /* cor de texto do blog */
+  border-radius: 8px !important;
+  box-shadow: 0 2px 16px rgba(0,0,0,0.10);
+  border: 1px solid #a00000 !important;
+  font-family: et-bembo, Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif !important;
+  font-size: 1.1rem !important;
+}
+.cc-btn {
+  background: #a00000 !important; /* cor principal do blog */
+  color: #fff !important;
+  border-radius: 4px !important;
+  font-family: inherit !important;
+  font-size: 1rem !important;
+  box-shadow: none !important;
+  border: none !important;
+  padding: 0.5em 1.2em !important;
+  transition: background 0.2s;
+}
+.cc-btn:hover {
+  background: #14a7d0 !important; /* cor de destaque já usada */
+  color: #fff !important;
+}
+.cc-link {
+  color: #14a7d0 !important;
+  text-decoration: underline;
+  font-weight: bold;
+}
+</style>
 <script>
 window.addEventListener("load", function(){
   window.cookieconsent.initialise({
     palette: {
-      popup: { background: "#222" },
-      button: { background: "#14a7d0" }
+      popup: { background: "#fffff8", text: "#a00000" },
+      button: { background: "#a00000", text: "#fff" }
     },
     theme: "classic",
     content: {
