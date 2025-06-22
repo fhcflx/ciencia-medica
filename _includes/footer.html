@@ -1,10 +1,19 @@
 <footer>
   <hr class="slender">
   <ul class="footer-links">
-    <!-- <li><a href="mailto:fhcflx@outlook.com"><span class="icon-mail"></span></a></li> -->
     {% for entry in site.data.social %}
       <li>
-        <a href="{{ entry.link }}"><span class="{{ entry.icon }}"></span></a>
+        <a href="{{ entry.link }}" target="_blank" rel="noopener">
+          {% if entry.icon == 'icon-threads' %}
+            <!-- Threads SVG -->
+            <svg width="20" height="20" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg" style="vertical-align:middle;"><circle cx="20" cy="20" r="20" fill="#fff"/><path d="M20 10c5.5 0 10 4.5 10 10s-4.5 10-10 10-10-4.5-10-10" stroke="#000" stroke-width="2" fill="none"/><path d="M20 30c-5.5 0-10-4.5-10-10S14.5 10 20 10s10 4.5 10 10" stroke="#000" stroke-width="2" fill="none"/></svg>
+          {% elsif entry.icon == 'icon-bluesky' %}
+            <!-- Bluesky SVG -->
+            <svg width="20" height="20" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg" style="vertical-align:middle;"><circle cx="20" cy="20" r="20" fill="#0072FF"/><path d="M20 12c-4.418 0-8 3.134-8 7 0 2.21 1.79 4 4 4h8c2.21 0 4-1.79 4-4 0-3.866-3.582-7-8-7z" fill="#fff"/></svg>
+          {% else %}
+            <span class="{{ entry.icon }}"></span>
+          {% endif %}
+        </a>
       </li>
     {% endfor %}
     <!-- <li><a href=https://travis-ci.org/fhcflx/ciencia-medica ><img alt='travis-ci build' src=https://img.shields.io/travis/fhcflx/ciencia-medica.svg?colorA=a00000&colorB=a00000></a></li> -->

@@ -21,15 +21,12 @@ description: > # this means to ignore newlines until "baseurl:"
   publicado em https://pharmakon.blogspot.com
 baseurl: /ciencia-medica
 url: https://fhcflx.github.io # the base hostname & protocol for your site
-twitter_username: fhcflx
-github_username:  fhcflx
 
 # Build settings
 markdown: kramdown
 subtitle: Ciência médica
 author: fhcflx
 simple_search: https://google.com/search
-name:
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 timezone: America/Fortaleza
 excerpt_separator: <!--more-->  # you can specify your own separator, of course.
@@ -47,11 +44,11 @@ page:
   template: _page.txt
   extension: md
 defaults:
-  -
-   scope:
-    type: pages
-   values:
-    permalink: /:path/:basename:output_ext
+  - scope:
+      path: ""
+      type: pages
+    values:
+      permalink: /:path/:basename:output_ext
 min_posts_per_tag: 2
 plugins:
   - jekyll-seo-tag
