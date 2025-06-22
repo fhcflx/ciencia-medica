@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The problem with p values: how significant are they, really? via Geoff Cumming
+title: 'The problem with p values: how significant are they, really? via Geoff Cumming'
 date: '2013-11-19T18:11:00.000-03:00'
 author: Francisco H C Felix
 tags:
