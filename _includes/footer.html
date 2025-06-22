@@ -12,6 +12,10 @@
   </ul>
 <div class="credits">
 <span>&copy; {{ site.time | date: '%Y' }} &nbsp;&nbsp;{{site.author | upcase }}</span></br> <br>
+{% if page.lang == 'en-us' %}
+<span>This site was created with the <a href="https://github.com/clayh53/tufte-jekyll">Tufte theme for {{site.titles[page.lang]}} </a> on <a href="https://jekyllrb.com">Jekyll</a>.</span>
+{% else %}
 <span>Este sítio foi criado com o <a href="https://github.com/clayh53/tufte-jekyll">tema Tufte para {{site.subtitle}} </a> no <a href="https://jekyllrb.com">Jekyll</a>.</span>
+{% endif %}
 </div>
 </footer>
