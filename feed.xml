@@ -6,94 +6,9 @@
 </description>
     <link>https://fhcflx.github.io/ciencia-medica/</link>
     <atom:link href="https://fhcflx.github.io/ciencia-medica/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 21 Jun 2025 21:44:14 -0300</pubDate>
-    <lastBuildDate>Sat, 21 Jun 2025 21:44:14 -0300</lastBuildDate>
+    <pubDate>Sun, 22 Jun 2025 11:34:31 -0300</pubDate>
+    <lastBuildDate>Sun, 22 Jun 2025 11:34:31 -0300</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
-    
-      <item>
-        <title></title>
-        <description>&lt;h1 id=&quot;the-problem-with-p-values-how-significant-are-they-really&quot;&gt;The problem with p values: how significant are they, really?&lt;/h1&gt;
-
-&lt;p&gt;By &lt;a href=&quot;https://theconversation.com/profiles/geoff-cumming-4100&quot;&gt;Geoff Cumming&lt;/a&gt;, &lt;em&gt;La Trobe University&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;For researchers there’s a lot that turns on the &lt;em&gt;p&lt;/em&gt; value, the number used to determine whether a result is statistically significant. The current consensus is that if &lt;em&gt;p&lt;/em&gt; is less than .05, a study has reached the holy grail of being statistically significant, and therefore likely to be published. Over .05 and it’s usually back to the drawing board.&lt;/p&gt;
-
-&lt;p&gt;But today, Texas A&amp;amp;M University professor &lt;a href=&quot;https://www.stat.tamu.edu/directory-details.php?directoryid=321&quot;&gt;Valen Johnson&lt;/a&gt;, writing in the prestigious journal Proceedings of the National Academy of Sciences, &lt;a href=&quot;https://www.pnas.org/cgi/doi/10.1073/pnas.1313476110&quot;&gt;argues&lt;/a&gt; that &lt;em&gt;p&lt;/em&gt; less than .05 is far too weak a standard.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;p&gt;Using .05 is, he contends, a key reason why false claims are published and many published results fail to replicate. He advocates requiring .005 or even .001 as the criterion for statistical significance.&lt;/p&gt;
-
-&lt;h2 id=&quot;what-is-a-p-value-anyway&quot;&gt;What is a &lt;em&gt;p&lt;/em&gt; value anyway?&lt;/h2&gt;
-
-&lt;p&gt;The &lt;em&gt;p&lt;/em&gt; value is at the heart of the most common approach to data analysis – null hypothesis significance testing (NHST). Think of NHST as a waltz with three steps:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;State a &lt;a href=&quot;https://www.null-hypothesis.co.uk/science/item/what_is_a_null_hypothesis/&quot;&gt;null hypothesis&lt;/a&gt;: that is, there is no effect.&lt;/li&gt;
-  &lt;li&gt;Calculate the &lt;em&gt;p&lt;/em&gt; value, which is the probability of getting results like ours – &lt;em&gt;if&lt;/em&gt; the null hypothesis is true.&lt;/li&gt;
-  &lt;li&gt;If &lt;em&gt;p&lt;/em&gt; is sufficiently small, reject the null hypothesis and sound the trumpets: our effect is not zero, it’s statistically significant!&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;British statistician and geneticist &lt;a href=&quot;https://en.wikipedia.org/wiki/Ronald_Fisher&quot;&gt;Sir Ronald Fisher&lt;/a&gt; introduced &lt;a href=&quot;https://psychclassics.yorku.ca/Fisher/Methods/index.htm&quot;&gt;the &lt;em&gt;p&lt;/em&gt; value&lt;/a&gt; in 1925. He adopted .05 as a reference point for rejecting a null hypothesis. For him it was not a sharp cutoff: a thoughtful researcher should consider the context, and other results as well.&lt;/p&gt;
-
-&lt;p&gt;NHST has, however, become deeply entrenched in medicine and numerous other disciplines. The precise value .05 has become a bar to wriggle under to achieve publication in top journals. Generations of students have been inducted into the rituals of .05 meaning “significant”, and .01 “highly significant”.&lt;/p&gt;
-
-&lt;h2 id=&quot;sounds-good-whats-the-problem&quot;&gt;Sounds good. What’s the problem?&lt;/h2&gt;
-
-&lt;p&gt;The trouble is there are &lt;a href=&quot;https://www.apastyle.org/manual/related/kline-2004.pdf&quot;&gt;numerous deep flaws&lt;/a&gt; in NHST.&lt;/p&gt;
-
-&lt;p&gt;There’s &lt;a href=&quot;https://tiny.cc/nhstohdear&quot;&gt;evidence&lt;/a&gt; that students, researchers and even many teachers of statistics don’t understand NHST properly. More worryingly, there’s &lt;a href=&quot;https://www.nature.com/neuro/journal/v14/n9/full/nn.2886.html&quot;&gt;evidence&lt;/a&gt; it’s widely misused, even in top journals.&lt;/p&gt;
-
-&lt;p&gt;Most researchers don’t appreciate that &lt;em&gt;p&lt;/em&gt; is highly unreliable. Repeat your experiment and you’ll get a &lt;em&gt;p&lt;/em&gt; value that could be extremely different. Even more surprisingly, &lt;em&gt;p&lt;/em&gt; is highly unreliable even for &lt;a href=&quot;https://tiny.cc/pintervals&quot;&gt;very large samples&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;NHST may be a waltz, but the dance of &lt;em&gt;p&lt;/em&gt; is highly frenetic. Here’s a demonstration of why we simply shouldn’t trust any &lt;em&gt;p&lt;/em&gt; value:&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=5OL1RqHrZQ8&quot;&gt;YouTube: Why p-values are unreliable&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Despite all those problems, NHST persists, perhaps because we yearn for certainty. Declaring a result “significant” suggests certainty, even though our results almost always contain considerable uncertainty.&lt;/p&gt;
-
-&lt;h2 id=&quot;should-we-require-stronger-evidence&quot;&gt;Should we require stronger evidence?&lt;/h2&gt;
-
-&lt;p&gt;Johnson makes a cogent argument that .05 provides only weak evidence against the null hypothesis: perhaps only odds of 3 or 4 to 1 against reasonable alternative hypotheses.&lt;/p&gt;
-
-&lt;p&gt;He suggests we should require more persuasive odds, say 50 to 1 or even 200 to 1.&lt;/p&gt;
-
-&lt;p&gt;To do this, we need to adopt .005 or .001 as our &lt;em&gt;p&lt;/em&gt; value criterion for statistical significance.&lt;/p&gt;
-
-&lt;p&gt;He recognises there’s a price to pay for demanding stronger evidence. In typical cases, we’d need to roughly double our sample sizes to still have a reasonable chance of finding true effects. Using larger samples would indeed be highly desirable, but sometimes that’s simply not possible. And are research grants about to double?&lt;/p&gt;
-
-&lt;p&gt;Johnson is correct that .05 corresponds to weak evidence, and .005 or .001 to evidence that’s usefully stronger. Adopting his stricter criterion would, however, mean that the majority of all published research analysed using NHST would fail the new test, and suddenly be statistically non-significant!&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://c479107.ssl.cf2.rackcdn.com/files/34853/width237/kzzxq98g-1384132459.jpg&quot; alt=&quot;shutupyourface&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;More fundamentally, merely shifting the criterion does not overcome the unreliability of &lt;em&gt;p&lt;/em&gt;, or most of the other deep flaws of NHST. The core problem is that NHST panders to our yearning for certainty by presenting the world as black or white — an effect is statistically significant or not; it exists or it doesn’t.&lt;/p&gt;
-
-&lt;p&gt;In fact our world is many shades of grey — I won’t pretend to know how many. We need something more nuanced than NHST, and fortunately there are good alternatives.&lt;/p&gt;
-
-&lt;h2 id=&quot;a-better-way-estimation-and-meta-analysis&quot;&gt;A better way: estimation and meta-analysis&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.indiana.edu/~kruschke/DoingBayesianDataAnalysis/&quot;&gt;Bayesian techniques&lt;/a&gt; are highly promising and becoming widely used. Most readily available and already widely used is estimation based on &lt;a href=&quot;https://tiny.cc/GeoffConversation&quot;&gt;confidence intervals&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;A confidence interval gives us the best estimate of the true effect, and also indicates the extent of uncertainty in our results. Confidence intervals are also what we need to use &lt;a href=&quot;https://tiny.cc/GeoffConversation&quot;&gt;meta-analysis&lt;/a&gt;, which allows us to integrate results from a number of experiments that investigate the same issue.&lt;/p&gt;
-
-&lt;p&gt;We often need to make clear decisions — whether or not to licence the new drug, for example — but NHST provides a poor basis for such decisions. It’s far better to use the integration of all available evidence to guide decisions, and estimation and meta-analysis provides that.&lt;/p&gt;
-
-&lt;p&gt;Merely shifting the NHST goal posts simply won’t do.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Further reading:&lt;/strong&gt; &lt;a href=&quot;https://theconversation.com/give-p-a-chance-significance-testing-is-misunderstood-20207&quot;&gt;Give p a chance: significance testing is misunderstood&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Geoff Cumming has received funding from the Australian Research Council.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;This article was originally published at &lt;a href=&quot;https://theconversation.com&quot;&gt;The Conversation&lt;/a&gt;. Read the &lt;a href=&quot;https://theconversation.com/the-problem-with-p-values-how-significant-are-they-really-20029&quot;&gt;original article&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Postagem original em Pharmakon &lt;a href=&quot;&quot;&gt;aqui&lt;/a&gt;.&lt;/p&gt;
-</description>
-        <pubDate>Sat, 21 Jun 2025 21:44:14 -0300</pubDate>
-        <link>https://fhcflx.github.io/ciencia-medica/2025/06/21/2013-11-19-the-problem-with-p-values-how.html</link>
-        <guid isPermaLink="true">https://fhcflx.github.io/ciencia-medica/2025/06/21/2013-11-19-the-problem-with-p-values-how.html</guid>
-        
-        
-      </item>
     
       <item>
         <title>The Merchant, the Portal, and Time Loops: Science and Fiction in Ted Chiang</title>
@@ -1109,6 +1024,56 @@
         <category>microRNA</category>
         
         <category>Gene Regulation</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Prêmio Nobel de Fisiologia ou Medicina 2024: A Revolução Silenciosa do MicroRNA</title>
+        <description>&lt;p&gt;O Prêmio Nobel de Fisiologia ou Medicina de 2024 foi concedido aos cientistas americanos &lt;strong&gt;Victor Ambros&lt;/strong&gt; e &lt;strong&gt;Gary Ruvkun&lt;/strong&gt;, por sua descoberta do microRNA (miRNA) e seu papel fundamental na regulação gênica pós-transcricional. [1, 2]
+  &lt;!--more--&gt;&lt;/p&gt;
+
+&lt;p&gt;As pesquisas pioneiras de Ambros e Ruvkun revelaram uma nova e sofisticada camada de controle genético, demonstrando que pequenas moléculas de RNA, antes consideradas irrelevantes, desempenham um papel crucial em como e quando os genes são ativados. [3] Essa descoberta não apenas reescreveu partes fundamentais dos manuais de biologia molecular, mas também abriu vastos novos caminhos para a compreensão e o tratamento de doenças complexas, como o câncer e as doenças cardíacas. [4]&lt;/p&gt;
+
+&lt;p&gt;Tudo começou na década de 1980, quando ambos os cientistas, então pós-doutorandos no laboratório de Robert Horvitz (laureado com o Nobel em 2002), estudavam o desenvolvimento do verme nematoide &lt;em&gt;Caenorhabditis elegans&lt;/em&gt;. [2] Esse organismo simples, com seu desenvolvimento celular precisamente mapeado, era o modelo perfeito para investigar os mistérios da regulação genética. [5] Trabalhando de forma independente, mas com foco no mesmo enigma, eles investigavam como certos genes governavam as transições de estágio larval do verme.&lt;/p&gt;
+
+&lt;p&gt;Foi no laboratório de Victor Ambros que a primeira peça do quebra-cabeça foi encontrada. Em 1993, sua equipe descobriu que o gene &lt;em&gt;lin-4&lt;/em&gt; não codificava uma proteína, como se esperava, mas sim uma pequena molécula de RNA, com aproximadamente 22 nucleotídeos. [6] Essa molécula se ligava a uma região específica do RNA mensageiro (mRNA) de outro gene, o &lt;em&gt;lin-14&lt;/em&gt;, impedindo sua tradução em proteína. [7] Era um mecanismo de regulação inteiramente novo, denominado regulação pós-transcricional. [1]&lt;/p&gt;
+
+&lt;p&gt;Simultaneamente, o laboratório de Gary Ruvkun fez uma descoberta complementar crucial. Ele confirmou o mecanismo de ação proposto, mostrando como o pequeno RNA &lt;em&gt;lin-4&lt;/em&gt; efetivamente silenciava o mRNA de &lt;em&gt;lin-14&lt;/em&gt;. [7] Anos mais tarde, em 2000, o laboratório de Ruvkun descobriu outra dessas moléculas, o &lt;em&gt;let-7&lt;/em&gt;, e, de forma surpreendente, demonstrou que ela era conservada evolutivamente em inúmeras espécies, incluindo os seres humanos. [8] Isso sinalizou que não se tratava de uma peculiaridade dos vermes, mas de um mecanismo biológico fundamental. [2, 3]&lt;/p&gt;
+
+&lt;p&gt;As descobertas de Ambros e Ruvkun revelaram que porções do genoma antes consideradas “lixo” continham, na verdade, tesouros funcionais. Hoje, sabemos que o genoma humano codifica mais de mil tipos de microRNAs. [2] Essas moléculas são essenciais para o desenvolvimento, o metabolismo, a diferenciação celular e a função imunológica. O mau funcionamento dos microRNAs está implicado em diversas patologias, e o desenvolvimento de terapias baseadas em miRNA é uma das áreas mais promissoras da medicina moderna. [4, 9]&lt;/p&gt;
+
+&lt;p&gt;O Prêmio Nobel de 2024 reconhece uma descoberta verdadeiramente fundamental, que mudou drasticamente nossa compreensão de como a informação genética é orquestrada para criar a complexidade da vida. [1] O trabalho de Victor Ambros e Gary Ruvkun abriu um novo universo na biologia, cujas implicações para a saúde humana ainda estão sendo exploradas.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/MiRNA.svg/960px-MiRNA.svg.png?20190519102305&quot; alt=&quot;Figure: Diagrama mostrando a formação e função do micro RNA. Credit: Kelvinsong, CC BY 3.0 &amp;lt;https://creativecommons.org/licenses/by/3.0&amp;gt;, via Wikimedia Commons&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;referências&quot;&gt;Referências&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nobelprize.org/prizes/medicine/2024/press-release/&quot;&gt;1 - The Nobel Prize in Physiology or Medicine 2024 - Press Release (NobelPrize.org)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nobelprize.org/prizes/medicine/2024/advanced-information/&quot;&gt;2 - Scientific Background: Discoveries of microRNA (NobelPrize.org)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.theguardian.com/science/2024/oct/07/nobel-prize-in-medicine-awarded-to-scientists-for-work-on-microrna-victor-ambros-gary-ruvkun&quot;&gt;3 - Nobel prize in medicine awarded to scientists for work on microRNA - The Guardian&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nature.com/articles/d41586-024-03212-9&quot;&gt;4 - Medicine Nobel awarded for gene-regulating ‘microRNAs’ - Nature&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.statnews.com/2024/10/07/nobel-prize-medicine-ambros-ruvkun-awarded-prize/&quot;&gt;5 - 2024 Nobel prize in medicine: Ruvkun, Ambros win for discovery of microRNA - STAT News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://doi.org/10.1016/0092-8674(93)90529-y&quot;&gt;6 - Lee, R., Feinbaum, R. &amp;amp; Ambros, V. (1993). The &lt;em&gt;C. elegans&lt;/em&gt; heterochronic gene &lt;em&gt;lin-4&lt;/em&gt; encodes small RNAs with antisense complementarity to &lt;em&gt;lin-14&lt;/em&gt;. &lt;em&gt;Cell&lt;/em&gt;, 75(5), 843-854.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://doi.org/10.1016/0092-8674(93)90530-4&quot;&gt;7 - Wightman, B., Ha, I. &amp;amp; Ruvkun, G. (1993). Posttranscriptional regulation of the heterochronic gene &lt;em&gt;lin-14&lt;/em&gt; by &lt;em&gt;lin-4&lt;/em&gt; mediates temporal pattern formation in &lt;em&gt;C. elegans&lt;/em&gt;. &lt;em&gt;Cell&lt;/em&gt;, 75(5), 855-862.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://doi.org/10.1038/35040556&quot;&gt;8 - Pasquinelli, A. E., et al. (2000). Conservation of the sequence and temporal expression of &lt;em&gt;let-7&lt;/em&gt; heterochronic regulatory RNA. &lt;em&gt;Nature&lt;/em&gt;, 408(6808), 86-89.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://doi.org/10.1038/nrd.2016.246&quot;&gt;9 - Rupaimoole, R., &amp;amp; Slack, F. J. (2017). MicroRNA therapeutics: towards a new era for the management of cancer and other diseases. &lt;em&gt;Nature Reviews Drug Discovery&lt;/em&gt;, 16(3), 203-222.&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+        <pubDate>Mon, 07 Oct 2024 20:22:00 -0300</pubDate>
+        <link>https://fhcflx.github.io/ciencia-medica/2024/10/07/nobel-medicina-24.html</link>
+        <guid isPermaLink="true">https://fhcflx.github.io/ciencia-medica/2024/10/07/nobel-medicina-24.html</guid>
+        
+        <category>Fisiologia ou Medicina</category>
+        
+        <category>Nobel</category>
+        
+        <category>Genética</category>
+        
+        <category>microRNA</category>
+        
+        <category>Regulação Gênica</category>
         
         
       </item>
