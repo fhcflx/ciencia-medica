@@ -26,17 +26,17 @@
   {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
   {% for post in posts %}
     {% if post.lang == 'pt-br' %}
-      <a href="{{ site.baseurl }}/index.html" class="pt-br">Português</a>
+      <a href="{{ post.url | prepend: site.baseurl }}" class="pt-br">Português</a>
     {% elsif post.lang == 'en' or post.lang == 'en-us' %}
-      <a href="{{ site.baseurl }}/index-en.html" class="en">English</a>
+      <a href="{{ post.url | prepend: site.baseurl }}" class="en">English</a>
     {% endif %}
   {% endfor %}
   {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
   {% for page in pages %}
     {% if page.lang == 'pt-br' %}
-      <a href="{{ site.baseurl }}/index.html" class="pt-br">Português</a>
+      <a href="{{ page.url | prepend: site.baseurl }}" class="pt-br">Português</a>
     {% elsif page.lang == 'en' or page.lang == 'en-us' %}
-      <a href="{{ site.baseurl }}/index-en.html" class="en">English</a>
+      <a href="{{ page.url | prepend: site.baseurl }}" class="en">English</a>
     {% endif %}
   {% endfor %}
 </div>
