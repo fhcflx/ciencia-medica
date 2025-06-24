@@ -1,6 +1,5 @@
 ---
 layout: post
-published: FALSE
 title: 'Early-onset cancer: the size of the problem and what we know so far'
 date: '2025-06-16T12:00:00-03:00'
 author: ffelix
@@ -14,14 +13,14 @@ tags:
 lang: en-us
 ref: cancer-early-onset-2025
 
+image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9509459/bin/41571_2022_672_Fig1_HTML.jpg
+
+excerpt: "In recent years, studies have shown a global increase in early-onset cancer (diagnosed before age 50), especially gastrointestinal, breast, kidney, and pancreatic tumors. The phenomenon is multifactorial, involving lifestyle changes, environmental exposures, and microbiome alterations, and represents a growing public health challenge."
+
 ---
 
-In recent years, a series of studies has drawn the attention of the scientific community and the public to the rising incidence of early-onset cancer—defined as cancer diagnosed before the age of 50. A 2022 article in Nature Reviews Clinical Oncology ([DOI: 10.1038/s41571-022-00672-8](https://doi.org/10.1038/s41571-022-00672-8)) highlighted this phenomenon globally, showing that cancer, traditionally seen as a disease of older people, is becoming increasingly common in younger age groups.
+In recent years, a series of studies has drawn the attention of the scientific community and the public to the rising incidence of early-onset cancer—defined as cancer diagnosed before the age of 50. The 2022 article by Ugai in Nature Reviews Clinical Oncology ([DOI: 10.1038/s41571-022-00672-8](https://doi.org/10.1038/s41571-022-00672-8)) highlighted this phenomenon globally, showing that cancer, traditionally seen as a disease of people over 50, is becoming increasingly common in younger age groups.
 <!--more-->
-
-The age classification of cancer has evolved over the decades. Traditionally, cancer was seen as a disease of the elderly, with incidence rising progressively with age. In children (0-14 years), cancer is rare, accounting for about 1% of all cases, with an annual incidence of approximately 15 cases per 100,000. In adolescents and young adults (AYA, 15-39 years), incidence is higher than in children but still low compared to older adults, ranging from 40 to 70 cases per 100,000 per year. In adults aged 40-49, incidence increases further, reaching about 150-200 cases per 100,000. After age 50, there is an exponential rise, with rates above 1,000 cases per 100,000 in older age groups.
-
-Historically, most tumors in young people were expected to be related to rare genetic syndromes or unusual environmental exposures. However, recent studies have shown a consistent increase in cancer among people under 50, especially gastrointestinal and breast tumors, challenging previous paradigms and raising concerns about early-life environmental, behavioral, and metabolic factors.
 
 ## What is early-onset cancer?
 
@@ -29,39 +28,39 @@ Early-onset cancer refers to tumors diagnosed in people under 50 years old. With
 
 The classification of early-onset cancer was introduced in recent decades after the observation that certain types of cancer, traditionally rare in young people, began to show increased incidence in adults under 50. This definition gained prominence from the 2000s onwards, especially in international epidemiological studies, to differentiate tumors that arise early from those that occur at older ages. The goal is to facilitate surveillance, research, and the development of prevention and early diagnosis strategies for this group, which has distinct clinical characteristics, risk factors, and needs.
 
+A search for the term "early onset cancer" in Google Scholar (with quotation marks, to force the search for the complete term) shows the earliest mention in a [1974 article](https://doi.org/10.1093/jnci/53.6.1577) on breast cancer, which already compared the disease in women under or over 45 years old. The authors of this study were interested in the impact of known risk factors in patients with early-onset disease (supposedly more linked to genetic and hereditary factors) or later-onset (supposedly more related to habits and environmental exposure). They found that a family history of breast cancer seemed to be a risk factor for earlier cases, as well as age over 25 at first childbirth. Interestingly, later-onset breast cancer cases did not show a correlation with age at first childbirth. Thus, even in this 1970s publication, there was already a clue that non-hereditary factors were acting in the emergence of early-onset cancer cases. The corresponding term in Portuguese (câncer de início precoce) only appears in academic works (very few) after 2020.
+
+The vast majority of scientific publications on this topic ("early onset cancer"), between the 1970s and 2000, focused only on hereditary cancer cases, related to known genetic alterations, and did not differentiate a specific age group, sometimes including children up to middle age. The greater emphasis on Ugai's working definition (adults under 50) really came in the 21st century. But where does this definition come from? Why is 50 years the cutoff? There is no direct answer, but I found a very interesting [1983 study](https://pmc.ncbi.nlm.nih.gov/articles/instance/1685650/pdf/ajhg00351-0124.pdf) on hereditary cancer epidemiology and age at diagnosis, which tried, for the first time, to show that the occurrence of cancer in people younger than expected signaled some hereditary predisposition factor. The authors divided the group of patients they studied (with a family history of cancer) into groups according to the age of highest frequency of diagnosis for each cancer. The "young" group was the lowest 10th percentile of the age distribution, and the "intermediate" group was between the 10th and 45th percentiles. The median age of the "intermediate" group was 53 years, and the mean was 49 years. Thus, it makes sense that the age of 50 has been used more frequently to differentiate early-onset cancer patients from the rest. Curiously, the 1983 study did not prove the correlation between family history (heredity) and early-onset cancer!
+
 The importance of maintaining epidemiological surveillance in this age group is growing, as early diagnosis can significantly impact prognosis and quality of life. In addition, understanding the factors associated with the increase in these tumors can help guide public policies and preventive interventions.
 
 ## How do we know incidence is rising?
 
-Multiple population-based cancer registries worldwide have shown a consistent increase in the incidence of several types of early-onset cancer since the 1990s. The 2022 article analyzed data from 44 countries and found that, between 1990 and 2019, there was a significant rise in tumors such as colorectal, breast, kidney, liver, pancreas, stomach, and others.
+Multiple population-based cancer registries worldwide have shown a consistent increase in the incidence of several types of early-onset cancer since the 1990s. The Ugai article refers only to adults aged 20 to under 50, not children and adolescents. It analyzed data from the Global Cancer Observatory ([GLOBOCAN](https://gco.iarc.fr/)) on 14 types of cancer in adults aged 20 to 49, in 44 countries, and found that between 2002 and 2012, there was a significant increase in tumors such as colorectal, breast, kidney, liver, pancreas, stomach, and others.
 
-For example, the incidence of colorectal cancer in people under 50 has increased by about 2% per year in countries such as the United States, United Kingdom, Australia, China, and Japan. In the US, the incidence of colorectal cancer in adults aged 20 to 49 rose from about 8 to 13 cases per 100,000 between 1990 and 2019. In the UK, the increase was 48% between 1993 and 2018 for adults aged 25 to 49. In China, colorectal cancer in young people increased by 70% between 1990 and 2019, according to Global Burden of Disease data and the 2024 Chinese article.
+The authors calculated the average annual percentage increase in the incidence of each cancer during the study period. For example, the incidence of colorectal cancer in women under 50 increased, on average, by about 2% per year in Australia, Canada, Denmark, France, Japan, the Netherlands, the UK, Turkey, and the USA. In Ecuador and South Korea, this increase was nearly 5% per year, indicating that this phenomenon was not restricted to developed Western countries.
 
-Early-onset breast cancer has also increased in several countries. In South Korea, the incidence in women aged 20 to 39 doubled between 1999 and 2019. In Brazil, data from INCA show a 30% increase in breast cancer incidence in women aged 20 to 49 between 2000 and 2020.
+Ugai et al. analyzed global trends and showed that the incidence of early-onset colorectal cancer increased consistently in several countries since the 1990s, both in developed and developing nations. The increase is observed even in countries without systematic screening programs for young adults, suggesting that it is not just a matter of greater detection, but a real phenomenon. This pattern is repeated for other tumors, such as breast, kidney, liver, pancreas, and stomach, as detailed in the review.
 
-Other tumors with relevant growth include pancreatic, kidney, liver, and stomach cancers. The 2024 Lancet Public Health article highlights that, in low- and middle-income countries such as India and South Africa, there is also an increase in gastrointestinal cancers in young adults, although absolute numbers are still lower than in developed countries.
+The 2022 review by di Martino started from the observation of an increased incidence of colorectal cancer, especially in developed countries, and tried to confirm this for this and 11 other cancer types. They conducted a literature review published between 1995 and 2020, including 98 studies (68 from North America and 24 from Europe). Most studies reported only one type of cancer, 8 described several types. The meta-analysis showed that the incidence of colorectal cancer in adults under 50 increased by about 1-3% per year on average, in both sexes, in North America (in Canada, this increase reached 6-7% per year in those under 30). In Europe, the same trend was documented. This observation was more pronounced the younger the patient group (8% average annual increase in people aged 20-29 between 2004 and 2016). In Australia, the same pattern was repeated, but the data were less consistent in New Zealand. Another finding: cancer cases in people under 50 are more aggressive and diagnosed at a more advanced stage. This may be due to delayed diagnosis because of lower clinical suspicion in this age group.
 
-These data show that the phenomenon of early-onset cancer is global, affecting different regions and socioeconomic contexts, and is not restricted to the developed world.
+Early-onset cancers of the breast, kidney, uterus, pancreas, bladder, and larynx are also increasing in several countries, as highlighted by both works. This growth is observed in both developed and developing countries, reflecting changes in risk factors and lifestyles, as well as possible environmental and behavioral influences. The di Martino review, however, showed a trend toward a reduction in the incidence of early-onset lung cancer.
+
+The article by Sung et al., published in 2024 in The Lancet Public Health, analyzed a population-based cancer registry in the USA. The authors used incidence data on 34 cancer types and mortality data on 25 types, in patients aged 24 to 85, diagnosed between 2000 and 2019. They compared the incidence adjusted by decade of birth, from 1920 to 1990. The study evaluated more than 23 million patients and more than 7 million cancer deaths in the period. They found that the incidence of 17 cancer types (small intestine, kidney and renal pelvis, pancreas, liver, intrahepatic bile ducts, breast, uterus, colon and rectum, stomach, gallbladder and other biliary tracts, ovary, testis, anus, Kaposi's sarcoma) increased in people born more recently. As for mortality, it stabilized or decreased for most cancer types (except liver and intrahepatic bile ducts in women).
+
+These data show that the phenomenon of increasing early-onset cancer incidence is global and not restricted to a few cancer types, affecting different regions and socioeconomic contexts, and not just the developed world.
 
 ## Which cancer types are rising fastest?
 
-Gastrointestinal tumors are the most notable for their increase, especially colorectal, pancreas, stomach, and, notably, biliary tract tumors (such as cholangiocarcinoma and gallbladder cancer). The Nature Reviews Clinical Oncology article and Global Cancer Statistics 2024 data show that, in countries such as the United States, United Kingdom, China, and Japan, the incidence of biliary tract cancer in adults under 50 has increased by 3% to 5% per year in recent decades. In South Korea and Japan, early-onset stomach cancer has also grown significantly, while in Western countries the highlight is colorectal cancer.
+Gastrointestinal tumors are the most notable for their increase, especially colorectal, pancreas, stomach, and, notably, biliary tract tumors (such as cholangiocarcinoma and gallbladder cancer). The Nature Reviews Clinical Oncology article and Global Cancer Statistics 2024 data show that, in countries such as Canada, Sweden, the UK, and Bulgaria, the incidence of biliary tract cancer in adults under 50 increased on average between 3% and 5% per year, reaching 10% annual increase in Belarus (which, in a decade, amounts to a 100% increase in incidence!). Early-onset stomach cancer also grew significantly in the USA and Canada, reaching a 4-5% average annual increase in Northern Ireland, England, and Poland.
 
-Early-onset pancreatic cancer, although still rare, has doubled its incidence in young adults in countries such as Australia, the United States, and China since the 1990s. Liver cancer has also increased, especially in regions of Asia and Africa, where factors such as viral hepatitis and metabolic changes play an important role.
+Early-onset pancreatic cancer, although still rare, increased its incidence by 1-3% per year in countries such as Australia, Canada, France, Sweden, the UK, and the USA. Liver cancer also increased, especially in Australia, Canada, Spain, the UK, Scotland, and Norway (in Ireland and Uganda, the increase was more than 9% per year!).
 
-Early-onset breast cancer is rising more in Asian countries (South Korea, China, Japan), while in Western countries the increase is more modest. Kidney and thyroid tumors are also increasing, especially in North America and Europe.
-
-These regional differences reflect both environmental and behavioral factors as well as screening patterns, diet, and infection prevalence.
-
-## How recent are these data and which regions are most affected?
-
-Most available data cover the period from 1990 to 2019, with some updates to 2022 in national and international registries. The increase in early-onset cancer incidence is most pronounced in high-income countries such as the United States, United Kingdom, Australia, Japan, and South Korea, but is also observed in middle- and low-income countries such as China, India, Brazil, and South Africa. For example, the 2024 Chinese article ([DOI: 10.1007/s11427-023-2445-1](https://doi.org/10.1007/s11427-023-2445-1)) highlights that Asia, especially China and Japan, has seen rapid growth in colorectal, gastric, and biliary cancers in young people. In Latin America, data from Brazil show a significant increase in breast and colorectal cancer in adults under 50. In South Africa and India, the growth of gastrointestinal tumors is also notable, although absolute numbers are lower.
-
-These findings reinforce that the phenomenon of early-onset cancer is global, with growing impact across continents and socioeconomic contexts, requiring coordinated international surveillance and response.
+These regional differences seem to reflect both environmental and behavioral factors as well as screening patterns, diet, and infection prevalence.
 
 ## Why is this happening? Theories for the causes
 
-There is no single explanation for the increase in early-onset cancer, but the main articles highlight several hypotheses. Below are the main ideas discussed in the recent literature and the degree of consensus among publications:
+There is still no single explanation for the increase in early-onset cancer, but the main articles highlight several hypotheses. Below are the main ideas discussed in the recent literature and the degree of consensus among publications:
 
 - **Lifestyle changes** (consensus): increased sedentary behavior, obesity, diets high in ultra-processed foods and low in fiber are pointed out as central factors in all articles analyzed.
 
@@ -89,12 +88,10 @@ There are still many uncertainties about the future incidence of early-onset can
 
 It is possible that, with greater awareness, public health policies, and advances in screening and prevention, it will be possible to reverse or at least slow this trend. On the other hand, without structural changes and more knowledge about the mechanisms involved, the increase may persist in the coming decades. Therefore, the scenario requires continuous epidemiological surveillance, international collaboration, and investment in multidisciplinary research.
 
-## Figures and Visual Data
+## Visual data
 
-A key figure from the 2024 Lancet Public Health article ([DOI: 10.1016/s2468-2667(24)00156-7](https://doi.org/10.1016/s2468-2667(24)00156-7)) illustrates ta consistent increase in incidence in early-onset cancer incidence by region and cancer type. For example:
-
-![Figure 1 from The Lancet Public Health 2024](https://www.thelancet.com/cms/10.1016/S2468-2667(24)00156-7/asset/0f271f37-0449-4e69-aade-baa203ef3dcd/main.assets/gr1_lrg.jpg)
-*Figure 1 from The Lancet Public Health 2024: Birth cohort incidence and mortality rate ratio trends from 1920 to 1990 for 11 cancers with a consistent increase in incidence across birth cohorts in the USA, 2000–19. This figure is reproduced from the original article under the Creative Commons Attribution 4.0 International License (CC BY 4.0). For full details, see: The Lancet Public Health 2024, 9(6):e430-e444. [https://doi.org/10.1016/s2468-2667(24)00156-7](https://doi.org/10.1016/s2468-2667(24)00156-7)*
+![Figure 1 from Ugai et al. 2022, Nature Reviews Clinical Oncology](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9509459/bin/41571_2022_672_Fig1_HTML.jpg)
+*Figure 1 from Ugai et al. (2022), Nature Reviews Clinical Oncology: Global incidence trends of early-onset cancers (diagnosed in adults <50 years) for 14 cancer types, 2002–2012, in 44 countries. Reproduced from the original article under the Creative Commons Attribution 4.0 International License (CC BY 4.0). For full details, see: Ugai T, et al. Nat Rev Clin Oncol. 2022;19(10):656-673. [https://doi.org/10.1038/s41571-022-00672-8](https://doi.org/10.1038/s41571-022-00672-8)*
 
 **References:**
 
@@ -103,3 +100,5 @@ A key figure from the 2024 Lancet Public Health article ([DOI: 10.1016/s2468-266
 - [British Journal of Cancer, 2022](https://doi.org/10.1038/s41416-022-01704-x)
 - [Science China Life Sciences, 2024](https://doi.org/10.1007/s11427-023-2445-1)
 - [Global Cancer Statistics 2024](https://doi.org/10.3322/caac.21839)
+
+P.S.: as this post became quite long, I left the discussion of possible causes and associations with environmental exposures, as addressed in the main articles, for a second post.
