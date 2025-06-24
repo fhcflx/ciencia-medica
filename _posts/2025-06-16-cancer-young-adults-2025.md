@@ -62,19 +62,19 @@ These regional differences seem to reflect both environmental and behavioral fac
 
 There is still no single explanation for the increase in early-onset cancer, but the main articles highlight several hypotheses. Below are the main ideas discussed in the recent literature and the degree of consensus among publications:
 
-- **Lifestyle changes** (consensus): increased sedentary behavior, obesity, diets high in ultra-processed foods and low in fiber are pointed out as central factors in all articles analyzed.
+**Lifestyle changes** (consensus): increased sedentary behavior, obesity, diets high in ultra-processed foods and low in fiber are pointed out as central factors in all articles analyzed.
 
-- **Early exposure to environmental and behavioral risk factors** (consensus): exposure to pollutants, passive smoking, alcohol, endocrine disruptors, and other environmental agents since childhood/adolescence.
+**Early exposure to environmental and behavioral risk factors** (consensus): exposure to pollutants, passive smoking, alcohol, endocrine disruptors, and other environmental agents since childhood/adolescence.
 
-- **Alterations in the gut microbiome** (strong emphasis in the 2022 and 2024 articles): changes in the microbiome, possibly related to diet, antibiotic use, and cesarean sections, may influence cancer risk.
+**Alterations in the gut microbiome** (strong emphasis in the 2022 and 2024 articles): changes in the microbiome, possibly related to diet, antibiotic use, and cesarean sections, may influence cancer risk.
 
-- **Use of antibiotics and other medications in childhood** (moderate consensus): suggested as a risk factor in several studies, but still with indirect evidence.
+**Use of antibiotics and other medications in childhood** (moderate consensus): suggested as a risk factor in several studies, but still with indirect evidence.
 
-- **Genetic and epigenetic factors** (partial consensus): although genetic syndromes explain few cases, epigenetic changes induced by environment and lifestyle are increasingly discussed.
+**Genetic and epigenetic factors** (partial consensus): although genetic syndromes explain few cases, epigenetic changes induced by environment and lifestyle are increasingly discussed.
 
-- **Sleep, circadian rhythm, and exposure to artificial light** (cited in some articles): changes in sleep patterns and exposure to light at night may play a role in cancer risk, especially in urban populations.
+**Sleep, circadian rhythm, and exposure to artificial light** (cited in some articles): changes in sleep patterns and exposure to light at night may play a role in cancer risk, especially in urban populations.
 
-- **Viral and bacterial infections** (cited in Asian studies): hepatitis, H. pylori, and other infectious agents are relevant for liver and gastric tumors in specific regions.
+**Viral and bacterial infections** (cited in Asian studies): hepatitis, H. pylori, and other infectious agents are relevant for liver and gastric tumors in specific regions.
 
 The 2022 British Journal of Cancer article ([DOI: 10.1038/s41416-022-01704-x](https://doi.org/10.1038/s41416-022-01704-x)) reinforces that most cases are not explained by known genetic syndromes, suggesting an important role for environmental and behavioral factors acquired in the first decades of life. The 2022 Nature Reviews Clinical Oncology article and the 2024 Science China Life Sciences article emphasize the role of the microbiome, diet, and early exposures as central factors.
 
@@ -90,7 +90,7 @@ It is possible that, with greater awareness, public health policies, and advance
 
 ## Visual data
 
-![Figure 1 from Ugai et al. 2022, Nature Reviews Clinical Oncology](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9509459/bin/41571_2022_672_Fig1_HTML.jpg)
+![Figure 1 from Ugai et al. 2022, Nature Reviews Clinical Oncology]({{ site.baseurl }}/assets/img/nihms-1825592-f0001.jpg)
 *Figure 1 from Ugai et al. (2022), Nature Reviews Clinical Oncology: Global incidence trends of early-onset cancers (diagnosed in adults <50 years) for 14 cancer types, 2002–2012, in 44 countries. Reproduced from the original article under the Creative Commons Attribution 4.0 International License (CC BY 4.0). For full details, see: Ugai T, et al. Nat Rev Clin Oncol. 2022;19(10):656-673. [https://doi.org/10.1038/s41571-022-00672-8](https://doi.org/10.1038/s41571-022-00672-8)*
 
 **References:**

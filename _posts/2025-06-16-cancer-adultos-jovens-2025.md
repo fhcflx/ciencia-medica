@@ -61,19 +61,19 @@ Essas diferenças regionais parecem refletir tanto fatores ambientais e comporta
 
 Ainda não há uma explicação única para o aumento do câncer de início precoce, mas os principais artigos destacam diversas hipóteses. Abaixo, listamos as principais ideias discutidas na literatura recente e o grau de consenso entre as publicações:
 
-- **Mudanças no estilo de vida** (consenso): aumento do sedentarismo, obesidade, dietas ricas em ultraprocessados e pobres em fibras são apontados como fatores centrais em todos os artigos analisados.
+**Mudanças no estilo de vida** (consenso): aumento do sedentarismo, obesidade, dietas ricas em ultraprocessados e pobres em fibras são apontados como fatores centrais em todos os artigos analisados.
 
-- **Exposição precoce a fatores ambientais e comportamentais** (consenso): exposição a poluentes, tabagismo passivo, álcool, disruptores endócrinos e outros agentes ambientais desde a infância/adolescência.
+**Exposição precoce a fatores ambientais e comportamentais** (consenso): exposição a poluentes, tabagismo passivo, álcool, disruptores endócrinos e outros agentes ambientais desde a infância/adolescência.
 
-- **Alterações no microbioma intestinal** (forte destaque nos artigos de 2022 e 2024): mudanças no microbioma, possivelmente relacionadas à dieta, uso de antibióticos e cesarianas, podem influenciar o risco de câncer.
+**Alterações no microbioma intestinal** (forte destaque nos artigos de 2022 e 2024): mudanças no microbioma, possivelmente relacionadas à dieta, uso de antibióticos e cesarianas, podem influenciar o risco de câncer.
 
-- **Uso de antibióticos e outros medicamentos na infância** (moderado consenso): sugerido como fator de risco em vários estudos, mas ainda com evidências indiretas.
+**Uso de antibióticos e outros medicamentos na infância** (moderado consenso): sugerido como fator de risco em vários estudos, mas ainda com evidências indiretas.
 
-- **Fatores genéticos e epigenéticos** (consenso parcial): embora síndromes genéticas expliquem poucos casos, alterações epigenéticas induzidas por ambiente e estilo de vida são cada vez mais discutidas.
+**Fatores genéticos e epigenéticos** (consenso parcial): embora síndromes genéticas expliquem poucos casos, alterações epigenéticas induzidas por ambiente e estilo de vida são cada vez mais discutidas.
 
-- **Sono, ritmo circadiano e exposição à luz artificial** (citados em alguns artigos): alterações no padrão de sono e exposição à luz à noite podem ter papel no risco de câncer, especialmente em populações urbanas.
+**Sono, ritmo circadiano e exposição à luz artificial** (citados em alguns artigos): alterações no padrão de sono e exposição à luz à noite podem ter papel no risco de câncer, especialmente em populações urbanas.
 
-- **Infecções virais e bacterianas** (citadas em estudos asiáticos): hepatite, H. pylori e outros agentes infecciosos são relevantes para tumores hepáticos e gástricos em regiões específicas.
+**Infecções virais e bacterianas** (citadas em estudos asiáticos): hepatite, H. pylori e outros agentes infecciosos são relevantes para tumores hepáticos e gástricos em regiões específicas.
 
 O artigo do British Journal of Cancer de 2022 ([DOI: 10.1038/s41416-022-01704-x](https://doi.org/10.1038/s41416-022-01704-x)) reforça que a maioria dos casos não é explicada por síndromes genéticas conhecidas, sugerindo papel importante de fatores ambientais e comportamentais adquiridos nas primeiras décadas de vida. Já o artigo da Nature Reviews Clinical Oncology de 2022 e o da Science China Life Sciences de 2024 enfatizam o papel do microbioma, dieta e exposições precoces como fatores centrais.
 
@@ -89,7 +89,7 @@ Ainda há muitas incertezas sobre o futuro da incidência de câncer de início 
 
 ## Dados visuais
 
-![Figura 1 de Ugai et al. 2022, Nature Reviews Clinical Oncology](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9509459/bin/41571_2022_672_Fig1_HTML.jpg)
+![Figura 1 de Ugai et al. 2022, Nature Reviews Clinical Oncology]({{ site.baseurl }}/assets/img/nihms-1825592-f0001.jpg)
 *Figura 1 de Ugai et al. (2022), Nature Reviews Clinical Oncology: Tendências globais de incidência de câncer de início precoce (diagnosticados em adultos <50 anos) para 14 tipos de câncer, 2002–2012, em 44 países. Reproduzido do artigo original sob a licença Creative Commons Attribution 4.0 International (CC BY 4.0). Para detalhes completos, veja: Ugai T, et al. Nat Rev Clin Oncol. 2022;19(10):656-673. [https://doi.org/10.1038/s41571-022-00672-8](https://doi.org/10.1038/s41571-022-00672-8)*
 
 **Referências:**
