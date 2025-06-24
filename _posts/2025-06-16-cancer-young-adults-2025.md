@@ -11,10 +11,8 @@ tags:
 - Clinical research
 
 lang: en-us
-ref: cancer-early-onset-2025
-
+ref: cancer-inicio-precoce-2025
 image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9509459/bin/41571_2022_672_Fig1_HTML.jpg
-
 excerpt: "In recent years, studies have shown a global increase in early-onset cancer (diagnosed before age 50), especially gastrointestinal, breast, kidney, and pancreatic tumors. The phenomenon is multifactorial, involving lifestyle changes, environmental exposures, and microbiome alterations, and represents a growing public health challenge."
 
 ---
