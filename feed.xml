@@ -6,8 +6,8 @@
 </description>
     <link>https://fhcflx.github.io/ciencia-medica/</link>
     <atom:link href="https://fhcflx.github.io/ciencia-medica/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 24 Jun 2025 12:12:30 -0300</pubDate>
-    <lastBuildDate>Tue, 24 Jun 2025 12:12:30 -0300</lastBuildDate>
+    <pubDate>Tue, 24 Jun 2025 12:21:58 -0300</pubDate>
+    <lastBuildDate>Tue, 24 Jun 2025 12:21:58 -0300</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
     
       <item>
@@ -379,29 +379,19 @@
 
 &lt;p&gt;There is still no single explanation for the increase in early-onset cancer, but the main articles highlight several hypotheses. Below are the main ideas discussed in the recent literature and the degree of consensus among publications:&lt;/p&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Lifestyle changes&lt;/strong&gt; (consensus): increased sedentary behavior, obesity, diets high in ultra-processed foods and low in fiber are pointed out as central factors in all articles analyzed.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Early exposure to environmental and behavioral risk factors&lt;/strong&gt; (consensus): exposure to pollutants, passive smoking, alcohol, endocrine disruptors, and other environmental agents since childhood/adolescence.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Alterations in the gut microbiome&lt;/strong&gt; (strong emphasis in the 2022 and 2024 articles): changes in the microbiome, possibly related to diet, antibiotic use, and cesarean sections, may influence cancer risk.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Use of antibiotics and other medications in childhood&lt;/strong&gt; (moderate consensus): suggested as a risk factor in several studies, but still with indirect evidence.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Genetic and epigenetic factors&lt;/strong&gt; (partial consensus): although genetic syndromes explain few cases, epigenetic changes induced by environment and lifestyle are increasingly discussed.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Sleep, circadian rhythm, and exposure to artificial light&lt;/strong&gt; (cited in some articles): changes in sleep patterns and exposure to light at night may play a role in cancer risk, especially in urban populations.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Viral and bacterial infections&lt;/strong&gt; (cited in Asian studies): hepatitis, H. pylori, and other infectious agents are relevant for liver and gastric tumors in specific regions.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Lifestyle changes&lt;/strong&gt; (consensus): increased sedentary behavior, obesity, diets high in ultra-processed foods and low in fiber are pointed out as central factors in all articles analyzed.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Early exposure to environmental and behavioral risk factors&lt;/strong&gt; (consensus): exposure to pollutants, passive smoking, alcohol, endocrine disruptors, and other environmental agents since childhood/adolescence.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Alterations in the gut microbiome&lt;/strong&gt; (strong emphasis in the 2022 and 2024 articles): changes in the microbiome, possibly related to diet, antibiotic use, and cesarean sections, may influence cancer risk.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Use of antibiotics and other medications in childhood&lt;/strong&gt; (moderate consensus): suggested as a risk factor in several studies, but still with indirect evidence.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Genetic and epigenetic factors&lt;/strong&gt; (partial consensus): although genetic syndromes explain few cases, epigenetic changes induced by environment and lifestyle are increasingly discussed.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Sleep, circadian rhythm, and exposure to artificial light&lt;/strong&gt; (cited in some articles): changes in sleep patterns and exposure to light at night may play a role in cancer risk, especially in urban populations.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Viral and bacterial infections&lt;/strong&gt; (cited in Asian studies): hepatitis, H. pylori, and other infectious agents are relevant for liver and gastric tumors in specific regions.&lt;/p&gt;
 
 &lt;p&gt;The 2022 British Journal of Cancer article (&lt;a href=&quot;https://doi.org/10.1038/s41416-022-01704-x&quot;&gt;DOI: 10.1038/s41416-022-01704-x&lt;/a&gt;) reinforces that most cases are not explained by known genetic syndromes, suggesting an important role for environmental and behavioral factors acquired in the first decades of life. The 2022 Nature Reviews Clinical Oncology article and the 2024 Science China Life Sciences article emphasize the role of the microbiome, diet, and early exposures as central factors.&lt;/p&gt;
 
@@ -417,7 +407,7 @@
 
 &lt;h2 id=&quot;visual-data&quot;&gt;Visual data&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9509459/bin/41571_2022_672_Fig1_HTML.jpg&quot; alt=&quot;Figure 1 from Ugai et al. 2022, Nature Reviews Clinical Oncology&quot; /&gt;
+&lt;p&gt;&lt;img src=&quot;/ciencia-medica/assets/img/nihms-1825592-f0001.jpg&quot; alt=&quot;Figure 1 from Ugai et al. 2022, Nature Reviews Clinical Oncology&quot; /&gt;
 &lt;em&gt;Figure 1 from Ugai et al. (2022), Nature Reviews Clinical Oncology: Global incidence trends of early-onset cancers (diagnosed in adults &amp;lt;50 years) for 14 cancer types, 2002–2012, in 44 countries. Reproduced from the original article under the Creative Commons Attribution 4.0 International License (CC BY 4.0). For full details, see: Ugai T, et al. Nat Rev Clin Oncol. 2022;19(10):656-673. &lt;a href=&quot;https://doi.org/10.1038/s41571-022-00672-8&quot;&gt;https://doi.org/10.1038/s41571-022-00672-8&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;References:&lt;/strong&gt;&lt;/p&gt;
@@ -492,29 +482,19 @@
 
 &lt;p&gt;Ainda não há uma explicação única para o aumento do câncer de início precoce, mas os principais artigos destacam diversas hipóteses. Abaixo, listamos as principais ideias discutidas na literatura recente e o grau de consenso entre as publicações:&lt;/p&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Mudanças no estilo de vida&lt;/strong&gt; (consenso): aumento do sedentarismo, obesidade, dietas ricas em ultraprocessados e pobres em fibras são apontados como fatores centrais em todos os artigos analisados.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Exposição precoce a fatores ambientais e comportamentais&lt;/strong&gt; (consenso): exposição a poluentes, tabagismo passivo, álcool, disruptores endócrinos e outros agentes ambientais desde a infância/adolescência.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Alterações no microbioma intestinal&lt;/strong&gt; (forte destaque nos artigos de 2022 e 2024): mudanças no microbioma, possivelmente relacionadas à dieta, uso de antibióticos e cesarianas, podem influenciar o risco de câncer.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Uso de antibióticos e outros medicamentos na infância&lt;/strong&gt; (moderado consenso): sugerido como fator de risco em vários estudos, mas ainda com evidências indiretas.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Fatores genéticos e epigenéticos&lt;/strong&gt; (consenso parcial): embora síndromes genéticas expliquem poucos casos, alterações epigenéticas induzidas por ambiente e estilo de vida são cada vez mais discutidas.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Sono, ritmo circadiano e exposição à luz artificial&lt;/strong&gt; (citados em alguns artigos): alterações no padrão de sono e exposição à luz à noite podem ter papel no risco de câncer, especialmente em populações urbanas.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Infecções virais e bacterianas&lt;/strong&gt; (citadas em estudos asiáticos): hepatite, H. pylori e outros agentes infecciosos são relevantes para tumores hepáticos e gástricos em regiões específicas.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Mudanças no estilo de vida&lt;/strong&gt; (consenso): aumento do sedentarismo, obesidade, dietas ricas em ultraprocessados e pobres em fibras são apontados como fatores centrais em todos os artigos analisados.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Exposição precoce a fatores ambientais e comportamentais&lt;/strong&gt; (consenso): exposição a poluentes, tabagismo passivo, álcool, disruptores endócrinos e outros agentes ambientais desde a infância/adolescência.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Alterações no microbioma intestinal&lt;/strong&gt; (forte destaque nos artigos de 2022 e 2024): mudanças no microbioma, possivelmente relacionadas à dieta, uso de antibióticos e cesarianas, podem influenciar o risco de câncer.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Uso de antibióticos e outros medicamentos na infância&lt;/strong&gt; (moderado consenso): sugerido como fator de risco em vários estudos, mas ainda com evidências indiretas.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Fatores genéticos e epigenéticos&lt;/strong&gt; (consenso parcial): embora síndromes genéticas expliquem poucos casos, alterações epigenéticas induzidas por ambiente e estilo de vida são cada vez mais discutidas.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Sono, ritmo circadiano e exposição à luz artificial&lt;/strong&gt; (citados em alguns artigos): alterações no padrão de sono e exposição à luz à noite podem ter papel no risco de câncer, especialmente em populações urbanas.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Infecções virais e bacterianas&lt;/strong&gt; (citadas em estudos asiáticos): hepatite, H. pylori e outros agentes infecciosos são relevantes para tumores hepáticos e gástricos em regiões específicas.&lt;/p&gt;
 
 &lt;p&gt;O artigo do British Journal of Cancer de 2022 (&lt;a href=&quot;https://doi.org/10.1038/s41416-022-01704-x&quot;&gt;DOI: 10.1038/s41416-022-01704-x&lt;/a&gt;) reforça que a maioria dos casos não é explicada por síndromes genéticas conhecidas, sugerindo papel importante de fatores ambientais e comportamentais adquiridos nas primeiras décadas de vida. Já o artigo da Nature Reviews Clinical Oncology de 2022 e o da Science China Life Sciences de 2024 enfatizam o papel do microbioma, dieta e exposições precoces como fatores centrais.&lt;/p&gt;
 
@@ -530,7 +510,7 @@
 
 &lt;h2 id=&quot;dados-visuais&quot;&gt;Dados visuais&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9509459/bin/41571_2022_672_Fig1_HTML.jpg&quot; alt=&quot;Figura 1 de Ugai et al. 2022, Nature Reviews Clinical Oncology&quot; /&gt;
+&lt;p&gt;&lt;img src=&quot;/ciencia-medica/assets/img/nihms-1825592-f0001.jpg&quot; alt=&quot;Figura 1 de Ugai et al. 2022, Nature Reviews Clinical Oncology&quot; /&gt;
 &lt;em&gt;Figura 1 de Ugai et al. (2022), Nature Reviews Clinical Oncology: Tendências globais de incidência de câncer de início precoce (diagnosticados em adultos &amp;lt;50 anos) para 14 tipos de câncer, 2002–2012, em 44 países. Reproduzido do artigo original sob a licença Creative Commons Attribution 4.0 International (CC BY 4.0). Para detalhes completos, veja: Ugai T, et al. Nat Rev Clin Oncol. 2022;19(10):656-673. &lt;a href=&quot;https://doi.org/10.1038/s41571-022-00672-8&quot;&gt;https://doi.org/10.1038/s41571-022-00672-8&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Referências:&lt;/strong&gt;&lt;/p&gt;
