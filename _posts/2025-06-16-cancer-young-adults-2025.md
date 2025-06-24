@@ -17,16 +17,16 @@ excerpt: "In recent years, studies have shown a global increase in early-onset c
 
 ---
 
-In recent years, a series of studies has drawn the attention of the scientific community and the public to the rising incidence of early-onset cancer—defined as cancer diagnosed before the age of 50. The 2022 article by Ugai in Nature Reviews Clinical Oncology ([DOI: 10.1038/s41571-022-00672-8](https://doi.org/10.1038/s41571-022-00672-8)) highlighted this phenomenon globally, showing that cancer, traditionally seen as a disease of people over 50, is becoming increasingly common in younger age groups.
+In recent years, a series of studies has drawn the attention of the scientific community and the public to the rising incidence of early-onset cancer{% include cancer-en.html %}—defined as cancer diagnosed before the age of 50. The 2022 article by Ugai in Nature Reviews Clinical Oncology ([DOI: 10.1038/s41571-022-00672-8](https://doi.org/10.1038/s41571-022-00672-8)) highlighted this phenomenon globally, showing that cancer, traditionally seen as a disease of people over 50, is becoming increasingly common in younger age groups.
 <!--more-->
 
 ## What is early-onset cancer?
 
 Early-onset cancer refers to tumors diagnosed in people under 50 years old. Within this group, there are important subcategories: adolescents (15-18/24 years), young adults (25-39 years), and early middle-aged adults (40-49 years). The internationally used term for adolescents and young adults is AYA (adolescents and young adults), generally covering ages 15 to 39. The impact of a cancer diagnosis at this stage of life is profound, affecting not only health but also social, emotional, and economic aspects.
 
-The classification of early-onset cancer was introduced in recent decades after the observation that certain types of cancer, traditionally rare in young people, began to show increased incidence in adults under 50. This definition gained prominence from the 2000s onwards, especially in international epidemiological studies, to differentiate tumors that arise early from those that occur at older ages. The goal is to facilitate surveillance, research, and the development of prevention and early diagnosis strategies for this group, which has distinct clinical characteristics, risk factors, and needs.
+The classification of early-onset cancer was introduced in recent decades after the observation that certain types of cancer, traditionally rare in young people, began to show increased incidence in adults under 50. This definition gained prominence from the 2000s onwards, especially in international epidemiological studies{% include epidemiology-en.html %}, to differentiate tumors that arise early from those that occur at older ages. The goal is to facilitate surveillance, research, and the development of prevention and early diagnosis strategies for this group, which has distinct clinical characteristics, risk factors, and needs.
 
-A search for the term "early onset cancer" in Google Scholar (with quotation marks, to force the search for the complete term) shows the earliest mention in a [1974 article](https://doi.org/10.1093/jnci/53.6.1577) on breast cancer, which already compared the disease in women under or over 45 years old. The authors of this study were interested in the impact of known risk factors in patients with early-onset disease (supposedly more linked to genetic and hereditary factors) or later-onset (supposedly more related to habits and environmental exposure). They found that a family history of breast cancer seemed to be a risk factor for earlier cases, as well as age over 25 at first childbirth. Interestingly, later-onset breast cancer cases did not show a correlation with age at first childbirth. Thus, even in this 1970s publication, there was already a clue that non-hereditary factors were acting in the emergence of early-onset cancer cases. The corresponding term in Portuguese (câncer de início precoce) only appears in academic works (very few) after 2020.
+A search for the term "early onset cancer" in Google Scholar (with quotation marks, to force the search for the complete term) shows the earliest mention in a [1974 article](https://doi.org/10.1093/jnci/53.6.1577) on breast cancer, which already compared the disease in women under or over 45 years old. The authors of this study were interested in the impact of known risk factors in patients with early-onset disease (supposedly more linked to genetic and hereditary factors{% include gene-en.html %}) or later-onset (supposedly more related to habits and environmental exposure). They found that a family history of breast cancer seemed to be a risk factor for earlier cases, as well as age over 25 at first childbirth. Interestingly, later-onset breast cancer cases did not show a correlation with age at first childbirth. Thus, even in this 1970s publication, there was already a clue that non-hereditary factors were acting in the emergence of early-onset cancer cases. The corresponding term in Portuguese (câncer de início precoce) only appears in academic works (very few) after 2020.
 
 The vast majority of scientific publications on this topic ("early onset cancer"), between the 1970s and 2000, focused only on hereditary cancer cases, related to known genetic alterations, and did not differentiate a specific age group, sometimes including children up to middle age. The greater emphasis on Ugai's working definition (adults under 50) really came in the 21st century. But where does this definition come from? Why is 50 years the cutoff? There is no direct answer, but I found a very interesting [1983 study](https://pmc.ncbi.nlm.nih.gov/articles/instance/1685650/pdf/ajhg00351-0124.pdf) on hereditary cancer epidemiology and age at diagnosis, which tried, for the first time, to show that the occurrence of cancer in people younger than expected signaled some hereditary predisposition factor. The authors divided the group of patients they studied (with a family history of cancer) into groups according to the age of highest frequency of diagnosis for each cancer. The "young" group was the lowest 10th percentile of the age distribution, and the "intermediate" group was between the 10th and 45th percentiles. The median age of the "intermediate" group was 53 years, and the mean was 49 years. Thus, it makes sense that the age of 50 has been used more frequently to differentiate early-onset cancer patients from the rest. Curiously, the 1983 study did not prove the correlation between family history (heredity) and early-onset cancer!
 
@@ -64,7 +64,7 @@ There is still no single explanation for the increase in early-onset cancer, but
 
 **Early exposure to environmental and behavioral risk factors** (consensus): exposure to pollutants, passive smoking, alcohol, endocrine disruptors, and other environmental agents since childhood/adolescence.
 
-**Alterations in the gut microbiome** (strong emphasis in the 2022 and 2024 articles): changes in the microbiome, possibly related to diet, antibiotic use, and cesarean sections, may influence cancer risk.
+**Alterations in the gut microbiome** (strong emphasis in the 2022 and 2024 articles): changes in the microbiome{% include microbiome-en.html %}, possibly related to diet, antibiotic use, and cesarean sections, may influence cancer risk.
 
 **Use of antibiotics and other medications in childhood** (moderate consensus): suggested as a risk factor in several studies, but still with indirect evidence.
 
@@ -78,7 +78,7 @@ The 2022 British Journal of Cancer article ([DOI: 10.1038/s41416-022-01704-x](ht
 
 ## What does this mean for public health?
 
-The rise in early-onset cancer represents a growing challenge for health systems worldwide. These patients have specific needs, may be underdiagnosed due to low clinical suspicion, and often face barriers to timely diagnosis and appropriate treatment. Strategies for prevention, early diagnosis, and research into causes are urgently needed.
+The rise in early-onset cancer represents a growing challenge for health systems worldwide. These patients have specific needs, may be underdiagnosed due to low clinical suspicion, and often face barriers to timely diagnosis and appropriate treatment. Strategies for prevention, early diagnosis, and research into causes are urgently needed.{% include prevention-en.html %}
 
 ### Perspectives: what can we expect for the future?
 
@@ -86,17 +86,15 @@ There are still many uncertainties about the future incidence of early-onset can
 
 It is possible that, with greater awareness, public health policies, and advances in screening and prevention, it will be possible to reverse or at least slow this trend. On the other hand, without structural changes and more knowledge about the mechanisms involved, the increase may persist in the coming decades. Therefore, the scenario requires continuous epidemiological surveillance, international collaboration, and investment in multidisciplinary research.
 
-## Visual data
-
 ![Figure 1 from Ugai et al. 2022, Nature Reviews Clinical Oncology]({{ site.baseurl }}/assets/img/nihms-1825592-f0001.jpg)
 *Figure 1 from Ugai et al. (2022), Nature Reviews Clinical Oncology: Global incidence trends of early-onset cancers (diagnosed in adults <50 years) for 14 cancer types, 2002–2012, in 44 countries. Reproduced from the original article under the Creative Commons Attribution 4.0 International License (CC BY 4.0). For full details, see: Ugai T, et al. Nat Rev Clin Oncol. 2022;19(10):656-673. [https://doi.org/10.1038/s41571-022-00672-8](https://doi.org/10.1038/s41571-022-00672-8)*
 
 **References:**
 
-- [Nature Reviews Clinical Oncology, 2022](https://doi.org/10.1038/s41571-022-00672-8)
-- [The Lancet Public Health, 2024](https://doi.org/10.1016/s2468-2667(24)00156-7)
-- [British Journal of Cancer, 2022](https://doi.org/10.1038/s41416-022-01704-x)
-- [Science China Life Sciences, 2024](https://doi.org/10.1007/s11427-023-2445-1)
-- [Global Cancer Statistics 2024](https://doi.org/10.3322/caac.21839)
+Ugai T, et al. Nature Reviews Clinical Oncology, 2022. [https://doi.org/10.1038/s41571-022-00672-8](https://doi.org/10.1038/s41571-022-00672-8)
 
-P.S.: as this post became quite long, I left the discussion of possible causes and associations with environmental exposures, as addressed in the main articles, for a second post.
+Sung H, et al. The Lancet Public Health, 2024. [https://doi.org/10.1016/s2468-2667(24)00156-7](https://doi.org/10.1016/s2468-2667(24)00156-7)
+
+di Martino E, et al. British Journal of Cancer, 2022. [https://doi.org/10.1038/s41416-022-01704-x](https://doi.org/10.1038/s41416-022-01704-x)
+
+Science China Life Sciences, 2024. [https://doi.org/10.1007/s11427-023-2445-1](https://doi.org/10.1007/s11427-023-2445-1)
