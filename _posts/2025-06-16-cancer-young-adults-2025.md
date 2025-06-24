@@ -17,7 +17,7 @@ excerpt: "In recent years, studies have shown a global increase in early-onset c
 
 ---
 
-In recent years, a series of studies has drawn the attention of the scientific community and the public to the rising incidence of early-onset cancer{% include cancer-en.html %}—defined as cancer diagnosed before the age of 50. The 2022 article by Ugai in Nature Reviews Clinical Oncology ([DOI: 10.1038/s41571-022-00672-8](https://doi.org/10.1038/s41571-022-00672-8)) highlighted this phenomenon globally, showing that cancer, traditionally seen as a disease of people over 50, is becoming increasingly common in younger age groups.
+In recent years, the scientific community and the public have paid increasing attention to the global rise in early-onset cancer{% include cancer-en.html %}—defined as cancer diagnosed before the age of 50. The article by Ugai _et al._ (2022), published in Nature Reviews Clinical Oncology ([DOI: 10.1038/s41571-022-00672-8][ugai]), showed that although cancer was traditionally associated with people over 50, its incidence is becoming increasingly common in young adults.
 <!--more-->
 
 ## What is early-onset cancer?
@@ -40,11 +40,13 @@ The authors calculated the average annual percentage increase in the incidence o
 
 Ugai et al. analyzed global trends and showed that the incidence of early-onset colorectal cancer increased consistently in several countries since the 1990s, both in developed and developing nations. The increase is observed even in countries without systematic screening programs for young adults, suggesting that it is not just a matter of greater detection, but a real phenomenon. This pattern is repeated for other tumors, such as breast, kidney, liver, pancreas, and stomach, as detailed in the review.
 
-The 2022 review by di Martino started from the observation of an increased incidence of colorectal cancer, especially in developed countries, and tried to confirm this for this and 11 other cancer types. They conducted a literature review published between 1995 and 2020, including 98 studies (68 from North America and 24 from Europe). Most studies reported only one type of cancer, 8 described several types. The meta-analysis showed that the incidence of colorectal cancer in adults under 50 increased by about 1-3% per year on average, in both sexes, in North America (in Canada, this increase reached 6-7% per year in those under 30). In Europe, the same trend was documented. This observation was more pronounced the younger the patient group (8% average annual increase in people aged 20-29 between 2004 and 2016). In Australia, the same pattern was repeated, but the data were less consistent in New Zealand. Another finding: cancer cases in people under 50 are more aggressive and diagnosed at a more advanced stage. This may be due to delayed diagnosis because of lower clinical suspicion in this age group.
+The review by di Martino _et al._ (2022) published in the British Journal of Cancer ([DOI: 10.1038/s41416-022-01704-x][dimartino]) started from the observation of an increased incidence of colorectal cancer, especially in developed countries, and tried to confirm this for this and 11 other cancer types. They conducted a literature review published between 1995 and 2020, including 98 studies (68 from North America and 24 from Europe). Most studies reported only one type of cancer, 8 described several types. The meta-analysis showed that the incidence of colorectal cancer in adults under 50 increased by about 1-3% per year on average, in both sexes, in North America (in Canada, this increase reached 6-7% per year in those under 30). In Europe, the same trend was documented. This observation was more pronounced the younger the patient group (8% average annual increase in people aged 20-29 between 2004 and 2016). In Australia, the same pattern was repeated, but the data were less consistent in New Zealand. Another finding: cancer cases in people under 50 are more aggressive and diagnosed at a more advanced stage. This may be due to delayed diagnosis because of lower clinical suspicion in this age group.
 
 Early-onset cancers of the breast, kidney, uterus, pancreas, bladder, and larynx are also increasing in several countries, as highlighted by both works. This growth is observed in both developed and developing countries, reflecting changes in risk factors and lifestyles, as well as possible environmental and behavioral influences. The di Martino review, however, showed a trend toward a reduction in the incidence of early-onset lung cancer.
 
-The article by Sung et al., published in 2024 in The Lancet Public Health, analyzed a population-based cancer registry in the USA. The authors used incidence data on 34 cancer types and mortality data on 25 types, in patients aged 24 to 85, diagnosed between 2000 and 2019. They compared the incidence adjusted by decade of birth, from 1920 to 1990. The study evaluated more than 23 million patients and more than 7 million cancer deaths in the period. They found that the incidence of 17 cancer types (small intestine, kidney and renal pelvis, pancreas, liver, intrahepatic bile ducts, breast, uterus, colon and rectum, stomach, gallbladder and other biliary tracts, ovary, testis, anus, Kaposi's sarcoma) increased in people born more recently. As for mortality, it stabilized or decreased for most cancer types (except liver and intrahepatic bile ducts in women).
+The article by Sung _et al._ (2024) published in The Lancet Public Health ([DOI: 10.1016/s2468-2667(24)00156-7][sung]) analyzed a population-based cancer registry in the USA. The authors used incidence data on 34 cancer types and mortality data on 25 types, in patients aged 24 to 85, diagnosed between 2000 and 2019. They compared the incidence adjusted by decade of birth, from 1920 to 1990. The study evaluated more than 23 million patients and more than 7 million cancer deaths in the period. They found that the incidence of 17 cancer types (small intestine, kidney and renal pelvis, pancreas, liver, intrahepatic bile ducts, breast, uterus, colon and rectum, stomach, gallbladder and other biliary tracts, ovary, testis, anus, Kaposi's sarcoma) increased in people born more recently. As for mortality, it stabilized or decreased for most cancer types (except liver and intrahepatic bile ducts in women).
+
+Additionally, the publication by Teng _et al._ (2024) in Science China Life Sciences ([DOI: 10.1007/s11427-023-2445-1][teng]) evaluated the annual report of the China Cancer Registry, calculating incidence and mortality in patients with 25 cancer types between 20-49 years, from 2000 to 2017. The authors found an increase in the incidence of all combined cases of early-onset cancer, with an average annual increase of about 1.5%, especially in the youngest group. They also found a reduction in mortality in this group.
 
 These data show that the phenomenon of increasing early-onset cancer incidence is global and not restricted to a few cancer types, affecting different regions and socioeconomic contexts, and not just the developed world.
 
@@ -56,45 +58,50 @@ Early-onset pancreatic cancer, although still rare, increased its incidence by 1
 
 These regional differences seem to reflect both environmental and behavioral factors as well as screening patterns, diet, and infection prevalence.
 
-## Why is this happening? Theories for the causes
+## Why is this happening? Main hypotheses
 
-There is still no single explanation for the increase in early-onset cancer, but the main articles highlight several hypotheses. Below are the main ideas discussed in the recent literature and the degree of consensus among publications:
+There is still no single explanation for the increase in early-onset cancer, but the various articles highlight several hypotheses. Below, we list the main ideas discussed in the recent literature, according to the sources we consulted. This is a quick overview; a more complete discussion of possible causes and associations with environmental exposures will be left for a second post.
 
-**Lifestyle changes** (consensus): increased sedentary behavior, obesity, diets high in ultra-processed foods and low in fiber are pointed out as central factors in all articles analyzed.
+**Lifestyle changes**: increased sedentary behavior, obesity, diets high in ultra-processed foods and low in fiber are pointed out as central factors in all articles analyzed.
 
-**Early exposure to environmental and behavioral risk factors** (consensus): exposure to pollutants, passive smoking, alcohol, endocrine disruptors, and other environmental agents since childhood/adolescence.
+**Early exposure to environmental and behavioral risk factors**: exposure to pollutants, passive smoking, alcohol, endocrine disruptors, and other environmental agents since childhood/adolescence.
 
-**Alterations in the gut microbiome** (strong emphasis in the 2022 and 2024 articles): changes in the microbiome{% include microbiome-en.html %}, possibly related to diet, antibiotic use, and cesarean sections, may influence cancer risk.
+**Alterations in the gut microbiome**: changes in the microbiome{% include microbiome-en.html %}, possibly related to diet, antibiotic use, and cesarean sections, may influence cancer risk.
 
-**Use of antibiotics and other medications in childhood** (moderate consensus): suggested as a risk factor in several studies, but still with indirect evidence.
+**Use of antibiotics and other medications in childhood**: suggested as a risk factor in several studies, but still with indirect evidence.
 
-**Genetic and epigenetic factors** (partial consensus): although genetic syndromes explain few cases, epigenetic changes induced by environment and lifestyle are increasingly discussed.
+**Genetic and epigenetic factors**: although genetic syndromes explain few cases, epigenetic changes induced by environment and lifestyle are increasingly discussed.
 
-**Sleep, circadian rhythm, and exposure to artificial light** (cited in some articles): changes in sleep patterns and exposure to light at night may play a role in cancer risk, especially in urban populations.
+**Sleep, circadian rhythm, and exposure to artificial light**: changes in sleep patterns and exposure to light at night may play a role in cancer risk, especially in urban populations.
 
-**Viral and bacterial infections** (cited in Asian studies): hepatitis, H. pylori, and other infectious agents are relevant for liver and gastric tumors in specific regions.
+**Viral and bacterial infections**: hepatitis, H. pylori, and other infectious agents are relevant for liver and gastric tumors in specific regions.
 
-The 2022 British Journal of Cancer article ([DOI: 10.1038/s41416-022-01704-x](https://doi.org/10.1038/s41416-022-01704-x)) reinforces that most cases are not explained by known genetic syndromes, suggesting an important role for environmental and behavioral factors acquired in the first decades of life. The 2022 Nature Reviews Clinical Oncology article and the 2024 Science China Life Sciences article emphasize the role of the microbiome, diet, and early exposures as central factors.
+The article by di Martino _et al._ reinforces that most cases are not explained by known genetic syndromes, suggesting an important role for environmental and behavioral factors acquired in the first decades of life. The 2022 Nature Reviews Clinical Oncology article and the 2024 Science China Life Sciences article emphasize the role of the microbiome, diet, and early exposures as central factors.
 
-## What does this mean for public health?
+## Public health impacts
 
 The rise in early-onset cancer represents a growing challenge for health systems worldwide. These patients have specific needs, may be underdiagnosed due to low clinical suspicion, and often face barriers to timely diagnosis and appropriate treatment. Strategies for prevention, early diagnosis, and research into causes are urgently needed.{% include prevention-en.html %}
 
-### Perspectives: what can we expect for the future?
+### Perspectives: what to expect for the future?
 
 There are still many uncertainties about the future incidence of early-onset cancer. Current data suggest that the upward trend may continue, especially if environmental and behavioral factors are not modified at the population level. However, understanding of the causes is still limited, and there is a need for longitudinal studies, investigations into early-life exposures, and research that integrates genetic, environmental, and microbiome data.
 
 It is possible that, with greater awareness, public health policies, and advances in screening and prevention, it will be possible to reverse or at least slow this trend. On the other hand, without structural changes and more knowledge about the mechanisms involved, the increase may persist in the coming decades. Therefore, the scenario requires continuous epidemiological surveillance, international collaboration, and investment in multidisciplinary research.
 
 ![Figure 1 from Ugai et al. 2022, Nature Reviews Clinical Oncology]({{ site.baseurl }}/assets/img/nihms-1825592-f0001.jpg)
-*Figure 1 from Ugai et al. (2022), Nature Reviews Clinical Oncology: Global incidence trends of early-onset cancers (diagnosed in adults <50 years) for 14 cancer types, 2002–2012, in 44 countries. Reproduced from the original article under the Creative Commons Attribution 4.0 International License (CC BY 4.0). For full details, see: Ugai T, et al. Nat Rev Clin Oncol. 2022;19(10):656-673. [https://doi.org/10.1038/s41571-022-00672-8](https://doi.org/10.1038/s41571-022-00672-8)*
+_Figure 1 from Ugai et al. (2022), Nature Reviews Clinical Oncology: Global incidence trends of early-onset cancers (diagnosed in adults <50 years) for 14 cancer types, 2002–2012, in 44 countries. Reproduced from the original article under the Creative Commons Attribution 4.0 International License (CC BY 4.0). For full details, see: Ugai T, et al. Nat Rev Clin Oncol. 2022;19(10):656-673. [https://doi.org/10.1038/s41571-022-00672-8][ugai]_
 
 **References:**
 
-Ugai T, et al. Nature Reviews Clinical Oncology, 2022. [https://doi.org/10.1038/s41571-022-00672-8](https://doi.org/10.1038/s41571-022-00672-8)
+Ugai T, et al. Nature Reviews Clinical Oncology, 2022. [https://doi.org/10.1038/s41571-022-00672-8][ugai]
 
-Sung H, et al. The Lancet Public Health, 2024. [https://doi.org/10.1016/s2468-2667(24)00156-7](https://doi.org/10.1016/s2468-2667(24)00156-7)
+Sung H, et al. The Lancet Public Health, 2024. [https://doi.org/10.1016/s2468-2667(24)00156-7][sung]
 
-di Martino E, et al. British Journal of Cancer, 2022. [https://doi.org/10.1038/s41416-022-01704-x](https://doi.org/10.1038/s41416-022-01704-x)
+di Martino E, et al. British Journal of Cancer, 2022. [https://doi.org/10.1038/s41416-022-01704-x][dimartino]
 
-Science China Life Sciences, 2024. [https://doi.org/10.1007/s11427-023-2445-1](https://doi.org/10.1007/s11427-023-2445-1)
+Teng Y, et al. Science China Life Sciences, 2024. [https://doi.org/10.1007/s11427-023-2445-1][teng]
+
+[ugai]: https://pmc.ncbi.nlm.nih.gov/articles/PMC9509459/#SM1
+[dimartino]: https://doi.org/10.1038/s41416-022-01704-x
+[sung]: https://doi.org/10.1016/s2468-2667(24)00156-7
+[teng]: https://doi.org/10.1007/s11427-023-2445-1
