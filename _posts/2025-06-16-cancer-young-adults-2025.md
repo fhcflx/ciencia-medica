@@ -12,7 +12,7 @@ tags:
 
 lang: en-us
 ref: cancer-inicio-precoce-2025
-image: "{{ site.baseurl }}/assets/img/nihms-1825592-f0001.jpg"
+image: https://fhcflx.github.io/ciencia-medica/assets/img/nihms-1825592-f0001.jpg
 excerpt: "In recent years, studies have shown a global increase in early-onset cancer (diagnosed before age 50), especially gastrointestinal, breast, kidney, and pancreatic tumors. The phenomenon is multifactorial, involving lifestyle changes, environmental exposures, and microbiome alterations, and represents a growing public health challenge."
 
 ---

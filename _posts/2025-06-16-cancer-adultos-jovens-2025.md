@@ -13,7 +13,7 @@ tags:
 lang: pt-br
 default_lang: pt-br
 ref: cancer-inicio-precoce-2025
-image: "{{ site.baseurl }}/assets/img/nihms-1825592-f0001.jpg"
+image: https://fhcflx.github.io/ciencia-medica/assets/img/nihms-1825592-f0001.jpg
 excerpt: "Nos últimos anos, estudos vêm mostrando aumento global do câncer de início precoce (diagnosticado antes dos 50 anos), com destaque para tumores gastrointestinais, mama, rim e pâncreas. O fenômeno é multifatorial, envolvendo mudanças no estilo de vida, exposições ambientais e alterações no microbioma, e representa um desafio crescente para a saúde pública."
 
 ---
