@@ -6,8 +6,8 @@
 </description>
     <link>https://fhcflx.github.io/ciencia-medica/</link>
     <atom:link href="https://fhcflx.github.io/ciencia-medica/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 24 Jun 2025 12:26:04 -0300</pubDate>
-    <lastBuildDate>Tue, 24 Jun 2025 12:26:04 -0300</lastBuildDate>
+    <pubDate>Tue, 24 Jun 2025 15:27:57 -0300</pubDate>
+    <lastBuildDate>Tue, 24 Jun 2025 15:27:57 -0300</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
     
       <item>
@@ -336,16 +336,25 @@
     
       <item>
         <title>Early-onset cancer: the size of the problem and what we know so far</title>
-        <description>&lt;p&gt;In recent years, a series of studies has drawn the attention of the scientific community and the public to the rising incidence of early-onset cancer—defined as cancer diagnosed before the age of 50. The 2022 article by Ugai in Nature Reviews Clinical Oncology (&lt;a href=&quot;https://doi.org/10.1038/s41571-022-00672-8&quot;&gt;DOI: 10.1038/s41571-022-00672-8&lt;/a&gt;) highlighted this phenomenon globally, showing that cancer, traditionally seen as a disease of people over 50, is becoming increasingly common in younger age groups.
+        <description>&lt;p&gt;In recent years, a series of studies has drawn the attention of the scientific community and the public to the rising incidence of early-onset cancer&lt;label for=&quot;cancer&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;cancer&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;&lt;strong&gt;Cancer&lt;/strong&gt; (from Latin cancer = crab): a large group of very different diseases, all characterized by incessant and disordered cell proliferation, the ability to locally invade healthy tissues, and the ability to spread to distant sites (metastasis). The various types of cancer theoretically originate from a single cell (clonal origin) that has undergone mutations in its genetic code. Learn more &lt;a href=&quot;../../../2017/03/01/what-is-cancer.html&quot;&gt;here&lt;/a&gt;.&lt;/span&gt;
+—defined as cancer diagnosed before the age of 50. The 2022 article by Ugai in Nature Reviews Clinical Oncology (&lt;a href=&quot;https://doi.org/10.1038/s41571-022-00672-8&quot;&gt;DOI: 10.1038/s41571-022-00672-8&lt;/a&gt;) highlighted this phenomenon globally, showing that cancer, traditionally seen as a disease of people over 50, is becoming increasingly common in younger age groups.
 &lt;!--more--&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;what-is-early-onset-cancer&quot;&gt;What is early-onset cancer?&lt;/h2&gt;
 
 &lt;p&gt;Early-onset cancer refers to tumors diagnosed in people under 50 years old. Within this group, there are important subcategories: adolescents (15-18/24 years), young adults (25-39 years), and early middle-aged adults (40-49 years). The internationally used term for adolescents and young adults is AYA (adolescents and young adults), generally covering ages 15 to 39. The impact of a cancer diagnosis at this stage of life is profound, affecting not only health but also social, emotional, and economic aspects.&lt;/p&gt;
 
-&lt;p&gt;The classification of early-onset cancer was introduced in recent decades after the observation that certain types of cancer, traditionally rare in young people, began to show increased incidence in adults under 50. This definition gained prominence from the 2000s onwards, especially in international epidemiological studies, to differentiate tumors that arise early from those that occur at older ages. The goal is to facilitate surveillance, research, and the development of prevention and early diagnosis strategies for this group, which has distinct clinical characteristics, risk factors, and needs.&lt;/p&gt;
+&lt;p&gt;The classification of early-onset cancer was introduced in recent decades after the observation that certain types of cancer, traditionally rare in young people, began to show increased incidence in adults under 50. This definition gained prominence from the 2000s onwards, especially in international epidemiological studies&lt;label for=&quot;epidemiology&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;epidemiology&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;&lt;strong&gt;Epidemiology&lt;/strong&gt; (from Greek epi = upon; demos = people; logos = study): the quantitative study of the distribution of health/disease phenomena and their conditioning and determining factors in human populations. It is a field of science that deals with various genetic, social, or environmental factors and conditions derived from microbiological, toxic, traumatic, etc. exposures that determine the occurrence and distribution of health, disease, disability, and death among groups of individuals.&lt;/span&gt;
+, to differentiate tumors that arise early from those that occur at older ages. The goal is to facilitate surveillance, research, and the development of prevention and early diagnosis strategies for this group, which has distinct clinical characteristics, risk factors, and needs.&lt;/p&gt;
 
-&lt;p&gt;A search for the term “early onset cancer” in Google Scholar (with quotation marks, to force the search for the complete term) shows the earliest mention in a &lt;a href=&quot;https://doi.org/10.1093/jnci/53.6.1577&quot;&gt;1974 article&lt;/a&gt; on breast cancer, which already compared the disease in women under or over 45 years old. The authors of this study were interested in the impact of known risk factors in patients with early-onset disease (supposedly more linked to genetic and hereditary factors) or later-onset (supposedly more related to habits and environmental exposure). They found that a family history of breast cancer seemed to be a risk factor for earlier cases, as well as age over 25 at first childbirth. Interestingly, later-onset breast cancer cases did not show a correlation with age at first childbirth. Thus, even in this 1970s publication, there was already a clue that non-hereditary factors were acting in the emergence of early-onset cancer cases. The corresponding term in Portuguese (câncer de início precoce) only appears in academic works (very few) after 2020.&lt;/p&gt;
+&lt;p&gt;A search for the term “early onset cancer” in Google Scholar (with quotation marks, to force the search for the complete term) shows the earliest mention in a &lt;a href=&quot;https://doi.org/10.1093/jnci/53.6.1577&quot;&gt;1974 article&lt;/a&gt; on breast cancer, which already compared the disease in women under or over 45 years old. The authors of this study were interested in the impact of known risk factors in patients with early-onset disease (supposedly more linked to genetic and hereditary factors&lt;label for=&quot;gene-en&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;gene-en&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;&lt;strong&gt;Gene&lt;/strong&gt;: a segment of DNA that encodes a molecule (usually a protein) with a specific function. Genes are the units of inheritance first hypothesized by Mendel and named by the Danish botanist Wilhelm Johannsen in 1909. Genes make up only a small fraction of a cell’s DNA; most DNA does not code for proteins and is not part of genes. The phrase “one gene, one protein” summarizes the central dogma of biology: genetic information is transferred from DNA to RNA and then to a protein.&lt;/span&gt;
+) or later-onset (supposedly more related to habits and environmental exposure). They found that a family history of breast cancer seemed to be a risk factor for earlier cases, as well as age over 25 at first childbirth. Interestingly, later-onset breast cancer cases did not show a correlation with age at first childbirth. Thus, even in this 1970s publication, there was already a clue that non-hereditary factors were acting in the emergence of early-onset cancer cases. The corresponding term in Portuguese (câncer de início precoce) only appears in academic works (very few) after 2020.&lt;/p&gt;
 
 &lt;p&gt;The vast majority of scientific publications on this topic (“early onset cancer”), between the 1970s and 2000, focused only on hereditary cancer cases, related to known genetic alterations, and did not differentiate a specific age group, sometimes including children up to middle age. The greater emphasis on Ugai’s working definition (adults under 50) really came in the 21st century. But where does this definition come from? Why is 50 years the cutoff? There is no direct answer, but I found a very interesting &lt;a href=&quot;https://pmc.ncbi.nlm.nih.gov/articles/instance/1685650/pdf/ajhg00351-0124.pdf&quot;&gt;1983 study&lt;/a&gt; on hereditary cancer epidemiology and age at diagnosis, which tried, for the first time, to show that the occurrence of cancer in people younger than expected signaled some hereditary predisposition factor. The authors divided the group of patients they studied (with a family history of cancer) into groups according to the age of highest frequency of diagnosis for each cancer. The “young” group was the lowest 10th percentile of the age distribution, and the “intermediate” group was between the 10th and 45th percentiles. The median age of the “intermediate” group was 53 years, and the mean was 49 years. Thus, it makes sense that the age of 50 has been used more frequently to differentiate early-onset cancer patients from the rest. Curiously, the 1983 study did not prove the correlation between family history (heredity) and early-onset cancer!&lt;/p&gt;
 
@@ -383,7 +392,12 @@
 
 &lt;p&gt;&lt;strong&gt;Early exposure to environmental and behavioral risk factors&lt;/strong&gt; (consensus): exposure to pollutants, passive smoking, alcohol, endocrine disruptors, and other environmental agents since childhood/adolescence.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Alterations in the gut microbiome&lt;/strong&gt; (strong emphasis in the 2022 and 2024 articles): changes in the microbiome, possibly related to diet, antibiotic use, and cesarean sections, may influence cancer risk.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Alterations in the gut microbiome&lt;/strong&gt; (strong emphasis in the 2022 and 2024 articles): changes in the microbiome&lt;label for=&quot;microbiome-en&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;microbiome-en&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;
+&lt;strong&gt;Gut microbiome:&lt;/strong&gt; The gut microbiome is the set of trillions of microorganisms that inhabit the human gastrointestinal tract. The microbiome influences digestion, immunity, metabolism, and even the functioning of the nervous system.
+&lt;/span&gt;
+, possibly related to diet, antibiotic use, and cesarean sections, may influence cancer risk.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Use of antibiotics and other medications in childhood&lt;/strong&gt; (moderate consensus): suggested as a risk factor in several studies, but still with indirect evidence.&lt;/p&gt;
 
@@ -397,7 +411,9 @@
 
 &lt;h2 id=&quot;what-does-this-mean-for-public-health&quot;&gt;What does this mean for public health?&lt;/h2&gt;
 
-&lt;p&gt;The rise in early-onset cancer represents a growing challenge for health systems worldwide. These patients have specific needs, may be underdiagnosed due to low clinical suspicion, and often face barriers to timely diagnosis and appropriate treatment. Strategies for prevention, early diagnosis, and research into causes are urgently needed.&lt;/p&gt;
+&lt;p&gt;The rise in early-onset cancer represents a growing challenge for health systems worldwide. These patients have specific needs, may be underdiagnosed due to low clinical suspicion, and often face barriers to timely diagnosis and appropriate treatment. Strategies for prevention, early diagnosis, and research into causes are urgently needed.&lt;label for=&quot;prevention-en&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;prevention-en&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;&lt;strong&gt;Prevention&lt;/strong&gt;: set of actions and habits aimed at preventing the onset of diseases. For cancer, it includes not smoking, avoiding excessive alcohol, maintaining a healthy diet, exercising, and protecting yourself from the sun.&lt;/span&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;perspectives-what-can-we-expect-for-the-future&quot;&gt;Perspectives: what can we expect for the future?&lt;/h3&gt;
 
@@ -405,22 +421,18 @@
 
 &lt;p&gt;It is possible that, with greater awareness, public health policies, and advances in screening and prevention, it will be possible to reverse or at least slow this trend. On the other hand, without structural changes and more knowledge about the mechanisms involved, the increase may persist in the coming decades. Therefore, the scenario requires continuous epidemiological surveillance, international collaboration, and investment in multidisciplinary research.&lt;/p&gt;
 
-&lt;h2 id=&quot;visual-data&quot;&gt;Visual data&lt;/h2&gt;
-
 &lt;p&gt;&lt;img src=&quot;/ciencia-medica/assets/img/nihms-1825592-f0001.jpg&quot; alt=&quot;Figure 1 from Ugai et al. 2022, Nature Reviews Clinical Oncology&quot; /&gt;
 &lt;em&gt;Figure 1 from Ugai et al. (2022), Nature Reviews Clinical Oncology: Global incidence trends of early-onset cancers (diagnosed in adults &amp;lt;50 years) for 14 cancer types, 2002–2012, in 44 countries. Reproduced from the original article under the Creative Commons Attribution 4.0 International License (CC BY 4.0). For full details, see: Ugai T, et al. Nat Rev Clin Oncol. 2022;19(10):656-673. &lt;a href=&quot;https://doi.org/10.1038/s41571-022-00672-8&quot;&gt;https://doi.org/10.1038/s41571-022-00672-8&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;References:&lt;/strong&gt;&lt;/p&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://doi.org/10.1038/s41571-022-00672-8&quot;&gt;Nature Reviews Clinical Oncology, 2022&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://doi.org/10.1016/s2468-2667(24)00156-7&quot;&gt;The Lancet Public Health, 2024&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://doi.org/10.1038/s41416-022-01704-x&quot;&gt;British Journal of Cancer, 2022&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://doi.org/10.1007/s11427-023-2445-1&quot;&gt;Science China Life Sciences, 2024&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://doi.org/10.3322/caac.21839&quot;&gt;Global Cancer Statistics 2024&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;Ugai T, et al. Nature Reviews Clinical Oncology, 2022. &lt;a href=&quot;https://doi.org/10.1038/s41571-022-00672-8&quot;&gt;https://doi.org/10.1038/s41571-022-00672-8&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;P.S.: as this post became quite long, I left the discussion of possible causes and associations with environmental exposures, as addressed in the main articles, for a second post.&lt;/p&gt;
+&lt;p&gt;Sung H, et al. The Lancet Public Health, 2024. &lt;a href=&quot;https://doi.org/10.1016/s2468-2667(24)00156-7&quot;&gt;https://doi.org/10.1016/s2468-2667(24)00156-7&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;di Martino E, et al. British Journal of Cancer, 2022. &lt;a href=&quot;https://doi.org/10.1038/s41416-022-01704-x&quot;&gt;https://doi.org/10.1038/s41416-022-01704-x&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Science China Life Sciences, 2024. &lt;a href=&quot;https://doi.org/10.1007/s11427-023-2445-1&quot;&gt;https://doi.org/10.1007/s11427-023-2445-1&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 16 Jun 2025 12:00:00 -0300</pubDate>
         <link>https://fhcflx.github.io/ciencia-medica/2025/06/16/cancer-young-adults-2025.html</link>
@@ -439,16 +451,40 @@
     
       <item>
         <title>Câncer de início precoce: o tamanho do problema e o que se sabe até agora</title>
-        <description>&lt;p&gt;Nos últimos anos, uma série de estudos chamou a atenção da comunidade científica e do público para o aumento da incidência de câncer de início precoce — definido como o câncer diagnosticado antes dos 50 anos de idade. O artigo de Ugai de 2022 na revista Nature Reviews Clinical Oncology (&lt;a href=&quot;https://doi.org/10.1038/s41571-022-00672-8&quot;&gt;DOI: 10.1038/s41571-022-00672-8&lt;/a&gt;) destacou o fenômeno globalmente, mostrando que o câncer, tradicionalmente visto como uma doença de pessoas com mais de 50 anos, está se tornando cada vez mais comum em faixas etárias mais jovens.
+        <description>&lt;p&gt;Nos últimos anos, cresceu a atenção da comunidade científica e do público para o aumento global do câncer de início precoce&lt;label for=&quot;cancer&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;cancer&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;&lt;strong&gt;Câncer&lt;/strong&gt; (&lt;em&gt;lat cancer&lt;/em&gt; = caranguejo): grande grupo de doenças muito diferentes entre si, tendo em comum a proliferação celular incessante e desordenada, a capacidade de invadir localmente tecidos saudáveis do organismo e a capacidade de se espalhar para locais distantes (metástases). Os diversos tipos de câncer são teoricamente oriundos de &lt;em&gt;uma única célula&lt;/em&gt; (origem clonal) a qual sofreu mutações em seu código genético. Saiba mais &lt;a href=&quot;../../../2017/03/01/O-que-e-o-cancer.html&quot;&gt;aqui&lt;/a&gt;.
+&lt;/span&gt;
+ — definido como aquele diagnosticado antes dos 50 anos de idade. O artigo de Ugai et al. (2022), publicado na Nature Reviews Clinical Oncology (&lt;a href=&quot;https://doi.org/10.1038/s41571-022-00672-8&quot;&gt;DOI: 10.1038/s41571-022-00672-8&lt;/a&gt;), evidenciou que, embora o câncer fosse tradicionalmente associado a pessoas com mais de 50 anos, sua incidência está se tornando cada vez mais comum em adultos jovens.
 &lt;!--more--&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;o-que-é-câncer-de-início-precoce&quot;&gt;O que é câncer de início precoce?&lt;/h2&gt;
+&lt;h2 id=&quot;o-que-é-o-câncer-de-início-precoce&quot;&gt;O que é o câncer de início precoce?&lt;/h2&gt;
 
 &lt;p&gt;Câncer de início precoce refere-se a tumores diagnosticados em pessoas com menos de 50 anos. Dentro desse grupo, há subcategorias importantes: adolescentes (15-18/24 anos), adultos jovens (25-39 anos) e adultos de meia-idade precoce (40-49 anos). O termo internacionalmente utilizado para adolescentes e adultos jovens é AYA (adolescents and young adults), geralmente abrangendo dos 15 aos 39 anos. O impacto do diagnóstico nessa fase da vida é profundo, afetando não só a saúde, mas também aspectos sociais, emocionais e econômicos.&lt;/p&gt;
 
-&lt;p&gt;A classificação de câncer de início precoce foi introduzida nas últimas décadas diante da observação de que certos tipos de câncer, tradicionalmente raros em pessoas jovens, passaram a apresentar aumento de incidência em adultos com menos de 50 anos. Essa definição ganhou destaque a partir dos anos 2000, especialmente em estudos epidemiológicos internacionais, para diferenciar tumores que surgem precocemente daqueles que ocorrem em idades mais avançadas. O objetivo é facilitar a vigilância, a pesquisa e o desenvolvimento de estratégias de prevenção e diagnóstico precoce para esse grupo, que apresenta características clínicas, fatores de risco e necessidades distintas.&lt;/p&gt;
+&lt;p&gt;A classificação de câncer de início precoce foi introduzida nas últimas décadas diante da observação de que certos tipos de câncer, tradicionalmente raros em pessoas jovens, passaram a apresentar aumento de incidência em adultos com menos de 50 anos. Essa definição ganhou destaque a partir dos anos 2000, especialmente em estudos epidemiológicos internacionais&lt;label for=&quot;epidemio&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;epidemio&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;&lt;strong&gt;Epidemiologia&lt;/strong&gt; (&lt;em&gt;gr epi = sobre; demos = povo; logos = estudo&lt;/em&gt;):
+   propõe-se a estudar quantitativamente a distribuição dos fenômenos de
+   saúde/doença, e seus fatores condicionantes e determinantes, nas populações
+   humanas. É um campo da ciência que trata dos vários fatores genéticos, sociais
+   ou ambientais e condições derivados de exposição microbiológica, tóxica,
+   traumática, etc, que determinam a ocorrência e a distribuição de saúde,
+   doença, incapacidade e morte entre os grupos de indivíduos.
+&lt;/span&gt;
+, para diferenciar tumores que surgem precocemente daqueles que ocorrem em idades mais avançadas. O objetivo é facilitar a vigilância, a pesquisa e o desenvolvimento de estratégias de prevenção e diagnóstico precoce para esse grupo, que apresenta características clínicas, fatores de risco e necessidades distintas.&lt;/p&gt;
 
-&lt;p&gt;Pesquisando no Google Acadêmico pelo termo “early onset cancer” (assim, com aspas, para forçar a busca pelo termo completo), a menção mais antiga que encontrei foi um &lt;a href=&quot;https://doi.org/10.1093/jnci/53.6.1577&quot;&gt;artigo&lt;/a&gt; de 1974 sobre câncer de mama que já comparava a doença em mulheres com menos ou mais de 45 anos. Os autores desse estudo estavam interessados em verificar qual o impacto de fatores de risco conhecidos na época em pacientes com início de doença precoce (supostamente mais ligado a fatores genéticos e hereditários) ou mais tardio (supostamente mais relacionado a hábitos e exposição ambiental). Eles encontraram que história familiar de câncer de mama realmente parecia ser fator de risco ligado a casos mais precoces, porém também idade maior que 25 anos para o primeiro parto. Interessantemente, casos de início mais tardio de câncer de mama não mostraram correlação com a idade do primeiro parto. Ou seja, já nessa publicação dos anos 70, surgia uma pista de que fatores não hereditários estavam atuando no surgimento de casos de câncer de início precoce. O termo correspondente em português (câncer de início precoce) só vem surgir em trabalhos no Google Acadêmico (muito poucos) já deppis de 2020.&lt;/p&gt;
+&lt;p&gt;Pesquisando no Google Acadêmico pelo termo “early onset cancer” (assim, com aspas, para forçar a busca pelo termo completo), a menção mais antiga que encontrei foi um &lt;a href=&quot;https://doi.org/10.1093/jnci/53.6.1577&quot;&gt;artigo&lt;/a&gt; de 1974 sobre câncer de mama que já comparava a doença em mulheres com menos ou mais de 45 anos. Os autores desse estudo estavam interessados em verificar qual o impacto de fatores de risco conhecidos na época em pacientes com início de doença precoce (supostamente mais ligado a fatores genéticos e hereditários&lt;label for=&quot;gene&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;gene&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;&lt;strong&gt;Gene&lt;/strong&gt; (&lt;em&gt;gr gonos&lt;/em&gt; = geração, semente): trecho de DNA que
+  codifica uma molécula (proteína) com uma função. Correspondem às unidades de herança
+  hipotetizadas por Mendel e denominadas de genes pelo botânico dinamarquês
+  Johannsen em 1905. Constitui uma minoria do DNA de uma célula. A maior parte do DNA
+  não codifica proteínas e, portanto, não faz parte de genes. A expressão “um gene,
+  uma proteína” resume o &lt;em&gt;dogma central da biologia&lt;/em&gt;, de que a informação genética
+  é transferida (codificada) do DNA para o RNA e deste para uma proteína
+&lt;/span&gt;
+) ou mais tardio (supostamente mais relacionado a hábitos e exposição ambiental). Eles encontraram que história familiar de câncer de mama realmente parecia ser fator de risco ligado a casos mais precoces, porém também idade maior que 25 anos para o primeiro parto. Interessantemente, casos de início mais tardio de câncer de mama não mostraram correlação com a idade do primeiro parto. Ou seja, já nessa publicação dos anos 70, surgia uma pista de que fatores não hereditários estavam atuando no surgimento de casos de câncer de início precoce. O termo correspondente em português (câncer de início precoce) só vem surgir em trabalhos no Google Acadêmico (muito poucos) já deppis de 2020.&lt;/p&gt;
 
 &lt;p&gt;A esmagadora maioria das publicações científicas sobre esse tema (“early onset cancer”), entre os anos 70 e 2000, focava apenas em casos de câncer hereditário, relacionados a alterações genéticas conhecidas, e não diferenciavam uma faixa etária específica, incluindo às vezes desde crianças até a meia idade. A maior ênfase na definição de trabalho de Ugai (adultos com menos de 50 anos) veio realmente no século 21. Porém, de onde vem essa definição? Por que 50 anos é o ponto de corte? Não encontrei uma resposta direta, porém encontrei um &lt;a href=&quot;https://pmc.ncbi.nlm.nih.gov/articles/instance/1685650/pdf/ajhg00351-0124.pdf&quot;&gt;trabalho&lt;/a&gt; de 1983 muito interessante sobre epidemiologia do câncer hereditário e idade ao diagnóstico, que tentava, pela primeira vez, demonstrar que a ocorrência de câncer em pessoas mais jovens do que esperado sinalizava algum fator hereditário de predisposição a câncer. Os autores dividiram o grupo de pacientes que eles estudaram (com história familiar de câncer) em grupos de acordo com a idade de maior frequência de diagnóstico de cada câncer. O grupo de “jovens” ficava no percentil 10 mais baixo da distribuição de idades e o grupo “intermediário” ficava entre o percentil 10 e 45 dessa distribuição. A mediana de idade dos pacientes do grupo “intermediário” foi de 53 anos, e sua média 49 anos. Faz sentido, assim, que a idade de 50 anos tenha sido usada com mais frequencia para diferenciar pacientes com câncer de início precoce do restante. Curiosamente, o trabalho de 1983 não conseguiu provar a correlação entre história familiar (hereditariedade) e câncer de início precoce!&lt;/p&gt;
 
@@ -470,7 +506,7 @@
 
 &lt;p&gt;Esses dados mostram que o fenômeno do aumento de incidência do câncer de início precoce é global e não se restringe a alguns tipos de câncer, afetando diferentes regiões e contextos socioeconômicos, e não apenas o mundo desenvolvido.&lt;/p&gt;
 
-&lt;h2 id=&quot;quais-tipos-de-câncer-aumentam-mais-rápido&quot;&gt;Quais tipos de câncer aumentam mais rápido?&lt;/h2&gt;
+&lt;h2 id=&quot;quais-tipos-de-câncer-estão-aumentando-mais-rapidamente&quot;&gt;Quais tipos de câncer estão aumentando mais rapidamente?&lt;/h2&gt;
 
 &lt;p&gt;Os tumores do trato gastrointestinal são os que mais chamam atenção pelo aumento, especialmente colorretal, pâncreas, estômago e, de forma marcante, os tumores do trato biliar (como colangiocarcinoma e câncer de vesícula). O artigo da Nature Reviews Clinical Oncology e dados do Global Cancer Statistics 2024 mostram que, em países como Canadá, Suécia, Reino Unido e Bulgária, a incidência de câncer de trato biliar em adultos com menos de 50 anos aumentou em média entre 3% e 5% ao ano, chegando a 10% de aumento anual na Bielorrússia (isso, em uma década, chega a 100% de aumento de incidência!). O câncer de estômago de início precoce também teve crescimento expressivo nos EUA, Canadá, chegando a 4-5% de aumento médio anual na Irlanda do Norte, Inglaterra e Polônia.&lt;/p&gt;
 
@@ -478,51 +514,54 @@
 
 &lt;p&gt;Essas diferenças regionais parecem refletir tanto fatores ambientais e comportamentais quanto padrões de rastreamento, dieta e prevalência de infecções.&lt;/p&gt;
 
-&lt;h2 id=&quot;por-que-isso-está-acontecendo-teorias-para-as-causas&quot;&gt;Por que isso está acontecendo? Teorias para as causas&lt;/h2&gt;
+&lt;h2 id=&quot;por-que-isso-está-acontecendo-principais-hipóteses&quot;&gt;Por que isso está acontecendo? Principais hipóteses&lt;/h2&gt;
 
-&lt;p&gt;Ainda não há uma explicação única para o aumento do câncer de início precoce, mas os principais artigos destacam diversas hipóteses. Abaixo, listamos as principais ideias discutidas na literatura recente e o grau de consenso entre as publicações:&lt;/p&gt;
+&lt;p&gt;Ainda não há uma explicação única para o aumento do câncer de início precoce, mas os vários artigos destacam diversas hipóteses. Abaixo, listamos as principais ideias discutidas na literatura recente, de acordo com as fontes que consultamos. Essa é uma exposição rápida, deixamos uma discussão mais completa das possíveis causas e associações com exposições ambientais para uma segunda postagem.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Mudanças no estilo de vida&lt;/strong&gt; (consenso): aumento do sedentarismo, obesidade, dietas ricas em ultraprocessados e pobres em fibras são apontados como fatores centrais em todos os artigos analisados.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mudanças no estilo de vida&lt;/strong&gt;: aumento do sedentarismo, obesidade, dietas ricas em ultraprocessados e pobres em fibras são apontados como fatores centrais em todos os artigos analisados.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Exposição precoce a fatores ambientais e comportamentais&lt;/strong&gt; (consenso): exposição a poluentes, tabagismo passivo, álcool, disruptores endócrinos e outros agentes ambientais desde a infância/adolescência.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Exposição precoce a fatores ambientais e comportamentais&lt;/strong&gt;: exposição a poluentes, tabagismo passivo, álcool, disruptores endócrinos e outros agentes ambientais desde a infância/adolescência.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Alterações no microbioma intestinal&lt;/strong&gt; (forte destaque nos artigos de 2022 e 2024): mudanças no microbioma, possivelmente relacionadas à dieta, uso de antibióticos e cesarianas, podem influenciar o risco de câncer.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Alterações no microbioma intestinal&lt;/strong&gt;: mudanças no microbioma&lt;label for=&quot;microbioma&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;microbioma&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;&lt;strong&gt;Microbioma intestinal:&lt;/strong&gt; É o conjunto de trilhões de microrganismos que habitam o trato gastrointestinal humano. O microbioma influencia digestão, imunidade, metabolismo e até o funcionamento do sistema nervoso.
+&lt;/span&gt;
+, possivelmente relacionadas à dieta, uso de antibióticos e cesarianas, podem influenciar o risco de câncer.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Uso de antibióticos e outros medicamentos na infância&lt;/strong&gt; (moderado consenso): sugerido como fator de risco em vários estudos, mas ainda com evidências indiretas.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Uso de antibióticos e outros medicamentos na infância&lt;/strong&gt;: sugerido como fator de risco em vários estudos, mas ainda com evidências indiretas.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Fatores genéticos e epigenéticos&lt;/strong&gt; (consenso parcial): embora síndromes genéticas expliquem poucos casos, alterações epigenéticas induzidas por ambiente e estilo de vida são cada vez mais discutidas.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fatores genéticos e epigenéticos&lt;/strong&gt;: embora síndromes genéticas expliquem poucos casos, alterações epigenéticas induzidas por ambiente e estilo de vida são cada vez mais discutidas.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Sono, ritmo circadiano e exposição à luz artificial&lt;/strong&gt; (citados em alguns artigos): alterações no padrão de sono e exposição à luz à noite podem ter papel no risco de câncer, especialmente em populações urbanas.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sono, ritmo circadiano e exposição à luz artificial&lt;/strong&gt;: alterações no padrão de sono e exposição à luz à noite podem ter papel no risco de câncer, especialmente em populações urbanas.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Infecções virais e bacterianas&lt;/strong&gt; (citadas em estudos asiáticos): hepatite, H. pylori e outros agentes infecciosos são relevantes para tumores hepáticos e gástricos em regiões específicas.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Infecções virais e bacterianas&lt;/strong&gt;: hepatite, H. pylori e outros agentes infecciosos são relevantes para tumores hepáticos e gástricos em regiões específicas.&lt;/p&gt;
 
 &lt;p&gt;O artigo do British Journal of Cancer de 2022 (&lt;a href=&quot;https://doi.org/10.1038/s41416-022-01704-x&quot;&gt;DOI: 10.1038/s41416-022-01704-x&lt;/a&gt;) reforça que a maioria dos casos não é explicada por síndromes genéticas conhecidas, sugerindo papel importante de fatores ambientais e comportamentais adquiridos nas primeiras décadas de vida. Já o artigo da Nature Reviews Clinical Oncology de 2022 e o da Science China Life Sciences de 2024 enfatizam o papel do microbioma, dieta e exposições precoces como fatores centrais.&lt;/p&gt;
 
-&lt;h2 id=&quot;o-que-isso-significa-para-a-saúde-pública&quot;&gt;O que isso significa para a saúde pública?&lt;/h2&gt;
+&lt;h2 id=&quot;impactos-para-a-saúde-pública&quot;&gt;Impactos para a saúde pública&lt;/h2&gt;
 
-&lt;p&gt;O aumento do câncer de início precoce representa um desafio crescente para sistemas de saúde em todo o mundo. Esses pacientes têm necessidades específicas, podem ser subdiagnosticados devido à baixa suspeita clínica e frequentemente enfrentam barreiras para acesso ao diagnóstico e tratamento adequados. Estratégias de prevenção, diagnóstico precoce e pesquisa sobre causas são urgentes.&lt;/p&gt;
+&lt;p&gt;O aumento do câncer de início precoce representa um desafio crescente para sistemas de saúde em todo o mundo. Esses pacientes têm necessidades específicas, podem ser subdiagnosticados devido à baixa suspeita clínica e frequentemente enfrentam barreiras para acesso ao diagnóstico e tratamento adequados. Estratégias de prevenção, diagnóstico precoce e pesquisa sobre causas são urgentes.&lt;label for=&quot;preven-pt&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;preven-pt&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;&lt;strong&gt;Prevenção&lt;/strong&gt;: conjunto de ações e hábitos que visam evitar o surgimento de doenças. No câncer, inclui não fumar, evitar álcool em excesso, manter alimentação saudável, praticar exercícios e proteger-se do sol.&lt;/span&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;perspectivas-o-que-esperar-para-o-futuro&quot;&gt;Perspectivas: o que esperar para o futuro?&lt;/h3&gt;
+&lt;h3 id=&quot;perspectivas-o-que-esperar-do-futuro&quot;&gt;Perspectivas: o que esperar do futuro?&lt;/h3&gt;
 
 &lt;p&gt;Ainda há muitas incertezas sobre o futuro da incidência de câncer de início precoce. Os dados atuais sugerem que a tendência de aumento pode continuar, especialmente se fatores ambientais e comportamentais não forem modificados em escala populacional. No entanto, a compreensão das causas ainda é limitada e há necessidade de estudos longitudinais, investigações sobre exposições precoces e pesquisas que integrem dados genéticos, ambientais e do microbioma.&lt;/p&gt;
 
 &lt;p&gt;É possível que, com maior conscientização, políticas de saúde pública e avanços em rastreamento e prevenção, seja possível reverter ou ao menos desacelerar essa tendência. Por outro lado, sem mudanças estruturais e mais conhecimento sobre os mecanismos envolvidos, o aumento pode persistir nas próximas décadas. Portanto, o cenário exige vigilância epidemiológica contínua, colaboração internacional e investimento em pesquisa multidisciplinar.&lt;/p&gt;
-
-&lt;h2 id=&quot;dados-visuais&quot;&gt;Dados visuais&lt;/h2&gt;
 
 &lt;p&gt;&lt;img src=&quot;/ciencia-medica/assets/img/nihms-1825592-f0001.jpg&quot; alt=&quot;Figura 1 de Ugai et al. 2022, Nature Reviews Clinical Oncology&quot; /&gt;
 &lt;em&gt;Figura 1 de Ugai et al. (2022), Nature Reviews Clinical Oncology: Tendências globais de incidência de câncer de início precoce (diagnosticados em adultos &amp;lt;50 anos) para 14 tipos de câncer, 2002–2012, em 44 países. Reproduzido do artigo original sob a licença Creative Commons Attribution 4.0 International (CC BY 4.0). Para detalhes completos, veja: Ugai T, et al. Nat Rev Clin Oncol. 2022;19(10):656-673. &lt;a href=&quot;https://doi.org/10.1038/s41571-022-00672-8&quot;&gt;https://doi.org/10.1038/s41571-022-00672-8&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Referências:&lt;/strong&gt;&lt;/p&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://doi.org/10.1038/s41571-022-00672-8&quot;&gt;Nature Reviews Clinical Oncology, 2022&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://doi.org/10.1016/s2468-2667(24)00156-7&quot;&gt;The Lancet Public Health, 2024&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://doi.org/10.1038/s41416-022-01704-x&quot;&gt;British Journal of Cancer, 2022&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://doi.org/10.1007/s11427-023-2445-1&quot;&gt;Science China Life Sciences, 2024&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;Ugai T, et al. Nature Reviews Clinical Oncology, 2022. &lt;a href=&quot;https://doi.org/10.1038/s41571-022-00672-8&quot;&gt;https://doi.org/10.1038/s41571-022-00672-8&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;P.S.: como essa postagem ficou muito grande, deixei a discussão que os trabalhos fazem das possíveis causas e associações com exposições ambientais para uma segunda postagem.&lt;/p&gt;
+&lt;p&gt;Sung H, et al. The Lancet Public Health, 2024. &lt;a href=&quot;https://doi.org/10.1016/s2468-2667(24)00156-7&quot;&gt;https://doi.org/10.1016/s2468-2667(24)00156-7&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;di Martino E, et al. British Journal of Cancer, 2022. &lt;a href=&quot;https://doi.org/10.1038/s41416-022-01704-x&quot;&gt;https://doi.org/10.1038/s41416-022-01704-x&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Science China Life Sciences, 2024. &lt;a href=&quot;https://doi.org/10.1007/s11427-023-2445-1&quot;&gt;https://doi.org/10.1007/s11427-023-2445-1&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 16 Jun 2025 12:00:00 -0300</pubDate>
         <link>https://fhcflx.github.io/ciencia-medica/2025/06/16/cancer-adultos-jovens-2025.html</link>
@@ -653,8 +692,7 @@
 
 &lt;p&gt;O microbioma intestinal é o conjunto de trilhões de microrganismos (principalmente bactérias) que vivem no nosso trato digestivo. Ele atua como uma verdadeira “fábrica bioquímica”, ajudando na digestão de alimentos, produção de vitaminas, regulação do sistema imunológico e proteção contra agentes infecciosos. Além disso, o microbioma se comunica com o cérebro por meio de substâncias químicas e do sistema nervoso entérico, influenciando o humor, o metabolismo e até a percepção da dor. Alterações no equilíbrio dessas bactérias (disbiose) têm sido associadas a diversas doenças, incluindo distúrbios metabólicos, autoimunes, psiquiátricos e condições de dor crônica como a fibromialgia. &lt;label for=&quot;microbioma&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
 &lt;input type=&quot;checkbox&quot; id=&quot;microbioma&quot; class=&quot;margin-toggle&quot; /&gt;
-&lt;span class=&quot;sidenote&quot;&gt;
-&lt;strong&gt;Microbioma intestinal:&lt;/strong&gt; É o conjunto de trilhões de microrganismos que habitam o trato gastrointestinal humano. O microbioma influencia digestão, imunidade, metabolismo e até o funcionamento do sistema nervoso.
+&lt;span class=&quot;sidenote&quot;&gt;&lt;strong&gt;Microbioma intestinal:&lt;/strong&gt; É o conjunto de trilhões de microrganismos que habitam o trato gastrointestinal humano. O microbioma influencia digestão, imunidade, metabolismo e até o funcionamento do sistema nervoso.
 &lt;/span&gt;&lt;/p&gt;
 
 &lt;p&gt;Estudos recentes sugerem que o microbioma intestinal pode influenciar o funcionamento do sistema nervoso e do sistema imunológico, afetando inclusive a percepção da dor.&lt;/p&gt;
@@ -794,7 +832,7 @@
  The global impact is profound, with the World Health Organization targeting hepatitis C elimination as a public health threat.
 &lt;label for=&quot;gene-en&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
 &lt;input type=&quot;checkbox&quot; id=&quot;gene-en&quot; class=&quot;margin-toggle&quot; /&gt;
-&lt;span class=&quot;sidenote&quot;&gt;Gene: a segment of DNA that encodes a molecule (usually a protein) with a specific function. Genes are the units of inheritance first hypothesized by Mendel and named by the Danish botanist Wilhelm Johannsen in 1909. Genes make up only a small fraction of a cell’s DNA; most DNA does not code for proteins and is not part of genes. The phrase “one gene, one protein” summarizes the central dogma of biology: genetic information is transferred from DNA to RNA and then to a protein.&lt;/span&gt;
+&lt;span class=&quot;sidenote&quot;&gt;&lt;strong&gt;Gene&lt;/strong&gt;: a segment of DNA that encodes a molecule (usually a protein) with a specific function. Genes are the units of inheritance first hypothesized by Mendel and named by the Danish botanist Wilhelm Johannsen in 1909. Genes make up only a small fraction of a cell’s DNA; most DNA does not code for proteins and is not part of genes. The phrase “one gene, one protein” summarizes the central dogma of biology: genetic information is transferred from DNA to RNA and then to a protein.&lt;/span&gt;
 &lt;label for=&quot;who-en&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
 &lt;input type=&quot;checkbox&quot; id=&quot;who-en&quot; class=&quot;margin-toggle&quot; /&gt;
 &lt;span class=&quot;sidenote&quot;&gt;World Health Organization (WHO): a specialized agency of the United Nations responsible for international public health. Founded in 1948, the WHO coordinates global health responses, sets standards, and provides guidance on health issues, disease prevention, and control.&lt;/span&gt;&lt;/p&gt;
@@ -1005,7 +1043,7 @@
  O impacto é global, com a Organização Mundial da Saúde estabelecendo a meta de erradicação da hepatite C como problema de saúde pública.
 &lt;label for=&quot;gene&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
 &lt;input type=&quot;checkbox&quot; id=&quot;gene&quot; class=&quot;margin-toggle&quot; /&gt;
-&lt;span class=&quot;sidenote&quot;&gt;Gene (&lt;em&gt;gr gonos&lt;/em&gt; = geração, semente): trecho de DNA que
+&lt;span class=&quot;sidenote&quot;&gt;&lt;strong&gt;Gene&lt;/strong&gt; (&lt;em&gt;gr gonos&lt;/em&gt; = geração, semente): trecho de DNA que
   codifica uma molécula (proteína) com uma função. Correspondem às unidades de herança
   hipotetizadas por Mendel e denominadas de genes pelo botânico dinamarquês
   Johannsen em 1905. Constitui uma minoria do DNA de uma célula. A maior parte do DNA
