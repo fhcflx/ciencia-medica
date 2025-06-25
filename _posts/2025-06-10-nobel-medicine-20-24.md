@@ -9,6 +9,8 @@ tags:
 - Science History
 lang: en-us
 ref: nobel20-24
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Dr._Harvey_J._Alter_wins_2020_Nobel_Prize_%28cropped%29.jpg/250px-Dr._Harvey_J._Alter_wins_2020_Nobel_Prize_%28cropped%29.jpg
+excerpt: "A summary of the Nobel Prize in Physiology or Medicine from 2020 to 2024, highlighting discoveries that revolutionized genetics, molecular biology, and medicine, with a table of laureates and main themes."
 ---
 
 Over the last five years, the Nobel Prize in Physiology or Medicine has recognized discoveries that have revolutionized our understanding of genetics, molecular biology, and medicine. Below is a summary table of the laureates, their countries, and the main themes:

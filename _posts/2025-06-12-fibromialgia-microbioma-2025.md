@@ -13,6 +13,8 @@ tags:
 lang: pt-br
 default_lang: pt-br
 ref: fibromialgia-microbioma-2025
+image: https://www.cell.com/cms/10.1016/j.neuron.2025.03.032/asset/c4101b78-70b3-4e9b-84f1-25c59bce8c12/main.assets/gr5_lrg.jpg
+excerpt: "Estudo publicado em 2025 na revista Neuron traz novas evidências sobre a relação entre o microbioma intestinal e a dor crônica na fibromialgia, mostrando que alterações nas bactérias podem contribuir diretamente para os sintomas."
 
 ---
 

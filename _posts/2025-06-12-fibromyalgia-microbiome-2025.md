@@ -12,6 +12,8 @@ tags:
 
 lang: en-us
 ref: fibromialgia-microbioma-2025
+image: https://www.cell.com/cms/10.1016/j.neuron.2025.03.032/asset/c4101b78-70b3-4e9b-84f1-25c59bce8c12/main.assets/gr5_lrg.jpg
+excerpt: "A 2025 study published in Neuron brings new evidence about the relationship between the gut microbiome and chronic pain in fibromyalgia, showing that changes in gut bacteria may directly contribute to pain and symptoms."
 
 ---
 

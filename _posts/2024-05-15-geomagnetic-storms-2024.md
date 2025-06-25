@@ -10,6 +10,7 @@ tags:
 - Science History
 lang: en-us
 ref: geomag2024
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/May_2024_Aurora_SC.jpg/960px-May_2024_Aurora_SC.jpg
 ---
 
 In May 2024, Earth was struck by a series of intense geomagnetic storms {% include geomag-storm-en.html %} triggered by powerful coronal mass ejections (CMEs) {% include geomag-cme-en.html %} from the Sun. These storms produced auroras {% include geomag-aurora-en.html %} visible at exceptionally low latitudes, including parts of the United States, Brazil, Europe, and even [North Africa][arabiaweather].   <!--more-->

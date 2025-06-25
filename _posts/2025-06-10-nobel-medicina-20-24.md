@@ -9,6 +9,8 @@ tags:
 - História da Ciência
 lang: pt-br
 ref: nobel20-24
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Dr._Harvey_J._Alter_wins_2020_Nobel_Prize_%28cropped%29.jpg/250px-Dr._Harvey_J._Alter_wins_2020_Nobel_Prize_%28cropped%29.jpg
+excerpt: "Resumo do Prêmio Nobel de Fisiologia ou Medicina de 2020 a 2024, destacando descobertas que revolucionaram a genética, biologia molecular e medicina, com tabela de laureados e temas principais."
 ---
 
 Nos últimos cinco anos, o Prêmio Nobel de Fisiologia ou Medicina reconheceu descobertas que revolucionaram a genética, a biologia molecular e a medicina. Veja abaixo uma tabela-resumo dos laureados, seus países e os principais temas:

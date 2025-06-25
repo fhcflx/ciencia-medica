@@ -16,6 +16,8 @@ tags:
 
 lang: en-us
 ref: chiang-portal-2025
+image: https://upload.wikimedia.org/wikipedia/en/e/e3/The_Merchant_and_the_Alchemist%27s_Gate.jpg
+excerpt: "Ted Chiang's short story 'The Merchant and the Alchemist's Gate' explores closed timelike curves and the science of time travel, blending real physics with fiction. Inspired by Kip Thorne, Chiang discusses paradoxes, wormholes, and Novikov's self-consistency principle."
 
 ---
 

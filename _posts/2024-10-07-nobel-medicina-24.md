@@ -11,6 +11,7 @@ tags:
 - Regulação Gênica
 lang: pt-br
 ref: nobel24
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/MiRNA.svg/960px-MiRNA.svg.png?20190519102305
 ---
 
 O Prêmio Nobel de Fisiologia ou Medicina de 2024 foi concedido aos cientistas americanos **Victor Ambros** e **Gary Ruvkun**, por sua descoberta do microRNA (miRNA) e seu papel fundamental na regulação gênica pós-transcricional. [1, 2]

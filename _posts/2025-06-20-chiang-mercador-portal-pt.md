@@ -17,6 +17,8 @@ tags:
 lang: pt-br
 default_lang: pt-br
 ref: chiang-portal-2025
+image: https://upload.wikimedia.org/wikipedia/en/e/e3/The_Merchant_and_the_Alchemist%27s_Gate.jpg
+excerpt: "Ted Chiang, em 'O Mercador e o Portal do Alquimista', explora as curvas fechadas do tipo tempo e a ciência da viagem temporal, misturando física real e ficção. Inspirado por Kip Thorne, Chiang discute paradoxos, buracos de minhoca e o princípio de autoconsistência de Novikov."
 
 ---
 

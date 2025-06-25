@@ -10,6 +10,7 @@ tags:
 - História da Ciência
 lang: pt-br
 ref: geomag2024
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/May_2024_Aurora_SC.jpg/960px-May_2024_Aurora_SC.jpg
 ---
 
 Em maio de 2024, a Terra foi atingida por uma série de intensas tempestades geomagnéticas {% include geomag-tempestade-pt.html %} desencadeadas por poderosas ejeções de massa coronal (CMEs) {% include geomag-cme-pt.html %} do Sol. Essas tempestades produziram auroras {% include geomag-aurora-pt.html %} visíveis em latitudes excepcionalmente baixas, incluindo partes dos Estados Unidos, Brasil, Europa e até [Norte da África][arabiaweather].   <!--more-->
