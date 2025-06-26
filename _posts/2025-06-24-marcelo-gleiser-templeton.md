@@ -30,7 +30,7 @@ Após o doutorado, trabalhou como pesquisador de pós-doutorado no Fermilab (Fer
 
 Em seguida, trabalhou também no Instituto de Física Teórica da Unesp, onde colaborou com grupos de pesquisa em física teórica e cosmologia, orientou jovens pesquisadores e participou de projetos sobre simetrias fundamentais, formação de estruturas no universo e modelos de matéria exótica. Sua atuação contribuiu para fortalecer a pesquisa em cosmologia no Brasil e ampliar o intercâmbio científico internacional.
 
-Ao longo de sua carreira, Gleiser também orientou e influenciou diversos jovens cientistas, tanto no Brasil quanto no exterior. Entre seus orientandos e colaboradores que se destacaram internacionalmente estão o físico brasileiro Rogério Rosenfeld, referência em física de partículas e cosmologia, e o astrofísico americano Adam Frank, conhecido por seu trabalho em astrofísica e divulgação científica. Sua atuação como mentor contribuiu para formar uma nova geração de pesquisadores em física teórica e cosmologia.
+Ao longo de sua carreira, Gleiser também orientou e influenciou diversos jovens cientistas, tanto no Brasil quanto no exterior. Sua atuação como mentor contribuiu para formar uma nova geração de pesquisadores em física teórica e cosmologia.
 
 Em 1991, ingressou como professor no Dartmouth College, nos Estados Unidos, onde atua até hoje como professor titular de física e astronomia, ocupando a cátedra Appleton Professor of Natural Philosophy, um dos títulos mais prestigiosos da instituição.
 
@@ -48,7 +48,36 @@ Marcelo Gleiser foi o primeiro latino-americano e o único brasileiro a receber 
 
 ## Escritor e Divulgador Científico
 
-Além da carreira acadêmica, Gleiser é um dos mais influentes divulgadores científicos do Brasil e do mundo. Escreveu diversos livros de sucesso, como "A Dança do Universo", "O Fim da Terra e do Céu", "Criação Imperfeita" e "A Simples Beleza do Inesperado". É colunista, apresentador de programas de TV e rádio, e fundador do Instituto de Engajamento com o Conhecimento (ICEC).
+Além da carreira acadêmica, Gleiser é um dos mais influentes divulgadores científicos do Brasil e do mundo. Sua trajetória como escritor começou com um impacto notável, e ele se consolidou como uma voz que une a complexidade da ciência à busca humana por significado.
+
+Seu primeiro livro, **'A Dança do Universo'**, foi publicado em 1997 pela editora **Companhia das Letras**. A obra rapidamente se tornou um best-seller no Brasil e foi agraciada com o **Prêmio Jabuti** em 1998, consolidando Gleiser como um dos principais nomes da divulgação científica no país.
+
+Suas principais obras, traduzidas para mais de 15 idiomas, incluem:
+
+*   **'A Dança do Universo' (1997):**
+    *   **Título em Inglês:** *'The Dancing Universe'* 
+    * Neste livro, Gleiser traça um panorama da história do pensamento cosmológico, desde os mitos de criação antigos até as teorias científicas modernas, como o Big Bang e a física de partículas. O livro foi um marco na divulgação científica no Brasil por sua linguagem acessível e por conectar a ciência com a filosofia e a busca humana por suas origens.
+
+*   **'O Fim da Terra e do Céu' (2001):**
+    * Gleiser explora a fascinação humana com o fim do mundo, analisando mitos apocalípticos, profecias religiosas e previsões científicas sobre o destino final do universo. A obra discute como a ciência moderna oferece novas narrativas sobre o fim, substituindo o medo pela compreensão racional dos processos cósmicos. Ganhou o Prêmio Jabuti em 2002.
+
+*   **'Criação Imperfeita' (2010):**
+    *   **Título em Inglês:** *'A Tear at the Edge of Creation'* 
+    * Publicado no Brasil com o título 'Criação Imperfeita', este livro argumenta que as assimetrias e "imperfeições" encontradas na natureza — desde o nível subatômico até as estruturas cósmicas — são a chave para a existência do universo como o conhecemos. A obra desafia a noção de um "design perfeito" e celebra a criatividade inerente aos processos naturais.
+
+*   **'A Ilha do Conhecimento' (2014):**
+    *   **Título em Inglês:** *'The Island of Knowledge'*
+    * Usando a metáfora de uma "ilha de conhecimento" em um "oceano de desconhecido", Gleiser defende que, quanto mais aprendemos sobre o universo, mais vasta se torna a fronteira com o que não sabemos. O livro é uma reflexão sobre os limites da ciência e a importância de reconhecer o mistério como motor da busca humana por conhecimento.
+
+*   **'A Simples Beleza do Inesperado' (2016):**
+    *   **Título em Inglês:** *'The Simple Beauty of the Unexpected'* (publicado em 2016)
+    * Nesta coletânea de ensaios, Gleiser conecta conceitos científicos a experiências cotidianas, explorando temas como o tempo, a vida, a morte e a busca pela felicidade. A obra convida o leitor a encontrar o maravilhamento e a beleza na ciência e no mundo ao seu redor, reforçando uma visão humanista do conhecimento científico.
+
+*   **'O Despertar do Universo Consciente' (2024):**
+    *   **Título em Inglês:** *'The Dawn of a Mindful Universe'* (publicado em 2023)
+    * Copérnico inaugurou uma linha de pensamento (epitomizada pelo princípio que leva seu nome) que tem retirado progressivamente o protagonismo do ser humano da sua própria noção de compreensão do mundo. "Um partícula insignificante em um universo vasto e frio" tornou-se a visão de uma humanidade com uma perspectiva cada vez mais sombria, e Gleiser atribui isso à perda da fagulha da curiosidade, da missão moral e do foco compassivo da ciência. Ele nos convida a recuperar esse sentimento, reconstruir um novo Iluminismo visando salvar a civilização e dar uma nova direção à humanidade.
+
+Além dos livros, Gleiser é colunista, apresentador de programas de TV e rádio, e fundador do Institute for Cross-Disciplinary Engagement (ICE). Nos últimos anos, tem se dedicado a campanhas pela valorização da ciência, do pensamento crítico e pela conservação do planeta, alertando para a urgência de ações em defesa do meio ambiente e da vida na Terra.
 
 Nos últimos anos, Gleiser tem se dedicado a campanhas pela valorização da ciência, do pensamento crítico e pela conservação do planeta, alertando para a urgência de ações em defesa do meio ambiente e da vida na Terra.
 
