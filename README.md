@@ -5,7 +5,7 @@
 [![GitHub downloads](https://img.shields.io/github/downloads/fhcflx/ciencia-medica/total.svg)](https://github.com/fhcflx/ciencia-medica/releases)
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--8398--0993-blue.svg)](https://orcid.org/0000-0002-8398-0993)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0)
-[![Build](https://github.com/fhcflx/ciencia-medica/.github/workflows/jekyll.yml/badge.svg)](https://github.com/fhcflx/ciencia-medica)
+[![Deploy to GitHub Pages](https://github.com/fhcflx/ciencia-medica/actions/workflows/jekyll.yml/badge.svg)](https://github.com/fhcflx/ciencia-medica/actions/workflows/jekyll.yml)
 
 ## O que é:
 
