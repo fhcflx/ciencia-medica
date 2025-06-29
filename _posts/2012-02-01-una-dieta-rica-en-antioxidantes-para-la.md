@@ -1,6 +1,5 @@
 ---
 layout: post
-published: FALSE
 title: Una dieta rica en antioxidantes para la prevención del accidente cerebrovascular - via Revista de Neurología
 date: '2012-02-01T23:52:00.000-03:00'
 author: Francisco H C Felix

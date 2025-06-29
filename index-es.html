@@ -1,0 +1,26 @@
+---
+layout: full-width
+title: Ciencia Médica
+lang: es
+ref: index
+description: "Blog de Ciencia Médica, investigación, oncología pediátrica, farmacología y ciencias de la salud. Versión en español."
+# Note que esta página de índice usa um layout de largura total!
+---
+
+<div class="home">
+  <h1 class="page-heading">Publicaciones</h1>
+  <h1 class="content-listing-header sans">Artículos</h1>
+  <ul class="content-listing ">
+    {% assign posts=site.posts | where:"lang", page.lang %}
+    {% for post in posts limit:10 %}
+        <li class="listing">
+          <hr class="slender">
+          <a href="{{ post.url | prepend: site.baseurl }}"><h3 class="contrast">{{ post.title }}</h3></a>
+          <br><span class="smaller">{{ post.date | date: "%d/%m/%Y" }}</span>  <br/>
+          <div> {{ post.excerpt }} </div>
+        </li>
+    {% endfor %}
+  <a href="{{ site.baseurl }}/todas-las-publicaciones/"><h3 class="contrast">Todas las publicaciones</h3></a>
+  </ul>
+  <p class="rss-subscribe">suscríbete <a href="{{ "/feed.xml" | prepend: site.baseurl }}">vía RSS</a></p>
+</div>

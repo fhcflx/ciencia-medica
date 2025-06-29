@@ -1,6 +1,5 @@
 ---
 layout: post
-published: FALSE
 title: 'Marcelo Gleiser: O Físico Brasileiro Premiado com o Templeton'
 date: '2025-06-24T12:00:00-03:00'
 author: ffelix
@@ -22,7 +21,10 @@ O físico brasileiro **Marcelo Gleiser** é reconhecido internacionalmente por s
 
 ## Biografia e Formação
 
-Marcelo Gleiser nasceu em 19 de março de 1959, no Rio de Janeiro. Estudou física na Universidade Federal do Rio de Janeiro (UFRJ), onde se graduou em 1981. Em seguida, fez mestrado no Instituto de Física Teórica da Universidade Estadual Paulista (IFT-Unesp), com a dissertação intitulada "Soluções de Vórtice em Teorias de Gauge Abelianas e Não-Abelianas" (1982), sob orientação do Prof. Dr. Mario Novello. Nesse trabalho, Gleiser estudou estruturas chamadas "vórtices" — regiões onde campos físicos se organizam de modo semelhante a redemoinhos — em teorias fundamentais da física, buscando entender como padrões e estruturas podem surgir espontaneamente na natureza.
+Marcelo Gleiser nasceu em 19 de março de 1959, no Rio de Janeiro. De família judaica, ele conta que, no seu Bar Mitzvah, ganhou de sua tia uma foto autografada de Einstein. Estudou física na Universidade Federal do Rio de Janeiro (UFRJ), onde se graduou em 1981. Em seguida, fez mestrado no Instituto de Física Teórica da Universidade Estadual Paulista (IFT-Unesp), com a dissertação intitulada "Soluções de Vórtice em Teorias de Gauge Abelianas e Não-Abelianas" (1982), sob orientação do Prof. Dr. Mario Novello. Nesse trabalho, Gleiser estudou estruturas chamadas "vórtices" — regiões onde campos físicos se organizam de modo semelhante a redemoinhos — em teorias fundamentais da física, buscando entender como padrões e estruturas podem surgir espontaneamente na natureza.
+
+![Einstein no Brasil em 1925]({{ page.baseurl }}/assets/img/einstein-gleiser.jpg)
+_Albert Einstein e Isidoro Kohn, amigo do avô paterno e tio da madrasta de Marcelo Gleiser, no Brasil em 1925. Kohn havia emprestado a gravata que Einstein está usando na foto._
 
 Posteriormente, fez doutorado (PhD) em física teórica na King's College London, Reino Unido, concluído em 1986, sob orientação do Prof. Dr. Michael E. Fisher. Sua tese, intitulada "Phase Transitions in the Early Universe" (Transições de Fase no Universo Primordial), investigou como mudanças bruscas e fundamentais — semelhantes à transformação da água em gelo — podem ter ocorrido nos primeiros instantes do universo, influenciando a formação de estruturas cósmicas e a evolução do cosmos.
 

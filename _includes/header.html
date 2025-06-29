@@ -13,14 +13,7 @@
 		    {% endif %}
 	    {% endunless %}
   	{% endfor %}
-        <!--<div class="trigger">
-            {% assign pages=site.pages | where:"lang", page.lang %}
-            {% for my_page in pages %}
-               {% if my_page.title %}
-               <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
-               {% endif %}
-            {% endfor %}
-            </div>-->
+
   </nav>
 <div class="wrapper" style="text-align: right; line-height: 2em">
   {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
@@ -29,6 +22,8 @@
       <a href="{{ post.url | prepend: site.baseurl }}" class="pt-br">Português</a>
     {% elsif post.lang == 'en' or post.lang == 'en-us' %}
       <a href="{{ post.url | prepend: site.baseurl }}" class="en">English</a>
+    {% elsif post.lang == 'es' %}
+      <a href="{{ post.url | prepend: site.baseurl }}" class="es">Español</a>
     {% endif %}
   {% endfor %}
   {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
@@ -37,6 +32,8 @@
       <a href="{{ page.url | prepend: site.baseurl }}" class="pt-br">Português</a>
     {% elsif page.lang == 'en' or page.lang == 'en-us' %}
       <a href="{{ page.url | prepend: site.baseurl }}" class="en">English</a>
+    {% elsif page.lang == 'es' %}
+      <a href="{{ page.url | prepend: site.baseurl }}" class="es">Español</a>
     {% endif %}
   {% endfor %}
 </div>

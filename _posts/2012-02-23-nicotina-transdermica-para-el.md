@@ -1,6 +1,5 @@
 ---
 layout: post
-published: FALSE
 title: Nicotina transdérmica para el tratamiento del deterioro cognitivo leve - via Revista de Neurología
 date: '2012-02-23T15:17:00.000-03:00'
 author: Francisco H C Felix
@@ -20,7 +19,7 @@ La nicotina transdérmica puede administrarse con seguridad a sujetos con deteri
 
 El estudio aleatorizado contó con una muestra de 74 personas con DCL, 39 de ellas asignadas al grupo de tratamiento (15 mg/día de nicotina transdérmica durante seis meses) y 35 al grupo con placebo. La principal prueba del resultado cognitivo (*Connors Continuous Performance Test*) mostró una significativa mejoría inducida por la nicotina. Se llegó a la conclusión de que este primer estudio proporciona evidencia de mejora cognitiva inducida por la nicotina en sujetos con DCL, pero se requieren estudios más amplios para comprobar si estos efectos son clínicamente relevantes.
 
-[Neurology 2012](https://www.neurology.org/content/78/2/91.abstract?etoc)  
+[Neurology 2012](https://pmc.ncbi.nlm.nih.gov/articles/PMC3466669/)  
 Newhouse P, Kellar K, Aisen P, White H, Wesnes K, Coderre E, et al
 
 Lee el post original en [Pharmakon]({{ page.blogger_orig_url }})

@@ -1,6 +1,5 @@
 ---
 layout: post
-published: FALSE
 title: El pescado, café y alcohol pueden retrasar la progresión de la esclerosis múltiple - via Revista de Neurología
 date: '2012-02-01T23:46:00.003-03:00'
 author: Francisco H C Felix
