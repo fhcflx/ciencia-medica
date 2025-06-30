@@ -6,18 +6,27 @@
 </description>
     <link>https://fhcflx.github.io/ciencia-medica/</link>
     <atom:link href="https://fhcflx.github.io/ciencia-medica/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 30 Jun 2025 00:21:01 -0300</pubDate>
-    <lastBuildDate>Mon, 30 Jun 2025 00:21:01 -0300</lastBuildDate>
+    <pubDate>Mon, 30 Jun 2025 01:26:47 -0300</pubDate>
+    <lastBuildDate>Mon, 30 Jun 2025 01:26:47 -0300</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
     
       <item>
         <title>Marcelo Gleiser: O Físico Brasileiro Premiado com o Templeton</title>
-        <description>&lt;p&gt;O físico brasileiro &lt;strong&gt;Marcelo Gleiser&lt;/strong&gt; é reconhecido internacionalmente por suas contribuições à ciência e à divulgação científica. Em 2019, tornou-se o primeiro latino-americano e o único brasileiro a receber o prestigioso &lt;strong&gt;Prêmio Templeton&lt;/strong&gt;, um dos maiores prêmios internacionais concedidos a cientistas e pensadores que ampliam a compreensão da humanidade sobre a existência.
-&lt;!--more--&gt;&lt;/p&gt;
+        <description>&lt;p&gt;O físico brasileiro &lt;strong&gt;&lt;a href=&quot;https://pt.wikipedia.org/wiki/Marcelo_Gleiser&quot;&gt;Marcelo Gleiser&lt;/a&gt;&lt;/strong&gt; é reconhecido internacionalmente por suas contribuições à ciência e à divulgação científica. Em 2019, tornou-se o primeiro latino-americano e o único brasileiro a receber o prestigioso &lt;strong&gt;Prêmio Templeton&lt;/strong&gt;&lt;label for=&quot;premio-templeton&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;premio-templeton&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;&lt;strong&gt;Prêmio Templeton:&lt;/strong&gt; Prêmio internacional criado em 1972 para reconhecer pessoas que contribuem de forma excepcional para afirmar a dimensão espiritual da vida, seja por meio de descobertas científicas, filosóficas ou ações práticas.&lt;/span&gt;
+, um dos maiores prêmios internacionais concedidos a cientistas e pensadores que ampliam a compreensão da humanidade sobre a existência. O próprio Gleiser se define como agnóstico, defendendo o diálogo entre ciência e espiritualidade. &lt;label for=&quot;agnosticismo&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;agnosticismo&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;&lt;strong&gt;Agnosticismo:&lt;/strong&gt; Posição filosófica segundo a qual não é possível afirmar nem negar a existência de Deus, do divino ou de realidades metafísicas, por falta de evidências suficientes. O agnosticismo é comum em debates sobre ciência e espiritualidade.&lt;/span&gt;&lt;/p&gt;
+
+&lt;!--more--&gt;
 
 &lt;h2 id=&quot;biografia-e-formação&quot;&gt;Biografia e Formação&lt;/h2&gt;
 
-&lt;p&gt;Marcelo Gleiser nasceu em 19 de março de 1959, no Rio de Janeiro. De família judaica, ele conta que, no seu Bar Mitzvah, ganhou de sua tia uma foto autografada de Einstein. Na foto estão Einstein e Isidoro Kohn, tio da madrasta de Gleiser. O avô paterno de Gleiser também acompanhou Einstein nessa visita ao Rio, em 1925. Segundo o relato familiar, Isidoro emprestou a gravata que Einstein usa na foto. Esta foto inspirou Marcelo Gleiser, então um adolescente fascinado pela natureza, a buscar uma carreira na física. Em seu livro “&lt;a href=&quot;#escritor-e-divulgador-científico&quot;&gt;Criação Imperfeita&lt;/a&gt;”, ele relata que, após a morte da mãe, passou por um período difícil de incertezas, e a busca de conhecimento científico foi uma das coisas que o ajudou a superar. Outra foi o esporte, tendo jogado vôlei e participado inclusive da vitória do time brasileiro no campeaonato junior em 1974, junto com &lt;a href=&quot;https://pt.wikipedia.org/wiki/Bernardinho&quot;&gt;Bernardinho&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Marcelo Gleiser nasceu em 19 de março de 1959, no Rio de Janeiro. De família judaica, ele conta que, no seu Bar Mitzvah&lt;label for=&quot;bar-mitzvah&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;bar-mitzvah&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;&lt;strong&gt;Bar Mitzvah:&lt;/strong&gt; Cerimônia judaica que marca a maioridade religiosa de meninos aos 13 anos. Após o Bar Mitzvah, o jovem passa a ser responsável por seus atos perante a lei judaica e pode participar plenamente dos rituais religiosos.&lt;/span&gt;
+, ganhou de sua tia uma foto autografada de Einstein.  Na foto estão Einstein e Isidoro Kohn, tio da madrasta de Gleiser. O avô paterno de Gleiser também acompanhou Einstein nessa visita ao Rio, em 1925. Segundo o relato familiar, Isidoro emprestou a gravata que Einstein usa na foto. Esta foto inspirou Marcelo Gleiser, então um adolescente fascinado pela natureza, a buscar uma carreira na física. Em seu livro “&lt;a href=&quot;#escritor-e-divulgador-científico&quot;&gt;Criação Imperfeita&lt;/a&gt;”, ele relata que, após a morte da mãe, passou por um período difícil de incertezas, e a busca de conhecimento científico foi uma das coisas que o ajudou a superar. Outra foi o esporte, tendo jogado vôlei e participado inclusive da vitória do time brasileiro no campeaonato junior em 1974, junto com &lt;a href=&quot;https://pt.wikipedia.org/wiki/Bernardinho&quot;&gt;Bernardinho&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/ciencia-medica/assets/img/einstein-gleiser.jpg&quot; alt=&quot;Einstein no Brasil em 1925&quot; /&gt;
 &lt;em&gt;Albert Einstein e Isidoro Kohn, amigo do avô paterno e tio da madrasta de Marcelo Gleiser, no Brasil em 1925. Kohn havia emprestado a gravata que Einstein está usando na foto.&lt;/em&gt;&lt;/p&gt;
@@ -30,13 +39,19 @@
 
 &lt;p&gt;Em seguida, trabalhou também no Instituto de Física Teórica da Unesp, onde colaborou com grupos de pesquisa em física teórica e cosmologia, orientou jovens pesquisadores e participou de projetos sobre simetrias fundamentais, formação de estruturas no universo e modelos de matéria exótica. Sua atuação contribuiu para fortalecer a pesquisa em cosmologia no Brasil e ampliar o intercâmbio científico internacional.&lt;/p&gt;
 
-&lt;p&gt;Ao longo de sua carreira, Gleiser também orientou e influenciou diversos jovens cientistas, tanto no Brasil quanto no exterior. Sua atuação como mentor contribuiu para formar uma nova geração de pesquisadores em física teórica e cosmologia.&lt;/p&gt;
+&lt;p&gt;Ao longo de sua carreira, Gleiser também orientou e influenciou diversos jovens cientistas, tanto no Brasil quanto no exterior, como &lt;a href=&quot;https://en.wikipedia.org/wiki/Sara_Imari_Walker&quot;&gt;Sara Imari Walker&lt;/a&gt;. Sua atuação como mentor contribuiu para formar uma nova geração de pesquisadores em física teórica e cosmologia.&lt;/p&gt;
 
 &lt;p&gt;Em 1991, ingressou como professor no Dartmouth College, nos Estados Unidos, onde atua até hoje como professor titular de física e astronomia, ocupando a cátedra Appleton Professor of Natural Philosophy, um dos títulos mais prestigiosos da instituição.&lt;/p&gt;
 
 &lt;h2 id=&quot;trabalhos-destacados&quot;&gt;Trabalhos Destacados&lt;/h2&gt;
 
-&lt;p&gt;Gleiser é especialista em cosmologia, física de partículas e astrobiologia. Destacou-se por pesquisas sobre a origem e evolução do universo, simetrias fundamentais, transições de fase cósmicas e a busca por vida fora da Terra. Publicou mais de 100 artigos científicos e é referência internacional em temas como quebra de simetria e formação de estruturas cósmicas.&lt;/p&gt;
+&lt;p&gt;Gleiser é especialista em cosmologia&lt;label for=&quot;cosmologia&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;cosmologia&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;&lt;strong&gt;Cosmologia:&lt;/strong&gt; Ramo da ciência que estuda a origem, estrutura, evolução e eventual destino do universo como um todo, integrando conhecimentos da física, astronomia e filosofia.&lt;/span&gt;
+, física de partículas e astrobiologia&lt;label for=&quot;astrobiologia&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;astrobiologia&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;&lt;strong&gt;Astrobiologia:&lt;/strong&gt; Área interdisciplinar que investiga a origem, evolução, distribuição e futuro da vida no universo, incluindo a busca por vida em outros planetas.&lt;/span&gt;
+.   Destacou-se por pesquisas sobre a origem e evolução do universo, simetrias fundamentais, transições de fase cósmicas e a busca por vida fora da Terra. Publicou mais de 100 artigos científicos e é referência internacional em temas como quebra de simetria e formação de estruturas cósmicas.&lt;/p&gt;
 
 &lt;p&gt;Entre seus trabalhos de maior destaque está a proposta do “Princípio da Vida Rara” (Rare Life Principle), em que Gleiser argumenta que a vida complexa no universo pode ser muito mais rara do que se imagina, devido à combinação de fatores físicos, químicos e biológicos necessários para sua emergência. Ele também contribuiu para o debate sobre a definição de vida e os limites da habitabilidade planetária, sendo referência internacional em astrobiologia. Gleiser participou de colaborações com a NASA e outros centros de pesquisa, discutindo as condições para a existência de vida fora da Terra e os desafios da busca por biossinais em exoplanetas.&lt;/p&gt;
 
@@ -51,7 +66,10 @@
 
 &lt;h2 id=&quot;escritor-e-divulgador-científico&quot;&gt;Escritor e Divulgador Científico&lt;/h2&gt;
 
-&lt;p&gt;Além da carreira acadêmica, Gleiser é um dos mais influentes divulgadores científicos do Brasil e do mundo. Sua trajetória como escritor começou com um impacto notável, e ele se consolidou como uma voz que une a complexidade da ciência à busca humana por significado.&lt;/p&gt;
+&lt;p&gt;Além da carreira acadêmica, Gleiser é um dos mais influentes divulgadores científicos do Brasil e do mundo. &lt;label for=&quot;divulgacao-cientifica&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;divulgacao-cientifica&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;&lt;strong&gt;Divulgação científica:&lt;/strong&gt; Atividade de comunicar conhecimentos científicos para o público leigo, tornando a ciência acessível e compreensível, e promovendo o pensamento crítico na sociedade.&lt;/span&gt;
+ Sua trajetória como escritor começou com um impacto notável, e ele se consolidou como uma voz que une a complexidade da ciência à busca humana por significado.&lt;/p&gt;
 
 &lt;p&gt;Seu primeiro livro, &lt;strong&gt;‘A Dança do Universo’&lt;/strong&gt;, foi publicado em 1997 pela editora &lt;strong&gt;Companhia das Letras&lt;/strong&gt;. A obra rapidamente se tornou um best-seller no Brasil e foi agraciada com o &lt;strong&gt;Prêmio Jabuti&lt;/strong&gt; em 1998, consolidando Gleiser como um dos principais nomes da divulgação científica no país.&lt;/p&gt;
 
@@ -66,7 +84,7 @@ Gleiser explora a fascinação humana com o fim do mundo, analisando mitos apoca
 
 &lt;p&gt;&lt;strong&gt;‘Criação Imperfeita’ (2010):&lt;/strong&gt;
 &lt;strong&gt;Título em Inglês:&lt;/strong&gt; &lt;em&gt;‘A Tear at the Edge of Creation’&lt;/em&gt; 
-Publicado no Brasil com o título ‘Criação Imperfeita’, este livro argumenta que as assimetrias e “imperfeições” encontradas na natureza — desde o nível subatômico até as estruturas cósmicas — são a chave para a existência do universo como o conhecemos. A obra desafia a noção de um “design perfeito” e celebra a criatividade inerente aos processos naturais.&lt;/p&gt;
+Publicado no Brasil com o título ‘Criação Imperfeita’, este livro argumenta que as assimetrias e “imperfeições” encontradas na natureza — desde o nível subatômico até as estruturas cósmicas — são a chave para a existência do universo como o conhecemos. A obra desafia a noção de um “design perfeito” e celebra a criatividade inerente aos processos naturais. Ao privilegiar uma visão onde a busca pela ordem perfeita como fundamento da realidade é substituída pela “imperfeição”, pela assimetria como origem dos principais fenômenos que observamos, Gleiser recupera, de certa forma, uma visão epicurista (vazio e partículas movendo-se aleatoriamente) dos fundamentos do conhecimento, em contraste com o platonismo que parece ter sido predominante no pensamento ocidental e está, na verdade, cada vez mais forte.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;‘A Ilha do Conhecimento’ (2014):&lt;/strong&gt;
 &lt;strong&gt;Título em Inglês:&lt;/strong&gt; &lt;em&gt;‘The Island of Knowledge’&lt;/em&gt;
@@ -82,7 +100,7 @@ Copérnico inaugurou uma linha de pensamento (epitomizada pelo princípio que le
 
 &lt;p&gt;Além dos livros, Gleiser é colunista, apresentador de programas de TV e rádio, e fundador do Institute for Cross-Disciplinary Engagement (ICE). Nos últimos anos, tem se dedicado a campanhas pela valorização da ciência, do pensamento crítico e pela conservação do planeta, alertando para a urgência de ações em defesa do meio ambiente e da vida na Terra.&lt;/p&gt;
 
-&lt;p&gt;Nos últimos anos, Gleiser tem se dedicado a campanhas pela valorização da ciência, do pensamento crítico e pela conservação do planeta, alertando para a urgência de ações em defesa do meio ambiente e da vida na Terra.&lt;/p&gt;
+&lt;p&gt;Nos últimos anos, Gleiser tem se dedicado a campanhas pela valorização da ciência, do pensamento crítico e pela conservação do planeta, alertando para a urgência de ações em defesa do meio ambiente e da vida na Terra. Uma de suas iniciativas mais recentes é o Podcast &lt;a href=&quot;https://www.google.com/url?sa=t&amp;amp;source=web&amp;amp;rct=j&amp;amp;opi=89978449&amp;amp;url=https://www.youtube.com/watch%3Fv%3DGXXOl35LA1U&amp;amp;ved=2ahUKEwjS3aiwnZiOAxU0rZUCHXUqOWMQwqsBegQIDRAG&amp;amp;usg=AOvVaw2hH0FDW6gDQlqdmN4mez51&quot;&gt;The Blind Spot&lt;/a&gt;, protagonizado por Gleiser, o físico e divulgador científico Adam Frank, da Universidade de Rochester e o filósofo Evan Thompson, da Universidade da Colúmbia Britânica. No primeiro episódio eles discutiram a natureza do conhecimento, da objetividade e da ciência, e as relações do projeto filosófico e científico ocidental com as religiões monoteístas, um tema recorrente na obra de Gleiser.&lt;/p&gt;
 
 &lt;h2 id=&quot;referências&quot;&gt;Referências&lt;/h2&gt;
 
@@ -91,6 +109,7 @@ Copérnico inaugurou uma linha de pensamento (epitomizada pelo princípio que le
   &lt;li&gt;&lt;a href=&quot;https://pt.wikipedia.org/wiki/Marcelo_Gleiser&quot;&gt;Wikipedia: Marcelo Gleiser&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Templeton_Prize&quot;&gt;Wikipedia: Templeton Prize&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+
 </description>
         <pubDate>Tue, 24 Jun 2025 12:00:00 -0300</pubDate>
         <link>https://fhcflx.github.io/ciencia-medica/2025/06/24/marcelo-gleiser-templeton.html</link>
@@ -105,6 +124,238 @@ Copérnico inaugurou uma linha de pensamento (epitomizada pelo princípio que le
         <category>Divulgação científica</category>
         
         <category>Prêmios internacionais</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Marcelo Gleiser: El físico brasileño premiado con el Templeton</title>
+        <description>&lt;p&gt;El físico brasileño &lt;strong&gt;&lt;a href=&quot;https://es.wikipedia.org/wiki/Marcelo_Gleiser&quot;&gt;Marcelo Gleiser&lt;/a&gt;&lt;/strong&gt; es reconocido internacionalmente por sus contribuciones a la ciencia y a la divulgación científica. En 2019, se convirtió en el primer latinoamericano y el único brasileño en recibir el prestigioso &lt;strong&gt;Premio Templeton&lt;/strong&gt;&lt;label for=&quot;premio-templeton-es&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;premio-templeton-es&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;&lt;strong&gt;Premio Templeton:&lt;/strong&gt; Premio internacional creado en 1972 para reconocer a personas que contribuyen de manera excepcional a afirmar la dimensión espiritual de la vida, ya sea mediante descubrimientos científicos, reflexiones filosóficas o acciones prácticas.&lt;/span&gt;
+, uno de los premios más importantes del mundo para científicos y pensadores que amplían la comprensión de la existencia humana. El propio Gleiser se define como agnóstico, defendiendo el diálogo entre ciencia y espiritualidad. &lt;label for=&quot;agnosticismo-es&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;agnosticismo-es&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;&lt;strong&gt;Agnosticismo:&lt;/strong&gt; Posición filosófica según la cual no es posible afirmar ni negar la existencia de Dios, de lo divino o de realidades metafísicas, por falta de pruebas suficientes. El agnosticismo es común en debates sobre ciencia y espiritualidad.&lt;/span&gt;&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;h2 id=&quot;biografía-y-formación&quot;&gt;Biografía y Formación&lt;/h2&gt;
+
+&lt;p&gt;Marcelo Gleiser nació el 19 de marzo de 1959 en Río de Janeiro. De familia judía, cuenta que en su Bar Mitzvah&lt;label for=&quot;bar-mitzvah-es&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;bar-mitzvah-es&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;&lt;strong&gt;Bar Mitzvah:&lt;/strong&gt; Ceremonia judía que marca la mayoría de edad religiosa de los niños a los 13 años. Después del Bar Mitzvah, el joven es responsable de sus actos según la ley judía y puede participar plenamente en los rituales religiosos.&lt;/span&gt;
+ recibió de su tía una foto autografiada de Einstein. En la foto están Einstein e Isidoro Kohn, tío de su madrastra. El abuelo paterno de Gleiser también acompañó a Einstein en esa visita a Río en 1925. Según el relato familiar, Isidoro prestó la corbata que Einstein usa en la foto. Esta foto inspiró a Marcelo Gleiser, entonces un adolescente fascinado por la naturaleza, a buscar una carrera en la física. En su libro “&lt;a href=&quot;#escritor-y-divulgador-cientifico&quot;&gt;Criação Imperfeita&lt;/a&gt;”, relata que, tras la muerte de su madre, pasó por un período difícil de incertidumbre, y la búsqueda de conocimiento científico fue una de las cosas que le ayudó a superarlo. Otra fue el deporte, habiendo jugado voleibol y participado incluso en la victoria del equipo juvenil brasileño en 1974, junto a &lt;a href=&quot;https://es.wikipedia.org/wiki/Bernardo_Resende&quot;&gt;Bernardinho&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/ciencia-medica/assets/img/einstein-gleiser.jpg&quot; alt=&quot;Einstein en Brasil, 1925&quot; /&gt;
+&lt;em&gt;Albert Einstein e Isidoro Kohn, amigo del abuelo paterno y tío de la madrastra de Marcelo Gleiser, en Brasil en 1925. Kohn había prestado la corbata que Einstein usa en la foto.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Estudió física en la Universidad Federal de Río de Janeiro (UFRJ), donde se graduó en 1981. Luego obtuvo una maestría en el Instituto de Física Teórica de la Universidad Estatal Paulista (IFT-Unesp), con la disertación titulada “Soluciones de vórtice en teorías de gauge abelianas y no abelianas” (1982), bajo la supervisión del Prof. Dr. Mario Novello. En ese trabajo, Gleiser estudió estructuras llamadas “vórtices”—regiones donde los campos físicos se organizan de manera similar a los remolinos—en teorías fundamentales de la física, buscando entender cómo los patrones y estructuras pueden surgir espontáneamente en la naturaleza.&lt;/p&gt;
+
+&lt;p&gt;Posteriormente, realizó su doctorado (PhD) en física teórica en el King’s College London, Reino Unido, finalizado en 1986 bajo la orientación del Prof. Dr. Michael E. Fisher. Su tesis, titulada “Transiciones de fase en el universo primitivo”, investigó cómo cambios bruscos y fundamentales—similares a la transformación del agua en hielo—pudieron haber ocurrido en los primeros instantes del universo, influyendo en la formación de estructuras cósmicas y la evolución del cosmos.&lt;/p&gt;
+
+&lt;p&gt;Tras el doctorado, trabajó como investigador posdoctoral en Fermilab (Fermi National Accelerator Laboratory), en Estados Unidos, bajo la supervisión del físico Edward W. Kolb (Rocky Kolb), referencia mundial en cosmología física. Allí, Gleiser desarrolló investigaciones independientes y colaborativas en cosmología teórica, especialmente sobre transiciones de fase en el universo primitivo y la formación de estructuras cósmicas. Su trabajo resultó en importantes publicaciones científicas, profundizando la conexión entre la física de partículas y la evolución del universo tras el Big Bang.&lt;/p&gt;
+
+&lt;p&gt;Luego trabajó también en el Instituto de Física Teórica de la Unesp, donde colaboró con grupos de investigación en física teórica y cosmología, orientó a jóvenes investigadores y participó en proyectos sobre simetrías fundamentales, formación de estructuras en el universo y modelos de materia exótica. Su actuación contribuyó a fortalecer la investigación en cosmología en Brasil y ampliar el intercambio científico internacional.&lt;/p&gt;
+
+&lt;p&gt;A lo largo de su carrera, Gleiser también orientó e influyó en numerosos jóvenes científicos, tanto en Brasil como en el extranjero, como &lt;a href=&quot;https://en.wikipedia.org/wiki/Sara_Imari_Walker&quot;&gt;Sara Imari Walker&lt;/a&gt;. Su papel como mentor ayudó a formar una nueva generación de investigadores en física teórica y cosmología.&lt;/p&gt;
+
+&lt;p&gt;En 1991, ingresó como profesor en Dartmouth College, en Estados Unidos, donde actúa hasta hoy como profesor titular de física y astronomía, ocupando la cátedra Appleton Professor of Natural Philosophy, uno de los títulos más prestigiosos de la institución.&lt;/p&gt;
+
+&lt;h2 id=&quot;trabajos-destacados&quot;&gt;Trabajos Destacados&lt;/h2&gt;
+
+&lt;p&gt;Gleiser es especialista en cosmología&lt;label for=&quot;cosmologia-es&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;cosmologia-es&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;&lt;strong&gt;Cosmología:&lt;/strong&gt; Rama de la ciencia que estudia el origen, la estructura, la evolución y el destino final del universo en su conjunto, integrando conocimientos de física, astronomía y filosofía.&lt;/span&gt;
+, física de partículas y astrobiología&lt;label for=&quot;astrobiologia-es&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;astrobiologia-es&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;&lt;strong&gt;Astrobiología:&lt;/strong&gt; Campo interdisciplinario que investiga el origen, la evolución, la distribución y el futuro de la vida en el universo, incluyendo la búsqueda de vida en otros planetas.&lt;/span&gt;
+. Se destacó por investigaciones sobre el origen y la evolución del universo, simetrías fundamentales, transiciones de fase cósmicas y la búsqueda de vida fuera de la Tierra. Publicó más de 100 artículos científicos y es referencia internacional en temas como ruptura de simetría y formación de estructuras cósmicas.&lt;/p&gt;
+
+&lt;p&gt;Entre sus trabajos más destacados está la propuesta del “Principio de la Vida Rara”, en la que Gleiser argumenta que la vida compleja en el universo puede ser mucho más rara de lo que se imagina, debido a la combinación de factores físicos, químicos y biológicos necesarios para su surgimiento. También contribuyó al debate sobre la definición de vida y los límites de la habitabilidad planetaria, siendo referencia internacional en astrobiología. Gleiser participó en colaboraciones con la NASA y otros centros de investigación, discutiendo las condiciones para la existencia de vida fuera de la Tierra y los desafíos de la búsqueda de bioseñales en exoplanetas.&lt;/p&gt;
+
+&lt;h2 id=&quot;el-premio-templeton&quot;&gt;El Premio Templeton&lt;/h2&gt;
+
+&lt;p&gt;El Premio Templeton fue creado en 1972 por el filántropo británico John Templeton para reconocer a personas que “contribuyen de manera excepcional a afirmar la dimensión espiritual de la vida, ya sea mediante reflexiones, descubrimientos o trabajos prácticos”. &lt;label for=&quot;premio-templeton-es&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;premio-templeton-es&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;&lt;strong&gt;Premio Templeton:&lt;/strong&gt; Premio internacional creado en 1972 para reconocer a personas que contribuyen de manera excepcional a afirmar la dimensión espiritual de la vida, ya sea mediante descubrimientos científicos, reflexiones filosóficas o acciones prácticas.&lt;/span&gt;
+ El valor del premio supera al del Nobel, y ya ha sido concedido a nombres como la Madre Teresa de Calcuta (la primera galardonada), el Dalai Lama, Desmond Tutu, Charles Taylor, Freeman Dyson y Martin Rees. El Templeton es considerado uno de los mayores reconocimientos mundiales para científicos, filósofos y líderes espirituales, y a menudo se lo compara con el Nobel en prestigio.&lt;/p&gt;
+
+&lt;p&gt;Marcelo Gleiser fue el primer latinoamericano y el único brasileño en recibir el Templeton, en 2019. La ceremonia tuvo lugar en Nueva York, Estados Unidos. Gleiser fue galardonado por su trabajo pionero al explorar las grandes cuestiones de la existencia humana, la relación entre ciencia y espiritualidad, y por su defensa del diálogo entre diferentes formas de conocimiento.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/0/06/Marcelo_Gleiser_no_Fronteiras_do_Pensamento_Florian%C3%B3polis_2013_%2810277998645%29.jpg&quot; alt=&quot;Marcelo Gleiser&quot; /&gt;
+&lt;em&gt;Marcelo Gleiser en Fronteiras do Pensamento (Florianópolis, 2013).&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;escritor-y-divulgador-científico&quot;&gt;Escritor y Divulgador Científico&lt;/h2&gt;
+
+&lt;p&gt;Además de su carrera académica, Gleiser es uno de los divulgadores científicos más influyentes de Brasil y del mundo. &lt;label for=&quot;divulgacao-cientifica-es&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;divulgacao-cientifica-es&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;&lt;strong&gt;Divulgación científica:&lt;/strong&gt; Actividad de comunicar conocimientos científicos al público general, haciendo la ciencia accesible y comprensible, y promoviendo el pensamiento crítico en la sociedad.&lt;/span&gt;
+ Su trayectoria como escritor comenzó con un impacto notable, y se consolidó como una voz que une la complejidad de la ciencia con la búsqueda humana de significado.&lt;/p&gt;
+
+&lt;p&gt;Su primer libro, &lt;strong&gt;‘La Danza del Universo’&lt;/strong&gt;, fue publicado en 1997 por la editorial &lt;strong&gt;Companhia das Letras&lt;/strong&gt;. La obra rápidamente se convirtió en un best-seller en Brasil y fue galardonada con el &lt;strong&gt;Premio Jabuti&lt;/strong&gt; en 1998, consolidando a Gleiser como uno de los principales nombres de la divulgación científica en el país.&lt;/p&gt;
+
+&lt;p&gt;Sus principales obras, traducidas a más de 15 idiomas, incluyen:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;‘La Danza del Universo’ (1997):&lt;/strong&gt;
+En este libro, Gleiser traza un panorama de la historia del pensamiento cosmológico, desde los mitos de creación antiguos hasta las teorías científicas modernas, como el Big Bang y la física de partículas. El libro fue un hito en la divulgación científica en Brasil por su lenguaje accesible y por conectar la ciencia con la filosofía y la búsqueda humana de sus orígenes.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;‘El Fin de la Tierra y del Cielo’ (2001):&lt;/strong&gt;
+Gleiser explora la fascinación humana con el fin del mundo, analizando mitos apocalípticos, profecías religiosas y predicciones científicas sobre el destino final del universo. La obra discute cómo la ciencia moderna ofrece nuevas narrativas sobre el fin, sustituyendo el miedo por la comprensión racional de los procesos cósmicos. Ganó el Premio Jabuti en 2002.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;‘Creación Imperfecta’ (2010):&lt;/strong&gt;
+Publicado en Brasil como ‘Criação Imperfeita’, este libro argumenta que las asimetrías e “imperfecciones” encontradas en la naturaleza—desde el nivel subatómico hasta las estructuras cósmicas—son la clave para la existencia del universo tal como lo conocemos. La obra desafía la noción de un “diseño perfecto” y celebra la creatividad inherente a los procesos naturales. Al privilegiar una visión donde la búsqueda del orden perfecto como fundamento de la realidad es sustituida por la “imperfección”, por la asimetría como origen de los principales fenómenos que observamos, Gleiser recupera, de cierta forma, una visión epicúrea (vacío y partículas moviéndose aleatoriamente) de los fundamentos del conocimiento, en contraste con el platonismo que parece haber predominado en el pensamiento occidental y que, de hecho, es cada vez más fuerte.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;‘La Isla del Conocimiento’ (2014):&lt;/strong&gt;
+Usando la metáfora de una “isla de conocimiento” en un “océano de lo desconocido”, Gleiser defiende que, cuanto más aprendemos sobre el universo, más vasta se vuelve la frontera con lo que no sabemos. El libro es una reflexión sobre los límites de la ciencia y la importancia de reconocer el misterio como motor de la búsqueda humana de conocimiento.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;‘La Simple Belleza de lo Inesperado’ (2016):&lt;/strong&gt;
+En esta colección de ensayos, Gleiser conecta conceptos científicos con experiencias cotidianas, explorando temas como el tiempo, la vida, la muerte y la búsqueda de la felicidad. La obra invita al lector a encontrar el asombro y la belleza en la ciencia y en el mundo que lo rodea, reforzando una visión humanista del conocimiento científico.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;‘El Despertar del Universo Consciente’ (2024):&lt;/strong&gt;
+Copérnico inauguró una línea de pensamiento (epitomizada por el principio que lleva su nombre) que ha ido retirando progresivamente el protagonismo del ser humano de su propia noción de comprensión del mundo. “Una partícula insignificante en un universo vasto y frío” se convirtió en la visión de una humanidad con una perspectiva cada vez más sombría, y Gleiser atribuye esto a la pérdida de la chispa de la curiosidad, la misión moral y el enfoque compasivo de la ciencia. Nos invita a recuperar ese sentimiento, reconstruir una nueva Ilustración para salvar la civilización y dar una nueva dirección a la humanidad.&lt;/p&gt;
+
+&lt;p&gt;Además de sus libros, Gleiser es columnista, presentador de programas de TV y radio, y fundador del Institute for Cross-Disciplinary Engagement (ICE). En los últimos años, se ha dedicado a campañas por la valorización de la ciencia, el pensamiento crítico y la conservación del planeta, alertando sobre la urgencia de acciones en defensa del medio ambiente y la vida en la Tierra.&lt;/p&gt;
+
+&lt;p&gt;En los últimos años, Gleiser se ha dedicado a campañas por la valorización de la ciencia, el pensamiento crítico y la conservación del planeta, alertando sobre la urgencia de acciones en defensa del medio ambiente y la vida en la Tierra. Una de sus iniciativas más recientes es el Podcast &lt;a href=&quot;https://www.youtube.com/watch?v=GXXOl35LA1U&quot;&gt;The Blind Spot&lt;/a&gt;, protagonizado por Gleiser, el físico y divulgador científico Adam Frank (Universidad de Rochester) y el filósofo Evan Thompson (Universidad de Columbia Británica). En el primer episodio discutieron la naturaleza del conocimiento, la objetividad y la ciencia, y las relaciones del proyecto filosófico y científico occidental con las religiones monoteístas, un tema recurrente en la obra de Gleiser.&lt;/p&gt;
+
+&lt;h2 id=&quot;referencias&quot;&gt;Referencias&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.templetonprize.org/laureate/marcelo-gleiser/&quot;&gt;Premio Templeton - Sitio Oficial&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://es.wikipedia.org/wiki/Marcelo_Gleiser&quot;&gt;Wikipedia: Marcelo Gleiser&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://es.wikipedia.org/wiki/Premio_Templeton&quot;&gt;Wikipedia: Premio Templeton&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Tue, 24 Jun 2025 12:00:00 -0300</pubDate>
+        <link>https://fhcflx.github.io/ciencia-medica/2025/06/24/marcelo-gleiser-templeton-es.html</link>
+        <guid isPermaLink="true">https://fhcflx.github.io/ciencia-medica/2025/06/24/marcelo-gleiser-templeton-es.html</guid>
+        
+        <category>Física</category>
+        
+        <category>Marcelo Gleiser</category>
+        
+        <category>Templeton</category>
+        
+        <category>Divulgación científica</category>
+        
+        <category>Premios internacionales</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Marcelo Gleiser: The Brazilian Physicist Awarded the Templeton Prize</title>
+        <description>&lt;p&gt;The Brazilian physicist &lt;strong&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Marcelo_Gleiser&quot;&gt;Marcelo Gleiser&lt;/a&gt;&lt;/strong&gt; is internationally recognized for his contributions to science and science communication. In 2019, he became the first Latin American and the only Brazilian to receive the prestigious &lt;strong&gt;Templeton Prize&lt;/strong&gt;&lt;label for=&quot;premio-templeton-en&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;premio-templeton-en&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;&lt;strong&gt;Templeton Prize:&lt;/strong&gt; An international award created in 1972 to honor individuals who make exceptional contributions to affirming life’s spiritual dimension, whether through scientific discoveries, philosophical insights, or practical actions.&lt;/span&gt;
+, one of the world’s most important awards for scientists and thinkers who broaden humanity’s understanding of existence. Gleiser himself defines as agnostic, advocating dialogue between science and spirituality. &lt;label for=&quot;agnosticismo-en&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;agnosticismo-en&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;&lt;strong&gt;Agnosticism:&lt;/strong&gt; A philosophical position that holds it is not possible to affirm or deny the existence of God, the divine, or metaphysical realities due to insufficient evidence. Agnosticism is common in debates about science and spirituality.&lt;/span&gt;&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;h2 id=&quot;biography-and-education&quot;&gt;Biography and Education&lt;/h2&gt;
+
+&lt;p&gt;Marcelo Gleiser was born on March 19, 1959, in Rio de Janeiro. From a Jewish family, he recounts that at his Bar Mitzvah&lt;label for=&quot;bar-mitzvah-en&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;bar-mitzvah-en&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;&lt;strong&gt;Bar Mitzvah:&lt;/strong&gt; Jewish coming-of-age ceremony for boys at age 13. After the Bar Mitzvah, the boy is considered responsible for his actions under Jewish law and can fully participate in religious rituals.&lt;/span&gt;
+, he received from his aunt an autographed photo of Einstein. In the photo are Einstein and Isidoro Kohn, his stepmother’s uncle. Gleiser’s paternal grandfather also accompanied Einstein on this visit to Rio in 1925. According to family accounts, Isidoro lent the tie that Einstein is wearing in the photo. This photo inspired Marcelo Gleiser, then a teenager fascinated by nature, to pursue a career in physics. In his book “&lt;a href=&quot;#writer-and-science-communicator&quot;&gt;A Tear at the Edge of Creation&lt;/a&gt;”, he reports that after his mother’s death, he went through a difficult period of uncertainty, and the pursuit of scientific knowledge was one of the things that helped him overcome it. Another was sports, having played volleyball and even participated in the victory of the Brazilian junior team in 1974, alongside &lt;a href=&quot;https://en.wikipedia.org/wiki/Bernardo_Resende&quot;&gt;Bernardinho&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/ciencia-medica/assets/img/einstein-gleiser.jpg&quot; alt=&quot;Einstein in Brazil, 1925&quot; /&gt;
+&lt;em&gt;Albert Einstein and Isidoro Kohn, friend of Gleiser’s paternal grandfather and stepmother’s uncle, in Brazil in 1925. Kohn had lent the tie Einstein is wearing in the photo.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;He studied physics at the Federal University of Rio de Janeiro (UFRJ), graduating in 1981. He then earned a master’s degree at the Institute of Theoretical Physics of São Paulo State University (IFT-Unesp), with a dissertation entitled “Vortex Solutions in Abelian and Non-Abelian Gauge Theories” (1982), supervised by Prof. Dr. Mario Novello. In this work, Gleiser studied structures called “vortices”—regions where physical fields organize similarly to whirlpools—in fundamental theories of physics, seeking to understand how patterns and structures can spontaneously arise in nature.&lt;/p&gt;
+
+&lt;p&gt;He later completed his PhD in theoretical physics at King’s College London, UK, in 1986, under Prof. Dr. Michael E. Fisher. His thesis, entitled “Phase Transitions in the Early Universe,” investigated how abrupt and fundamental changes—similar to the transformation of water into ice—may have occurred in the universe’s earliest moments, influencing the formation of cosmic structures and the evolution of the cosmos.&lt;/p&gt;
+
+&lt;p&gt;After his PhD, he worked as a postdoctoral researcher at Fermilab (Fermi National Accelerator Laboratory) in the United States, under the supervision of physicist Edward W. Kolb (Rocky Kolb), a world reference in physical cosmology. There, Gleiser developed independent and collaborative research in theoretical cosmology, especially on phase transitions in the early universe and the formation of cosmic structures. His work resulted in important scientific publications, deepening the connection between particle physics and the evolution of the universe after the Big Bang.&lt;/p&gt;
+
+&lt;p&gt;He also worked at the Institute of Theoretical Physics at Unesp, collaborating with research groups in theoretical physics and cosmology, mentoring young researchers, and participating in projects on fundamental symmetries, structure formation in the universe, and models of exotic matter. His work helped strengthen cosmology research in Brazil and expand international scientific exchange.&lt;/p&gt;
+
+&lt;p&gt;Throughout his career, Gleiser has also mentored and influenced many young scientists, both in Brazil and abroad, such as &lt;a href=&quot;https://en.wikipedia.org/wiki/Sara_Imari_Walker&quot;&gt;Sara Imari Walker&lt;/a&gt;. His role as a mentor has helped form a new generation of researchers in theoretical physics and cosmology.&lt;/p&gt;
+
+&lt;p&gt;In 1991, he became a professor at Dartmouth College in the United States, where he still works as a full professor of physics and astronomy, holding the Appleton Professor of Natural Philosophy chair, one of the institution’s most prestigious titles.&lt;/p&gt;
+
+&lt;h2 id=&quot;main-works&quot;&gt;Main Works&lt;/h2&gt;
+
+&lt;p&gt;Gleiser is a specialist in cosmology&lt;label for=&quot;cosmologia-en&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;cosmologia-en&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;&lt;strong&gt;Cosmology:&lt;/strong&gt; The branch of science that studies the origin, structure, evolution, and ultimate fate of the universe as a whole, integrating knowledge from physics, astronomy, and philosophy.&lt;/span&gt;
+, particle physics, and astrobiology&lt;label for=&quot;astrobiologia-en&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;astrobiologia-en&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;&lt;strong&gt;Astrobiology:&lt;/strong&gt; An interdisciplinary field that investigates the origin, evolution, distribution, and future of life in the universe, including the search for life on other planets.&lt;/span&gt;
+. He has stood out for research on the origin and evolution of the universe, fundamental symmetries, cosmic phase transitions, and the search for life beyond Earth. He has published over 100 scientific articles and is an international reference in topics such as symmetry breaking and the formation of cosmic structures.&lt;/p&gt;
+
+&lt;p&gt;Among his most prominent works is the proposal of the “Rare Life Principle,” in which Gleiser argues that complex life in the universe may be much rarer than imagined, due to the combination of physical, chemical, and biological factors required for its emergence. He has also contributed to the debate on the definition of life and the limits of planetary habitability, being an international reference in astrobiology. Gleiser has participated in collaborations with NASA and other research centers, discussing the conditions for the existence of life beyond Earth and the challenges of searching for biosignatures on exoplanets.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-templeton-prize&quot;&gt;The Templeton Prize&lt;/h2&gt;
+
+&lt;p&gt;The Templeton Prize was created in 1972 by British philanthropist John Templeton to recognize people who “make exceptional contributions to affirming life’s spiritual dimension, whether through insights, discoveries, or practical work.” &lt;label for=&quot;premio-templeton-en&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;premio-templeton-en&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;&lt;strong&gt;Templeton Prize:&lt;/strong&gt; An international award created in 1972 to honor individuals who make exceptional contributions to affirming life’s spiritual dimension, whether through scientific discoveries, philosophical insights, or practical actions.&lt;/span&gt;
+ The prize amount exceeds that of the Nobel, and it has been awarded to names such as Mother Teresa of Calcutta (the first laureate), the Dalai Lama, Desmond Tutu, Charles Taylor, Freeman Dyson, and Martin Rees. The Templeton is considered one of the world’s greatest recognitions for scientists, philosophers, and spiritual leaders, and is often compared to the Nobel in prestige.&lt;/p&gt;
+
+&lt;p&gt;Marcelo Gleiser was the first Latin American and the only Brazilian to receive the Templeton, in 2019. The ceremony took place in New York, USA. Gleiser was honored for his pioneering work exploring the great questions of human existence, the relationship between science and spirituality, and for his advocacy of dialogue between different forms of knowledge.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/0/06/Marcelo_Gleiser_no_Fronteiras_do_Pensamento_Florian%C3%B3polis_2013_%2810277998645%29.jpg&quot; alt=&quot;Marcelo Gleiser&quot; /&gt;
+&lt;em&gt;Marcelo Gleiser at Fronteiras do Pensamento (Florianópolis, 2013).&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;writer-and-science-communicator&quot;&gt;Writer and Science Communicator&lt;/h2&gt;
+
+&lt;p&gt;In addition to his academic career, Gleiser is one of the most influential science communicators in Brazil and the world. &lt;label for=&quot;divulgacao-cientifica-en&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;divulgacao-cientifica-en&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;&lt;strong&gt;Science communication:&lt;/strong&gt; The activity of communicating scientific knowledge to the general public, making science accessible and understandable, and promoting critical thinking in society.&lt;/span&gt;
+ His journey as a writer began with notable impact, and he established himself as a voice that unites the complexity of science with the human search for meaning.&lt;/p&gt;
+
+&lt;p&gt;His first book, &lt;strong&gt;‘The Dancing Universe’&lt;/strong&gt;, was published in 1997 by &lt;strong&gt;Companhia das Letras&lt;/strong&gt;. The work quickly became a bestseller in Brazil and won the &lt;strong&gt;Jabuti Prize&lt;/strong&gt; in 1998, establishing Gleiser as one of the leading names in science communication in the country.&lt;/p&gt;
+
+&lt;p&gt;His main works, translated into more than 15 languages, include:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;‘The Dancing Universe’ (1997):&lt;/strong&gt;
+In this book, Gleiser traces an overview of the history of cosmological thought, from ancient creation myths to modern scientific theories such as the Big Bang and particle physics. The book was a milestone in science communication in Brazil for its accessible language and for connecting science with philosophy and the human search for origins.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;‘The End of Earth and Sky’ (2001):&lt;/strong&gt;
+Gleiser explores humanity’s fascination with the end of the world, analyzing apocalyptic myths, religious prophecies, and scientific predictions about the universe’s ultimate fate. The work discusses how modern science offers new narratives about the end, replacing fear with rational understanding of cosmic processes. It won the Jabuti Prize in 2002.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;‘A Tear at the Edge of Creation’ (2010):&lt;/strong&gt;
+Published in Brazil as ‘Criação Imperfeita’, this book argues that the asymmetries and “imperfections” found in nature—from the subatomic level to cosmic structures—are the key to the existence of the universe as we know it. The work challenges the notion of a “perfect design” and celebrates the creativity inherent in natural processes. By privileging a view where the search for perfect order as the foundation of reality is replaced by “imperfection,” by asymmetry as the origin of the main phenomena we observe, Gleiser, in a way, recovers an Epicurean view (void and particles moving randomly) of the foundations of knowledge, in contrast to the Platonism that seems to have predominated in Western thought and is, in fact, increasingly strong.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;‘The Island of Knowledge’ (2014):&lt;/strong&gt;
+Using the metaphor of an “island of knowledge” in an “ocean of the unknown,” Gleiser argues that the more we learn about the universe, the vaster the frontier with what we do not know becomes. The book is a reflection on the limits of science and the importance of recognizing mystery as the engine of the human quest for knowledge.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;‘The Simple Beauty of the Unexpected’ (2016):&lt;/strong&gt;
+In this collection of essays, Gleiser connects scientific concepts to everyday experiences, exploring themes such as time, life, death, and the pursuit of happiness. The work invites the reader to find wonder and beauty in science and the world around them, reinforcing a humanistic view of scientific knowledge.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;‘The Dawn of a Mindful Universe’ (2024):&lt;/strong&gt;
+Copernicus inaugurated a line of thought (epitomized by the principle that bears his name) that has progressively removed the protagonism of human beings from their own notion of understanding the world. “An insignificant particle in a vast and cold universe” became the vision of a humanity with an increasingly somber perspective, and Gleiser attributes this to the loss of the spark of curiosity, the moral mission, and the compassionate focus of science. He invites us to recover this feeling, rebuild a new Enlightenment to save civilization, and give a new direction to humanity.&lt;/p&gt;
+
+&lt;p&gt;In addition to his books, Gleiser is a columnist, host of TV and radio programs, and founder of the Institute for Cross-Disciplinary Engagement (ICE). In recent years, he has dedicated himself to campaigns for the appreciation of science, critical thinking, and the conservation of the planet, warning of the urgency of actions to defend the environment and life on Earth.&lt;/p&gt;
+
+&lt;p&gt;In recent years, Gleiser has dedicated himself to campaigns for the appreciation of science, critical thinking, and the conservation of the planet, warning of the urgency of actions to defend the environment and life on Earth. One of his most recent initiatives is the Podcast &lt;a href=&quot;https://www.youtube.com/watch?v=GXXOl35LA1U&quot;&gt;The Blind Spot&lt;/a&gt;, featuring Gleiser, physicist and science communicator Adam Frank (University of Rochester), and philosopher Evan Thompson (University of British Columbia). In the first episode, they discussed the nature of knowledge, objectivity and science, and the relationship of the Western philosophical and scientific project with monotheistic religions, a recurring theme in Gleiser’s work.&lt;/p&gt;
+
+&lt;h2 id=&quot;references&quot;&gt;References&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.templetonprize.org/laureate/marcelo-gleiser/&quot;&gt;Templeton Prize - Official Website&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Marcelo_Gleiser&quot;&gt;Wikipedia: Marcelo Gleiser&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Templeton_Prize&quot;&gt;Wikipedia: Templeton Prize&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Tue, 24 Jun 2025 12:00:00 -0300</pubDate>
+        <link>https://fhcflx.github.io/ciencia-medica/2025/06/24/marcelo-gleiser-templeton-en.html</link>
+        <guid isPermaLink="true">https://fhcflx.github.io/ciencia-medica/2025/06/24/marcelo-gleiser-templeton-en.html</guid>
+        
+        <category>Physics</category>
+        
+        <category>Marcelo Gleiser</category>
+        
+        <category>Templeton</category>
+        
+        <category>Science communication</category>
+        
+        <category>International awards</category>
         
         
       </item>
@@ -790,312 +1041,6 @@ Copérnico inaugurou uma linha de pensamento (epitomizada pelo princípio que le
         <category>Chronic pain</category>
         
         <category>Clinical research</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Fibromialgia, dor crônica e o papel do microbioma intestinal: novos achados de 2025</title>
-        <description>&lt;p&gt;Um estudo publicado na revista &lt;a href=&quot;https://doi.org/10.1016/j.neuron.2025.03.032&quot;&gt;Neuron&lt;/a&gt; em 2025 e discutido no podcast TWIM (This Week in Microbiology) de 27 de maio trouxe novas evidências sobre a relação entre o microbioma intestinal e a dor crônica na fibromialgia. O trabalho mostra que alterações nas bactérias intestinais podem não só estar associadas, mas também contribuir diretamente para a dor e outros sintomas da doença.
-&lt;!--more--&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;introdução-o-que-é-fibromialgia-e-por-que-o-microbioma-importa&quot;&gt;Introdução: O que é fibromialgia e por que o microbioma importa?&lt;/h2&gt;
-
-&lt;p&gt;A fibromialgia é uma síndrome comum, marcada por dor generalizada, fadiga, distúrbios do sono e dificuldades cognitivas, afetando principalmente mulheres. Estima-se que a fibromialgia atinja cerca de 2% a 4% da população mundial, sendo mais prevalente em mulheres entre 30 e 60 anos. No Brasil, isso representa milhões de pessoas convivendo com dor crônica e impacto significativo na qualidade de vida, produtividade e custos de saúde. &lt;label for=&quot;fibromialgia-epid&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
-&lt;input type=&quot;checkbox&quot; id=&quot;fibromialgia-epid&quot; class=&quot;margin-toggle&quot; /&gt;
-&lt;span class=&quot;sidenote&quot;&gt;
-&lt;strong&gt;Epidemiologia da fibromialgia:&lt;/strong&gt; A fibromialgia afeta cerca de 2% a 4% da população mundial, sendo mais comum em mulheres. No Brasil, estima-se que milhões de pessoas convivam com a síndrome, que é uma das principais causas de dor crônica e incapacidade.
-&lt;/span&gt;
- Apesar de sua alta prevalência, as causas da fibromialgia ainda são pouco compreendidas e os tratamentos disponíveis costumam ser insatisfatórios.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Por que o microbioma importa para a saúde?&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;O microbioma intestinal é o conjunto de trilhões de microrganismos (principalmente bactérias) que vivem no nosso trato digestivo. Ele atua como uma verdadeira “fábrica bioquímica”, ajudando na digestão de alimentos, produção de vitaminas, regulação do sistema imunológico e proteção contra agentes infecciosos. Além disso, o microbioma se comunica com o cérebro por meio de substâncias químicas e do sistema nervoso entérico, influenciando o humor, o metabolismo e até a percepção da dor. Alterações no equilíbrio dessas bactérias (disbiose) têm sido associadas a diversas doenças, incluindo distúrbios metabólicos, autoimunes, psiquiátricos e condições de dor crônica como a fibromialgia. &lt;label for=&quot;microbioma&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
-&lt;input type=&quot;checkbox&quot; id=&quot;microbioma&quot; class=&quot;margin-toggle&quot; /&gt;
-&lt;span class=&quot;sidenote&quot;&gt;&lt;strong&gt;Microbioma intestinal:&lt;/strong&gt; É o conjunto de trilhões de microrganismos que habitam o trato gastrointestinal humano. O microbioma influencia digestão, imunidade, metabolismo e até o funcionamento do sistema nervoso.
-&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;Estudos recentes sugerem que o microbioma intestinal pode influenciar o funcionamento do sistema nervoso e do sistema imunológico, afetando inclusive a percepção da dor.&lt;/p&gt;
-
-&lt;h2 id=&quot;metodologia-como-o-estudo-foi-feito&quot;&gt;Metodologia: Como o estudo foi feito?&lt;/h2&gt;
-
-&lt;p&gt;Os pesquisadores transplantaram o microbioma (bactérias intestinais) de mulheres com fibromialgia para camundongos criados em ambiente estéril (germ-free), comparando com transplantes de pessoas saudáveis. Também realizaram um pequeno estudo clínico aberto, em que mulheres com fibromialgia receberam transplante de microbiota de doadoras saudáveis, após preparo com antibióticos e limpeza intestinal.&lt;/p&gt;
-
-&lt;h2 id=&quot;resultados-principais&quot;&gt;Resultados principais&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;Em camundongos:&lt;/strong&gt; O transplante de microbiota de pacientes com fibromialgia induziu dor persistente, alterações no sistema imunológico, mudanças no metabolismo e redução da inervação da pele — todos fenômenos semelhantes aos observados em pacientes humanos. Os camundongos apresentaram maior sensibilidade à dor mecânica, térmica (calor e frio) e espontânea, sem alterações motoras ou cognitivas. O estudo também mostrou que a microbiota de pacientes levou a alterações em células do sistema imune, ativação de microglia na medula espinhal (células envolvidas na dor crônica) e mudanças em metabólitos como ácidos biliares e aminoácidos neuroativos. &lt;label for=&quot;microglia&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
-&lt;input type=&quot;checkbox&quot; id=&quot;microglia&quot; class=&quot;margin-toggle&quot; /&gt;
-&lt;span class=&quot;sidenote&quot;&gt;
-&lt;strong&gt;Microglia:&lt;/strong&gt; São células do sistema nervoso central que atuam como “defensoras” do cérebro e da medula espinhal. Quando ativadas de forma crônica, podem contribuir para a dor persistente e inflamação.
-&lt;/span&gt;
- Quando os camundongos receberam, posteriormente, microbiota de pessoas saudáveis, a dor foi revertida e parte das alterações metabólicas e imunes voltou ao normal, sugerindo um papel causal do microbioma na dor crônica da fibromialgia.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Reversão do quadro:&lt;/strong&gt; Quando os camundongos receberam, posteriormente, microbiota de pessoas saudáveis, a dor foi aliviada.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://www.cell.com/cms/10.1016/j.neuron.2025.03.032/asset/c4101b78-70b3-4e9b-84f1-25c59bce8c12/main.assets/gr5_lrg.jpg&quot; alt=&quot;Figura 5 do artigo&quot; /&gt;
-&lt;em&gt;Figura 5 do artigo: Gráficos mostram que camundongos que receberam microbiota de pacientes com fibromialgia apresentaram maior sensibilidade à dor (mecânica, térmica e espontânea), e que o transplante subsequente de microbiota saudável reverteu esse quadro, normalizando os limiares de dor. Fonte: Cai W et al., Neuron, 2025.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;No estudo clínico:&lt;/strong&gt; Mulheres com fibromialgia grave e resistente a tratamentos apresentaram redução significativa da dor e melhora da qualidade de vida após receberem transplante de microbiota saudável. O estudo clínico aberto envolveu 14 mulheres, que receberam cápsulas de microbiota de doadoras saudáveis após preparo intestinal. Houve queda média de 2 pontos na escala de dor (NRS), melhora do impacto global da doença (FIQ), redução de ansiedade e depressão, melhora do sono e da qualidade de vida física. Testes sensoriais mostraram aumento do limiar de dor ao frio e tendência de melhora ao calor. O perfil metabólico e a composição do microbioma também mudaram, aproximando-se do perfil das doadoras. Os efeitos adversos foram leves e transitórios, principalmente fadiga e sintomas gastrointestinais leves. &lt;label for=&quot;fmt&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
-&lt;input type=&quot;checkbox&quot; id=&quot;fmt&quot; class=&quot;margin-toggle&quot; /&gt;
-&lt;span class=&quot;sidenote&quot;&gt;
-&lt;strong&gt;Transplante de Microbiota Fecal (FMT):&lt;/strong&gt; Procedimento em que bactérias intestinais de um doador saudável são transferidas para o intestino de um paciente, visando restaurar o equilíbrio do microbioma. Já é usado para tratar infecções por &lt;em&gt;Clostridioides difficile&lt;/em&gt; e está em estudo para outras condições.
-&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://www.cell.com/cms/10.1016/j.neuron.2025.03.032/asset/86701a65-abed-49f6-9c26-9a92e9d705fc/main.assets/gr6_lrg.jpg&quot; alt=&quot;Figura 6 do artigo&quot; /&gt;
-&lt;em&gt;Figura 6 do artigo: Gráficos mostram que, após o transplante de microbiota saudável, mulheres com fibromialgia apresentaram redução significativa da intensidade da dor, melhora do impacto global da doença, ansiedade, depressão, qualidade do sono e qualidade de vida física. Os gráficos também mostram a mudança no limiar de dor ao frio e calor. Fonte: Cai W et al., Neuron, 2025.&lt;/em&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;significado-para-o-campo-e-para-os-pacientes&quot;&gt;Significado para o campo e para os pacientes&lt;/h2&gt;
-
-&lt;p&gt;O estudo fornece evidências de que o microbioma intestinal não é apenas um “espectador” na fibromialgia, mas pode ser um dos fatores que causam ou perpetuam a dor crônica. Isso abre caminho para novas abordagens terapêuticas, como o transplante de microbiota ou o uso de probióticos específicos, além de reforçar a importância de pesquisas sobre a relação entre intestino, sistema imunológico e cérebro. &lt;label for=&quot;probiotico&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
-&lt;input type=&quot;checkbox&quot; id=&quot;probiotico&quot; class=&quot;margin-toggle&quot; /&gt;
-&lt;span class=&quot;sidenote&quot;&gt;
-&lt;strong&gt;Probióticos:&lt;/strong&gt; São microrganismos vivos que, quando administrados em quantidades adequadas, conferem benefícios à saúde. Podem modular o microbioma intestinal e estão sendo estudados como terapia complementar em doenças crônicas.
-&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;Apesar dos resultados promissores, é importante lembrar que o estudo clínico foi pequeno e aberto (sem grupo controle), e mais pesquisas são necessárias antes que o transplante de microbiota possa ser recomendado rotineiramente. Ainda assim, o trabalho representa um avanço importante na compreensão da fibromialgia e pode inspirar novas estratégias para tratar a dor crônica.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;O que é o TWiM?&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;O TWiM (This Week in Microbiology) é um podcast criado pelo virologista Vincent Racaniello, da Universidade Columbia (EUA), em 2010. O programa discute semanalmente avanços e curiosidades em microbiologia, com foco em artigos científicos recentes e temas relevantes para a saúde e a ciência. Os integrantes regulares incluem:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Vincent Racaniello (Universidade Columbia, EUA)&lt;/li&gt;
-  &lt;li&gt;Petra Levin (Universidade Washington em St. Louis, EUA)&lt;/li&gt;
-  &lt;li&gt;Michele Swanson (Universidade de Michigan, EUA)&lt;/li&gt;
-  &lt;li&gt;Michael Schmidt (Universidade Médica da Carolina do Sul, EUA).&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Todos são cientistas reconhecidos em suas áreas. O TWiM faz parte da rede MicrobeTV e está disponível gratuitamente em &lt;a href=&quot;https://www.microbe.tv/twim/&quot;&gt;microbe.tv/twim&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Referências:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://doi.org/10.1016/j.neuron.2025.03.032&quot;&gt;Artigo original na Neuron&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.microbe.tv/twim/twim-332/&quot;&gt;TWIM 332: Fibromyalgia pain and the gut microbiome&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Thu, 12 Jun 2025 12:00:00 -0300</pubDate>
-        <link>https://fhcflx.github.io/ciencia-medica/2025/06/12/fibromialgia-microbioma-2025.html</link>
-        <guid isPermaLink="true">https://fhcflx.github.io/ciencia-medica/2025/06/12/fibromialgia-microbioma-2025.html</guid>
-        
-        <category>Fibromialgia</category>
-        
-        <category>Microbioma</category>
-        
-        <category>Dor crônica</category>
-        
-        <category>Pesquisa clínica</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Nobel Prize in Physiology or Medicine 2020–2024: Five Years of Breakthroughs</title>
-        <description>&lt;p&gt;Over the last five years, the Nobel Prize in Physiology or Medicine has recognized discoveries that have revolutionized our understanding of genetics, molecular biology, and medicine. Below is a summary table of the laureates, their countries, and the main themes:
-  &lt;!--more--&gt;&lt;/p&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Year&lt;/th&gt;
-      &lt;th&gt;Theme&lt;/th&gt;
-      &lt;th&gt;Laureates&lt;/th&gt;
-      &lt;th&gt;Country&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;2020&lt;/td&gt;
-      &lt;td&gt;Discovery of Hepatitis C virus&lt;/td&gt;
-      &lt;td&gt;Harvey J. Alter, Michael Houghton, Charles M. Rice&lt;/td&gt;
-      &lt;td&gt;USA, UK, Canada&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;2021&lt;/td&gt;
-      &lt;td&gt;Receptors for temperature and touch&lt;/td&gt;
-      &lt;td&gt;David Julius, Ardem Patapoutian&lt;/td&gt;
-      &lt;td&gt;USA, Lebanon/USA&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;2022&lt;/td&gt;
-      &lt;td&gt;Genomes of extinct hominins and human evolution&lt;/td&gt;
-      &lt;td&gt;Svante Pääbo&lt;/td&gt;
-      &lt;td&gt;Sweden, Germany&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;2023&lt;/td&gt;
-      &lt;td&gt;mRNA vaccine technology&lt;/td&gt;
-      &lt;td&gt;Katalin Karikó, Drew Weissman&lt;/td&gt;
-      &lt;td&gt;Hungary/USA, USA&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;2024&lt;/td&gt;
-      &lt;td&gt;Discovery of microRNA and gene regulation&lt;/td&gt;
-      &lt;td&gt;Victor Ambros, Gary Ruvkun&lt;/td&gt;
-      &lt;td&gt;USA&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;h2 id=&quot;laureates-and-themes&quot;&gt;Laureates and Themes&lt;/h2&gt;
-
-&lt;h3 id=&quot;2020-discovery-of-hepatitis-c-virus&quot;&gt;2020: Discovery of Hepatitis C Virus&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Laureates:&lt;/strong&gt; Harvey J. Alter (USA), Michael Houghton (UK/Canada), Charles M. Rice (USA)&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Theme:&lt;/strong&gt; Identification of the hepatitis C virus, enabling blood tests and curative therapies for a major cause of chronic hepatitis and liver cancer.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Before these discoveries, millions were infected through contaminated blood transfusions, with no precise diagnosis. The laureates’ work enabled highly sensitive blood tests, eliminating transfusion-related transmission and leading to antivirals that now cure hepatitis C in over 95% of cases. &lt;label for=&quot;antiviral-en&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
-&lt;input type=&quot;checkbox&quot; id=&quot;antiviral-en&quot; class=&quot;margin-toggle&quot; /&gt;
-&lt;span class=&quot;sidenote&quot;&gt;Antiviral: a type of medication used to treat viral infections by inhibiting the development or replication of viruses. Antivirals are distinct from antibiotics, which target bacteria.&lt;/span&gt;
- The global impact is profound, with the World Health Organization targeting hepatitis C elimination as a public health threat.
-&lt;label for=&quot;gene-en&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
-&lt;input type=&quot;checkbox&quot; id=&quot;gene-en&quot; class=&quot;margin-toggle&quot; /&gt;
-&lt;span class=&quot;sidenote&quot;&gt;&lt;strong&gt;Gene&lt;/strong&gt;: a segment of DNA that encodes a molecule (usually a protein) with a specific function. Genes are the units of inheritance first hypothesized by Mendel and named by the Danish botanist Wilhelm Johannsen in 1909. Genes make up only a small fraction of a cell’s DNA; most DNA does not code for proteins and is not part of genes. The phrase “one gene, one protein” summarizes the central dogma of biology: genetic information is transferred from DNA to RNA and then to a protein.&lt;/span&gt;
-&lt;label for=&quot;who-en&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
-&lt;input type=&quot;checkbox&quot; id=&quot;who-en&quot; class=&quot;margin-toggle&quot; /&gt;
-&lt;span class=&quot;sidenote&quot;&gt;World Health Organization (WHO): a specialized agency of the United Nations responsible for international public health. Founded in 1948, the WHO coordinates global health responses, sets standards, and provides guidance on health issues, disease prevention, and control.&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Dr._Harvey_J._Alter_wins_2020_Nobel_Prize_%28cropped%29.jpg/250px-Dr._Harvey_J._Alter_wins_2020_Nobel_Prize_%28cropped%29.jpg&quot; alt=&quot;Harvey J. Alter&quot; /&gt;
-&lt;em&gt;Harvey J. Alter. Source: &lt;a href=&quot;https://en.wikipedia.org/wiki/Harvey_J._Alter&quot;&gt;Wikipedia&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Prof_Michael_Houghton.jpg/250px-Prof_Michael_Houghton.jpg&quot; alt=&quot;Michael Houghton&quot; /&gt;
-&lt;em&gt;Michael Houghton. Source: &lt;a href=&quot;https://en.wikipedia.org/wiki/Michael_Houghton&quot;&gt;Wikipedia&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/6/6d/Charles_M._Rice.jpg&quot; alt=&quot;Charles M. Rice&quot; /&gt;
-&lt;em&gt;Charles M. Rice. Source: &lt;a href=&quot;https://en.wikipedia.org/wiki/Charles_M._Rice&quot;&gt;Wikipedia&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;2021-receptors-for-temperature-and-touch&quot;&gt;2021: Receptors for Temperature and Touch&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Laureates:&lt;/strong&gt; David Julius (USA), Ardem Patapoutian (Lebanon/USA)&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Theme:&lt;/strong&gt; Discovery of how our bodies sense temperature and mechanical stimuli, through TRP and Piezo receptors.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Julius used capsaicin (the spicy compound in chili peppers) to identify the TRPV1 receptor, responsible for heat sensation. Patapoutian discovered Piezo1 and Piezo2 receptors, essential for touch and pressure. These findings opened new fields in sensory neuroscience, directly impacting the development of painkillers and treatments for chronic pain, and explaining rare genetic diseases related to proprioception. &lt;label for=&quot;pain-en&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
-&lt;input type=&quot;checkbox&quot; id=&quot;pain-en&quot; class=&quot;margin-toggle&quot; /&gt;
-&lt;span class=&quot;sidenote&quot;&gt;Pain: an unpleasant sensory and emotional experience associated with actual or potential tissue damage. Pain can be acute (short-term) or chronic (long-lasting), and is a major focus of medical research and treatment.&lt;/span&gt;
- Julius and Patapoutian also collaborated and co-published, highlighting the interconnectedness of the scientific community.
-&lt;label for=&quot;receptor-en&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
-&lt;input type=&quot;checkbox&quot; id=&quot;receptor-en&quot; class=&quot;margin-toggle&quot; /&gt;
-&lt;span class=&quot;sidenote&quot;&gt;Receptor: a protein molecule, usually found on the surface of a cell, that receives and responds to chemical signals from outside the cell. Receptors are essential for communication between cells and for the body’s response to hormones, neurotransmitters, and other signaling molecules.&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Dr_David_Julius_by_christopher_michel_in_2022_04_%28cropped2%29.jpg/250px-Dr_David_Julius_by_christopher_michel_in_2022_04_%28cropped2%29.jpg&quot; alt=&quot;David Julius&quot; /&gt;
-&lt;em&gt;David Julius. Source: &lt;a href=&quot;https://en.wikipedia.org/wiki/David_Julius&quot;&gt;Wikipedia&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Ardem_Patapoutian_by_C_Michel_67_%28cropped%29.jpg/250px-Ardem_Patapoutian_by_C_Michel_67_%28cropped%29.jpg&quot; alt=&quot;Ardem Patapoutian&quot; /&gt;
-&lt;em&gt;Ardem Patapoutian. Source: &lt;a href=&quot;https://en.wikipedia.org/wiki/Ardem_Patapoutian&quot;&gt;Wikipedia&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;2022-genomes-of-extinct-hominins-and-human-evolution&quot;&gt;2022: Genomes of Extinct Hominins and Human Evolution&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Laureate:&lt;/strong&gt; Svante Pääbo (Sweden/Germany)&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Theme:&lt;/strong&gt; Sequencing the Neanderthal genome and discovering Denisovans, revealing interbreeding with Homo sapiens and transforming our understanding of human evolution.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Pääbo founded paleogenomics, overcoming technical challenges to extract and sequence ancient DNA. His team showed that modern humans inherited genes from Neanderthals and Denisovans, influencing immunity, metabolism, and even responses to diseases like COVID-19. &lt;label for=&quot;immune-en&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
-&lt;input type=&quot;checkbox&quot; id=&quot;immune-en&quot; class=&quot;margin-toggle&quot; /&gt;
-&lt;span class=&quot;sidenote&quot;&gt;Immune system: the complex network of cells, tissues, and organs that defends the body against infections and diseases. It recognizes and neutralizes pathogens such as bacteria, viruses, and other foreign substances.&lt;/span&gt;
- For example, Neanderthal gene variants affect blood clotting (&lt;em&gt;F5&lt;/em&gt;), pain sensitivity (&lt;em&gt;SCN9A&lt;/em&gt;), and antiviral immunity (OAS gene cluster), while a Denisovan gene (&lt;em&gt;EPAS1&lt;/em&gt;) increases altitude tolerance in Himalayan populations. Pääbo’s work inspired multidisciplinary collaborations, and his son, Hugo Zeberg, also works in the field, showing family continuity in research.
-&lt;label for=&quot;genome-en&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
-&lt;input type=&quot;checkbox&quot; id=&quot;genome-en&quot; class=&quot;margin-toggle&quot; /&gt;
-&lt;span class=&quot;sidenote&quot;&gt;Genome: the complete genetic material of an organism. It includes all genes, non-coding DNA sequences (which are not genes), and also the genetic material in organelles such as mitochondria. For example, the 22,000 human genes make up less than 2% of the human genome.&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Professor_Svante_Paabo_ForMemRS_%28cropped%29.jpg/250px-Professor_Svante_Paabo_ForMemRS_%28cropped%29.jpg&quot; alt=&quot;Svante Pääbo&quot; /&gt;
-&lt;em&gt;Svante Pääbo. Source: &lt;a href=&quot;https://en.wikipedia.org/wiki/Svante_P%C3%A4%C3%A4bo&quot;&gt;Wikipedia&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;2023-mrna-vaccine-technology&quot;&gt;2023: mRNA Vaccine Technology&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Laureates:&lt;/strong&gt; Katalin Karikó (Hungary/USA), Drew Weissman (USA)&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Theme:&lt;/strong&gt; Discoveries enabling the development of mRNA vaccines, crucial in the fight against COVID-19 and opening new avenues for vaccines and therapies.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Karikó and Weissman faced years of skepticism and lack of funding, but their persistence led to the modification of mRNA to avoid inflammatory responses, making clinical use possible. The technology was rapidly applied to COVID-19 vaccines, setting a record for speed and saving millions of lives. Today, mRNA platforms are being tested for cancer, HIV, and autoimmune diseases. Karikó and Weissman collaborated directly, and their stories inspire scientists about the importance of resilience and international collaboration.
-&lt;label for=&quot;mrna-en&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
-&lt;input type=&quot;checkbox&quot; id=&quot;mrna-en&quot; class=&quot;margin-toggle&quot; /&gt;
-&lt;span class=&quot;sidenote&quot;&gt;mRNA (messenger RNA): a type of RNA that carries genetic information from DNA to the cell’s protein-making machinery (ribosomes). mRNA serves as the template for protein synthesis, playing a central role in the expression of genetic information.&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Katalin_Karik%C3%B3_at_the_United_States_Embassy_Sweden%2C_2023_Nobel_Reception_%28cropped%29.jpg/250px-Katalin_Karik%C3%BÓ_at_the_United_States_Embassy_Sweden%2C_2023_Nobel_Reception_%28cropped%29.jpg&quot; alt=&quot;Katalin Karikó&quot; /&gt;
-&lt;em&gt;Katalin Karikó. Source: &lt;a href=&quot;https://en.wikipedia.org/wiki/Katalin_Karik%C3%B3&quot;&gt;Wikipedia&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Drew_Weissman%2C_2023_Nobel_Laureate_in_Medicine_%28cropped%29.jpg/250px-Drew_Weissman%2C_2023_Nobel_Laureate_in_Medicine_%28cropped%29.jpg&quot; alt=&quot;Drew Weissman&quot; /&gt;
-&lt;em&gt;Drew Weissman. Source: &lt;a href=&quot;https://en.wikipedia.org/wiki/Drew_Weissman&quot;&gt;Wikipedia&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;2024-discovery-of-microrna-and-gene-regulation&quot;&gt;2024: Discovery of microRNA and Gene Regulation&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Laureates:&lt;/strong&gt; Victor Ambros (USA), Gary Ruvkun (USA)&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Theme:&lt;/strong&gt; Discovery of microRNAs, small RNA molecules that regulate gene expression, with profound implications for development, disease, and therapeutics.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Ambros and Ruvkun, who worked in parallel and also collaborated, showed that small non-coding RNAs control gene expression in animals and humans. The microRNA field exploded, revealing roles in cancer, heart disease, neurodegeneration, and immunity. The first RNA interference therapy approved for clinical use (patisiran, for hereditary amyloidosis) is a direct result of these discoveries. RNA-based therapies are now in clinical trials, and the discovery changed our view of so-called “junk DNA.” Both laureates have collaborated with other Nobel winners, such as Robert Horvitz.
-&lt;label for=&quot;dna-en&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
-&lt;input type=&quot;checkbox&quot; id=&quot;dna-en&quot; class=&quot;margin-toggle&quot; /&gt;
-&lt;span class=&quot;sidenote&quot;&gt;DNA (deoxyribonucleic acid): a complex organic molecule, DNA is a polymer—a chain made up of simpler molecules. It is composed of four types of molecules: adenine, cytosine, guanine, and thymine, which are nucleotides, the monomers (individual parts) that make up the DNA polymer. Each DNA molecule consists of two long strands of nucleotides that coil into a double helix. The order of nucleotides along the DNA strand is not random; it forms a code, called the genetic code, which stores the information needed to produce all the proteins in a cell. In fact, the DNA in each cell contains the information necessary to reproduce the entire organism.&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Victor_Ambros%2C_2024_Nobel_Prize_Laureate_in_Medicine.jpg/250px-Victor_Ambros%2C_2024_Nobel_Prize_Laureate_in_Medicine.jpg&quot; alt=&quot;Victor Ambros&quot; /&gt;
-&lt;em&gt;Victor Ambros. Source: &lt;a href=&quot;https://en.wikipedia.org/wiki/Victor_Ambros&quot;&gt;Wikipedia&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Gary_Ruvkun%2C_2024_Nobel_Prize_Laureate_in_Medicine_3_%28cropped%29.jpg/250px-Gary_Ruvkun%2C_2024_Nobel_Prize_Laureate_in_Medicine_3_%28cropped%29.jpg&quot; alt=&quot;Gary Ruvkun&quot; /&gt;
-&lt;em&gt;Gary Ruvkun. Source: &lt;a href=&quot;https://en.wikipedia.org/wiki/Gary_Ruvkun&quot;&gt;Wikipedia&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;what-unites-the-themes-and-laureates&quot;&gt;What Unites the Themes and Laureates?&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Molecular and Genetic Focus:&lt;/strong&gt; All prizes highlight advances in molecular biology, genetics, and the mechanisms underlying health and disease.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Translational Impact:&lt;/strong&gt; Each discovery has led to new diagnostics, therapies, or fundamental shifts in biomedical science.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;International Collaboration:&lt;/strong&gt; Many laureates have worked across countries and institutions, reflecting the global nature of modern science.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Diversity of Backgrounds:&lt;/strong&gt; Laureates include immigrants and those with multicultural backgrounds (e.g., Karikó from Hungary, Patapoutian from Lebanon).&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Active Scientists:&lt;/strong&gt; As of June 2025, all laureates are alive and most remain active in research or academia, except Michael Houghton, who retired but is still alive.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Interrelations:&lt;/strong&gt; Several laureates have collaborated with each other or with other Nobel winners, showing the importance of scientific networks.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;controversies-and-curiosities&quot;&gt;Controversies and Curiosities&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;2020:&lt;/strong&gt; Debate over the exclusion of other contributors to hepatitis C research, but the main discoverers were recognized.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;2021:&lt;/strong&gt; No major controversies; the discoveries were widely accepted and celebrated.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;2022:&lt;/strong&gt; Some discussion about the focus on ancient DNA, but Pääbo’s pioneering work was universally acknowledged.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;2023:&lt;/strong&gt; The rapid development and deployment of mRNA vaccines during the COVID-19 pandemic sparked public debate, but the scientific achievement was clear. Karikó’s long struggle for recognition before the Nobel was widely discussed.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;2024:&lt;/strong&gt; The microRNA field is vast, and some researchers contributed to its development, but Ambros and Ruvkun’s foundational discoveries were decisive.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;implications-for-the-present-and-future&quot;&gt;Implications for the Present and Future&lt;/h2&gt;
-
-&lt;p&gt;The awarded technologies and discoveries already have a profound impact today:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Hepatitis C:&lt;/strong&gt; The disease is close to eradication in several countries thanks to tests and treatments derived from the 2020 discoveries.&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.who.int/news-room/fact-sheets/detail/hepatitis-c&quot;&gt;Learn more: WHO - Hepatitis C&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;mRNA Vaccines:&lt;/strong&gt; The mRNA platform is being adapted for vaccines against cancer, HIV, influenza, and autoimmune diseases, with clinical trials underway. The record speed of COVID-19 vaccine development demonstrated the potential of this technology.&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.nature.com/articles/d41586-021-02483-w&quot;&gt;Nature - mRNA vaccines&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;microRNA and RNAi:&lt;/strong&gt; The first RNA interference therapy approved for clinical use was patisiran (Onpattro), for hereditary transthyretin amyloidosis, in 2018. Since then, six RNAi therapies have been FDA-approved, expanding treatment options for genetic and chronic diseases and potentially revolutionizing personalized medicine.&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.fda.gov/drugs/spotlight-cder-science/new-class-drugs-fulfills-promise-rna-based-medicine&quot;&gt;FDA - RNAi therapies&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.nature.com/articles/s41573-024-00912-9&quot;&gt;Nature Reviews Drug Discovery - RNAi&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Evolutionary Genetics:&lt;/strong&gt; Genes inherited from Neanderthals, such as &lt;em&gt;F5&lt;/em&gt; (clotting), &lt;em&gt;SCN9A&lt;/em&gt; (pain sensitivity), and variants in the &lt;em&gt;OAS&lt;/em&gt; cluster (antiviral immunity), affect current human traits. A Denisovan gene, &lt;em&gt;EPAS1&lt;/em&gt;, increases altitude tolerance in Tibetans. These findings help explain disease susceptibility and human adaptations.&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.nature.com/articles/s41586-020-2818-3&quot;&gt;Nature - Neanderthal DNA and COVID-19&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.science.org/content/article/tibetans-inherited-high-altitude-gene-ancient-human&quot;&gt;Science - Denisovan gene and altitude&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Sensory Neuroscience:&lt;/strong&gt; New painkillers and treatments for chronic pain and neurological diseases are being developed based on the receptors discovered in 2021.&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.science.org/content/article/hot-and-cool-research-wins-nobel-prize-physiology-or-medicine&quot;&gt;Science - Pain research&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;In the future, these discoveries are expected to continue transforming medicine, making diagnostics more precise, treatments more personalized, and deepening our understanding of life’s fundamental mechanisms. International exchange, multidisciplinary collaboration, and the value of basic science have proven essential for advances that benefit all humanity.&lt;/p&gt;
-
-&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;
-
-&lt;p&gt;The last five years of Nobel Prizes in Medicine reflect a golden era for molecular biology and genetics, with discoveries that have immediate impact on human health and deepen our understanding of life itself. Scientific research is fundamental to human well-being and societal progress. However, the rise of scientific denialism and misinformation is concerning, as it threatens historic achievements and hinders access to treatments and vaccines. It is therefore essential to value and disseminate quality, evidence-based information, so that the benefits of science reach everyone and society can make informed decisions about health and public policy.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 10 Jun 2025 12:00:00 -0300</pubDate>
-        <link>https://fhcflx.github.io/ciencia-medica/2025/06/10/nobel-medicine-20-24.html</link>
-        <guid isPermaLink="true">https://fhcflx.github.io/ciencia-medica/2025/06/10/nobel-medicine-20-24.html</guid>
-        
-        <category>Physiology or Medicine</category>
-        
-        <category>Nobel Prize</category>
-        
-        <category>Science History</category>
         
         
       </item>
