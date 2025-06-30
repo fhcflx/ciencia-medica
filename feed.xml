@@ -6,8 +6,8 @@
 </description>
     <link>https://fhcflx.github.io/ciencia-medica/</link>
     <atom:link href="https://fhcflx.github.io/ciencia-medica/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 30 Jun 2025 01:42:45 -0300</pubDate>
-    <lastBuildDate>Mon, 30 Jun 2025 01:42:45 -0300</lastBuildDate>
+    <pubDate>Mon, 30 Jun 2025 08:52:33 -0300</pubDate>
+    <lastBuildDate>Mon, 30 Jun 2025 08:52:33 -0300</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
     
       <item>
@@ -374,7 +374,7 @@ Copernicus inaugurated a line of thought (epitomized by the principle that bears
 
 &lt;p&gt;&lt;em&gt;Cover of the original edition of “The Merchant and the Alchemist’s Gate”. Image by Subterranean Press, published on &lt;a href=&quot;https://en.wikipedia.org/wiki/File:The_Merchant_and_the_Alchemist%27s_Gate.jpg&quot;&gt;Wikimedia Commons&lt;/a&gt; under Creative Commons Attribution 3.0 Unported license.&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;Before we get lost in paradoxes and portals, it’s worth asking: what is time, after all? Long before time became a theme in Western philosophy, Hindus wrote in the Vedas about cycles of creation and destruction lasting more than 4 million years each. The Egyptian Ptahotep said that wasting time was an abomination (perhaps already anticipating Novikov? - see below). The Incas saw space and time as one: pacha. And probably the ancient speakers of Proto-Semitic already had the concept of remote time and an origin of time.&lt;/p&gt;
+&lt;p&gt;Before we get lost in paradoxes and portals, it’s worth asking: what is time, after all? Long before time became a theme in Western philosophy, Hindus wrote in the Vedas about cycles of creation and destruction lasting more than 4 million years each. The Egyptian Ptahotep said that wasting time was an abomination (perhaps already anticipating Novikov? - see below). The Incas saw space and time as one: &lt;em&gt;pacha&lt;/em&gt;. And probably the ancient speakers of Proto-Semitic already had the concept of remote time and an origin of time.&lt;/p&gt;
 
 &lt;p&gt;For Aristotle, time was not an independent entity, but the measure of change—time exists only because things change. Newton, on the other hand, saw time (and space) as absolutes, a fixed stage where everything happens, regardless of what exists or changes. Then Einstein brought the big surprise: time can “stretch” or “shrink” depending on speed and gravity, becoming relative to the observer.&lt;label for=&quot;relativity&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
 &lt;input type=&quot;checkbox&quot; id=&quot;relativity&quot; class=&quot;margin-toggle&quot; /&gt;
@@ -511,6 +511,81 @@ Copernicus inaugurated a line of thought (epitomized by the principle that bears
       </item>
     
       <item>
+        <title>El mercader, el portal y las curvas del tiempo: ciencia y ficción en Ted Chiang</title>
+        <description>&lt;p&gt;Ted Chiang, en su premiado relato “El Mercader y el Portal del Alquimista”, construye una narrativa fascinante en torno a un concepto científico real: las curvas cerradas tipo tiempo.&lt;label for=&quot;curva-cerrada-tiempo&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;curva-cerrada-tiempo&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;
+&lt;strong&gt;Curva cerrada tipo tiempo:&lt;/strong&gt; Trayectoria en el espacio-tiempo que regresa al mismo punto, permitiendo en teoría viajes en el tiempo sin violar las ecuaciones de la relatividad general.
+&lt;/span&gt;
+ Inspirado por una conferencia del físico Kip Thorne, Chiang explora la idea de trayectorias en el espacio-tiempo que regresan al mismo punto — es decir, viajes en el tiempo matemáticamente posibles.
+&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/en/e/e3/The_Merchant_and_the_Alchemist%27s_Gate.jpg&quot; alt=&quot;Portada de la edición original de &amp;quot;The Merchant and the Alchemist&apos;s Gate&amp;quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Portada de la edición original de “The Merchant and the Alchemist’s Gate”. Imagen de Subterranean Press, publicada en &lt;a href=&quot;https://en.wikipedia.org/wiki/File:The_Merchant_and_the_Alchemist%27s_Gate.jpg&quot;&gt;Wikimedia Commons&lt;/a&gt; bajo licencia Creative Commons Attribution 3.0 Unported.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Antes de perdernos en paradojas y portales, vale la pena preguntar: ¿qué es el tiempo? Mucho antes de que el tiempo fuera tema de la filosofía occidental, los hindúes ya escribían en los Vedas sobre ciclos de creación y destrucción que duraban más de 4 millones de años cada uno. El egipcio Ptahotep decía que la pérdida de tiempo era una abominación (¿quizás anticipando a Novikov? - véase más adelante). Los incas veían el espacio y el tiempo como una sola cosa: &lt;em&gt;pacha&lt;/em&gt;. Y, probablemente, los antiguos hablantes del proto-semítico ya tenían el concepto de tiempo remoto y de un origen del tiempo.&lt;/p&gt;
+
+&lt;p&gt;Para Aristóteles, el tiempo no era una entidad independiente, sino la medida del cambio — solo existe tiempo porque las cosas cambian. Newton, en cambio, veía el tiempo (y el espacio) como absolutos, un escenario fijo donde todo sucede, independientemente de lo que exista o cambie. Einstein trajo la gran sorpresa: el tiempo puede “estirarse” o “encogerse” dependiendo de la velocidad y la gravedad, volviéndose relativo al observador.&lt;label for=&quot;relatividad&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;relatividad&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;
+&lt;strong&gt;Relatividad:&lt;/strong&gt; Teoría física desarrollada por Einstein que revolucionó la comprensión del espacio, el tiempo y la gravedad, mostrando que son relativos al observador.
+&lt;/span&gt;
+ Otros filósofos también dieron sus interpretaciones, pero ninguna cambió tanto nuestra comprensión como la física moderna.&lt;/p&gt;
+
+&lt;p&gt;¿Pero qué son esas curvas? En términos técnicos, son “líneas del universo cerradas de un distribuidor Lorentziano en el espacio-tiempo”. Traducido: son trayectorias que permiten a un objeto volver al mismo punto en el espacio y en el tiempo. La primera solución matemática para este concepto fue encontrada por Willem Jacob van Stockum en 1937, y luego confirmada por Kurt Gödel en 1949, ambos usando las ecuaciones de campo de Einstein.&lt;/p&gt;
+
+&lt;p&gt;Antes incluso de hablar de viajes en el tiempo, Karl Schwarzschild — aventurero, alpinista y físico — encontró la primera solución exacta de las ecuaciones de Einstein durante la Primera Guerra Mundial.&lt;label for=&quot;agujero-gusano&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;agujero-gusano&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;
+&lt;strong&gt;Agujero de gusano:&lt;/strong&gt; Solución teórica de las ecuaciones de Einstein que conecta dos puntos distintos del espacio-tiempo, funcionando como un atajo cósmico.
+&lt;/span&gt;
+ Su solución abrió el camino para el concepto de agujeros de gusano, que más tarde serían considerados posibles mecanismos para curvas cerradas del tiempo. Si alguien debía ser un viajero en el tiempo, sería él.&lt;/p&gt;
+
+&lt;p&gt;Uno de los conceptos que más fascinó a Chiang fue el principio de autoconsistencia de Novikov (un astrofísico y cosmólogo ruso, conocido por sus contribuciones a la física de los agujeros negros, la cosmología y, especialmente, al estudio de los viajes en el tiempo).&lt;label for=&quot;novikov-es&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;novikov-es&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;
+&lt;strong&gt;Principio de autoconsistencia de Novikov:&lt;/strong&gt; Postula que los eventos que causarían paradojas temporales tienen probabilidad cero de ocurrir, haciendo que el universo sea “autoconsistente”.
+&lt;/span&gt;
+ Este principio postula que la probabilidad de líneas del universo que causan paradojas temporales es cero. Es decir, el universo “se ajusta” para impedir paradojas, haciéndolas imposibles.&lt;/p&gt;
+
+&lt;p&gt;En los años 90, Thorne y otros físicos encontraron soluciones matemáticas que sugieren la existencia de infinitas curvas cerradas del tiempo que evitan paradojas.&lt;label for=&quot;paradoja-temporal&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;paradoja-temporal&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;
+&lt;strong&gt;Paradoja temporal:&lt;/strong&gt; Situación hipotética en la que una acción en el pasado altera el futuro de forma contradictoria, como impedir el propio nacimiento.
+&lt;/span&gt;
+ Esto podría usarse en agujeros de gusano atravesables — verdaderas “ventanas” al pasado o al futuro, pero siempre en líneas del universo donde los paradojas no pueden ocurrir. El resultado sería similar a la descripción de Chiang en su relato, algo muy diferente al agujero de gusano del libro Contacto, de Carl Sagan.&lt;/p&gt;
+
+&lt;p&gt;Chiang es un maestro en crear relatos alrededor de conceptos científicos singulares, siempre en escenarios de fantasía novelada. “El Mercader y el Portal del Alquimista” ganó los premios Nebula y Hugo en 2008, mostrando cómo la buena ciencia ficción puede nacer de ideas matemáticamente posibles, pero aún misteriosas para la mayoría de nosotros.&lt;/p&gt;
+
+&lt;p&gt;Ted Chiang es un escritor estadounidense de ciencia ficción, conocido por sus historias que exploran conceptos científicos y filosóficos profundos. Su obra más popular es el relato “Story of Your Life” (“La historia de tu vida”), que fue adaptado al cine en la premiada película “La Llegada” (“Arrival”, 2016), dirigida por Denis Villeneuve. Chiang ha recibido varios premios importantes de la literatura fantástica, incluyendo el Nebula, el Hugo y el Locus.&lt;/p&gt;
+
+&lt;p&gt;P.D.: Los conceptos discutidos en esta publicación también se aplican a otras obras de ficción en diferentes medios, como la serie de Netflix “Dark” y el anime “Steins;Gate” — cada una de ellas merece, en el futuro, una publicación propia.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 20 Jun 2025 12:00:00 -0300</pubDate>
+        <link>https://fhcflx.github.io/ciencia-medica/2025/06/20/chiang-mercador-portal-es.html</link>
+        <guid isPermaLink="true">https://fhcflx.github.io/ciencia-medica/2025/06/20/chiang-mercador-portal-es.html</guid>
+        
+        <category>Ciencia ficción</category>
+        
+        <category>Viaje en el tiempo</category>
+        
+        <category>Relatividad</category>
+        
+        <category>Agujero de gusano</category>
+        
+        <category>Ted Chiang</category>
+        
+        <category>Kip Thorne</category>
+        
+        <category>Gödel</category>
+        
+        <category>Novikov</category>
+        
+        
+      </item>
+    
+      <item>
         <title>O lobo terrível não voltou: o que realmente significa o anúncio da &quot;desextinção&quot; e por que o futuro é mais importante que o passado</title>
         <description>&lt;p&gt;Em abril de 2025, manchetes ao redor do mundo anunciaram a suposta “desextinção” do lobo terrível (dire wolf), espécie extinta há milhares de anos, após divulgação de um preprint e comunicado da empresa Colossal Biosciences.&lt;label for=&quot;desextincao&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
 &lt;input type=&quot;checkbox&quot; id=&quot;desextincao&quot; class=&quot;margin-toggle&quot; /&gt;
@@ -591,6 +666,93 @@ Copernicus inaugurated a line of thought (epitomized by the principle that bears
         <category>Edição genética</category>
         
         <category>Lobo terrível</category>
+        
+        <category>Bioética</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>El lobo terrible no ha vuelto: qué significa realmente el anuncio de la &quot;desextinción&quot; y por qué el futuro es más importante que el pasado</title>
+        <description>&lt;p&gt;En abril de 2025, titulares de todo el mundo anunciaron la supuesta “desextinción” del lobo terrible (dire wolf), especie extinta hace miles de años, tras la divulgación de un preprint y un comunicado de la empresa Colossal Biosciences.&lt;label for=&quot;desextincion&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;desextincion&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;
+&lt;strong&gt;Desextinción:&lt;/strong&gt; Concepto que se refiere al intento de recrear o restaurar especies extintas mediante técnicas biotecnológicas como la clonación, la edición genética o los cruces selectivos. Hasta hoy, ningún caso de desextinción plena ha sido comprobado científicamente.
+&lt;/span&gt;
+ Pero, ¿qué fue lo que realmente ocurrió? La respuesta es más compleja e interesante de lo que sugiere el sensacionalismo.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/9/92/Canis_dirus_Sergiodlarosa.jpg&quot; alt=&quot;Reconstrucción artística del lobo terrible (Canis dirus)&quot; /&gt;
+&lt;em&gt;Reconstrucción artística del lobo terrible (Canis dirus). Ilustración de Sergiodlarosa, publicada bajo licencia Creative Commons Attribution 3.0 Unported. Fuente: &lt;a href=&quot;https://commons.wikimedia.org/wiki/File:Canis_dirus_Sergiodlarosa.jpg&quot;&gt;Wikimedia Commons&lt;/a&gt;&lt;/em&gt; &lt;label for=&quot;lobo-terrible&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;lobo-terrible&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;
+&lt;strong&gt;Lobo terrible (Canis dirus):&lt;/strong&gt; Especie de lobo prehistórico que vivió en América durante el Pleistoceno y se extinguió hace unos 10 mil años. Era más grande y robusto que los lobos modernos.
+&lt;/span&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;qué-se-hizo-y-qué-no&quot;&gt;Qué se hizo (y qué no)&lt;/h2&gt;
+
+&lt;p&gt;Colossal Biosciences utilizó material genético de lobos grises modernos, no de perros. Uno de los grandes avances metodológicos en este caso fue el uso de clonación a partir de células progenitoras endoteliales, que normalmente existen en cantidad reducida en el revestimiento interno de los vasos sanguíneos. A diferencia de las técnicas tradicionales de clonación, que dependen de muestras de tejido obtenidas por biopsia (y pueden estar contaminadas por células diferenciadas), este enfoque requiere solo una muestra de sangre y la separación específica de estas células progenitoras — algo que hasta hace poco parecía ciencia ficción, como en la película ‘El sexto día’. &lt;label for=&quot;clonacion&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;clonacion&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;
+&lt;strong&gt;Clonación:&lt;/strong&gt; Técnica de reproducción asexual que genera un organismo genéticamente idéntico al original. Puede realizarse por transferencia nuclear, como en el caso de la oveja Dolly, u otros métodos de laboratorio.
+&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;El ADN de los lobos grises fue editado genéticamente usando una técnica con la enzima CRISPR-Cas9, permitiendo la modificación de 20 posiciones de nucleótidos del material genético original. Estas 20 alteraciones fueron suficientes para dar a los animales generados la apariencia del lobo terrible. Sin embargo, los lobos terribles originales tenían millones de pares de bases diferentes de los lobos grises modernos — es decir, la modificación es superficial y limitada. &lt;label for=&quot;crispr-es&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;crispr-es&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;
+&lt;strong&gt;CRISPR:&lt;/strong&gt; Herramienta de edición genética basada en un sistema natural de defensa bacteriana, que permite modificar el ADN de organismos de forma precisa, rápida y relativamente barata. Revolucionó la biotecnología y la medicina.
+&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;Tras la edición genética, el núcleo de estas células modificadas fue transferido a óvulos de lobo cuyo núcleo había sido removido, etapa similar a la técnica clásica de clonación utilizada en el caso de la famosa oveja Dolly. Así, los embriones resultantes contenían el material genético editado y pudieron ser implantados para el desarrollo de los cachorros.&lt;/p&gt;
+
+&lt;p&gt;Los embriones de lobo gris genéticamente modificados fueron implantados en perras, que gestaron y dieron a luz tres cachorros. Por lo tanto, no son lobos terribles, sino lobos grises modificados para parecer lobos terribles.&lt;/p&gt;
+
+&lt;p&gt;La polémica aumentó en mayo de 2025, cuando la propia científica jefe de Colossal admitió públicamente que los animales creados no son lobos terribles y que nunca hubo, de hecho, una desextinción. Esta admisión, ampliamente difundida en los medios, reforzó el carácter mediático del anuncio y evidenció la importancia de una comunicación científica precisa y transparente.&lt;/p&gt;
+
+&lt;p&gt;Científicos y medios como &lt;a href=&quot;https://www.science.org/content/article/dire-wolf-back-dead-not-exactly&quot;&gt;Science&lt;/a&gt; y la &lt;a href=&quot;https://www.bbc.com/portuguese/articles/c62973qwx4do&quot;&gt;BBC&lt;/a&gt; fueron claros: no existe desextinción real, ni evidencias de que los lobos terribles estén de vuelta. El anuncio fue, en gran parte, un golpe mediático, como también señaló la &lt;a href=&quot;https://jornal.usp.br/radio-usp/nao-existem-evidencias-cientificas-da-recuperacao-dos-lobos-terriveis-extintos-ha-milhares-de-anos/&quot;&gt;Universidad de São Paulo - USP&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;el-verdadero-hito-crispr-y-el-futuro&quot;&gt;El verdadero hito: CRISPR y el futuro&lt;/h2&gt;
+
+&lt;p&gt;A pesar del sensacionalismo, el trabajo representa un avance notable en la aplicación de la edición genética en mamíferos, especialmente usando CRISPR para insertar modificaciones genéticas similares a las de especies extintas en genomas modernos. Esto abre puertas para investigaciones en biotecnología, salud animal y humana, e incluso para la conservación de especies amenazadas — pero no para “resucitar” el pasado.&lt;/p&gt;
+
+&lt;p&gt;El impacto práctico inmediato para la ecología o la protección de especies es nulo. No hay beneficios para el medio ambiente ni para la biodiversidad, en este momento. Lo que hay, en realidad, es un salto tecnológico que puede, en el futuro, revolucionar la medicina, haciendo posible crear animales (y tal vez humanos) resistentes a enfermedades, o con características optimizadas.&lt;/p&gt;
+
+&lt;h2 id=&quot;el-debate-ético-y-el-futuro-disruptivo&quot;&gt;El debate ético y el futuro disruptivo&lt;/h2&gt;
+
+&lt;p&gt;El aspecto más relevante — y poco discutido — es el potencial de la edición genética para crear seres vivos con características inéditas. El “lobo terrible” es solo un símbolo: el verdadero dilema está en cómo la sociedad lidiará con la posibilidad de modificar profundamente a los seres humanos y animales. La tecnología CRISPR puede, a mediano y largo plazo, transformar la salud, pero también plantea enormes desafíos éticos. &lt;label for=&quot;bioetica-es&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;bioetica-es&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;
+&lt;strong&gt;Bioética:&lt;/strong&gt; Campo interdisciplinario que discute los límites éticos, sociales y legales de las intervenciones biomédicas, como la clonación, la edición genética y la desextinción. Fundamental para orientar decisiones responsables en la ciencia.
+&lt;/span&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;conclusión&quot;&gt;Conclusión&lt;/h2&gt;
+
+&lt;p&gt;La noticia de la “desextinción” del lobo terrible es, en realidad, un hito para el futuro, no para el pasado. Lo más importante no es lo que se recuperó, sino lo que podrá ser creado. El debate sobre los límites y usos de la edición genética apenas comienza.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Fuentes:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.biorxiv.org/content/10.1101/2025.04.09.647074v1.full.pdf&quot;&gt;Preprint científico&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.science.org/content/article/dire-wolf-back-dead-not-exactly&quot;&gt;Science&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.bbc.com/portuguese/articles/c62973qwx4do&quot;&gt;BBC&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://jornal.usp.br/radio-usp/nao-existem-evidencias-cientificas-da-recuperacao-dos-lobos-terriveis-extintos-ha-milhares-de-anos/&quot;&gt;Universidad de São Paulo - USP&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://colossal.com/direwolf/&quot;&gt;Colossal Biosciences&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://colossal.com/direwolf/science/&quot;&gt;Colossal - Science&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://time.com/7274542/colossal-dire-wolf/&quot;&gt;Time&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Wed, 18 Jun 2025 12:00:00 -0300</pubDate>
+        <link>https://fhcflx.github.io/ciencia-medica/2025/06/18/direwolf-2025-es.html</link>
+        <guid isPermaLink="true">https://fhcflx.github.io/ciencia-medica/2025/06/18/direwolf-2025-es.html</guid>
+        
+        <category>Desextinción</category>
+        
+        <category>CRISPR</category>
+        
+        <category>Edición genética</category>
+        
+        <category>Lobo terrible</category>
         
         <category>Bioética</category>
         
@@ -804,241 +966,6 @@ Copernicus inaugurated a line of thought (epitomized by the principle that bears
         <category>Early-onset</category>
         
         <category>Epidemiology</category>
-        
-        <category>Clinical research</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Câncer de início precoce: o tamanho do problema e o que se sabe até agora</title>
-        <description>&lt;p&gt;Nos últimos anos, cresceu a atenção da comunidade científica e do público para o aumento global do câncer de início precoce&lt;label for=&quot;cancer&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
-&lt;input type=&quot;checkbox&quot; id=&quot;cancer&quot; class=&quot;margin-toggle&quot; /&gt;
-&lt;span class=&quot;sidenote&quot;&gt;&lt;strong&gt;Câncer&lt;/strong&gt; (&lt;em&gt;lat cancer&lt;/em&gt; = caranguejo): grande grupo de doenças muito diferentes entre si, tendo em comum a proliferação celular incessante e desordenada, a capacidade de invadir localmente tecidos saudáveis do organismo e a capacidade de se espalhar para locais distantes (metástases). Os diversos tipos de câncer são teoricamente oriundos de &lt;em&gt;uma única célula&lt;/em&gt; (origem clonal) a qual sofreu mutações em seu código genético. Saiba mais &lt;a href=&quot;../../../2017/03/01/O-que-e-o-cancer.html&quot;&gt;aqui&lt;/a&gt;.
-&lt;/span&gt;
- — definido como aquele diagnosticado antes dos 50 anos de idade. O artigo de Ugai &lt;em&gt;et al.&lt;/em&gt; (2022), publicado na Nature Reviews Clinical Oncology (&lt;a href=&quot;https://pmc.ncbi.nlm.nih.gov/articles/PMC9509459/#SM1&quot;&gt;DOI: 10.1038/s41571-022-00672-8&lt;/a&gt;), evidenciou que, embora o câncer fosse tradicionalmente associado a pessoas com mais de 50 anos, sua incidência está se tornando cada vez mais comum em adultos jovens.
-&lt;!--more--&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;o-que-é-o-câncer-de-início-precoce&quot;&gt;O que é o câncer de início precoce?&lt;/h2&gt;
-
-&lt;p&gt;Câncer de início precoce refere-se a tumores diagnosticados em pessoas com menos de 50 anos. Dentro desse grupo, há subcategorias importantes: adolescentes (15-18/24 anos), adultos jovens (25-39 anos) e adultos de meia-idade precoce (40-49 anos). O termo internacionalmente utilizado para adolescentes e adultos jovens é AYA (adolescents and young adults), geralmente abrangendo dos 15 aos 39 anos. O impacto do diagnóstico nessa fase da vida é profundo, afetando não só a saúde, mas também aspectos sociais, emocionais e econômicos.&lt;/p&gt;
-
-&lt;p&gt;A classificação de câncer de início precoce foi introduzida nas últimas décadas diante da observação de que certos tipos de câncer, tradicionalmente raros em pessoas jovens, passaram a apresentar aumento de incidência em adultos com menos de 50 anos. Essa definição ganhou destaque a partir dos anos 2000, especialmente em estudos epidemiológicos internacionais&lt;label for=&quot;epidemio&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
-&lt;input type=&quot;checkbox&quot; id=&quot;epidemio&quot; class=&quot;margin-toggle&quot; /&gt;
-&lt;span class=&quot;sidenote&quot;&gt;&lt;strong&gt;Epidemiologia&lt;/strong&gt; (&lt;em&gt;gr epi = sobre; demos = povo; logos = estudo&lt;/em&gt;):
-   propõe-se a estudar quantitativamente a distribuição dos fenômenos de
-   saúde/doença, e seus fatores condicionantes e determinantes, nas populações
-   humanas. É um campo da ciência que trata dos vários fatores genéticos, sociais
-   ou ambientais e condições derivados de exposição microbiológica, tóxica,
-   traumática, etc, que determinam a ocorrência e a distribuição de saúde,
-   doença, incapacidade e morte entre os grupos de indivíduos.
-&lt;/span&gt;
-, para diferenciar tumores que surgem precocemente daqueles que ocorrem em idades mais avançadas. O objetivo é facilitar a vigilância, a pesquisa e o desenvolvimento de estratégias de prevenção e diagnóstico precoce para esse grupo, que apresenta características clínicas, fatores de risco e necessidades distintas.&lt;/p&gt;
-
-&lt;p&gt;Pesquisando no Google Acadêmico pelo termo “early onset cancer” (assim, com aspas, para forçar a busca pelo termo completo), a menção mais antiga que encontrei foi um &lt;a href=&quot;https://doi.org/10.1093/jnci/53.6.1577&quot;&gt;artigo&lt;/a&gt; de 1974 sobre câncer de mama que já comparava a doença em mulheres com menos ou mais de 45 anos. Os autores desse estudo estavam interessados em verificar qual o impacto de fatores de risco conhecidos na época em pacientes com início de doença precoce (supostamente mais ligado a fatores genéticos e hereditários&lt;label for=&quot;gene&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
-&lt;input type=&quot;checkbox&quot; id=&quot;gene&quot; class=&quot;margin-toggle&quot; /&gt;
-&lt;span class=&quot;sidenote&quot;&gt;&lt;strong&gt;Gene&lt;/strong&gt; (&lt;em&gt;gr gonos&lt;/em&gt; = geração, semente): trecho de DNA que
-  codifica uma molécula (proteína) com uma função. Correspondem às unidades de herança
-  hipotetizadas por Mendel e denominadas de genes pelo botânico dinamarquês
-  Johannsen em 1905. Constitui uma minoria do DNA de uma célula. A maior parte do DNA
-  não codifica proteínas e, portanto, não faz parte de genes. A expressão “um gene,
-  uma proteína” resume o &lt;em&gt;dogma central da biologia&lt;/em&gt;, de que a informação genética
-  é transferida (codificada) do DNA para o RNA e deste para uma proteína
-&lt;/span&gt;
-) ou mais tardio (supostamente mais relacionado a hábitos e exposição ambiental). Eles encontraram que história familiar de câncer de mama realmente parecia ser fator de risco ligado a casos mais precoces, porém também idade maior que 25 anos para o primeiro parto. Interessantemente, casos de início mais tardio de câncer de mama não mostraram correlação com a idade do primeiro parto. Ou seja, já nessa publicação dos anos 70, surgia uma pista de que fatores não hereditários estavam atuando no surgimento de casos de câncer de início precoce. O termo correspondente em português (câncer de início precoce) só vem surgir em trabalhos no Google Acadêmico (muito poucos) já deppis de 2020.&lt;/p&gt;
-
-&lt;p&gt;A esmagadora maioria das publicações científicas sobre esse tema (“early onset cancer”), entre os anos 70 e 2000, focava apenas em casos de câncer hereditário, relacionados a alterações genéticas conhecidas, e não diferenciavam uma faixa etária específica, incluindo às vezes desde crianças até a meia idade. A maior ênfase na definição de trabalho de Ugai (adultos com menos de 50 anos) veio realmente no século 21. Porém, de onde vem essa definição? Por que 50 anos é o ponto de corte? Não encontrei uma resposta direta, porém encontrei um &lt;a href=&quot;https://pmc.ncbi.nlm.nih.gov/articles/instance/1685650/pdf/ajhg00351-0124.pdf&quot;&gt;trabalho&lt;/a&gt; de 1983 muito interessante sobre epidemiologia do câncer hereditário e idade ao diagnóstico, que tentava, pela primeira vez, demonstrar que a ocorrência de câncer em pessoas mais jovens do que esperado sinalizava algum fator hereditário de predisposição a câncer. Os autores dividiram o grupo de pacientes que eles estudaram (com história familiar de câncer) em grupos de acordo com a idade de maior frequência de diagnóstico de cada câncer. O grupo de “jovens” ficava abaixo do percentil 10 da distribuição de idades e o grupo “intermediário” ficava entre o percentil 10 e 45 dessa distribuição&lt;label for=&quot;mediana&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
-&lt;input type=&quot;checkbox&quot; id=&quot;mediana&quot; class=&quot;margin-toggle&quot; /&gt;
-&lt;span class=&quot;sidenote&quot;&gt;&lt;strong&gt;Percentil&lt;/strong&gt; (&lt;em&gt;estatística&lt;/em&gt;) neste contexto é uma medida estatística que indica a posição relativa de um valor dentro de um conjunto de dados ordenados. O percentil é o valor abaixo do qual uma certa porcentagem dos dados cai. Por exemplo, o 50º percentil (ou mediana) é o valor abaixo do qual 50% dos dados estão localizados. Se um aluno está no 90º percentil em uma prova, isso significa que ele obteve uma pontuação melhor do que 90% dos outros alunos que fizeram a mesma prova. O 10º percentil (ou percentil 10), por outro lado, indica que 10% dos dados estão abaixo desse valor. Os percentis são frequentemente usados para entender a distribuição de dados e identificar valores atípicos ou extremos. Eles são úteis em diversas áreas, como educação, saúde e finanças, para comparar desempenhos ou características entre diferentes grupos ou populações.
-&lt;/span&gt;. A mediana&lt;label for=&quot;mediana&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
-&lt;input type=&quot;checkbox&quot; id=&quot;mediana&quot; class=&quot;margin-toggle&quot; /&gt;
-&lt;span class=&quot;sidenote&quot;&gt;&lt;strong&gt;Mediana&lt;/strong&gt; (&lt;em&gt;estatística&lt;/em&gt;) é o valor que separa a metade maior e a metade menor de uma amostra, uma população ou uma distribuição de probabilidade. Em termos mais simples, mediana pode ser o valor do meio de um conjunto de dados. No conjunto de dados {1, 3, 3, &lt;strong&gt;6&lt;/strong&gt;, 7, 8, 9}, por exemplo, a mediana é 6.
-&lt;/span&gt;
- de idade dos pacientes do grupo “intermediário” foi de 53 anos, e sua média 49 anos. Faz sentido, assim, que a idade de 50 anos tenha sido usada com mais frequencia para diferenciar pacientes com câncer de início precoce do restante. Curiosamente, o trabalho de 1983 não conseguiu provar a correlação entre história familiar (hereditariedade) e câncer de início precoce!&lt;/p&gt;
-
-&lt;p&gt;A importância de manter vigilância epidemiológica nessa faixa etária é crescente, pois o diagnóstico precoce pode impactar significativamente o prognóstico e a qualidade de vida. Além disso, compreender os fatores associados ao aumento desses tumores pode ajudar a orientar políticas públicas e intervenções preventivas.&lt;/p&gt;
-
-&lt;h2 id=&quot;como-sabemos-que-a-incidência-aumentou&quot;&gt;Como sabemos que a incidência aumentou?&lt;/h2&gt;
-
-&lt;p&gt;Diversos registros populacionais de câncer ao redor do mundo têm mostrado aumento consistente na incidência de vários tipos de câncer de início precoce desde a década de 1990. O artigo de Ugai se refere apenas a adultos a partir de 20 anos e com menos de 50 anos, e não crianças e adolescentes. Ele analisou dados obtidos do Global Cancer Observatory (&lt;a href=&quot;https://gco.iarc.fr/&quot;&gt;GLOBOCAN&lt;/a&gt;) sobre 14 tipos de câncer em adultos de 20 a 49 anos, em 44 países e identificou que, entre 2002 e 2012, houve aumento significativo em tumores como câncer colorretal, de mama, rim, fígado, pâncreas, estômago e outros.&lt;/p&gt;
-
-&lt;p&gt;Os autores calcularam o aumento percentual anual médio da incidência de cada câncer no período estudado. Por exemplo, a incidência de câncer colorretal em mulheres com menos de 50 anos aumentou, em média, em torno de 2% ao ano na Austrália, Canadá, Dinamarca, França, Japão, Holanda, Reino Unido, Turquia e EUA. No Equador e Coréia do Sul, esse aumento foi de quase 5% ao ano, indicando que esse fenômeno não ficou restrito a países desenvolvidos e ocidentais.&lt;/p&gt;
-
-&lt;p&gt;O artigo de Ugai &lt;em&gt;et al.&lt;/em&gt; analisou tendências globais e mostrou que a incidência de câncer colorretal de início precoce aumentou de forma consistente em diversos países desde a década de 1990, tanto em nações desenvolvidas quanto em desenvolvimento. O aumento é observado mesmo em países sem programas de rastreamento sistemático para jovens adultos, sugerindo que não se trata apenas de maior detecção, mas de um fenômeno real. Esse padrão se repete para outros tumores, como mama, rim, fígado, pâncreas e estômago, conforme detalhado na revisão.&lt;/p&gt;
-
-&lt;p&gt;Já a revisão de di Martino &lt;em&gt;et al.&lt;/em&gt; (2022) publicada no British Journal of Cancer (&lt;a href=&quot;https://doi.org/10.1038/s41416-022-01704-x&quot;&gt;DOI: 10.1038/s41416-022-01704-x&lt;/a&gt;) partiu da constatação de um aumento de incidência de câncer colorretal, mais em países desenvolvidos e tentou confirmar isso para este e outros 11 tipos de câncer. Eles fizeram uma revisão da literatura publicada entre 1995 e 2020, incluindo 98 estudos (68 da América do Norte e 24 da Europa). A maioria dos estudos relatava apenas um tipo de câncer, 8 descreviam vários tipos. A meta-análise dos dados mostrou que a incidência de câncer colorretal em adultos com menos de 50 anos aumentou cerca de 1-3% ao ano em média, em ambos os sexos, na América do Norte (no Canadá, esse aumento chegou a 6-7% ao ano em menores de 30 anos). Na Europa, a mesma tendência foi documentada. Essa observação foi mais pronunciada quanto mais jovem era o grupo de pacientes (8% de aumento anual médio em pessoas de 20-29 anos entre 2004 e 2016). Na Austrália, o mesmo padrão se repetiu, mas os dados foram menos consistentes na Nova Zelândia. Uma outra informação obtida por esses autores: os casos de câncer em pessoas com menos de 50 anos são mais agressivos e diagnosticados em estágio mais avançado. Essa constatação pode se dever a demora de diagnóstico pela menor suspeita dos clínicos nessa faixa etária.&lt;/p&gt;
-
-&lt;p&gt;Câncer de início precoce de mama, rim, útero, pâncreas, bexiga e laringe também apresentam aumento em diversos países, conforme destacado por ambos os trabalhos. Ressalte-se que esse crescimento é observado tanto em países desenvolvidos quanto em desenvolvimento, refletindo mudanças em fatores de risco e estilos de vida, além de possíveis influências ambientais e comportamentais. A revisão de di Martino mostrou, porém, uma tendência a redução da incidência de câncer de pulmão de início precoce.&lt;/p&gt;
-
-&lt;p&gt;O artigo de Sung &lt;em&gt;et al.&lt;/em&gt; (2024) publicado na Lancet Public Health (&lt;a href=&quot;https://doi.org/10.1016/s2468-2667(24)00156-7&quot;&gt;DOI: 10.1016/s2468-2667(24)00156-7&lt;/a&gt;) fez uma análise de um registro de base populacional de câncer nos EUA. Os autores usaram dados sobre incidência de 34 tipos de câncer e mortalidade de 25 tipos, em pacientes entre 24 e 85 anos de idade, diagnosticados entre 2000 e 2019. Eles compararam a incidência ajustada de acordo com a década de nascimento dos pacientes, de 1920 a 1990. O trabalho avaliou mais de 23 milhões de pacientes e mais de 7 milhões de mortes por câncer no período estudado. Eles descobriram que a incidência de 17 tipos de câncer (intestino delgado, rim e pelve renal, pâncreas, fígado, vias biliares intra-hepáticas, mama, útero, colon e reto, estômago, vesícula e outras vias biliares, ovário, testículo, ânus, sarcoma de Kaposi) aumentou em pessoas nascidas mais recentemente. Já em relação à mortalidade, ela estabilizou ou diminuiu para a maioria dos tipos de câncer (exceto fígado e vias biliares intra-hepáticas em mulheres).&lt;/p&gt;
-
-&lt;p&gt;Adicionalmente, a publicação de Teng &lt;em&gt;et al.&lt;/em&gt; (2024) no Science China Life Sciences (&lt;a href=&quot;https://doi.org/10.1007/s11427-023-2445-1&quot;&gt;DOI: 10.1007/s11427-023-2445-1&lt;/a&gt;) avaliou o relatório anual do China Cancer Registry, calculando incidência e mortalidade em pacientes com 25 tipos de câncer entre 20-49 anos, no período de 2000 a 2017. Os autores encontraram aumento da incidência de todos os casos combinados de câncer de início precoce, com um aumento médio anual de cerca de 1,5%, especialmente no grupo mais jovem. Também encontraram redução de mortalidade nesse grupo.&lt;/p&gt;
-
-&lt;p&gt;Esses dados mostram que o fenômeno do aumento de incidência do câncer de início precoce é global e não se restringe a alguns tipos de câncer, afetando diferentes regiões e contextos socioeconômicos, e não apenas o mundo desenvolvido.&lt;/p&gt;
-
-&lt;h2 id=&quot;quais-tipos-de-câncer-estão-aumentando-mais-rapidamente&quot;&gt;Quais tipos de câncer estão aumentando mais rapidamente?&lt;/h2&gt;
-
-&lt;p&gt;Os tumores do trato gastrointestinal são os que mais chamam atenção pelo aumento, especialmente colorretal, pâncreas, estômago e, de forma marcante, os tumores do trato biliar (como colangiocarcinoma e câncer de vesícula). O artigo da Nature Reviews Clinical Oncology e dados do Global Cancer Statistics 2024 mostram que, em países como Canadá, Suécia, Reino Unido e Bulgária, a incidência de câncer de trato biliar em adultos com menos de 50 anos aumentou em média entre 3% e 5% ao ano, chegando a 10% de aumento anual na Bielorrússia (isso, em uma década, chega a 100% de aumento de incidência!). O câncer de estômago de início precoce também teve crescimento expressivo nos EUA, Canadá, chegando a 4-5% de aumento médio anual na Irlanda do Norte, Inglaterra e Polônia.&lt;/p&gt;
-
-&lt;p&gt;O câncer de pâncreas de início precoce, embora ainda raro, aumentou sua incidência entre 1-3% ao ano, em países como Austrália, Canadá, França, Suécia, Reino Unido e Estados Unidos. O câncer de fígado também aumentou, especialmente na Austrália, Canadá, Espanha, Reino Unido, Escócia, Noruega (na Irlanda e Uganda, o aumento foi de mais de 9% ao ano!).&lt;/p&gt;
-
-&lt;p&gt;Essas diferenças regionais parecem refletir tanto fatores ambientais e comportamentais quanto padrões de rastreamento, dieta e prevalência de infecções.&lt;/p&gt;
-
-&lt;h2 id=&quot;por-que-isso-está-acontecendo-principais-hipóteses&quot;&gt;Por que isso está acontecendo? Principais hipóteses&lt;/h2&gt;
-
-&lt;p&gt;Ainda não há uma explicação única para o aumento do câncer de início precoce, mas os vários artigos destacam diversas hipóteses. Abaixo, listamos as principais ideias discutidas na literatura recente, de acordo com as fontes que consultamos. Essa é uma exposição rápida, deixamos uma discussão mais completa das possíveis causas e associações com exposições ambientais para uma segunda postagem.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Mudanças no estilo de vida&lt;/strong&gt;: aumento do sedentarismo, obesidade, dietas ricas em ultraprocessados e pobres em fibras são apontados como fatores centrais em todos os artigos analisados.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Exposição precoce a fatores ambientais e comportamentais&lt;/strong&gt;: exposição a poluentes, tabagismo passivo, álcool, disruptores endócrinos e outros agentes ambientais desde a infância/adolescência.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Alterações no microbioma intestinal&lt;/strong&gt;: mudanças no microbioma&lt;label for=&quot;microbioma&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
-&lt;input type=&quot;checkbox&quot; id=&quot;microbioma&quot; class=&quot;margin-toggle&quot; /&gt;
-&lt;span class=&quot;sidenote&quot;&gt;&lt;strong&gt;Microbioma intestinal:&lt;/strong&gt; É o conjunto de trilhões de microrganismos que habitam o trato gastrointestinal humano. O microbioma influencia digestão, imunidade, metabolismo e até o funcionamento do sistema nervoso.
-&lt;/span&gt;
-, possivelmente relacionadas à dieta, uso de antibióticos e cesarianas, podem influenciar o risco de câncer.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Uso de antibióticos e outros medicamentos na infância&lt;/strong&gt;: sugerido como fator de risco em vários estudos, mas ainda com evidências indiretas.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Fatores genéticos e epigenéticos&lt;/strong&gt;: embora síndromes genéticas expliquem poucos casos, alterações epigenéticas induzidas por ambiente e estilo de vida são cada vez mais discutidas.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Sono, ritmo circadiano e exposição à luz artificial&lt;/strong&gt;: alterações no padrão de sono e exposição à luz à noite podem ter papel no risco de câncer, especialmente em populações urbanas.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Infecções virais e bacterianas&lt;/strong&gt;: hepatite, H. pylori e outros agentes infecciosos são relevantes para tumores hepáticos e gástricos em regiões específicas.&lt;/p&gt;
-
-&lt;p&gt;O artigo de di Martino &lt;em&gt;et al.&lt;/em&gt; reforça que a maioria dos casos não é explicada por síndromes genéticas conhecidas, sugerindo papel importante de fatores ambientais e comportamentais adquiridos nas primeiras décadas de vida. Já o artigo da Nature Reviews Clinical Oncology de 2022 e o da Science China Life Sciences de 2024 enfatizam o papel do microbioma, dieta e exposições precoces como fatores centrais.&lt;/p&gt;
-
-&lt;h2 id=&quot;impactos-para-a-saúde-pública&quot;&gt;Impactos para a saúde pública&lt;/h2&gt;
-
-&lt;p&gt;O aumento do câncer de início precoce representa um desafio crescente para sistemas de saúde em todo o mundo. Esses pacientes têm necessidades específicas, podem ser subdiagnosticados devido à baixa suspeita clínica e frequentemente enfrentam barreiras para acesso ao diagnóstico e tratamento adequados. Estratégias de prevenção, diagnóstico precoce e pesquisa sobre causas são urgentes.&lt;label for=&quot;preven-pt&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
-&lt;input type=&quot;checkbox&quot; id=&quot;preven-pt&quot; class=&quot;margin-toggle&quot; /&gt;
-&lt;span class=&quot;sidenote&quot;&gt;&lt;strong&gt;Prevenção&lt;/strong&gt;: conjunto de ações e hábitos que visam evitar o surgimento de doenças. No câncer, inclui não fumar, evitar álcool em excesso, manter alimentação saudável, praticar exercícios e proteger-se do sol.&lt;/span&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;perspectivas-o-que-esperar-do-futuro&quot;&gt;Perspectivas: o que esperar do futuro?&lt;/h3&gt;
-
-&lt;p&gt;Ainda há muitas incertezas sobre o futuro da incidência de câncer de início precoce. Os dados atuais sugerem que a tendência de aumento pode continuar, especialmente se fatores ambientais e comportamentais não forem modificados em escala populacional. No entanto, a compreensão das causas ainda é limitada e há necessidade de estudos longitudinais, investigações sobre exposições precoces e pesquisas que integrem dados genéticos, ambientais e do microbioma.&lt;/p&gt;
-
-&lt;p&gt;É possível que, com maior conscientização, políticas de saúde pública e avanços em rastreamento e prevenção, seja possível reverter ou ao menos desacelerar essa tendência. Por outro lado, sem mudanças estruturais e mais conhecimento sobre os mecanismos envolvidos, o aumento pode persistir nas próximas décadas. Portanto, o cenário exige vigilância epidemiológica contínua, colaboração internacional e investimento em pesquisa multidisciplinar.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/ciencia-medica/assets/img/nihms-1825592-f0001.jpg&quot; alt=&quot;Figura 1 de Ugai et al. 2022, Nature Reviews Clinical Oncology&quot; /&gt;
-&lt;em&gt;Figura 1 de Ugai et al. (2022), Nature Reviews Clinical Oncology: Tendências globais de incidência de câncer de início precoce (diagnosticados em adultos &amp;lt;50 anos) para 14 tipos de câncer, 2002–2012, em 44 países. Reproduzido do artigo original sob a licença Creative Commons Attribution 4.0 International (CC BY 4.0). Para detalhes completos, veja: Ugai T, et al. Nat Rev Clin Oncol. 2022;19(10):656-673. &lt;a href=&quot;https://pmc.ncbi.nlm.nih.gov/articles/PMC9509459/#SM1&quot;&gt;https://doi.org/10.1038/s41571-022-00672-8&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Referências:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Ugai T, et al. Nature Reviews Clinical Oncology, 2022. &lt;a href=&quot;https://pmc.ncbi.nlm.nih.gov/articles/PMC9509459/#SM1&quot;&gt;https://doi.org/10.1038/s41571-022-00672-8&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Sung H, et al. The Lancet Public Health, 2024. &lt;a href=&quot;https://doi.org/10.1016/s2468-2667(24)00156-7&quot;&gt;https://doi.org/10.1016/s2468-2667(24)00156-7&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;di Martino E, et al. British Journal of Cancer, 2022. &lt;a href=&quot;https://doi.org/10.1038/s41416-022-01704-x&quot;&gt;https://doi.org/10.1038/s41416-022-01704-x&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Teng Y, et al. Science China Life Sciences, 2024. &lt;a href=&quot;https://doi.org/10.1007/s11427-023-2445-1&quot;&gt;https://doi.org/10.1007/s11427-023-2445-1&lt;/a&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Mon, 16 Jun 2025 12:00:00 -0300</pubDate>
-        <link>https://fhcflx.github.io/ciencia-medica/2025/06/16/cancer-adultos-jovens-2025.html</link>
-        <guid isPermaLink="true">https://fhcflx.github.io/ciencia-medica/2025/06/16/cancer-adultos-jovens-2025.html</guid>
-        
-        <category>Câncer</category>
-        
-        <category>Início precoce</category>
-        
-        <category>Epidemiologia</category>
-        
-        <category>Pesquisa clínica</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Fibromyalgia, chronic pain and the role of the gut microbiome: new findings from 2025</title>
-        <description>&lt;p&gt;A study published in &lt;a href=&quot;https://doi.org/10.1016/j.neuron.2025.03.032&quot;&gt;Neuron&lt;/a&gt; in 2025 and discussed on the TWIM (This Week in Microbiology) podcast on May 27th brought new evidence about the relationship between the gut microbiome and chronic pain in fibromyalgia. The work shows that changes in gut bacteria may not only be associated with, but also directly contribute to, pain and other symptoms of the disease.
-&lt;!--more--&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;introduction-what-is-fibromyalgia-and-why-does-the-microbiome-matter&quot;&gt;Introduction: What is fibromyalgia and why does the microbiome matter?&lt;/h2&gt;
-
-&lt;p&gt;Fibromyalgia is a common syndrome, marked by widespread pain, fatigue, sleep disturbances, and cognitive difficulties, mainly affecting women. It is estimated that fibromyalgia affects about 2% to 4% of the world population, being more prevalent in women between 30 and 60 years old. In Brazil, this represents millions of people living with chronic pain and a significant impact on quality of life, productivity, and healthcare costs. &lt;label for=&quot;fibromyalgia-epid-en&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
-&lt;input type=&quot;checkbox&quot; id=&quot;fibromyalgia-epid-en&quot; class=&quot;margin-toggle&quot; /&gt;
-&lt;span class=&quot;sidenote&quot;&gt;
-&lt;strong&gt;Fibromyalgia epidemiology:&lt;/strong&gt; Fibromyalgia affects about 2% to 4% of the world population, being more common in women. In Brazil, millions of people are estimated to live with the syndrome, which is one of the main causes of chronic pain and disability.
-&lt;/span&gt;
- Despite its high prevalence, the causes of fibromyalgia are still poorly understood and available treatments are often unsatisfactory.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Why does the microbiome matter for health?&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;The gut microbiome is the set of trillions of microorganisms (mainly bacteria) that live in our digestive tract. It acts as a true “biochemical factory,” helping digest food, produce vitamins, regulate the immune system, and protect against infectious agents. In addition, the microbiome communicates with the brain through chemical substances and the enteric nervous system, influencing mood, metabolism, and even pain perception. Changes in the balance of these bacteria (dysbiosis) have been associated with several diseases, including metabolic, autoimmune, psychiatric disorders, and chronic pain conditions such as fibromyalgia. &lt;label for=&quot;microbiome-en&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
-&lt;input type=&quot;checkbox&quot; id=&quot;microbiome-en&quot; class=&quot;margin-toggle&quot; /&gt;
-&lt;span class=&quot;sidenote&quot;&gt;
-&lt;strong&gt;Gut microbiome:&lt;/strong&gt; The gut microbiome is the set of trillions of microorganisms that inhabit the human gastrointestinal tract. The microbiome influences digestion, immunity, metabolism, and even the functioning of the nervous system.
-&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;Recent studies suggest that the gut microbiome can influence the functioning of the nervous and immune systems, even affecting pain perception.&lt;/p&gt;
-
-&lt;h2 id=&quot;methods-how-was-the-study-conducted&quot;&gt;Methods: How was the study conducted?&lt;/h2&gt;
-
-&lt;p&gt;The researchers transplanted the microbiome (gut bacteria) from women with fibromyalgia into germ-free mice, comparing with transplants from healthy individuals. They also conducted a small open clinical study, in which women with fibromyalgia received microbiota transplants from healthy donors after antibiotic and bowel preparation.&lt;/p&gt;
-
-&lt;h2 id=&quot;main-results&quot;&gt;Main results&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;In mice:&lt;/strong&gt; Transplanting microbiota from fibromyalgia patients induced persistent pain, immune system changes, metabolic alterations, and reduced skin innervation—all phenomena similar to those observed in human patients. The mice showed increased sensitivity to mechanical, thermal (heat and cold), and spontaneous pain, without motor or cognitive changes. The study also showed that the patients’ microbiota led to changes in immune cells, activation of microglia in the spinal cord (cells involved in chronic pain), and changes in metabolites such as bile acids and neuroactive amino acids. &lt;label for=&quot;microglia-en&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
-&lt;input type=&quot;checkbox&quot; id=&quot;microglia-en&quot; class=&quot;margin-toggle&quot; /&gt;
-&lt;span class=&quot;sidenote&quot;&gt;
-&lt;strong&gt;Microglia:&lt;/strong&gt; Microglia are cells of the central nervous system that act as “defenders” of the brain and spinal cord. When chronically activated, they can contribute to persistent pain and inflammation.
-&lt;/span&gt;
- When the mice later received microbiota from healthy people, the pain was reversed and part of the metabolic and immune changes returned to normal, suggesting a causal role of the microbiome in chronic pain in fibromyalgia.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Reversal:&lt;/strong&gt; When the mice subsequently received healthy microbiota, the pain was relieved.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://www.cell.com/cms/10.1016/j.neuron.2025.03.032/asset/c4101b78-70b3-4e9b-84f1-25c59bce8c12/main.assets/gr5_lrg.jpg&quot; alt=&quot;Figure 5 from the article&quot; /&gt;
-&lt;em&gt;Figure 5 from the article: Graphs show that mice receiving microbiota from fibromyalgia patients had greater sensitivity to pain (mechanical, thermal, and spontaneous), and that subsequent transplantation of healthy microbiota reversed this, normalizing pain thresholds. Source: Cai W et al., Neuron, 2025.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;In the clinical study:&lt;/strong&gt; Women with severe, treatment-resistant fibromyalgia showed significant pain reduction and improved quality of life after receiving healthy microbiota transplants. The open clinical study involved 14 women, who received capsules of microbiota from healthy donors after bowel preparation. There was an average drop of 2 points on the pain scale (NRS), improvement in global disease impact (FIQ), reduction in anxiety and depression, better sleep, and improved physical quality of life. Sensory tests showed increased cold pain threshold and a trend toward improvement in heat pain. The metabolic profile and microbiome composition also changed, becoming more similar to the donors’. Adverse effects were mild and transient, mainly fatigue and mild gastrointestinal symptoms. &lt;label for=&quot;fmt-en&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
-&lt;input type=&quot;checkbox&quot; id=&quot;fmt-en&quot; class=&quot;margin-toggle&quot; /&gt;
-&lt;span class=&quot;sidenote&quot;&gt;
-&lt;strong&gt;Fecal Microbiota Transplantation (FMT):&lt;/strong&gt; A procedure in which gut bacteria from a healthy donor are transferred to the intestine of a patient, aiming to restore the balance of the microbiome. It is already used to treat &lt;em&gt;Clostridioides difficile&lt;/em&gt; infections and is under study for other conditions.
-&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://www.cell.com/cms/10.1016/j.neuron.2025.03.032/asset/86701a65-abed-49f6-9c26-9a92e9d705fc/main.assets/gr6_lrg.jpg&quot; alt=&quot;Figure 6 from the article&quot; /&gt;
-&lt;em&gt;Figure 6 from the article: Graphs show that after healthy microbiota transplantation, women with fibromyalgia had significant reduction in pain intensity, improvement in global disease impact, anxiety, depression, sleep quality, and physical quality of life. The graphs also show changes in cold and heat pain thresholds. Source: Cai W et al., Neuron, 2025.&lt;/em&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;significance-for-the-field-and-for-patients&quot;&gt;Significance for the field and for patients&lt;/h2&gt;
-
-&lt;p&gt;The study provides evidence that the gut microbiome is not just a “bystander” in fibromyalgia, but may be one of the factors causing or perpetuating chronic pain. This opens the way for new therapeutic approaches, such as microbiota transplantation or the use of specific probiotics, and reinforces the importance of research on the relationship between the gut, immune system, and brain. &lt;label for=&quot;probiotic-en&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
-&lt;input type=&quot;checkbox&quot; id=&quot;probiotic-en&quot; class=&quot;margin-toggle&quot; /&gt;
-&lt;span class=&quot;sidenote&quot;&gt;
-&lt;strong&gt;Probiotics:&lt;/strong&gt; These are live microorganisms that, when administered in adequate amounts, confer health benefits. They can modulate the gut microbiome and are being studied as a complementary therapy in chronic diseases.
-&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;Despite the promising results, it is important to remember that the clinical study was small and open-label (without a control group), and more research is needed before microbiota transplantation can be routinely recommended. Still, the work represents an important advance in understanding fibromyalgia and may inspire new strategies to treat chronic pain.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;What is TWiM?&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;TWiM (This Week in Microbiology) is a podcast created by virologist Vincent Racaniello, from Columbia University (USA), in 2010. The program discusses weekly advances and curiosities in microbiology, focusing on recent scientific articles and topics relevant to health and science. The regular members include:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Vincent Racaniello (Columbia University, USA)&lt;/li&gt;
-  &lt;li&gt;Petra Levin (Washington University in St. Louis, USA)&lt;/li&gt;
-  &lt;li&gt;Michele Swanson (University of Michigan, USA)&lt;/li&gt;
-  &lt;li&gt;Michael Schmidt (Medical University of South Carolina, USA)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;All are recognized scientists in their fields. TWiM is part of the MicrobeTV network and is available for free at &lt;a href=&quot;https://www.microbe.tv/twim/&quot;&gt;microbe.tv/twim&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;References:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://doi.org/10.1016/j.neuron.2025.03.032&quot;&gt;Original article in Neuron&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.microbe.tv/twim/twim-332/&quot;&gt;TWIM 332: Fibromyalgia pain and the gut microbiome&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Thu, 12 Jun 2025 12:00:00 -0300</pubDate>
-        <link>https://fhcflx.github.io/ciencia-medica/2025/06/12/fibromyalgia-microbiome-2025.html</link>
-        <guid isPermaLink="true">https://fhcflx.github.io/ciencia-medica/2025/06/12/fibromyalgia-microbiome-2025.html</guid>
-        
-        <category>Fibromyalgia</category>
-        
-        <category>Microbiome</category>
-        
-        <category>Chronic pain</category>
         
         <category>Clinical research</category>
         
