@@ -61,28 +61,28 @@ Seu primeiro livro, **'A Dança do Universo'**, foi publicado em 1997 pela edito
 
 Suas principais obras, traduzidas para mais de 15 idiomas, incluem:
 
-- **'A Dança do Universo' (1997):**
-  - **Título em Inglês:** _'The Dancing Universe'_
-  - Neste livro, Gleiser traça um panorama da história do pensamento cosmológico, desde os mitos de criação antigos até as teorias científicas modernas, como o Big Bang e a física de partículas. O livro foi um marco na divulgação científica no Brasil por sua linguagem acessível e por conectar a ciência com a filosofia e a busca humana por suas origens.
+**'A Dança do Universo' (1997):**
+**Título em Inglês:** _'The Dancing Universe'_
+Neste livro, Gleiser traça um panorama da história do pensamento cosmológico, desde os mitos de criação antigos até as teorias científicas modernas, como o Big Bang e a física de partículas. O livro foi um marco na divulgação científica no Brasil por sua linguagem acessível e por conectar a ciência com a filosofia e a busca humana por suas origens.
 
-- **'O Fim da Terra e do Céu' (2001):**
-  - Gleiser explora a fascinação humana com o fim do mundo, analisando mitos apocalípticos, profecias religiosas e previsões científicas sobre o destino final do universo. A obra discute como a ciência moderna oferece novas narrativas sobre o fim, substituindo o medo pela compreensão racional dos processos cósmicos. Ganhou o Prêmio Jabuti em 2002.
+**'O Fim da Terra e do Céu' (2001):**
+Gleiser explora a fascinação humana com o fim do mundo, analisando mitos apocalípticos, profecias religiosas e previsões científicas sobre o destino final do universo. A obra discute como a ciência moderna oferece novas narrativas sobre o fim, substituindo o medo pela compreensão racional dos processos cósmicos. Ganhou o Prêmio Jabuti em 2002.
 
-- **'Criação Imperfeita' (2010):**
-  - **Título em Inglês:** _'A Tear at the Edge of Creation'_ 
-  - Publicado no Brasil com o título 'Criação Imperfeita', este livro argumenta que as assimetrias e "imperfeições" encontradas na natureza — desde o nível subatômico até as estruturas cósmicas — são a chave para a existência do universo como o conhecemos. A obra desafia a noção de um "design perfeito" e celebra a criatividade inerente aos processos naturais.
+**'Criação Imperfeita' (2010):**
+**Título em Inglês:** _'A Tear at the Edge of Creation'_ 
+Publicado no Brasil com o título 'Criação Imperfeita', este livro argumenta que as assimetrias e "imperfeições" encontradas na natureza — desde o nível subatômico até as estruturas cósmicas — são a chave para a existência do universo como o conhecemos. A obra desafia a noção de um "design perfeito" e celebra a criatividade inerente aos processos naturais.
 
-- **'A Ilha do Conhecimento' (2014):**
-  - **Título em Inglês:** _'The Island of Knowledge'_
-  - Usando a metáfora de uma "ilha de conhecimento" em um "oceano de desconhecido", Gleiser defende que, quanto mais aprendemos sobre o universo, mais vasta se torna a fronteira com o que não sabemos. O livro é uma reflexão sobre os limites da ciência e a importância de reconhecer o mistério como motor da busca humana por conhecimento.
+**'A Ilha do Conhecimento' (2014):**
+**Título em Inglês:** _'The Island of Knowledge'_
+Usando a metáfora de uma "ilha de conhecimento" em um "oceano de desconhecido", Gleiser defende que, quanto mais aprendemos sobre o universo, mais vasta se torna a fronteira com o que não sabemos. O livro é uma reflexão sobre os limites da ciência e a importância de reconhecer o mistério como motor da busca humana por conhecimento.
 
-- **'A Simples Beleza do Inesperado' (2016):**
-  - **Título em Inglês:** _'The Simple Beauty of the Unexpected'_ (publicado em 2016)
-  - Nesta coletânea de ensaios, Gleiser conecta conceitos científicos a experiências cotidianas, explorando temas como o tempo, a vida, a morte e a busca pela felicidade. A obra convida o leitor a encontrar o maravilhamento e a beleza na ciência e no mundo ao seu redor, reforçando uma visão humanista do conhecimento científico.
+**'A Simples Beleza do Inesperado' (2016):**
+**Título em Inglês:** _'The Simple Beauty of the Unexpected'_ (publicado em 2016)
+Nesta coletânea de ensaios, Gleiser conecta conceitos científicos a experiências cotidianas, explorando temas como o tempo, a vida, a morte e a busca pela felicidade. A obra convida o leitor a encontrar o maravilhamento e a beleza na ciência e no mundo ao seu redor, reforçando uma visão humanista do conhecimento científico.
 
-- **'O Despertar do Universo Consciente' (2024):**
-  - **Título em Inglês:** _'The Dawn of a Mindful Universe'_ (publicado em 2023)
-  - Copérnico inaugurou uma linha de pensamento (epitomizada pelo princípio que leva seu nome) que tem retirado progressivamente o protagonismo do ser humano da sua própria noção de compreensão do mundo. "Um partícula insignificante em um universo vasto e frio" tornou-se a visão de uma humanidade com uma perspectiva cada vez mais sombria, e Gleiser atribui isso à perda da fagulha da curiosidade, da missão moral e do foco compassivo da ciência. Ele nos convida a recuperar esse sentimento, reconstruir um novo Iluminismo visando salvar a civilização e dar uma nova direção à humanidade.
+**'O Despertar do Universo Consciente' (2024):**
+**Título em Inglês:** _'The Dawn of a Mindful Universe'_ (publicado em 2023)
+Copérnico inaugurou uma linha de pensamento (epitomizada pelo princípio que leva seu nome) que tem retirado progressivamente o protagonismo do ser humano da sua própria noção de compreensão do mundo. "Um partícula insignificante em um universo vasto e frio" tornou-se a visão de uma humanidade com uma perspectiva cada vez mais sombria, e Gleiser atribui isso à perda da fagulha da curiosidade, da missão moral e do foco compassivo da ciência. Ele nos convida a recuperar esse sentimento, reconstruir um novo Iluminismo visando salvar a civilização e dar uma nova direção à humanidade.
 
 Além dos livros, Gleiser é colunista, apresentador de programas de TV e rádio, e fundador do Institute for Cross-Disciplinary Engagement (ICE). Nos últimos anos, tem se dedicado a campanhas pela valorização da ciência, do pensamento crítico e pela conservação do planeta, alertando para a urgência de ações em defesa do meio ambiente e da vida na Terra.
 
