@@ -41,10 +41,10 @@ window.addEventListener("load", function(){
     },
     theme: "classic",
     content: {
-      message: "{% if cc_lang == 'en-us' %}This site uses cookies to enhance your experience.{% else %}Este site utiliza cookies para melhorar sua experiência.{% endif %}",
-      dismiss: "{% if cc_lang == 'en-us' %}Got it!{% else %}Entendi!{% endif %}",
-      link: "{% if cc_lang == 'en-us' %}Learn more{% else %}Saber mais{% endif %}",
-      href: "{% if cc_lang == 'en-us' %}/about/privacy-policy{% else %}/sobre/politica-de-privacidade{% endif %}"
+      message: `{% if cc_lang == 'en-us' %}This site uses cookies to enhance your experience.{% elsif cc_lang == 'es' or cc_lang == 'es-es' %}Este sitio utiliza cookies para mejorar su experiencia.{% else %}Este site utiliza cookies para melhorar sua experiência.{% endif %}`,
+      dismiss: `{% if cc_lang == 'en-us' %}Got it!{% elsif cc_lang == 'es' or cc_lang == 'es-es' %}¡Entendido!{% else %}Entendi!{% endif %}`,
+      link: `{% if cc_lang == 'en-us' %}Learn more{% elsif cc_lang == 'es' or cc_lang == 'es-es' %}Saber más{% else %}Saber mais{% endif %}`,
+      href: `{% if cc_lang == 'en-us' %}/about/privacy-policy{% elsif cc_lang == 'es' or cc_lang == 'es-es' %}/sobre/politica-de-privacidade{% else %}/sobre/politica-de-privacidade{% endif %}`
     }
   })
 });
