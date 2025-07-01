@@ -4,7 +4,9 @@ title: Scientists Discover Neuroblastoma Gene
 date: '2008-06-10T21:57:00.001-03:00'
 author: Francisco H C Felix
 tags:
-- Câncer
+- Cancer
+- Neuroblastoma
+- Genetics
 modified_time: '2011-09-18T12:27:16.326-03:00'
 blogger_id: tag:blogger.com,1999:blog-2993346515708552092.post-6044278605739288725
 blogger_orig_url: https://pharmak.blogspot.com/2008/06/scientists-discover-neuroblastoma-gene.html

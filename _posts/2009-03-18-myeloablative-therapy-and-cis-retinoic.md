@@ -4,9 +4,10 @@ title: Myeloablative therapy and cis-retinoic acid confer better survival to hig
 date: '2009-03-18T22:42:00.002-03:00'
 author: Francisco H C Felix
 tags:
-- Câncer
-- Farmacologia clínica
-- Imunoterapia
+- Cancer
+- Neuroblastoma
+- Clinical pharmacology
+- Imunotherapy
 modified_time: '2011-07-18T23:00:26.928-03:00'
 blogger_id: tag:blogger.com,1999:blog-2993346515708552092.post-3864354506920975672
 blogger_orig_url: https://pharmak.blogspot.com/2009/03/myeloablative-therapy-and-cis-retinoic.html

@@ -4,8 +4,9 @@ title: Effectiveness of screening for neuroblastoma
 date: '2008-04-14T21:41:00.002-03:00'
 author: Francisco H C Felix
 tags:
-- Câncer
-- Pediatria
+- Cancer
+- Neuroblastoma
+- Pediatrics
 modified_time: '2011-09-18T12:29:09.725-03:00'
 blogger_id: tag:blogger.com,1999:blog-2993346515708552092.post-6752803759724250414
 blogger_orig_url: https://pharmak.blogspot.com/2008/04/effectiveness-of-screening-for.html
