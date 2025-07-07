@@ -14,6 +14,8 @@ blogger_orig_url: https://pharmak.blogspot.com/2009/12/amitraz-poisoning.html
 
 ## Archivos Argentinos de Pediatría
 
-[Intoxicación por amitraz](http://ref.scielo.org/4m6gwg): En nuestro medio, la intoxicación por amitraz y su solvente xileno es una patología poco frecuente, pero puede observarse un aumento en zonas rurales, donde se lo emplea como insecticida-ectoparasiticida. <!--more-->Por tal razón, se cuenta con escasa bibliografía que oriente su manejo en niños. Presentamos el caso de un paciente de 2 años de edad, con ingestión accidental de amitraz, internado en nuestra Unidad de Cuidados Intensivos Pediátricos y que requirió ventilación mecánica. Creemos que comunicar este caso puede ser útil para alertar sobre esta intoxicación, poco frecuente en nuestro medio.
+**[Intoxicación por amitraz](http://ref.scielo.org/4m6gwg).** Caprotta, CG; Martínez, M; Tiszler, M; Guerra, V. Arch. Argent. Pediatr., 107(5), 456-458, 2009.
+
+En nuestro medio, la intoxicación por amitraz y su solvente xileno es una patología poco frecuente, pero puede observarse un aumento en zonas rurales, donde se lo emplea como insecticida-ectoparasiticida. <!--more-->Por tal razón, se cuenta con escasa bibliografía que oriente su manejo en niños. Presentamos el caso de un paciente de 2 años de edad, con ingestión accidental de amitraz, internado en nuestra Unidad de Cuidados Intensivos Pediátricos y que requirió ventilación mecánica. Creemos que comunicar este caso puede ser útil para alertar sobre esta intoxicación, poco frecuente en nuestro medio.
 
 Lee el post original en [Pharmakon]({{ page.blogger_orig_url }})
