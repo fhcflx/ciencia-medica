@@ -19,4 +19,4 @@ blogger_orig_url: https://pharmak.blogspot.com/2009/12/asthma-casebook-understan
 
 Describe the 3 appropriate controller therapies in infants and preschoolers requiring step 2 therapy.
 
-Post originally published on Pharmakon [here](https://pharmak.blogspot.com/2009/12/asthma-casebook-understanding-asthma-in.html).
+Post originally published on [Pharmakon](https://pharmak.blogspot.com/2009/12/asthma-casebook-understanding-asthma-in.html).

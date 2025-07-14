@@ -121,4 +121,4 @@ F1000 Ranking: "Exceptional" and "Changes Clinical Practice"
 
 [WHO Issues New HIV Recommendations](https://mp.medscape.com/cgi-bin1/DM/y/hClKF0SuY5A0DzQ0KpEb0E2&uac=100503AZ) — Medscape Medical News 2009
 
-Post originally published on Pharmakon [here](https://pharmak.blogspot.com/2009/12/ganciclovir-and-valganciclovir-use-in.html).
+Post originally published on [Pharmakon](https://pharmak.blogspot.com/2009/12/ganciclovir-and-valganciclovir-use-in.html).
