@@ -10,7 +10,7 @@ tags:
 - Educación
 - Ceará
 lang: es
-ref: glauce-socorro-barros-viana-2025-es
+ref: glauce-socorro-barros-viana-2025
 image: https://labneuro.ufc.br/wp-content/uploads/2023/07/transferir.jpg
 excerpt: "Glauce Socorro de Barros Viana es referencia nacional en neurociencia, educación e investigación, siendo pionera en Ceará e inspiración para mujeres en la ciencia. Conozca su trayectoria, logros e impacto en la formación de investigadores."
 ---
