@@ -5,3 +5,4 @@ _site
 .DS\_Store
 config.codekit
 Gemfile.lock
+assets/transcript-twin-60.txt
