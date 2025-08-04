@@ -6,8 +6,8 @@
 </description>
     <link>https://fhcflx.github.io/ciencia-medica/</link>
     <atom:link href="https://fhcflx.github.io/ciencia-medica/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 03 Aug 2025 06:49:29 -0300</pubDate>
-    <lastBuildDate>Sun, 03 Aug 2025 06:49:29 -0300</lastBuildDate>
+    <pubDate>Sun, 03 Aug 2025 22:33:06 -0300</pubDate>
+    <lastBuildDate>Sun, 03 Aug 2025 22:33:06 -0300</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
     
       <item>
@@ -277,6 +277,449 @@
         <category>Education</category>
         
         <category>Ceará</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>We Are the Memory We Have: Neuroscience of Memory</title>
+        <description>&lt;blockquote&gt;
+  &lt;p&gt;“We are the memory we have and the responsibility we assume. Without memory we do not exist, without responsibility perhaps we do not deserve to exist.”&lt;/p&gt;
+
+  &lt;p&gt;— José Saramago, Nobel Prize for Literature acceptance speech, 1998&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Episode 60 of the &lt;a href=&quot;https://www.microbe.tv/twin/twin-60/&quot;&gt;TWiN (This Week in Neuroscience)&lt;/a&gt; podcast brought an in-depth analysis of the article published in &lt;a href=&quot;https://www.nature.com/articles/s41586-025-08993-1&quot;&gt;Nature&lt;/a&gt; in 2025, presenting innovative discoveries about the cellular and molecular mechanisms of memory. The episode is also available on &lt;a href=&quot;https://www.youtube.com/watch?v=UonSUOcWM80&quot;&gt;YouTube&lt;/a&gt;. The participants discussed not only the study’s results but also possible clinical and even philosophical implications of what I call “being the memory we have.” This theme was also discussed in Ted Chiang’s short story “The Truth of Fact, the Truth of Feeling” (2013). In the story, he questions the accuracy of human memory.
+&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;introduction-why-study-memory&quot;&gt;Introduction: Why study memory?&lt;/h2&gt;
+
+&lt;p&gt;Memory is one of the pillars of human identity, fundamental for learning, decision-making, and building our sense of self. Changes in memory are at the core of diseases such as Alzheimer’s, dementias, and psychiatric disorders. Understanding how memories are formed, stored, and retrieved is one of the greatest challenges in modern neuroscience.&lt;label for=&quot;neurociencia-en&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;neurociencia-en&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;&lt;strong&gt;Neuroscience:&lt;/strong&gt; The scientific field that studies the nervous system, including the brain, spinal cord, and peripheral nerves. It investigates how these organs function, communicate, and influence behavior, emotions, and disease.&lt;/span&gt;
+ As Oliver Sacks showed in his description of the musician Clive Wearing in “Musicophilia” (2007), “the memory we have” merges with our identity. Sacks described the case of a musician who, after a viral infection (herpes simplex encephalitis), lost the ability to retain new memories and almost all his past memories. The structures we know as the “hippocampus,” in the temporal lobes of the brain, were destroyed by Wearing’s infection. “He” survived, but his identity, who he was, was profoundly affected. Despite his severe deficits, he could still sing, play music, and recognize his wife. Something of himself remained, despite his injury and memory loss.&lt;/p&gt;
+
+&lt;p&gt;This real case, along with other real or fictional ones presented in literature (as in Chiang’s story), shows how memory is the basis of our identity, making Saramago’s phrase much more than rhetoric. It also shows how much we still have to learn about memory. Why do lesions in discrete structures like the hippocampus affect it so much even if the rest of the brain remains intact? Today, some answers are known, but much is still hypothesis and needs to be tested. The work presented by the TWiN team showcased one of these fascinating lines of research.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-study-new-mechanisms-of-memory&quot;&gt;The study: New mechanisms of memory&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41586-025-08993-1/MediaObjects/41586_2025_8993_Fig1_HTML.png&quot; alt=&quot;Figure from Nature 2025 article - Engrams and memory reorganization&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Figure 1 from the original article: Experimental scheme and main findings on the reorganization of engrams and memory generalization over time in mice. Source: &lt;a href=&quot;https://www.nature.com/articles/s41586-025-08993-1&quot;&gt;Nature, 2025&lt;/a&gt; (academic use, rights of the original author).&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;what-is-the-hippocampus-&quot;&gt;What is the hippocampus? &lt;label for=&quot;hipocampo-en&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;input type=&quot;checkbox&quot; id=&quot;hipocampo-en&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;&lt;strong&gt;Hippocampus:&lt;/strong&gt; Brain structure located in the temporal lobes, essential for the formation and consolidation of memories, especially contextual and spatial ones.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;The hippocampus is a brain structure essential for the formation, consolidation, and recall of memories, especially contextual and spatial ones. Located in the temporal lobes, it is part of the so-called limbic system and is highly conserved among mammals.&lt;/p&gt;
+
+&lt;p&gt;Its basic structure consists of three main regions: dentate gyrus, CA3, and CA1. The information flow follows a well-defined path: the dentate gyrus receives the initial stimuli and transmits them to the CA3 region, which in turn projects to the CA1 region. This “trisynaptic” organization is classic in memory studies.&lt;/p&gt;
+
+&lt;p&gt;In the experiment discussed in the podcast, hippocampal activation was assessed both by animal behavior (freezing response) and by techniques of neuronal activity recording and optogenetic manipulation. The researchers focused especially on the connections between CA3 and CA1, showing that the reorganization of these connections is related to memory generalization over time. In addition, techniques such as GRASP allowed visualization of specific synapses between engram neurons in these regions, revealing structural changes associated with consolidation and loss of memory specificity.&lt;/p&gt;
+
+&lt;h3 id=&quot;what-are-engrams-&quot;&gt;What are engrams? &lt;label for=&quot;engrama-en&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;input type=&quot;checkbox&quot; id=&quot;engrama-en&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;&lt;strong&gt;Engram:&lt;/strong&gt; A set of neurons that store a specific memory, being activated during learning and recall of that memory.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;The concept of engram was proposed in the early 20th century by German biologist Richard Semon, who suggested that memories would be stored as “physical traces” or lasting changes in the brain. For decades, the term remained more theoretical than experimental. From the 2000s onwards, with advances in genetic and optical techniques, it became possible to identify, label, and manipulate specific populations of neurons activated during memory formation — the so-called engrams.&lt;/p&gt;
+
+&lt;p&gt;Currently, engrams are defined as sets of neurons that are activated during an experience and that, when reactivated, can evoke the memory of that experience. Experimentally, researchers use gene activity markers (such as the Fos gene) and tools like optogenetics to identify and manipulate these neurons in animal models. This allows testing whether artificial activation of these neurons is sufficient to retrieve a memory, or whether their inhibition prevents recall.&lt;/p&gt;
+
+&lt;p&gt;In this work, the use of engrams was fundamental to investigate how memories become less specific over time. By labeling neurons active during learning and tracking their reactivation in different contexts and times, the authors demonstrated that memory generalization is associated with the reorganization of engram circuits in the hippocampus.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-experimental-model-and-the-experiments-performed&quot;&gt;The experimental model and the experiments performed&lt;/h3&gt;
+
+&lt;p&gt;The study analyzed in the episode used contextual fear conditioning&lt;label for=&quot;condicionamento-en&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;condicionamento-en&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;&lt;strong&gt;Contextual fear conditioning:&lt;/strong&gt; Experimental model in which an animal associates an environment with an aversive stimulus, used to study associative memory.&lt;/span&gt;
+ in mice as its basis, one of the most classic and robust paradigms in behavioral neuroscience to investigate associative memory. In this model, the animal is placed in a new environment (context A) and receives an aversive stimulus (usually a mild foot shock). After this pairing, the animal learns to associate the context with the unpleasant event. In later tests, when placed back in the same environment, the mouse exhibits a freezing response, interpreted as an indication of memory of the aversive event. To assess the specificity and generalization of memory, animals are also tested in a different context (context B), which was not associated with the shock. The difference in freezing behavior between contexts allows inference of the degree of memory precision or generalization (Garelick &amp;amp; Storm, 2005).&lt;/p&gt;
+
+&lt;p&gt;In the discussed work, this paradigm was used to investigate how memory becomes less specific over time and how hippocampal circuits participate in this process. The main experiments involved:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Temporal assessment of memory:&lt;/strong&gt; Mice were tested at different intervals after training (one day, two weeks, and 28 days) to investigate how memory specificity changes over time. Initially, animals freeze only in context A, but after 28 days they also freeze in context B, indicating memory generalization.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Engram mapping:&lt;/strong&gt; The authors genetically labeled neurons active during fear conditioning (engrams) and analyzed their reactivation during memory recall in different contexts and times. Initially, there was greater overlap between neurons activated during training and recall in the original context (A), indicating high memory specificity. Over time (28 days), this overlap equalizes between contexts A and B: the same engrams are reactivated in both, reflecting memory generalization. The study also showed that generalization is associated with a reorganization of the engram circuit, making it more “promiscuous” (less specific).&lt;/p&gt;
+
+&lt;p&gt;These results reinforce that engrams are not static, but change over time, accompanying the transformation of memory from specific to generalized, and that processes such as neurogenesis&lt;label for=&quot;neurogenese-en&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;neurogenese-en&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;&lt;strong&gt;Neurogenesis:&lt;/strong&gt; The process of generating new neurons in the adult brain, especially in the hippocampus, important for memory plasticity and flexibility.&lt;/span&gt;
+ and synaptic plasticity&lt;label for=&quot;plasticidade-en&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;plasticidade-en&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;&lt;strong&gt;Synaptic plasticity:&lt;/strong&gt; The ability of connections between neurons (synapses) to strengthen or weaken in response to activity, enabling learning and brain adaptation.&lt;/span&gt;
+ play an active role in this dynamic.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Circuit recording and manipulation:&lt;/strong&gt; Calcium indicators and optogenetics were used to record and manipulate the activity of CA3-CA1 hippocampal circuits, showing that generalization depends on these circuits. Inhibition of these pathways reduces freezing in both context A and B.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Synaptic analysis with GRASP:&lt;/strong&gt; An innovative technique allowed visualization of synapses formed between engram neurons. Surprisingly, after 28 days, there are more synapses between CA3 and CA1 associated with the engram, and these synapses become more clustered, suggesting structural reorganization of the memory circuit over time.&lt;/p&gt;
+
+&lt;p&gt;In addition to results on circuits and synapses, the study investigated the role of adult neurogenesis (formation of new neurons in the hippocampus) in memory generalization and specificity. The authors showed that when neurogenesis is blocked (by radiation), memory remains specific even after 28 days: animals freeze only in the original context (A), not generalizing to context B. On the other hand, when neurogenesis is stimulated (by exercise), generalization occurs earlier: animals freeze in both A and B at the intermediate time, as if memory had become less specific more quickly. That is, neurogenesis accelerates engram restructuring and loss of memory specificity, while its absence keeps memory more precise.&lt;/p&gt;
+
+&lt;p&gt;The authors interpret that memory generalization mediated by neurogenesis may be an active and adaptive process of the brain, not a failure. This suggests that adult neurogenesis helps make memories more flexible and generalizable over time.&lt;/p&gt;
+
+&lt;h3 id=&quot;results-and-comments-from-the-hosts&quot;&gt;Results and comments from the hosts&lt;/h3&gt;
+
+&lt;p&gt;The results show that, over time, memory becomes less specific and more “promiscuous,” that is, the animal begins to generalize the fear context. The hosts highlight that this may be an adaptive feature of memory, allowing past experiences to be used to predict similar future situations, even if not identical.&lt;/p&gt;
+
+&lt;p&gt;Jason Shepherd comments that generalization is not simply forgetting, but an active reorganization of memory circuits, possibly advantageous for survival. Timothy Cheung points out that forgetting can be an active and necessary process, and that the observed synaptic plasticity may explain why old memories become less precise.&lt;/p&gt;
+
+&lt;p&gt;In this sense, the concept of “memory extinction”&lt;label for=&quot;extincao-en&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;extincao-en&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;&lt;strong&gt;Memory extinction:&lt;/strong&gt; Process by which a learned response (such as fear) decreases when the aversive stimulus is no longer presented, involving the formation of a new safety memory.&lt;/span&gt;
+ may relate to the general findings of this new experiment. Memory extinction, according to Garelick &amp;amp; Storm (2005), is a process by which a conditioned response (such as fear learned in a context) gradually decreases when the aversive stimulus is no longer presented repeatedly in that context. That is, the animal learns that the previously dangerous environment is now safe, and the freezing response disappears. This process is not simply the forgetting of the original memory, but the formation of a new safety memory that competes with the fear memory. Changes or failures in this extinction mechanism are associated with disorders such as anxiety and PTSD, in which aversive memories persist pathologically.&lt;/p&gt;
+
+&lt;p&gt;In Chiang’s story, for example, he recalls the story of Solomon Shereshevsky, a Russian journalist active in the 1920s. The writer uses his case as an example of the problems that an “excessively” precise memory can bring to people. In fact, Shereshevsky had a unique ability to memorize based on a very pronounced synesthesia and its use to create cues and mnemonic formulas. He truly had a prodigious memory, but it was not true that he could not, or did not, forget. However, it is a fact that the frequent use of his abilities brought him mental health problems, such as anxiety and confusion.&lt;/p&gt;
+
+&lt;p&gt;The hosts also discuss the controversy over the stability of engrams and the transfer of memory from the hippocampus to the cortex over time. Questions remain to be explored about the dynamics of engrams over time and how the activity of these circuits correlates with the activity of other brain areas. A point raised by Vivianne Morrison and commented on by Jason Shepherd was that engrams can change over time in different experimental models, and this “drift” is not well explained. Shepherd discussed that, although observed in other experimental models, engram drift is controversial and it is believed that, in the contextual fear conditioning model, engrams seem to be stable. He also commented that, in this model, it was possible to detect the activation of 10-20% of hippocampal neurons after conditioning, but the final engram must be much smaller than that, as shown by the 10-15% overlap of cells activated during memory retrieval. The mechanisms responsible for long-term memory storage in the cortex still need to be clarified.&lt;/p&gt;
+
+&lt;h2 id=&quot;questions-and-reflections-raised-in-the-episode&quot;&gt;Questions and reflections raised in the episode&lt;/h2&gt;
+
+&lt;p&gt;In addition to the experimental results, the episode brought important reflections:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Memory and identity:&lt;/strong&gt; To what extent are we defined by the memories we keep? What happens to the “self” when memories are lost or altered?&lt;/p&gt;
+
+&lt;p&gt;Chiang discusses in his story how it is possible that the memories we keep are summarized and idealized versions of the facts we actually lived. Literature is full of examples of the “Mandela Effect,” or the supposed generation and persistence of false memories collectively. I will not discuss this subject here, as it is not necessarily related to the research theme. However, the effect of memory reorganization observed over time is complex and well known in psychology, and the discoveries described in this work may add another element to the neural mechanisms behind this, in addition to already known phenomena such as the consolidation and reconsolidation of long-term memories, as well as memory extinction.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Plasticity and forgetting:&lt;/strong&gt; Is forgetting an active and necessary process? How does the brain decide what to keep and what to discard?&lt;/p&gt;
+
+&lt;p&gt;A possible implication that did not arise in the discussion of this work and that I did not find in the literature concerns human creativity. The process of creation is complex and multifaceted, but it is possible to see a possible participation of a neural mechanism that turns a specific memory into a generalized memory. The ability to generalize from observations is crucial for generating new scientific knowledge, being a pillar of the inductive method and its derivatives. A mechanism like the one described in this work, in which a memory recorded for a certain context can be generalized to others, could itself (or some related or similar mechanism) be related to the ability to learn and generalize learning and form new knowledge in humans.&lt;/p&gt;
+
+&lt;h2 id=&quot;significance-for-science-and-society&quot;&gt;Significance for science and society&lt;/h2&gt;
+
+&lt;p&gt;The study represents an important advance in understanding the biological mechanisms of memory, showing that the consolidation and reorganization of neural circuits are dynamic and adaptive processes. This highlights the importance of dialogue between science, philosophy, and ethics in the face of rapid advances in neuroscience.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-is-twin&quot;&gt;What is TWiN?&lt;/h2&gt;
+
+&lt;p&gt;TWiN (This Week in Neuroscience) is a podcast dedicated to discussing the latest advances in neuroscience, with participation from renowned experts. The program is part of the MicrobeTV network and is available at &lt;a href=&quot;https://www.microbe.tv/twin/&quot;&gt;microbe.tv/twin&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;twin-team&quot;&gt;TWiN Team&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Vincent Racaniello (Columbia University, USA)&lt;/li&gt;
+  &lt;li&gt;Jason Shepherd (University of Utah, USA)&lt;/li&gt;
+  &lt;li&gt;Timothy Cheung (New York University, USA)&lt;/li&gt;
+  &lt;li&gt;Vivianne Morrison (Tulane University, USA)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;All participants and collaborators contribute to the qualified debate on neuroscience in the podcast.&lt;/p&gt;
+
+&lt;h2 id=&quot;references&quot;&gt;References&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nature.com/articles/s41586-025-08993-1&quot;&gt;Original article in Nature&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.microbe.tv/twin/twin-60/&quot;&gt;TWiN 60: We Are the Memory We Have&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=UonSUOcWM80&quot;&gt;Episode on YouTube&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1166639/&quot;&gt;Garelick &amp;amp; Storm. PNAS, 2005&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;em&gt;About the initial quote:&lt;/em&gt; The phrase that inspires the title of this post is by José Saramago, Portuguese writer and Nobel Prize for Literature. Saramago spoke these words in his Nobel acceptance speech in 1998, reflecting on the importance of memory and responsibility in building individual and collective identity.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 26 Jun 2025 12:00:00 -0300</pubDate>
+        <link>https://fhcflx.github.io/ciencia-medica/2025/06/26/memory-twin-2025-en.html</link>
+        <guid isPermaLink="true">https://fhcflx.github.io/ciencia-medica/2025/06/26/memory-twin-2025-en.html</guid>
+        
+        <category>Memory</category>
+        
+        <category>Neuroscience</category>
+        
+        <category>Podcast</category>
+        
+        <category>Scientific research</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Somos a memória que temos: neurociência da memória</title>
+        <description>&lt;blockquote&gt;
+  &lt;p&gt;“Somos a memória que temos e a responsabilidade que assumimos. Sem memória não existimos, sem responsabilidade talvez não mereçamos existir.”&lt;/p&gt;
+
+  &lt;p&gt;— José Saramago, discurso de aceitação do Prêmio Nobel de Literatura, 1998&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;O episódio 60 do podcast &lt;a href=&quot;https://www.microbe.tv/twin/twin-60/&quot;&gt;TWiN (This Week in Neuroscience)&lt;/a&gt; trouxe uma análise aprofundada do artigo publicado na revista &lt;a href=&quot;https://www.nature.com/articles/s41586-025-08993-1&quot;&gt;Nature&lt;/a&gt; em 2025, que apresenta descobertas inovadoras sobre os mecanismos celulares e moleculares da memória. O episódio também está disponível no &lt;a href=&quot;https://www.youtube.com/watch?v=UonSUOcWM80&quot;&gt;YouTube&lt;/a&gt;. Os participantes discutiram não apenas os resultados do estudo, mas também as possíveis implicações clínicas e até filosóficas do que eu chamo de “sermos a memória que temos”. Esse tema também foi discutido no conto de Ted Chiang “A verdade dos fatos, a verdade dos sentimentos” (The Truth of Fact, the Truth of Feeling), publicado originalmente em 2013 e traduzido para o português por Bráulio Tavares (Exalação, Editora Intrínseca, 2021). No conto, ele questiona a exatidão da memória humana.
+&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;introdução-por-que-estudar-a-memória&quot;&gt;Introdução: Por que estudar a memória?&lt;/h2&gt;
+
+&lt;p&gt;A memória é um dos pilares da identidade humana, fundamental para o aprendizado, tomada de decisões e construção do nosso senso de self. Alterações na memória estão no centro de doenças como Alzheimer, demências e transtornos psiquiátricos. Compreender como as memórias são formadas, armazenadas e recuperadas é um dos maiores desafios da neurociência&lt;label for=&quot;neurociencia&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;neurociencia&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;&lt;strong&gt;Neurociência:&lt;/strong&gt; Área da ciência que estuda o sistema nervoso, incluindo o cérebro, medula espinhal e nervos periféricos. Investiga como esses órgãos funcionam, como se comunicam e como influenciam o comportamento, emoções e doenças.&lt;/span&gt;
+ moderna. Não é preciso ir muito além para entender sua importância. Afinal, como Oliver Sacks mostrou na sua descrição do caso do músico Clive Wearing em “Alucinações musicais” (Musicophilia, 2007), a “memória que temos” se confunde comm nossa identidade. Sacks descreveu o caso de um músico que, após uma infecção viral (encefalite pelo vírus da herpes simples), perdeu a capacidade de reter novas memórias e quase toda a memória que tinha do passado. As estruturas que conhecemos como “hipocampo”, nos lobos temporais do cérebro, foram destruídas pela infecção de Wearing. “Ele” sobreviveu, porém sua identidade, aquilo que ele era, foi profundamente afetado. Apesar de suas deficiências severas, ele ainda conseguia cantar, tocar música e reconhecia sua esposa. Algo de si havia restado, apesar da sua lesão e perda de memória.&lt;/p&gt;
+
+&lt;p&gt;Esse caso real, além de outros reais ou fictícios apresentados pela literatura (como no conto de Chiang) mostram como a memória é a base de nossa identidade, tornando a frase de Saramago muito mais do que retórica. Também mostra como ainda temos tanto a aprender sobre a memória. Por que lesões em estruturas discretas como o hipocampo a afetam tanto mesmo que o restante do cérebro permaneça intacto? Hoje em dia já se conhecem algumas respostas, poucas, mas muita coisa é apenas hipótese, e precisa ser testada. O trabalho apresentado pelo pessoal do TWIN apresentou justamente uma dessas fascinantes pesquisas.&lt;/p&gt;
+
+&lt;h2 id=&quot;o-estudo-novos-mecanismos-da-memória&quot;&gt;O estudo: Novos mecanismos da memória&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41586-025-08993-1/MediaObjects/41586_2025_8993_Fig1_HTML.png&quot; alt=&quot;Figura do artigo Nature 2025 - Engramas e reorganização da memória&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Figura 1 do artigo original: Esquema experimental e principais achados sobre a reorganização dos engramas e generalização da memória ao longo do tempo em camundongos. Fonte: &lt;a href=&quot;https://www.nature.com/articles/s41586-025-08993-1&quot;&gt;Nature, 2025&lt;/a&gt; (uso acadêmico, direitos do autor original).&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;o-que-é-o-hipocampo&quot;&gt;O que é o hipocampo?&lt;/h3&gt;
+
+&lt;p&gt;O hipocampo&lt;label for=&quot;hipocampo&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;hipocampo&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;&lt;strong&gt;Hipocampo:&lt;/strong&gt; Estrutura do cérebro localizada nos lobos temporais, fundamental para a formação e consolidação de memórias, especialmente as de contexto e espaço.&lt;/span&gt;
+ é uma estrutura do cérebro fundamental para a formação, consolidação e evocação de memórias, especialmente as de contexto e espaço. Localizado nos lobos temporais, ele faz parte do chamado sistema límbico e é altamente conservado entre mamíferos.&lt;/p&gt;
+
+&lt;p&gt;Sua estrutura básica é composta por três regiões principais: giro denteado (dentate gyrus), CA3 e CA1. O fluxo de informação segue uma via bem definida: o giro denteado recebe os estímulos iniciais e os transmite para a região CA3, que por sua vez projeta para a região CA1. Essa organização em “três sinapses” é clássica nos estudos de memória.&lt;/p&gt;
+
+&lt;p&gt;No experimento discutido no podcast, a ativação do hipocampo foi avaliada tanto pelo comportamento dos animais (resposta de congelamento) quanto por técnicas de registro da atividade neuronal e manipulação optogenética. Os pesquisadores focaram especialmente nas conexões entre CA3 e CA1, mostrando que a reorganização dessas conexões está relacionada à generalização da memória ao longo do tempo. Além disso, o uso de técnicas como GRASP permitiu visualizar sinapses específicas entre neurônios do engrama nessas regiões, revelando mudanças estruturais associadas à consolidação e à perda de especificidade da memória.&lt;/p&gt;
+
+&lt;h3 id=&quot;o-que-são-engramas&quot;&gt;O que são engramas?&lt;/h3&gt;
+
+&lt;p&gt;O conceito de engrama&lt;label for=&quot;engrama&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;engrama&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;&lt;strong&gt;Engrama:&lt;/strong&gt; Conjunto de neurônios que armazenam uma memória específica, sendo ativados durante o aprendizado e a evocação dessa memória.&lt;/span&gt;
+ foi proposto no início do século XX pelo biólogo alemão Richard Semon, que sugeriu que memórias seriam armazenadas como “traços físicos” ou alterações duradouras no cérebro. Por décadas, o termo permaneceu mais teórico do que experimental. A partir dos anos 2000, com o avanço de técnicas genéticas e ópticas, tornou-se possível identificar, marcar e manipular populações específicas de neurônios ativados durante a formação de uma memória — os chamados engramas.&lt;/p&gt;
+
+&lt;p&gt;Atualmente, engramas são definidos como conjuntos de neurônios que são ativados durante uma experiência e que, quando reativados, podem evocar a lembrança daquela experiência. Experimentalmente, pesquisadores utilizam marcadores de atividade gênica (como o gene Fos) e ferramentas como optogenética para identificar e manipular esses neurônios em modelos animais. Isso permite testar se a ativação artificial desses neurônios é suficiente para recuperar uma memória, ou se sua inibição impede a evocação.&lt;/p&gt;
+
+&lt;p&gt;Neste trabalho, o uso de engramas foi fundamental para investigar como as memórias se tornam menos específicas com o tempo. Ao marcar os neurônios ativos durante o aprendizado e acompanhar sua reativação em diferentes contextos e momentos, os autores puderam demonstrar que a generalização da memória está associada à reorganização dos circuitos de engrama no hipocampo.&lt;/p&gt;
+
+&lt;h3 id=&quot;o-modelo-experimental-e-os-experimentos-realizados&quot;&gt;O modelo experimental e os experimentos realizados&lt;/h3&gt;
+
+&lt;p&gt;O estudo analisado no episódio utilizou como base o modelo de condicionamento de medo contextual&lt;label for=&quot;condicionamento&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;condicionamento&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;&lt;strong&gt;Condicionamento de medo contextual:&lt;/strong&gt; Modelo experimental em que um animal associa um ambiente a um estímulo aversivo, usado para estudar memória associativa.&lt;/span&gt;
+ em camundongos, um dos paradigmas mais clássicos e robustos da neurociência comportamental para investigar memória associativa. Nesse modelo, o animal é colocado em um ambiente novo (contexto A) e recebe um estímulo aversivo (geralmente um leve choque nas patas). Após esse pareamento, o animal aprende a associar o contexto ao evento desagradável. Em testes posteriores, ao ser recolocado no mesmo ambiente, o camundongo exibe uma resposta de congelamento (freezing), que é interpretada como um indicativo de memória do evento aversivo. Para avaliar a especificidade e a generalização da memória, os animais também são testados em um contexto diferente (contexto B), que não foi associado ao choque. A diferença no comportamento de congelamento entre os contextos permite inferir o grau de precisão ou generalização da memória (Garelick &amp;amp; Storm, 2005).&lt;/p&gt;
+
+&lt;p&gt;No trabalho discutido, esse paradigma foi utilizado para investigar como a memória se torna menos específica ao longo do tempo e como os circuitos do hipocampo participam desse processo. Os experimentos principais envolveram:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Avaliação temporal da memória:&lt;/strong&gt; Os camundongos foram testados em diferentes intervalos após o treinamento (um dia, duas semanas e 28 dias) para investigar como a especificidade da memória muda ao longo do tempo. Inicialmente, os animais congelam apenas no contexto A, mas após 28 dias passam a congelar também no contexto B, indicando generalização da memória.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Mapeamento dos engramas:&lt;/strong&gt; Os autores marcaram geneticamente os neurônios ativos durante o condicionamento de medo (engramas) e analisaram sua reativação durante a evocação da memória em diferentes contextos e tempos. Inicialmente, observaram uma sobreposição maior entre os neurônios ativados no treinamento e na evocação no contexto original (A), indicando alta especificidade da memória. Com o passar do tempo (28 dias), essa sobreposição se iguala entre os contextos A e B: os mesmos engramas são reativados em ambos, refletindo a generalização da memória. Além disso, o estudo mostrou que a generalização está associada a uma reorganização do circuito de engramas, tornando-o mais “promíscuo” (menos específico).&lt;/p&gt;
+
+&lt;p&gt;Esses resultados reforçam que os engramas não são estáticos, mas mudam ao longo do tempo, acompanhando a transformação da memória de específica para generalizada, e que processos como a neurogênese&lt;label for=&quot;neurogenese&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;neurogenese&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;&lt;strong&gt;Neurogênese:&lt;/strong&gt; Processo de formação de novos neurônios no cérebro adulto, especialmente no hipocampo, importante para a plasticidade e flexibilidade da memória.&lt;/span&gt;
+ e a plasticidade sináptica&lt;label for=&quot;plasticidade&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;plasticidade&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;&lt;strong&gt;Plasticidade sináptica:&lt;/strong&gt; Capacidade das conexões entre neurônios (sinapses) de se fortalecerem ou enfraquecerem em resposta à atividade, permitindo o aprendizado e a adaptação do cérebro.&lt;/span&gt;
+ desempenham papel ativo nessa dinâmica.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Registro e manipulação de circuitos:&lt;/strong&gt; Foram usados indicadores de cálcio e optogenética para registrar e manipular a atividade dos circuitos CA3-CA1 do hipocampo, mostrando que a generalização depende desses circuitos. A inibição desses caminhos reduz o congelamento tanto no contexto A quanto no B.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Análise sináptica com GRASP:&lt;/strong&gt; Uma técnica inovadora permitiu visualizar sinapses formadas entre neurônios do engrama. Surpreendentemente, após 28 dias, há mais sinapses entre CA3 e CA1 associadas ao engrama, e essas sinapses se tornam mais agrupadas, sugerindo reorganização estrutural do circuito de memória ao longo do tempo.&lt;/p&gt;
+
+&lt;p&gt;Além dos resultados sobre circuitos e sinapses, o estudo investigou o papel da neurogênese adulta (formação de novos neurônios no hipocampo) na generalização e especificidade das memórias. Os autores mostraram que, quando a neurogênese é bloqueada (por radiação), a memória permanece específica mesmo após 28 dias: os animais congelam apenas no contexto original (A), não generalizando para o contexto B. Por outro lado, quando a neurogênese é estimulada (por exercício), a generalização ocorre mais cedo: os animais passam a congelar tanto em A quanto em B já no tempo intermediário, como se a memória tivesse se tornado menos específica mais rapidamente. Ou seja, a neurogênese acelera a reestruturação dos engramas e a perda de especificidade da memória, enquanto sua ausência mantém a memória mais precisa.&lt;/p&gt;
+
+&lt;p&gt;A interpretação dos autores é que a generalização da memória mediada pela neurogênese pode ser um processo ativo e adaptativo do cérebro, e não uma falha. Isso sugere que a neurogênese adulta contribui para tornar as memórias mais flexíveis e generalizáveis ao longo do tempo.&lt;/p&gt;
+
+&lt;h3 id=&quot;resultados-e-comentários-dos-apresentadores&quot;&gt;Resultados e comentários dos apresentadores&lt;/h3&gt;
+
+&lt;p&gt;Os resultados mostram que, com o passar do tempo, a memória se torna menos específica e mais “promíscua”, ou seja, o animal passa a generalizar o contexto do medo. Os apresentadores destacam que isso pode ser uma característica adaptativa da memória, permitindo que experiências passadas sejam usadas para prever situações futuras semelhantes, mesmo que não idênticas.&lt;/p&gt;
+
+&lt;p&gt;Jason Shepherd comenta que a generalização não é simplesmente esquecimento, mas sim uma reorganização ativa dos circuitos de memória, possivelmente vantajosa para a sobrevivência. Timothy Cheung ressalta que o esquecimento pode ser um processo ativo e necessário, e que a plasticidade sináptica observada pode explicar por que memórias antigas se tornam menos precisas.&lt;/p&gt;
+
+&lt;p&gt;Nesse sentido, o conceito de “extinção de memória”&lt;label for=&quot;extincao&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;extincao&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;&lt;strong&gt;Extinção de memória:&lt;/strong&gt; Processo pelo qual uma resposta aprendida (como o medo) diminui quando o estímulo aversivo deixa de ser apresentado, envolvendo a formação de uma nova memória de segurança.&lt;/span&gt;
+ pode ter relação com os achados gerais desse novo experimento. A extinção de memória, segundo Garelick &amp;amp; Storm (2005), é um processo pelo qual uma resposta condicionada (como o medo aprendido em um contexto) diminui gradualmente quando o estímulo aversivo deixa de ser apresentado repetidamente naquele contexto. Ou seja, o animal aprende que o ambiente antes perigoso agora é seguro, e a resposta de congelamento vai desaparecendo. Esse processo não é simplesmente o esquecimento da memória original, mas sim a formação de uma nova memória de segurança que compete com a memória de medo. Alterações ou falhas nesse mecanismo de extinção estão associadas a transtornos como ansiedade e TEPT, nos quais memórias aversivas persistem de forma patológica.&lt;/p&gt;
+
+&lt;p&gt;No conto de Chiang, por exemplo, ele lembra a história de Solomon Shereshevsky, jornalista russo ativo nos anos 20. O escritor usa seu caso como exemplo de problemas que uma memória “excessivamente” precisa pode trazer para as pessoas. Na verdade, Shereshevsky tinha uma habilidade ímpar de memorizar baseada numa faculdade de sinestesia muito pronunciada e sua utilização para criar pistas e fórmulas mnemônicas. Ele realmente tinha uma memória prodigiosa, mas não era verdade que não podia, ou conseguia, esquecer. Porém é fato que o uso frequente de suas habilidades lhe trouxe problemas de saúde mental, como ansiedade e confusão.&lt;/p&gt;
+
+&lt;p&gt;Os apresentadores também discutem a controvérsia sobre a estabilidade dos engramas e a transferência da memória do hipocampo para o córtex ao longo do tempo. Ainda são questões a serem exploradas a dinâmica dos engramas ao longo do tempo e como a atividade destes circuitos se correlaciona com a atividade das outras áreas cerebrais. Um ponto levantado por Vivianne Morrison e comentado por Jason Sheperd foi o fato de que engramas podem mudar ao longo do tempo em diferentes modelos experimentais, e essa “deriva” (drift) não é bem explicada. Shepherd discutiu que, apesar de observado em outros modelos experimentais, a deriva de engramas é controversa e acredita-se que, no modelo de condicionamento de medo contextual, os engramas parecem ser estáveis. Algo que ele mesmo já havia comentado é que, nesse modelo, foi possível detectar a ativação de 10-20% dos neurônios do hipocampo após o condicionamento, porém o engrama final deve ser muito menor do que isso, como mostrou a sobreposição de 10-15% das células ativadas durante a recuperação da memória. Já os mecanismos responsáveis pelo armazenamento de memórias de longo prazo no córtex ainda precisam ser melhor esclarecidos.&lt;/p&gt;
+
+&lt;h2 id=&quot;questões-e-reflexões-levantadas-no-episódio&quot;&gt;Questões e reflexões levantadas no episódio&lt;/h2&gt;
+
+&lt;p&gt;Além dos resultados experimentais, o episódio trouxe reflexões importantes:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Memória e identidade:&lt;/strong&gt; Até que ponto somos definidos pelas memórias que mantemos? O que acontece com o “eu” quando memórias são perdidas ou alteradas?&lt;/p&gt;
+
+&lt;p&gt;Chiang discute em seu conto como é possível que as memórias que mantemos sejam versões resumidas e idealizadas dos fatos que realmente vivemos. A literatura está cheia de exemplos do “Efeito Mandela”, ou a suposta geração e persistência de memórias falsas coletivamente. Não vou discorrer sobre esse assunto aqui, até porque não necessariamente tem a ver com o tema da pesquisa. Porém, o efeito de reorganização das memórias que observamos com o tempo é complexo e bem conhecido da psicologia e as descobertas descritas nesse trabalho podem acrescentar mais um elemento nos mecanismos neurais por trás disso, além de fenômenos já conhecidos como a consolidação e areconsolidação de memórias de longo prazo, além da extinção da memória.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Plasticidade e esquecimento:&lt;/strong&gt; O esquecimento é um processo ativo e necessário? Como o cérebro decide o que manter e o que descartar?&lt;/p&gt;
+
+&lt;p&gt;Uma possível implicação que não surgiu na discussão desse trabalho e não encontrei na literatura é acerca da criatividade humana. O processo de criação é complexo e multifacetado, mas seria possível enxergar uma possívrl participação de um mecanismo neural que torne uma memória específica em uma memória generalizada. A capacidade de generalizar a partir de observações é crucial para a geração de novos conhecimentos científicos, sendo um pilar do método indutivo e seus derivados. Um mecanismo como esse descrito nesse trabalho, em que uma memória registrada para um determinado contexto pode ser generalizada para outros, poderia ele mesmo (ou algum mecamisno derivado ou afim) ter a ver com a capacidade de aprender e generalizar o aprendizado e formar novos conhecimentos no ser humano.&lt;/p&gt;
+
+&lt;h2 id=&quot;significado-para-a-ciência-e-para-a-sociedade&quot;&gt;Significado para a ciência e para a sociedade&lt;/h2&gt;
+
+&lt;p&gt;O estudo representa um avanço importante na compreensão dos mecanismos biológicos da memória, mostrando que a consolidação e a reorganização dos circuitos neuronais são processos dinâmicos e adaptativos. Isso destaca a importância do diálogo entre ciência, filosofia e ética diante dos avanços rápidos da neurociência.&lt;/p&gt;
+
+&lt;h2 id=&quot;o-que-é-o-twin&quot;&gt;O que é o TWiN?&lt;/h2&gt;
+
+&lt;p&gt;O TWiN (This Week in Neuroscience) é um podcast dedicado a discutir os avanços mais recentes em neurociência, com participação de especialistas renomados. O programa faz parte da rede MicrobeTV e está disponível em &lt;a href=&quot;https://www.microbe.tv/twin/&quot;&gt;microbe.tv/twin&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;equipe-do-twin&quot;&gt;Equipe do TWiN&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Vincent Racaniello (Universidade Columbia, EUA)&lt;/li&gt;
+  &lt;li&gt;Jason Shepherd (Universidade de Utah, EUA)&lt;/li&gt;
+  &lt;li&gt;Timothy Cheung (Universidade de Nova Iorque, EUA)&lt;/li&gt;
+  &lt;li&gt;Vivianne Morrison (Universidade de Tulane, EUA)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Todos os participantes e colaboradores contribuem para o debate qualificado sobre neurociência no podcast.&lt;/p&gt;
+
+&lt;h2 id=&quot;referências&quot;&gt;Referências&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nature.com/articles/s41586-025-08993-1&quot;&gt;Artigo original na Nature&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.microbe.tv/twin/twin-60/&quot;&gt;TWiN 60: Somos a memória que temos&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=UonSUOcWM80&quot;&gt;Episódio no YouTube&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1166639/&quot;&gt;Garelick &amp;amp; Storm. PNAS, 2005&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;em&gt;Sobre a citação inicial:&lt;/em&gt; A frase que inspira o título deste post é de José Saramago, escritor português e Prêmio Nobel de Literatura. Saramago escreveu estas palavras em seu livro  “Cadernos de Lanzarote I”, ao refletir sobre a importância da memória e da responsabilidade na construção da identidade individual e coletiva.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 26 Jun 2025 12:00:00 -0300</pubDate>
+        <link>https://fhcflx.github.io/ciencia-medica/2025/06/26/memoria-twin-2025.html</link>
+        <guid isPermaLink="true">https://fhcflx.github.io/ciencia-medica/2025/06/26/memoria-twin-2025.html</guid>
+        
+        <category>Memória</category>
+        
+        <category>Neurociência</category>
+        
+        <category>Podcast</category>
+        
+        <category>Pesquisa científica</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Somos la memoria que tenemos: la neurociencia de la memoria</title>
+        <description>&lt;blockquote&gt;
+  &lt;p&gt;“Somos la memoria que tenemos y la responsabilidad que asumimos. Sin memoria no existimos, sin responsabilidad tal vez no merezcamos existir.”&lt;/p&gt;
+
+  &lt;p&gt;— José Saramago, discurso de aceptación del Premio Nobel de Literatura, 1998&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;El episodio 60 del podcast &lt;a href=&quot;https://www.microbe.tv/twin/twin-60/&quot;&gt;TWiN (This Week in Neuroscience)&lt;/a&gt; trajo un análisis profundo del artículo publicado en &lt;a href=&quot;https://www.nature.com/articles/s41586-025-08993-1&quot;&gt;Nature&lt;/a&gt; en 2025, que presenta descubrimientos innovadores sobre los mecanismos celulares y moleculares de la memoria. El episodio también está disponible en &lt;a href=&quot;https://www.youtube.com/watch?v=UonSUOcWM80&quot;&gt;YouTube&lt;/a&gt;. Los participantes discutieron no solo los resultados del estudio, sino también las posibles implicaciones clínicas e incluso filosóficas de lo que llamo “ser la memoria que tenemos”. Este tema también fue discutido en el cuento de Ted Chiang “La verdad de los hechos, la verdad de los sentimientos” (2013). En el cuento, cuestiona la exactitud de la memoria humana.
+&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;introducción-por-qué-estudiar-la-memoria&quot;&gt;Introducción: ¿Por qué estudiar la memoria?&lt;/h2&gt;
+
+&lt;p&gt;La memoria es uno de los pilares de la identidad humana, fundamental para el aprendizaje, la toma de decisiones y la construcción de nuestro sentido del yo. Las alteraciones en la memoria están en el centro de enfermedades como el Alzheimer, las demencias y los trastornos psiquiátricos. Comprender cómo se forman, almacenan y recuperan los recuerdos es uno de los mayores desafíos de la neurociencia moderna.&lt;label for=&quot;neurociencia-es&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;neurociencia-es&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;&lt;strong&gt;Neurociencia:&lt;/strong&gt; Área de la ciencia que estudia el sistema nervioso, incluyendo el cerebro, la médula espinal y los nervios periféricos. Investiga cómo funcionan estos órganos, cómo se comunican y cómo influyen en el comportamiento, las emociones y las enfermedades.&lt;/span&gt;
+ Como mostró Oliver Sacks en su descripción del músico Clive Wearing en “Musicofilia” (2007), “la memoria que tenemos” se confunde con nuestra identidad. Sacks describió el caso de un músico que, tras una infección viral (encefalitis por herpes simple), perdió la capacidad de retener nuevos recuerdos y casi toda la memoria que tenía del pasado. Las estructuras que conocemos como “hipocampo”, en los lóbulos temporales del cerebro, fueron destruidas por la infección de Wearing. “Él” sobrevivió, pero su identidad, lo que era, se vio profundamente afectada. A pesar de sus graves deficiencias, aún podía cantar, tocar música y reconocer a su esposa. Algo de sí mismo permaneció, a pesar de su lesión y pérdida de memoria.&lt;/p&gt;
+
+&lt;p&gt;Este caso real, junto con otros reales o ficticios presentados en la literatura (como en el cuento de Chiang), muestra cómo la memoria es la base de nuestra identidad, haciendo que la frase de Saramago sea mucho más que retórica. También muestra cuánto nos queda por aprender sobre la memoria. ¿Por qué las lesiones en estructuras discretas como el hipocampo la afectan tanto aunque el resto del cerebro permanezca intacto? Hoy en día ya se conocen algunas respuestas, pocas, pero muchas cosas son solo hipótesis y necesitan ser probadas. El trabajo presentado por el equipo de TWiN mostró precisamente una de estas fascinantes líneas de investigación.&lt;/p&gt;
+
+&lt;h2 id=&quot;el-estudio-nuevos-mecanismos-de-la-memoria&quot;&gt;El estudio: Nuevos mecanismos de la memoria&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41586-025-08993-1/MediaObjects/41586_2025_8993_Fig1_HTML.png&quot; alt=&quot;Figura del artículo de Nature 2025 - Engramas y reorganización de la memoria&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Figura 1 del artículo original: Esquema experimental y principales hallazgos sobre la reorganización de los engramas y la generalización de la memoria a lo largo del tiempo en ratones. Fuente: &lt;a href=&quot;https://www.nature.com/articles/s41586-025-08993-1&quot;&gt;Nature, 2025&lt;/a&gt; (uso académico, derechos del autor original).&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;qué-es-el-hipocampo-&quot;&gt;¿Qué es el hipocampo? &lt;label for=&quot;hipocampo-es&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;input type=&quot;checkbox&quot; id=&quot;hipocampo-es&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;&lt;strong&gt;Hipocampo:&lt;/strong&gt; Estructura cerebral situada en los lóbulos temporales, fundamental para la formación y consolidación de recuerdos, especialmente los de contexto y espacio.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;El hipocampo es una estructura cerebral fundamental para la formación, consolidación y evocación de recuerdos, especialmente los de contexto y espacio. Ubicado en los lóbulos temporales, forma parte del llamado sistema límbico y está altamente conservado entre mamíferos.&lt;/p&gt;
+
+&lt;p&gt;Su estructura básica se compone de tres regiones principales: giro dentado, CA3 y CA1. El flujo de información sigue una vía bien definida: el giro dentado recibe los estímulos iniciales y los transmite a la región CA3, que a su vez proyecta a la región CA1. Esta organización “trisynáptica” es clásica en los estudios de la memoria.&lt;/p&gt;
+
+&lt;p&gt;En el experimento discutido en el podcast, la activación del hipocampo se evaluó tanto por el comportamiento de los animales (respuesta de congelación) como por técnicas de registro de la actividad neuronal y manipulación optogenética. Los investigadores se centraron especialmente en las conexiones entre CA3 y CA1, mostrando que la reorganización de estas conexiones está relacionada con la generalización de la memoria a lo largo del tiempo. Además, el uso de técnicas como GRASP permitió visualizar sinapsis específicas entre neuronas del engrama en estas regiones, revelando cambios estructurales asociados a la consolidación y la pérdida de especificidad de la memoria.&lt;/p&gt;
+
+&lt;h3 id=&quot;qué-son-los-engramas-&quot;&gt;¿Qué son los engramas? &lt;label for=&quot;engrama-es&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;input type=&quot;checkbox&quot; id=&quot;engrama-es&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;&lt;strong&gt;Engrama:&lt;/strong&gt; Conjunto de neuronas que almacenan un recuerdo específico, activándose durante el aprendizaje y la evocación de ese recuerdo.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;El concepto de engrama fue propuesto a principios del siglo XX por el biólogo alemán Richard Semon, quien sugirió que los recuerdos se almacenarían como “huellas físicas” o cambios duraderos en el cerebro. Durante décadas, el término permaneció más teórico que experimental. A partir de los años 2000, con el avance de las técnicas genéticas y ópticas, fue posible identificar, marcar y manipular poblaciones específicas de neuronas activadas durante la formación de un recuerdo: los llamados engramas.&lt;/p&gt;
+
+&lt;p&gt;Actualmente, los engramas se definen como conjuntos de neuronas que se activan durante una experiencia y que, al reactivarse, pueden evocar el recuerdo de esa experiencia. Experimentalmente, los investigadores utilizan marcadores de actividad génica (como el gen Fos) y herramientas como la optogenética para identificar y manipular estas neuronas en modelos animales. Esto permite probar si la activación artificial de estas neuronas es suficiente para recuperar un recuerdo, o si su inhibición impide la evocación.&lt;/p&gt;
+
+&lt;p&gt;En este trabajo, el uso de engramas fue fundamental para investigar cómo los recuerdos se vuelven menos específicos con el tiempo. Al marcar las neuronas activas durante el aprendizaje y seguir su reactivación en diferentes contextos y momentos, los autores pudieron demostrar que la generalización de la memoria está asociada a la reorganización de los circuitos de engrama en el hipocampo.&lt;/p&gt;
+
+&lt;h3 id=&quot;el-modelo-experimental-y-los-experimentos-realizados&quot;&gt;El modelo experimental y los experimentos realizados&lt;/h3&gt;
+
+&lt;p&gt;El estudio analizado en el episodio utilizó como base el modelo de condicionamiento de miedo contextual&lt;label for=&quot;condicionamento-es&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;condicionamento-es&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;&lt;strong&gt;Condicionamiento de miedo contextual:&lt;/strong&gt; Modelo experimental en el que un animal asocia un entorno con un estímulo aversivo, utilizado para estudiar la memoria asociativa.&lt;/span&gt;
+ en ratones, uno de los paradigmas más clásicos y robustos de la neurociencia conductual para investigar la memoria asociativa. En este modelo, el animal se coloca en un entorno nuevo (contexto A) y recibe un estímulo aversivo (generalmente una leve descarga en las patas). Tras este emparejamiento, el animal aprende a asociar el contexto con el evento desagradable. En pruebas posteriores, al ser colocado de nuevo en el mismo entorno, el ratón muestra una respuesta de congelación, que se interpreta como un indicio de memoria del evento aversivo. Para evaluar la especificidad y la generalización de la memoria, los animales también se prueban en un contexto diferente (contexto B), que no se asoció con la descarga. La diferencia en el comportamiento de congelación entre los contextos permite inferir el grado de precisión o generalización de la memoria (Garelick &amp;amp; Storm, 2005).&lt;/p&gt;
+
+&lt;p&gt;En el trabajo discutido, este paradigma se utilizó para investigar cómo la memoria se vuelve menos específica con el tiempo y cómo los circuitos del hipocampo participan en este proceso. Los experimentos principales incluyeron:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Evaluación temporal de la memoria:&lt;/strong&gt; Los ratones se probaron en diferentes intervalos después del entrenamiento (un día, dos semanas y 28 días) para investigar cómo cambia la especificidad de la memoria con el tiempo. Inicialmente, los animales se congelan solo en el contexto A, pero después de 28 días también se congelan en el contexto B, lo que indica generalización de la memoria.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Mapeo de engramas:&lt;/strong&gt; Los autores marcaron genéticamente las neuronas activas durante el condicionamiento de miedo (engramas) y analizaron su reactivación durante la evocación de la memoria en diferentes contextos y momentos. Inicialmente, observaron una mayor superposición entre las neuronas activadas en el entrenamiento y en la evocación en el contexto original (A), lo que indica alta especificidad de la memoria. Con el tiempo (28 días), esta superposición se iguala entre los contextos A y B: los mismos engramas se reactivan en ambos, reflejando la generalización de la memoria. Además, el estudio mostró que la generalización está asociada a una reorganización del circuito de engramas, haciéndolo más “promiscuo” (menos específico).&lt;/p&gt;
+
+&lt;p&gt;Estos resultados refuerzan que los engramas no son estáticos, sino que cambian con el tiempo, acompañando la transformación de la memoria de específica a generalizada, y que procesos como la neurogénesis&lt;label for=&quot;neurogenese-es&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;neurogenese-es&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;&lt;strong&gt;Neurogénesis:&lt;/strong&gt; Proceso de formación de nuevas neuronas en el cerebro adulto, especialmente en el hipocampo, importante para la plasticidad y flexibilidad de la memoria.&lt;/span&gt;
+ y la plasticidad sináptica&lt;label for=&quot;plasticidade-es&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;plasticidade-es&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;&lt;strong&gt;Plasticidad sináptica:&lt;/strong&gt; Capacidad de las conexiones entre neuronas (sinapsis) de fortalecerse o debilitarse en respuesta a la actividad, permitiendo el aprendizaje y la adaptación cerebral.&lt;/span&gt;
+ desempeñan un papel activo en esta dinámica.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Registro y manipulación de circuitos:&lt;/strong&gt; Se utilizaron indicadores de calcio y optogenética para registrar y manipular la actividad de los circuitos CA3-CA1 del hipocampo, mostrando que la generalización depende de estos circuitos. La inhibición de estas vías reduce la congelación tanto en el contexto A como en el B.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Análisis sináptico con GRASP:&lt;/strong&gt; Una técnica innovadora permitió visualizar sinapsis formadas entre neuronas del engrama. Sorprendentemente, después de 28 días, hay más sinapsis entre CA3 y CA1 asociadas al engrama, y estas sinapsis se agrupan más, lo que sugiere una reorganización estructural del circuito de la memoria a lo largo del tiempo.&lt;/p&gt;
+
+&lt;p&gt;Además de los resultados sobre circuitos y sinapsis, el estudio investigó el papel de la neurogénesis adulta (formación de nuevas neuronas en el hipocampo) en la generalización y especificidad de los recuerdos. Los autores demostraron que, cuando la neurogénesis se bloquea (por radiación), la memoria permanece específica incluso después de 28 días: los animales se congelan solo en el contexto original (A), sin generalizar al contexto B. Por otro lado, cuando la neurogénesis se estimula (por ejercicio), la generalización ocurre antes: los animales se congelan tanto en A como en B ya en el tiempo intermedio, como si la memoria se hubiera vuelto menos específica más rápidamente. Es decir, la neurogénesis acelera la reestructuración de los engramas y la pérdida de especificidad de la memoria, mientras que su ausencia mantiene la memoria más precisa.&lt;/p&gt;
+
+&lt;p&gt;La interpretación de los autores es que la generalización de la memoria mediada por la neurogénesis puede ser un proceso activo y adaptativo del cerebro, y no un fallo. Esto sugiere que la neurogénesis adulta contribuye a hacer que los recuerdos sean más flexibles y generalizables a lo largo del tiempo.&lt;/p&gt;
+
+&lt;h3 id=&quot;resultados-y-comentarios-de-los-presentadores&quot;&gt;Resultados y comentarios de los presentadores&lt;/h3&gt;
+
+&lt;p&gt;Los resultados muestran que, con el tiempo, la memoria se vuelve menos específica y más “promiscua”, es decir, el animal comienza a generalizar el contexto del miedo. Los presentadores destacan que esto puede ser una característica adaptativa de la memoria, permitiendo que las experiencias pasadas se utilicen para predecir situaciones futuras similares, aunque no idénticas.&lt;/p&gt;
+
+&lt;p&gt;Jason Shepherd comenta que la generalización no es simplemente olvido, sino una reorganización activa de los circuitos de la memoria, posiblemente ventajosa para la supervivencia. Timothy Cheung señala que el olvido puede ser un proceso activo y necesario, y que la plasticidad sináptica observada puede explicar por qué los recuerdos antiguos se vuelven menos precisos.&lt;/p&gt;
+
+&lt;p&gt;En este sentido, el concepto de “extinción de la memoria”&lt;label for=&quot;extincao-es&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;extincao-es&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;&lt;strong&gt;Extinción de la memoria:&lt;/strong&gt; Proceso por el cual una respuesta aprendida (como el miedo) disminuye cuando el estímulo aversivo deja de presentarse, implicando la formación de un nuevo recuerdo de seguridad.&lt;/span&gt;
+ puede estar relacionado con los hallazgos generales de este nuevo experimento. La extinción de la memoria, según Garelick &amp;amp; Storm (2005), es un proceso por el cual una respuesta condicionada (como el miedo aprendido en un contexto) disminuye gradualmente cuando el estímulo aversivo deja de presentarse repetidamente en ese contexto. Es decir, el animal aprende que el entorno antes peligroso ahora es seguro, y la respuesta de congelación desaparece. Este proceso no es simplemente el olvido de la memoria original, sino la formación de un nuevo recuerdo de seguridad que compite con la memoria de miedo. Las alteraciones o fallos en este mecanismo de extinción están asociados a trastornos como la ansiedad y el TEPT, en los que los recuerdos aversivos persisten de forma patológica.&lt;/p&gt;
+
+&lt;p&gt;En el cuento de Chiang, por ejemplo, recuerda la historia de Solomon Shereshevsky, periodista ruso activo en los años 20. El escritor utiliza su caso como ejemplo de los problemas que una memoria “excesivamente” precisa puede acarrear a las personas. En realidad, Shereshevsky tenía una habilidad única para memorizar basada en una sinestesia muy pronunciada y su uso para crear pistas y fórmulas mnemotécnicas. Realmente tenía una memoria prodigiosa, pero no era cierto que no pudiera, o no supiera, olvidar. Sin embargo, es un hecho que el uso frecuente de sus habilidades le trajo problemas de salud mental, como ansiedad y confusión.&lt;/p&gt;
+
+&lt;p&gt;Los presentadores también discuten la controversia sobre la estabilidad de los engramas y la transferencia de la memoria del hipocampo a la corteza a lo largo del tiempo. Aún quedan cuestiones por explorar sobre la dinámica de los engramas a lo largo del tiempo y cómo la actividad de estos circuitos se correlaciona con la actividad de otras áreas cerebrales. Un punto planteado por Vivianne Morrison y comentado por Jason Shepherd fue el hecho de que los engramas pueden cambiar con el tiempo en diferentes modelos experimentales, y este “deriva” no está bien explicado. Shepherd discutió que, aunque se ha observado en otros modelos experimentales, la deriva de los engramas es controvertida y se cree que, en el modelo de condicionamiento de miedo contextual, los engramas parecen ser estables. También comentó que, en este modelo, fue posible detectar la activación del 10-20% de las neuronas del hipocampo tras el condicionamiento, pero el engrama final debe ser mucho menor que eso, como mostró la superposición del 10-15% de las células activadas durante la recuperación de la memoria. Los mecanismos responsables del almacenamiento de recuerdos a largo plazo en la corteza aún deben aclararse.&lt;/p&gt;
+
+&lt;h2 id=&quot;cuestiones-y-reflexiones-planteadas-en-el-episodio&quot;&gt;Cuestiones y reflexiones planteadas en el episodio&lt;/h2&gt;
+
+&lt;p&gt;Además de los resultados experimentales, el episodio trajo reflexiones importantes:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Memoria e identidad:&lt;/strong&gt; ¿Hasta qué punto estamos definidos por los recuerdos que mantenemos? ¿Qué ocurre con el “yo” cuando los recuerdos se pierden o se alteran?&lt;/p&gt;
+
+&lt;p&gt;Chiang discute en su cuento cómo es posible que los recuerdos que mantenemos sean versiones resumidas e idealizadas de los hechos que realmente vivimos. La literatura está llena de ejemplos del “Efecto Mandela”, o la supuesta generación y persistencia de recuerdos falsos de forma colectiva. No voy a profundizar en este tema aquí, ya que no necesariamente tiene que ver con el tema de la investigación. Sin embargo, el efecto de reorganización de los recuerdos que observamos con el tiempo es complejo y bien conocido en la psicología, y los descubrimientos descritos en este trabajo pueden añadir un elemento más a los mecanismos neuronales detrás de esto, además de fenómenos ya conocidos como la consolidación y reconsolidación de recuerdos a largo plazo, así como la extinción de la memoria.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Plasticidad y olvido:&lt;/strong&gt; ¿El olvido es un proceso activo y necesario? ¿Cómo decide el cerebro qué mantener y qué descartar?&lt;/p&gt;
+
+&lt;p&gt;Una posible implicación que no surgió en la discusión de este trabajo y que no encontré en la literatura se refiere a la creatividad humana. El proceso de creación es complejo y multifacético, pero sería posible ver una posible participación de un mecanismo neuronal que convierta un recuerdo específico en un recuerdo generalizado. La capacidad de generalizar a partir de observaciones es crucial para la generación de nuevos conocimientos científicos, siendo un pilar del método inductivo y sus derivados. Un mecanismo como el descrito en este trabajo, en el que un recuerdo registrado para un determinado contexto puede generalizarse a otros, podría él mismo (o algún mecanismo derivado o afín) estar relacionado con la capacidad de aprender y generalizar el aprendizaje y formar nuevos conocimientos en el ser humano.&lt;/p&gt;
+
+&lt;h2 id=&quot;significado-para-la-ciencia-y-la-sociedad&quot;&gt;Significado para la ciencia y la sociedad&lt;/h2&gt;
+
+&lt;p&gt;El estudio representa un avance importante en la comprensión de los mecanismos biológicos de la memoria, mostrando que la consolidación y la reorganización de los circuitos neuronales son procesos dinámicos y adaptativos. Esto destaca la importancia del diálogo entre la ciencia, la filosofía y la ética ante los rápidos avances de la neurociencia.&lt;/p&gt;
+
+&lt;h2 id=&quot;qué-es-twin&quot;&gt;¿Qué es TWiN?&lt;/h2&gt;
+
+&lt;p&gt;TWiN (This Week in Neuroscience) es un podcast dedicado a discutir los avances más recientes en neurociencia, con la participación de expertos reconocidos. El programa forma parte de la red MicrobeTV y está disponible en &lt;a href=&quot;https://www.microbe.tv/twin/&quot;&gt;microbe.tv/twin&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;equipo-de-twin&quot;&gt;Equipo de TWiN&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Vincent Racaniello (Universidad de Columbia, EE. UU.)&lt;/li&gt;
+  &lt;li&gt;Jason Shepherd (Universidad de Utah, EE. UU.)&lt;/li&gt;
+  &lt;li&gt;Timothy Cheung (Universidad de Nueva York, EE. UU.)&lt;/li&gt;
+  &lt;li&gt;Vivianne Morrison (Universidad de Tulane, EE. UU.)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Todos los participantes y colaboradores contribuyen al debate calificado sobre neurociencia en el podcast.&lt;/p&gt;
+
+&lt;h2 id=&quot;referencias&quot;&gt;Referencias&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nature.com/articles/s41586-025-08993-1&quot;&gt;Artículo original en Nature&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.microbe.tv/twin/twin-60/&quot;&gt;TWiN 60: Somos la memoria que tenemos&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=UonSUOcWM80&quot;&gt;Episodio en YouTube&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1166639/&quot;&gt;Garelick &amp;amp; Storm. PNAS, 2005&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;em&gt;Sobre la cita inicial:&lt;/em&gt; La frase que inspira el título de este post es de José Saramago, escritor portugués y Premio Nobel de Literatura. Saramago pronunció estas palabras en su discurso de aceptación del Nobel en 1998, al reflexionar sobre la importancia de la memoria y la responsabilidad en la construcción de la identidad individual y colectiva.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 26 Jun 2025 12:00:00 -0300</pubDate>
+        <link>https://fhcflx.github.io/ciencia-medica/2025/06/26/memoria-twin-2025-es.html</link>
+        <guid isPermaLink="true">https://fhcflx.github.io/ciencia-medica/2025/06/26/memoria-twin-2025-es.html</guid>
+        
+        <category>Memoria</category>
+        
+        <category>Neurociencia</category>
+        
+        <category>Podcast</category>
+        
+        <category>Investigación científica</category>
         
         
       </item>
@@ -702,243 +1145,6 @@ Copernicus inaugurated a line of thought (epitomized by the principle that bears
         <category>Gödel</category>
         
         <category>Novikov</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>O mercador, o portal e as curvas do tempo: ciência e ficção em Ted Chiang</title>
-        <description>&lt;p&gt;Ted Chiang, em seu premiado conto “O Mercador e o Portal do Alquimista”, constrói uma narrativa fascinante ao redor de um conceito científico real: as curvas fechadas do tipo tempo.&lt;label for=&quot;curva-fechada-tempo&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
-&lt;input type=&quot;checkbox&quot; id=&quot;curva-fechada-tempo&quot; class=&quot;margin-toggle&quot; /&gt;
-&lt;span class=&quot;sidenote&quot;&gt;
-&lt;strong&gt;Curva fechada do tipo tempo:&lt;/strong&gt; Trajetória no espaço-tempo que retorna ao mesmo ponto, permitindo, em teoria, viagens no tempo sem violar as equações da relatividade geral.
-&lt;/span&gt;
- Inspirado por uma palestra do físico Kip Thorne, Chiang explora a ideia de trajetórias no espaço-tempo que retornam ao mesmo ponto — ou seja, viagens no tempo matematicamente possíveis.
-&lt;!--more--&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/en/e/e3/The_Merchant_and_the_Alchemist%27s_Gate.jpg&quot; alt=&quot;Capa da edição original de &amp;quot;The Merchant and the Alchemist&apos;s Gate&amp;quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Capa da edição original de “The Merchant and the Alchemist’s Gate”. Imagem de Subterranean Press, publicada na &lt;a href=&quot;https://en.wikipedia.org/wiki/File:The_Merchant_and_the_Alchemist%27s_Gate.jpg&quot;&gt;Wikimedia Commons&lt;/a&gt; sob licença Creative Commons Attribution 3.0 Unported.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Antes de nos perdermos nos paradoxos e portais, vale perguntar: afinal, o que é o tempo? Muito antes de o tempo ser tema da filosofia ocidental, os hindus já escreviam nos Vedas sobre ciclos de criação e destruição que duravam mais de 4 milhões de anos cada. O egípcio Ptahotep dizia que a perda de tempo era uma abominação (talvez já antecipando Novikov? - veja adiante). Os Incas viam espaço e tempo como uma coisa só: &lt;em&gt;pacha&lt;/em&gt;. E, provavelmente, os antigos falantes do proto-semítico já tinham o conceito de tempo remoto e de uma origem do tempo.&lt;/p&gt;
-
-&lt;p&gt;Para Aristóteles, o tempo não era uma entidade independente, mas a medida da mudança — só existe tempo porque as coisas mudam. Newton, por outro lado, via o tempo (e o espaço) como absolutos, um palco fixo onde tudo acontece, independentemente do que existe ou muda. Já Einstein trouxe a grande surpresa: o tempo pode “esticar” ou “encolher” dependendo da velocidade e da gravidade, tornando-se relativo ao observador.&lt;label for=&quot;relatividade&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
-&lt;input type=&quot;checkbox&quot; id=&quot;relatividade&quot; class=&quot;margin-toggle&quot; /&gt;
-&lt;span class=&quot;sidenote&quot;&gt;
-&lt;strong&gt;Relatividade:&lt;/strong&gt; Teoria física desenvolvida por Einstein que revolucionou a compreensão do espaço, tempo e gravidade, mostrando que são relativos ao observador.
-&lt;/span&gt;
- Outros filósofos também deram suas interpretações, mas nenhuma delas mudou tanto nossa compreensão quanto a física moderna.&lt;/p&gt;
-
-&lt;p&gt;Mas afinal o que são as tais curvas? Em termos técnicos, são “linhas do universo fechadas de um distribuidor Lorentziano no espaço-tempo”. Traduzindo: são trajetórias que permitem a um objeto voltar ao mesmo ponto no espaço e no tempo. A primeira solução matemática para esse conceito foi encontrada por Willem Jacob van Stockum em 1937, e depois confirmada por Kurt Gödel em 1949, ambos usando as equações de campo de Einstein.&lt;/p&gt;
-
-&lt;p&gt;Antes mesmo de se falar em viagens no tempo, Karl Schwarzschild — aventureiro, alpinista e físico — encontrou a primeira solução exata das equações de Einstein durante a Primeira Guerra Mundial.&lt;label for=&quot;wormhole&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
-&lt;input type=&quot;checkbox&quot; id=&quot;wormhole&quot; class=&quot;margin-toggle&quot; /&gt;
-&lt;span class=&quot;sidenote&quot;&gt;
-&lt;strong&gt;Buraco de minhoca:&lt;/strong&gt; Solução teórica das equações de Einstein que conecta dois pontos distintos do espaço-tempo, funcionando como um atalho cósmico.
-&lt;/span&gt;
- Sua solução abriu caminho para o conceito de buracos de minhoca, que mais tarde seriam considerados possíveis mecanismos para curvas fechadas do tempo. Se alguém tivesse que ser um viajante do tempo, seria ele.&lt;/p&gt;
-
-&lt;p&gt;Um dos conceitos que mais fascinaram Chiang foi o princípio de autoconsistência de Novikov (um astrofísico e cosmólogo russo, conhecido por suas contribuições à física dos buracos negros, à cosmologia e, especialmente, ao estudo das viagens no tempo).&lt;label for=&quot;novikov&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
-&lt;input type=&quot;checkbox&quot; id=&quot;novikov&quot; class=&quot;margin-toggle&quot; /&gt;
-&lt;span class=&quot;sidenote&quot;&gt;
-&lt;strong&gt;Princípio de autoconsistência de Novikov:&lt;/strong&gt; Postula que eventos que causariam paradoxos temporais têm probabilidade zero de ocorrer, tornando o universo “autoconsistente”.
-&lt;/span&gt;
- Esse princípio postula que a probabilidade de linhas do universo que causam paradoxos temporais é zero. Ou seja, o universo “se ajusta” para impedir paradoxos, tornando-os impossíveis.&lt;/p&gt;
-
-&lt;p&gt;Nos anos 90, Thorne e outros físicos encontraram soluções matemáticas que sugerem a existência de infinitas curvas fechadas do tempo que evitam paradoxos.&lt;label for=&quot;paradoxo-temporal&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
-&lt;input type=&quot;checkbox&quot; id=&quot;paradoxo-temporal&quot; class=&quot;margin-toggle&quot; /&gt;
-&lt;span class=&quot;sidenote&quot;&gt;
-&lt;strong&gt;Paradoxo temporal:&lt;/strong&gt; Situação hipotética em que uma ação no passado altera o futuro de forma contraditória, como impedir o próprio nascimento.
-&lt;/span&gt;
- Isso poderia ser usado em buracos de minhoca atravessáveis — verdadeiras “janelas” para o passado ou futuro, mas sempre em linhas do universo onde paradoxos não podem ocorrer. O resultado seria semelhante à descrição de Chiang em seu conto, algo bem diferente do buraco de minhoca do livro Contato, de Carl Sagan.&lt;/p&gt;
-
-&lt;p&gt;Chiang é mestre em criar contos ao redor de conceitos científicos singulares, sempre em cenários de fantasia romanceada. “O Mercador e o Portal do Alquimista” ganhou os prêmios Nebula e Hugo em 2008, mostrando como a boa ficção científica pode nascer de ideias matematicamente possíveis, mas ainda misteriosas para a maioria de nós.&lt;/p&gt;
-
-&lt;p&gt;Ted Chiang é um escritor norte-americano de ficção científica, conhecido por suas histórias que exploram conceitos científicos e filosóficos profundos. Sua obra mais popular é o conto “Story of Your Life” (“A História da Sua Vida”), que foi adaptado para o cinema no premiado filme “A Chegada” (“Arrival”, 2016), dirigido por Denis Villeneuve. Chiang já recebeu diversos prêmios importantes da literatura fantástica, incluindo o Nebula, o Hugo e o Locus.&lt;/p&gt;
-
-&lt;p&gt;P.S.: Os conceitos discutidos nesta postagem também se aplicam a outras obras de ficção em diferentes mídias, como a série da Netflix “Dark” e o anime “Steins;Gate” — cada uma delas merece, no futuro, uma postagem própria.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 20 Jun 2025 12:00:00 -0300</pubDate>
-        <link>https://fhcflx.github.io/ciencia-medica/2025/06/20/chiang-mercador-portal-pt.html</link>
-        <guid isPermaLink="true">https://fhcflx.github.io/ciencia-medica/2025/06/20/chiang-mercador-portal-pt.html</guid>
-        
-        <category>Ficção científica</category>
-        
-        <category>Viagem no tempo</category>
-        
-        <category>Relatividade</category>
-        
-        <category>Buraco de minhoca</category>
-        
-        <category>Ted Chiang</category>
-        
-        <category>Kip Thorne</category>
-        
-        <category>Gödel</category>
-        
-        <category>Novikov</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>El mercader, el portal y las curvas del tiempo: ciencia y ficción en Ted Chiang</title>
-        <description>&lt;p&gt;Ted Chiang, en su premiado relato “El Mercader y el Portal del Alquimista”, construye una narrativa fascinante en torno a un concepto científico real: las curvas cerradas tipo tiempo.&lt;label for=&quot;curva-cerrada-tiempo&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
-&lt;input type=&quot;checkbox&quot; id=&quot;curva-cerrada-tiempo&quot; class=&quot;margin-toggle&quot; /&gt;
-&lt;span class=&quot;sidenote&quot;&gt;
-&lt;strong&gt;Curva cerrada tipo tiempo:&lt;/strong&gt; Trayectoria en el espacio-tiempo que regresa al mismo punto, permitiendo en teoría viajes en el tiempo sin violar las ecuaciones de la relatividad general.
-&lt;/span&gt;
- Inspirado por una conferencia del físico Kip Thorne, Chiang explora la idea de trayectorias en el espacio-tiempo que regresan al mismo punto — es decir, viajes en el tiempo matemáticamente posibles.
-&lt;!--more--&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/en/e/e3/The_Merchant_and_the_Alchemist%27s_Gate.jpg&quot; alt=&quot;Portada de la edición original de &amp;quot;The Merchant and the Alchemist&apos;s Gate&amp;quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Portada de la edición original de “The Merchant and the Alchemist’s Gate”. Imagen de Subterranean Press, publicada en &lt;a href=&quot;https://en.wikipedia.org/wiki/File:The_Merchant_and_the_Alchemist%27s_Gate.jpg&quot;&gt;Wikimedia Commons&lt;/a&gt; bajo licencia Creative Commons Attribution 3.0 Unported.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Antes de perdernos en paradojas y portales, vale la pena preguntar: ¿qué es el tiempo? Mucho antes de que el tiempo fuera tema de la filosofía occidental, los hindúes ya escribían en los Vedas sobre ciclos de creación y destrucción que duraban más de 4 millones de años cada uno. El egipcio Ptahotep decía que la pérdida de tiempo era una abominación (¿quizás anticipando a Novikov? - véase más adelante). Los incas veían el espacio y el tiempo como una sola cosa: &lt;em&gt;pacha&lt;/em&gt;. Y, probablemente, los antiguos hablantes del proto-semítico ya tenían el concepto de tiempo remoto y de un origen del tiempo.&lt;/p&gt;
-
-&lt;p&gt;Para Aristóteles, el tiempo no era una entidad independiente, sino la medida del cambio — solo existe tiempo porque las cosas cambian. Newton, en cambio, veía el tiempo (y el espacio) como absolutos, un escenario fijo donde todo sucede, independientemente de lo que exista o cambie. Einstein trajo la gran sorpresa: el tiempo puede “estirarse” o “encogerse” dependiendo de la velocidad y la gravedad, volviéndose relativo al observador.&lt;label for=&quot;relatividad&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
-&lt;input type=&quot;checkbox&quot; id=&quot;relatividad&quot; class=&quot;margin-toggle&quot; /&gt;
-&lt;span class=&quot;sidenote&quot;&gt;
-&lt;strong&gt;Relatividad:&lt;/strong&gt; Teoría física desarrollada por Einstein que revolucionó la comprensión del espacio, el tiempo y la gravedad, mostrando que son relativos al observador.
-&lt;/span&gt;
- Otros filósofos también dieron sus interpretaciones, pero ninguna cambió tanto nuestra comprensión como la física moderna.&lt;/p&gt;
-
-&lt;p&gt;¿Pero qué son esas curvas? En términos técnicos, son “líneas del universo cerradas de un distribuidor Lorentziano en el espacio-tiempo”. Traducido: son trayectorias que permiten a un objeto volver al mismo punto en el espacio y en el tiempo. La primera solución matemática para este concepto fue encontrada por Willem Jacob van Stockum en 1937, y luego confirmada por Kurt Gödel en 1949, ambos usando las ecuaciones de campo de Einstein.&lt;/p&gt;
-
-&lt;p&gt;Antes incluso de hablar de viajes en el tiempo, Karl Schwarzschild — aventurero, alpinista y físico — encontró la primera solución exacta de las ecuaciones de Einstein durante la Primera Guerra Mundial.&lt;label for=&quot;agujero-gusano&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
-&lt;input type=&quot;checkbox&quot; id=&quot;agujero-gusano&quot; class=&quot;margin-toggle&quot; /&gt;
-&lt;span class=&quot;sidenote&quot;&gt;
-&lt;strong&gt;Agujero de gusano:&lt;/strong&gt; Solución teórica de las ecuaciones de Einstein que conecta dos puntos distintos del espacio-tiempo, funcionando como un atajo cósmico.
-&lt;/span&gt;
- Su solución abrió el camino para el concepto de agujeros de gusano, que más tarde serían considerados posibles mecanismos para curvas cerradas del tiempo. Si alguien debía ser un viajero en el tiempo, sería él.&lt;/p&gt;
-
-&lt;p&gt;Uno de los conceptos que más fascinó a Chiang fue el principio de autoconsistencia de Novikov (un astrofísico y cosmólogo ruso, conocido por sus contribuciones a la física de los agujeros negros, la cosmología y, especialmente, al estudio de los viajes en el tiempo).&lt;label for=&quot;novikov-es&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
-&lt;input type=&quot;checkbox&quot; id=&quot;novikov-es&quot; class=&quot;margin-toggle&quot; /&gt;
-&lt;span class=&quot;sidenote&quot;&gt;
-&lt;strong&gt;Principio de autoconsistencia de Novikov:&lt;/strong&gt; Postula que los eventos que causarían paradojas temporales tienen probabilidad cero de ocurrir, haciendo que el universo sea “autoconsistente”.
-&lt;/span&gt;
- Este principio postula que la probabilidad de líneas del universo que causan paradojas temporales es cero. Es decir, el universo “se ajusta” para impedir paradojas, haciéndolas imposibles.&lt;/p&gt;
-
-&lt;p&gt;En los años 90, Thorne y otros físicos encontraron soluciones matemáticas que sugieren la existencia de infinitas curvas cerradas del tiempo que evitan paradojas.&lt;label for=&quot;paradoja-temporal&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
-&lt;input type=&quot;checkbox&quot; id=&quot;paradoja-temporal&quot; class=&quot;margin-toggle&quot; /&gt;
-&lt;span class=&quot;sidenote&quot;&gt;
-&lt;strong&gt;Paradoja temporal:&lt;/strong&gt; Situación hipotética en la que una acción en el pasado altera el futuro de forma contradictoria, como impedir el propio nacimiento.
-&lt;/span&gt;
- Esto podría usarse en agujeros de gusano atravesables — verdaderas “ventanas” al pasado o al futuro, pero siempre en líneas del universo donde los paradojas no pueden ocurrir. El resultado sería similar a la descripción de Chiang en su relato, algo muy diferente al agujero de gusano del libro Contacto, de Carl Sagan.&lt;/p&gt;
-
-&lt;p&gt;Chiang es un maestro en crear relatos alrededor de conceptos científicos singulares, siempre en escenarios de fantasía novelada. “El Mercader y el Portal del Alquimista” ganó los premios Nebula y Hugo en 2008, mostrando cómo la buena ciencia ficción puede nacer de ideas matemáticamente posibles, pero aún misteriosas para la mayoría de nosotros.&lt;/p&gt;
-
-&lt;p&gt;Ted Chiang es un escritor estadounidense de ciencia ficción, conocido por sus historias que exploran conceptos científicos y filosóficos profundos. Su obra más popular es el relato “Story of Your Life” (“La historia de tu vida”), que fue adaptado al cine en la premiada película “La Llegada” (“Arrival”, 2016), dirigida por Denis Villeneuve. Chiang ha recibido varios premios importantes de la literatura fantástica, incluyendo el Nebula, el Hugo y el Locus.&lt;/p&gt;
-
-&lt;p&gt;P.D.: Los conceptos discutidos en esta publicación también se aplican a otras obras de ficción en diferentes medios, como la serie de Netflix “Dark” y el anime “Steins;Gate” — cada una de ellas merece, en el futuro, una publicación propia.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 20 Jun 2025 12:00:00 -0300</pubDate>
-        <link>https://fhcflx.github.io/ciencia-medica/2025/06/20/chiang-mercador-portal-es.html</link>
-        <guid isPermaLink="true">https://fhcflx.github.io/ciencia-medica/2025/06/20/chiang-mercador-portal-es.html</guid>
-        
-        <category>Ciencia ficción</category>
-        
-        <category>Viaje en el tiempo</category>
-        
-        <category>Relatividad</category>
-        
-        <category>Agujero de gusano</category>
-        
-        <category>Ted Chiang</category>
-        
-        <category>Kip Thorne</category>
-        
-        <category>Gödel</category>
-        
-        <category>Novikov</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>O lobo terrível não voltou: o que realmente significa o anúncio da &quot;desextinção&quot; e por que o futuro é mais importante que o passado</title>
-        <description>&lt;p&gt;Em abril de 2025, manchetes ao redor do mundo anunciaram a suposta “desextinção” do lobo terrível (dire wolf), espécie extinta há milhares de anos, após divulgação de um preprint e comunicado da empresa Colossal Biosciences.&lt;label for=&quot;desextincao&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
-&lt;input type=&quot;checkbox&quot; id=&quot;desextincao&quot; class=&quot;margin-toggle&quot; /&gt;
-&lt;span class=&quot;sidenote&quot;&gt;
-&lt;strong&gt;Desextinção:&lt;/strong&gt; Conceito que se refere à tentativa de recriar ou restaurar espécies extintas por meio de técnicas biotecnológicas, como clonagem, edição genética ou cruzamentos seletivos. Até hoje, nenhum caso de desextinção plena foi comprovado cientificamente.
-&lt;/span&gt;
- Mas, afinal, o que realmente aconteceu? A resposta é mais complexa e interessante do que o sensacionalismo sugere.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/9/92/Canis_dirus_Sergiodlarosa.jpg&quot; alt=&quot;Reconstrução artística do lobo terrível (Canis dirus)&quot; /&gt;
-&lt;em&gt;Reconstrução artística do lobo terrível (Canis dirus). Ilustração de Sergiodlarosa, publicada sob licença Creative Commons Attribution 3.0 Unported. Fonte: &lt;a href=&quot;https://commons.wikimedia.org/wiki/File:Canis_dirus_Sergiodlarosa.jpg&quot;&gt;Wikimedia Commons&lt;/a&gt;&lt;/em&gt; &lt;label for=&quot;lobo-terrivel&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
-&lt;input type=&quot;checkbox&quot; id=&quot;lobo-terrivel&quot; class=&quot;margin-toggle&quot; /&gt;
-&lt;span class=&quot;sidenote&quot;&gt;
-&lt;strong&gt;Lobo terrível (Canis dirus):&lt;/strong&gt; Espécie de lobo pré-histórico que viveu nas Américas durante o Pleistoceno e se extinguiu há cerca de 10 mil anos. Era maior e mais robusto que os lobos modernos.
-&lt;/span&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;o-que-foi-feito-e-o-que-não-foi&quot;&gt;O que foi feito (e o que não foi)&lt;/h2&gt;
-
-&lt;p&gt;A Colossal Biosciences utilizou material genético de lobos cinzentos modernos, não de cães. Um dos  grandes avanços metodológicos nesse caso foi o uso de clonagem a partir de células progenitoras endoteliais, que normalmente existem em quantidade diminuta no revestimento interno dos vasos sanguíneos. Diferente das técnicas tradicionais de clonagem, que dependem de amostras de tecido obtidas por biópsia (e podem ser contaminadas por células diferenciadas), essa abordagem requer apenas uma amostra de sangue e a separação específica dessas células progenitoras — algo que até pouco tempo parecia ficção científica, como no filme ‘O Sexto Dia’. &lt;label for=&quot;clonagem&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
-&lt;input type=&quot;checkbox&quot; id=&quot;clonagem&quot; class=&quot;margin-toggle&quot; /&gt;
-&lt;span class=&quot;sidenote&quot;&gt;
-&lt;strong&gt;Clonagem:&lt;/strong&gt; Técnica de reprodução assexuada que gera um organismo geneticamente idêntico ao original. Pode ser feita por transferência nuclear, como no caso da ovelha Dolly, ou por outros métodos laboratoriais.
-&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;O DNA dos lobos cinzentos foi então editado geneticamente usando uma técnica com a enzima CRISPR-Cas9, permitindo a modificação de 20 posições de nucleotídeos do material genético original. Essas 20 alterações foram suficientes para dar aos animais gerados a aparência do lobo terrível. No entanto, os lobos terríveis originais tinham milhões de pares de bases diferentes dos lobos cinzentos modernos — ou seja, a modificação é superficial e limitada. &lt;label for=&quot;crispr&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
-&lt;input type=&quot;checkbox&quot; id=&quot;crispr&quot; class=&quot;margin-toggle&quot; /&gt;
-&lt;span class=&quot;sidenote&quot;&gt;
-&lt;strong&gt;CRISPR:&lt;/strong&gt; Ferramenta de edição genética baseada em um sistema natural de defesa bacteriana, que permite modificar o DNA de organismos de forma precisa, rápida e relativamente barata. Revolucionou a biotecnologia e a medicina.
-&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;Após a edição genética, o núcleo dessas células modificadas foi transferido para óvulos de lobo cujo núcleo havia sido removido, etapa semelhante à técnica clássica de clonagem utilizada no caso da famosa ovelha Dolly. Assim, os embriões resultantes continham o material genético editado e puderam ser implantados para o desenvolvimento dos filhotes.&lt;/p&gt;
-
-&lt;p&gt;Os embriões de lobo cinzento geneticamente modificados foram implantados em cadelas, que gestaram e deram à luz três filhotes. Portanto, não são lobos terríveis, mas sim lobos cinzentos modificados para parecerem lobos terríveis.&lt;/p&gt;
-
-&lt;p&gt;A polêmica aumentou em maio de 2025, quando a própria cientista-chefe da Colossal admitiu publicamente que os animais criados não são lobos terríveis e que nunca houve, de fato, uma desextinção. Essa admissão, amplamente repercutida na mídia, reforçou o caráter midiático do anúncio e evidenciou a importância de uma comunicação científica precisa e transparente.&lt;/p&gt;
-
-&lt;p&gt;Cientistas e veículos como a &lt;a href=&quot;https://www.science.org/content/article/dire-wolf-back-dead-not-exactly&quot;&gt;Science&lt;/a&gt; e a &lt;a href=&quot;https://www.bbc.com/portuguese/articles/c62973qwx4do&quot;&gt;BBC&lt;/a&gt; foram claros: não existe desextinção real, nem evidências de que lobos terríveis estejam de volta. O anúncio foi, em grande parte, um golpe de mídia, como apontou também a &lt;a href=&quot;https://jornal.usp.br/radio-usp/nao-existem-evidencias-cientificas-da-recuperacao-dos-lobos-terriveis-extintos-ha-milhares-de-anos/&quot;&gt;Universidade de São Paulo - USP&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&quot;o-verdadeiro-marco-crispr-e-o-futuro&quot;&gt;O verdadeiro marco: CRISPR e o futuro&lt;/h2&gt;
-
-&lt;p&gt;Apesar do exagero midiático, o trabalho representa um avanço notável na aplicação da edição genética em mamíferos, especialmente usando CRISPR para inserir modificações genéticas semelhantes aquelas de espécies extintas em genomas modernos. Isso abre portas para pesquisas em biotecnologia, saúde animal e humana, e até para a conservação de espécies ameaçadas — mas não para “ressuscitar” o passado.&lt;/p&gt;
-
-&lt;p&gt;O impacto prático imediato para a ecologia ou proteção de espécies é nulo. Não há benefícios para o meio ambiente, nem para a biodiversidade, neste momento. O que há, de fato, é um salto tecnológico que pode, no futuro, revolucionar a medicina, tornando possível criar animais (e talvez humanos) resistentes a doenças, ou com características otimizadas.&lt;/p&gt;
-
-&lt;h2 id=&quot;o-debate-ético-e-o-futuro-disruptivo&quot;&gt;O debate ético e o futuro disruptivo&lt;/h2&gt;
-
-&lt;p&gt;O aspecto mais relevante — e pouco discutido — é o potencial da edição genética para criar seres vivos com características inéditas. O “lobo terrível” é só um símbolo: o verdadeiro dilema está em como a sociedade lidará com a possibilidade de modificar profundamente seres humanos e animais. A tecnologia CRISPR pode, em médio e longo prazo, transformar a saúde, mas também traz desafios éticos enormes. &lt;label for=&quot;bioetica&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
-&lt;input type=&quot;checkbox&quot; id=&quot;bioetica&quot; class=&quot;margin-toggle&quot; /&gt;
-&lt;span class=&quot;sidenote&quot;&gt;
-&lt;strong&gt;Bioética:&lt;/strong&gt; Campo interdisciplinar que discute os limites éticos, sociais e legais das intervenções biomédicas, como clonagem, edição genética e desextinção. Fundamental para orientar decisões responsáveis na ciência.
-&lt;/span&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;conclusão&quot;&gt;Conclusão&lt;/h2&gt;
-
-&lt;p&gt;A notícia da “desextinção” do lobo terrível é, na verdade, um marco para o futuro, não para o passado. O mais importante não é o que foi recuperado, mas o que poderá ser criado. O debate sobre os limites e usos da edição genética está só começando.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Fontes:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.biorxiv.org/content/10.1101/2025.04.09.647074v1.full.pdf&quot;&gt;Preprint científico&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.science.org/content/article/dire-wolf-back-dead-not-exactly&quot;&gt;Science&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.bbc.com/portuguese/articles/c62973qwx4do&quot;&gt;BBC&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://jornal.usp.br/radio-usp/nao-existem-evidencias-cientificas-da-recuperacao-dos-lobos-terriveis-extintos-ha-milhares-de-anos/&quot;&gt;Universidade de São Paulo - USP&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://colossal.com/direwolf/&quot;&gt;Colossal Biosciences&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://colossal.com/direwolf/science/&quot;&gt;Colossal - Science&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://time.com/7274542/colossal-dire-wolf/&quot;&gt;Time&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Wed, 18 Jun 2025 12:00:00 -0300</pubDate>
-        <link>https://fhcflx.github.io/ciencia-medica/2025/06/18/direwolf-2025.html</link>
-        <guid isPermaLink="true">https://fhcflx.github.io/ciencia-medica/2025/06/18/direwolf-2025.html</guid>
-        
-        <category>Desextinção</category>
-        
-        <category>CRISPR</category>
-        
-        <category>Edição genética</category>
-        
-        <category>Lobo terrível</category>
-        
-        <category>Bioética</category>
         
         
       </item>
