@@ -108,12 +108,12 @@ _Economía_: David Autor, Lawrence F. Katz, Sendhil Mullainathan, Nicholas Bloom
 
 ## Predicciones de la IA
 
-
 Experimenté con un prompt algo enrevesado usando Copilot (GPT-5) para crear una lista de "laureables". El resultado debe ser juzgado por cada lector (revisé algunas informaciones incorrectas, pero pueden quedar algunas). La verdad, lo encontré bastante divertido. Aquí van las predicciones de la IA para el Nobel 2025:
 
 ### Fisiología o Medicina
 
 [**Paul Mischel**][mischel]
+
 Patólogo e investigador, Mischel es referencia mundial en el estudio de anillos de ADN extracromosómico, estructuras que impulsan la evolución y agresividad de tumores. Su trabajo abrió nuevas perspectivas para terapias innovadoras contra el cáncer.
 
 **Historial de carrera:** Graduado en la Universidad de Pensilvania y Cornell, con residencia y doctorado en la Universidad de California - Los Ángeles, Mischel construyó su carrera en investigación traslacional del cáncer, trabajando en centros como UC San Diego y Stanford.
@@ -125,6 +125,7 @@ Patólogo e investigador, Mischel es referencia mundial en el estudio de anillos
 **Curiosidades:** Mischel es conocido por integrar biología molecular y clínica, y por defender la ciencia abierta.
 
 [**Jeffrey I. Cohen**][cohen]
+
 Virólogo, Cohen lidera proyectos pioneros de autopsias rápidas para mapear reservorios de herpesvirus humanos en el cuerpo, contribuyendo a estrategias de cura y control de la enfermedad.
 
 **Historial de carrera:** Graduado en medicina por Johns Hopkins, residencia en la Universidad Duke y Brigham and Women’s Hospital, Cohen trabajó en el NIH, Harvard y en centros de investigación en virología en EE. UU.
@@ -138,6 +139,7 @@ Virólogo, Cohen lidera proyectos pioneros de autopsias rápidas para mapear res
 ### Química
 
 [**Andrew I. Cooper**][cooper]
+
 Químico británico, Cooper es reconocido por avances en automatización de laboratorios y síntesis de nuevos materiales, acelerando descubrimientos en catálisis y química sostenible.
 
 **Historial de carrera:** Graduado y doctorado por la Universidad de Nottingham, posdoctorado en química por la Universidad de Carolina del Norte - Chapel Hill. Trabajó en la Universidad de Cambridge.
@@ -149,6 +151,7 @@ Químico británico, Cooper es reconocido por avances en automatización de labo
 **Curiosidades:** Cooper es entusiasta de la robótica científica y ha colaborado en proyectos de IA aplicada a la química.
 
 [**Patrick Courtney**][courtney]
+
 Courtney es especialista en automatización y robótica para laboratorios químicos, promoviendo la integración entre inteligencia artificial y experimentación científica.
 
 **Historial de carrera:** Graduado en la Universidad de Manchester, doctorado en Ciencia Analítica, Instrumentación, Ingeniería de Computadoras, MBA por la Alliance Manchester Business School, miembro de la junta de SiLA (Standards in Laboratory Automation), consultor de ADAlab (Adaptive Automated Scientific Laboratory), líder del grupo de Robótica de Laboratorio Analítico de la Comisión Europea.
@@ -160,6 +163,7 @@ Courtney es especialista en automatización y robótica para laboratorios quími
 ### Física
 
 [**Emily E. Brodsky**][brodsky]
+
 Geofísica, Brodsky revolucionó la comprensión de los terremotos e inestabilidades geológicas, con impacto directo en la prevención de desastres naturales.
 
 **Historial de carrera:** Graduada en física por la Universidad de Harvard, doctorado en geofísica por Caltech, Brodsky lidera investigaciones en la Universidad de California, Santa Cruz.

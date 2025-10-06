@@ -113,6 +113,7 @@ Experimentei usar um prompt algo convoluído para usar a Copilot (GPT-5) a fim d
 ### Fisiologia ou Medicina
 
 [**Paul Mischel**][mischel]
+
 Patologista e pesquisador, Mischel é referência mundial no estudo dos anéis de DNA extracromossômico, estruturas que impulsionam a evolução e agressividade de tumores. Seu trabalho abriu novas perspectivas para terapias inovadoras contra o câncer.
 
 **Histórico de carreira:** Formado pela Universidade da Pensilvânia e Cornell, com residência e PhD na Universidade da Califórnia - Los Angeles, Mischel construiu carreira em pesquisa translacional do câncer, atuando em centros como UC San Diego e Stanford.
@@ -124,6 +125,7 @@ Patologista e pesquisador, Mischel é referência mundial no estudo dos anéis d
 **Curiosidades:** Mischel é conhecido por integrar biologia molecular e clínica, e por defender a ciência aberta.
 
 [**Jeffrey I. Cohen**][cohen]
+
 Virologista, Cohen lidera projetos pioneiros de autópsias rápidas para mapear esconderijos do HIV no corpo humano, contribuindo para estratégias de cura e controle da doença.
 
 **Histórico de carreira:** Formado em medicina pela Johns Hopkins, residência na Universidade Duke e Brigham and Women’s Hospital, Cohen trabalhou no NIH, Harvard e em centros de pesquisa em virologia nos EUA.
@@ -137,6 +139,7 @@ Virologista, Cohen lidera projetos pioneiros de autópsias rápidas para mapear 
 ### Química
 
 [**Andrew I. Cooper**][cooper]
+
 Químico britânico, Cooper é reconhecido por avanços em automação laboratorial e síntese de novos materiais, acelerando descobertas em catálise e química sustentável.
 
 **Histórico de carreira:** Graduado e doutorado pela Universidade de Nottingham, pós-doutorado em química pela Universidade da Carolina do Norte - Chapell Hill. Trabalhou na Universidade de Cambridge.
@@ -148,6 +151,7 @@ Químico britânico, Cooper é reconhecido por avanços em automação laborator
 **Curiosidades:** Cooper é entusiasta de robótica científica e já colaborou com projetos de IA aplicada à química.
 
 [**Patrick Courtney**][courtney]
+
 Courtney é especialista em automação e robótica para laboratórios químicos, promovendo integração entre inteligência artificial e experimentação científica.
 
 **Histórico de carreira:** Formado na Universidade de Manchester, doutorado em Ciência Analítica, Instrumentação, Engenharia da Computação, MBA pela Alliance Manchester Business School, membro da diretoria da SiLA (Standards in Laboratory Automation), consultor do ADAlab (Adaptive Automated Scientific Laboratory), líder do grupo de Robótica Laboratorial Analítica da Comissão Européia.
@@ -159,6 +163,7 @@ Courtney é especialista em automação e robótica para laboratórios químicos
 ### Física
 
 [**Emily E. Brodsky**][brodsky]
+
 Geofísica, Brodsky revolucionou o entendimento sobre terremotos e instabilidades geológicas, com impacto direto em prevenção de desastres naturais.
 
 **Histórico de carreira:** Graduada em física pela Universidade de Harvard, PhD em geofísica pela Caltech, Brodsky lidera pesquisas na Universidade da Califórnia, Santa Cruz.
