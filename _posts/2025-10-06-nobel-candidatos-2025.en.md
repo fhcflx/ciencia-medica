@@ -15,6 +15,7 @@ image: https://upload.wikimedia.org/wikipedia/pt/e/ed/Nobel_Prize.png
 ---
 
 ![Nobel Prize medal](https://upload.wikimedia.org/wikipedia/pt/e/ed/Nobel_Prize.png)
+
 _Nobel Prize medal (all rights reserved to the Nobel Foundation)_
 
 In September and October 2024, some thousands of academics and public figures around the world received invitation letters to nominate candidates for the 2025 Nobel Prize. Nominations were accepted until the end of January this year. From that point, members of the Royal Swedish Academy of Sciences, the Karolinska Institute, the Swedish Academy and the Swedish Parliament began a process that lasted almost the whole year and will conclude with the selection of the 2025 Nobel laureates in the week starting 6 October, Monday. During this period they met many times, wrote detailed reports, consulted experts worldwide and debated among themselves. From 6 October they will present their proposals to the members of the Academies, the Assemblies and the Parliament, who will vote on the winners. Immediately afterward, up to three people will receive the famous phone calls informing them of the prize.
@@ -91,17 +92,19 @@ The Institute for Scientific Information compiles the [Clarivate’s Citation La
 
 ## Other relevant predictions
 
-*Ingrid Daubechies* — (Duke University, Physics) Mathematician and applied physicist, with contributions to wavelet theory and signal processing; appears on Physics lists for her impact on signal processing techniques that underpin modern experiments.
+_Ingrid Daubechies_ — (Duke University, Physics) Mathematician and applied physicist, with contributions to wavelet theory and signal processing; appears on Physics lists for her impact on signal processing techniques that underpin modern experiments.
 
-*Jean‑Marie Tarascon* — (Collège de France, Chemistry) A French materials chemist with influential work in electrochemistry and batteries; listed as a possible Chemistry laureate for advances in energy storage.
+_Jean‑Marie Tarascon_ — (Collège de France, Chemistry) A French materials chemist with influential work in electrochemistry and batteries; listed as a possible Chemistry laureate for advances in energy storage.
 
-*Marianne Bertrand* — (University of Chicago, Economics) An economist listed among the Citation Laureates for Economics for contributions to labor economics and public policy.
+_Marianne Bertrand_ — (University of Chicago, Economics) An economist listed among the Citation Laureates for Economics for contributions to labor economics and public policy.
 
 Other names listed by Clarivate’s Citation Laureates 2025:
 
-*Physics*: Stéphane Mallat, Yves Meyer, David P. DiVincenzo, Daniel Loss, Ewine F. van Dishoeck
-*Chemistry*: Clifford P. Brangwynne, Anthony A. Hyman, Michael K. Rosen, Tao Zhang
-*Economics*: David Autor, Lawrence F. Katz, Sendhil Mullainathan, Nicholas Bloom
+_Physics_: Stéphane Mallat, Yves Meyer, David P. DiVincenzo, Daniel Loss, Ewine F. van Dishoeck
+
+_Chemistry_: Clifford P. Brangwynne, Anthony A. Hyman, Michael K. Rosen, Tao Zhang
+
+_Economics_: David Autor, Lawrence F. Katz, Sendhil Mullainathan, Nicholas Bloom
 
 ## AI predictions
 
@@ -111,59 +114,88 @@ I experimented with a somewhat convoluted prompt using Copilot (GPT-5) to create
 
 **Paul Mischel**
 An oncologist and researcher, Mischel is a world reference in the study of extrachromosomal DNA rings, structures that drive tumor evolution and aggressiveness. His work opened new perspectives for innovative cancer therapies.
+
 **Career background:** Trained at Princeton University, PhD from Stanford, Mischel built a career in translational cancer research, working at centers such as UC San Diego and Stanford.
+
 **Laureate-worthy work:** Discovery of extrachromosomal DNA rings in tumors, carried out between 2010 and 2020, mainly at UC San Diego.
+
 **Current institution:** Stanford University School of Medicine.
+
 **Trivia:** Mischel is known for integrating molecular biology and clinical practice and for advocating open science.
 
 **Gina Papadopoulou**
 An immunologist, Papadopoulou stood out for research on TH17 cells and their relation to autoimmune and inflammatory diseases. Her discoveries have direct impact on the development of new treatments for multiple sclerosis and rheumatoid arthritis.
+
 **Career background:** Graduated from the University of Athens, PhD in immunology from the University of Oxford, she has worked at research centers in Greece, the UK and the USA.
+
 **Laureate-worthy work:** Studies on TH17 cells and inflammatory mechanisms, carried out between 2012 and 2022, mainly at the University of Oxford.
+
 **Current institution:** University of Oxford.
+
 **Trivia:** Papadopoulou is an advocate for women's participation in science and has received innovation awards in biomedical research.
 
 **Jeffrey I. Cohen**
 A virologist, Cohen leads pioneering rapid-autopsy projects to map HIV reservoirs in the human body, contributing to cure and control strategies.
+
 **Career background:** Medical degree from Johns Hopkins, Cohen worked at the NIH and research centers in virology in the USA.
+
 **Laureate-worthy work:** Rapid autopsy studies to track HIV reservoirs, conducted between 2015 and 2023, mainly at the NIH.
+
 **Current institution:** National Institutes of Health (NIH).
+
 **Trivia:** Cohen is also a science writer and an advocate for public communication on HIV/AIDS.
 
 ### Chemistry
 
 **Andrew I. Cooper**
 A British chemist, Cooper is recognized for advances in laboratory automation and the synthesis of new materials, accelerating discoveries in catalysis and sustainable chemistry.
+
 **Career background:** Trained at Oxford, PhD in chemistry from Cambridge, Cooper leads research groups in Liverpool.
+
 **Laureate-worthy work:** Development of laboratory automation and new materials, between 2010 and 2024, at the University of Liverpool.
+
 **Current institution:** University of Liverpool.
+
 **Trivia:** Cooper is enthusiastic about scientific robotics and has collaborated on AI-applied chemistry projects.
 
 **Birkley S. Lim**
 Lim developed IL-21 mimetics, molecules that potentiate cancer immunotherapy, with promising results in clinical trials.
+
 **Laureate-worthy work:** Development of IL-21 mimetics for immunotherapy, between 2016 and 2024, at Harvard Medical School.
+
 **Current institution:** Harvard Medical School.
+
 **Trivia:** Lim is an inventor on immunotherapy patents and participates in biotech startups.
 
 **Patrick Courtney**
 A specialist in automation and robotics for chemical laboratories, Courtney promotes integration between AI and experimental science.
+
 **Career background:** An engineer trained in France, doctoral degree in automation from the University of Paris, he works as a consultant and applied researcher.
+
 **Current institution:** Independent consultant and collaborator with European research centers.
+
 **Trivia:** Courtney is an international speaker and advocate for accessible automation for small labs.
 
 ### Physics
 
 **Christophe H. Valahu**
 A physicist, Valahu is a pioneer in single-mode quantum sensors that increase the precision of fundamental measurements in particle physics and astrophysics.
+
 **Laureate-worthy work:** Development of single-mode quantum sensors, between 2014 and 2024, at CERN and the University of Geneva.
+
 **Current institution:** CERN and the University of Geneva.
+
 **Trivia:** Valahu is passionate about science communication and has appeared in documentaries on quantum physics.
 
 **Emily E. Brodsky**
 A geophysicist, Brodsky revolutionized understanding of earthquakes and geological instabilities, with direct impact on disaster prevention.
+
 **Career background:** Trained in physics at MIT, PhD in geophysics from Caltech, Brodsky leads research at the University of California, Santa Cruz.
+
 **Laureate-worthy work:** Studies on geological instabilities and earthquakes, between 2008 and 2024, at UC Santa Cruz.
+
 **Current institution:** University of California, Santa Cruz.
+
 **Trivia:** Brodsky is an environmental activist and has participated in earthquake research expeditions.
 
 [chem]: https://www.chemistryviews.org/whos-next-nobel-prize-in-chemistry-2025-voting-results-october-3/

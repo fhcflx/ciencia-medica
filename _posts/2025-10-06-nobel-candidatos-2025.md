@@ -13,7 +13,9 @@ ref: nobel2025-candidatos
 excerpt: "Perfis dos principais candidatos ao Prêmio Nobel de 2025 em Medicina, Química e Física, com um palpite educado sobre os prováveis vencedores."
 image: https://upload.wikimedia.org/wikipedia/pt/e/ed/Nobel_Prize.png
 ---
+
 ![Medalha do Nobel](https://upload.wikimedia.org/wikipedia/pt/e/ed/Nobel_Prize.png)
+
 _Medalha do Prêmio Nobel (todos os direitos reservados para a Fundação Nobel)_
 
 Em setembro e outubro de 2024, alguns milhares de acadêmicos e personalidades ao redor do mundo receberam cartas convite para indicarem candidatos para receber o Nobel de 2025. As indicações foram recebidas até o fim de janeiro deste ano. A partir daí, membros da Real Academia de Ciências Sueca, do Instituto Karolinska, da Academia Sueca e do Parlamento Sueco iniciaram um processo que durou quase o ano todo e vai se encerrar na escolha dos ganhadores do Prêmio Nobel de 2025, na semana que inicia dia 06 de outubro, segunda-feira. Durante esse período, reuniram-se inúmeras vezes, escreveram relatórios detalhados, consultaram especialistas de todo o mundo e debateram entre si. A partir do dia 06, vão apresentar suas propostas para os integrantes das Academias, Assembléia e Parlamento, os quais escolherão por voto os ganhadores. Logo em seguida, no máximo 3 pessoas receberão os famosos telefonemas informando a premiação.
@@ -90,17 +92,19 @@ O Institute for Scientific Information compila, anualmente, a lista dos [Clariva
 
 ## Outras predições relevantes
 
-*Ingrid Daubechies* — (Universidade Duke, Física) Matemática e física aplicada, com contribuições na teoria de wavelets e sinais; aparece em listas de Física por seu impacto em processamento de sinais e técnicas que permeiam experimentos modernos.
+_Ingrid Daubechies_ — (Universidade Duke, Física) Matemática e física aplicada, com contribuições na teoria de wavelets e sinais; aparece em listas de Física por seu impacto em processamento de sinais e técnicas que permeiam experimentos modernos.
 
-*Jean‑Marie Tarascon* — (Collège de France, Química) Químico francês de materiais, com trabalhos influentes em eletroquímica e baterias; lista o coloca como possível Nobel de Química em função de avanços em armazenamento de energia.
+_Jean‑Marie Tarascon_ — (Collège de France, Química) Químico francês de materiais, com trabalhos influentes em eletroquímica e baterias; lista o coloca como possível Nobel de Química em função de avanços em armazenamento de energia.
 
-*Marianne Bertrand* — (Universidade de Chicago, Economia) Economista, listada entre os Citation Laureates para Economia por suas contribuições em economia do trabalho e políticas públicas.
+_Marianne Bertrand_ — (Universidade de Chicago, Economia) Economista, listada entre os Citation Laureates para Economia por suas contribuições em economia do trabalho e políticas públicas.
 
 Outros nomes listados pela Citation Laureates 2025:
 
-*Física*: Stéphane Mallat, Yves Meyer, David P. DiVincenzo, Daniel Loss, Ewine F. van Dishoeck
-*Química*: Clifford P. Brangwynne, Anthony A. Hyman, Michael K. Rosen, Tao Zhang
-*Ecomomia*: David Autor, Lawrence F. Katz, Sendhil Mullainathan, Nicholas Bloom
+_Física_: Stéphane Mallat, Yves Meyer, David P. DiVincenzo, Daniel Loss, Ewine F. van Dishoeck
+
+_Química_: Clifford P. Brangwynne, Anthony A. Hyman, Michael K. Rosen, Tao Zhang
+
+_Ecomomia_: David Autor, Lawrence F. Katz, Sendhil Mullainathan, Nicholas Bloom
 
 ## Predições da IA
 
@@ -110,59 +114,88 @@ Experimentei usar um prompt algo convoluído para usar a Copilot (GPT-5) a fim d
 
 **Paul Mischel**  
 Oncologista e pesquisador, Mischel é referência mundial no estudo dos anéis de DNA extrachromossômico, estruturas que impulsionam a evolução e agressividade de tumores. Seu trabalho abriu novas perspectivas para terapias inovadoras contra o câncer.
+
 **Histórico de carreira:** Formado pela Universidade de Princeton, com doutorado em Stanford, Mischel construiu carreira em pesquisa translacional do câncer, atuando em centros como UC San Diego e Stanford.
+
 **Trabalho laureável:** Descoberta dos anéis de DNA extrachromossômico em tumores, realizada entre 2010 e 2020, principalmente na UC San Diego.
+
 **Instituição atual:** Stanford University School of Medicine.
+
 **Curiosidades:** Mischel é conhecido por integrar biologia molecular e clínica, e por defender a ciência aberta.
 
 **Gina Papadopoulou**  
 Imunologista, Papadopoulou se destacou por pesquisas sobre células TH17 e sua relação com doenças autoimunes e inflamatórias. Suas descobertas têm impacto direto no desenvolvimento de novos tratamentos para esclerose múltipla e artrite reumatoide.
+
 **Histórico de carreira:** Graduada na Universidade de Atenas, doutorado em imunologia pela Universidade de Oxford, atuou em centros de pesquisa na Grécia, Reino Unido e EUA.
+
 **Trabalho laureável:** Estudos sobre células TH17 e mecanismos inflamatórios, realizados entre 2012 e 2022, principalmente na Universidade de Oxford.
+
 **Instituição atual:** University of Oxford.
+
 **Curiosidades:** Papadopoulou é defensora da participação feminina na ciência e já recebeu prêmios de inovação biomédica.
 
 **Jeffrey I. Cohen**
 Virologista, Cohen lidera projetos pioneiros de autópsias rápidas para mapear esconderijos do HIV no corpo humano, contribuindo para estratégias de cura e controle da doença.
+
 **Histórico de carreira:** Formado em medicina pela Johns Hopkins, Cohen trabalhou no NIH e em centros de pesquisa em virologia nos EUA.
+
 **Trabalho laureável:** Autópsias rápidas para rastrear reservatórios do HIV, realizadas entre 2015 e 2023, principalmente no NIH.
+
 **Instituição atual:** National Institutes of Health (NIH).
+
 **Curiosidades:** Cohen é também escritor científico e defensor da divulgação científica sobre HIV/AIDS.
 
 ### Química
 
 **Andrew I. Cooper**  
 Químico britânico, Cooper é reconhecido por avanços em automação laboratorial e síntese de novos materiais, acelerando descobertas em catálise e química sustentável.
+
 **Histórico de carreira:** Graduado pela Universidade de Oxford, doutorado em química pela Universidade de Cambridge, Cooper lidera grupos de pesquisa em Liverpool.
+
 **Trabalho laureável:** Desenvolvimento de automação laboratorial e novos materiais, entre 2010 e 2024, na Universidade de Liverpool.
+
 **Instituição atual:** University of Liverpool.
+
 **Curiosidades:** Cooper é entusiasta de robótica científica e já colaborou com projetos de IA aplicada à química.
 
 **Birkley S. Lim**  
 Lim desenvolveu miméticos de interleucina-21, moléculas que potencializam imunoterapia contra o câncer, com resultados promissores em ensaios clínicos.
+
 **Trabalho laureável:** Desenvolvimento de miméticos de IL-21 para imunoterapia, entre 2016 e 2024, na Harvard Medical School.
+
 **Instituição atual:** Harvard Medical School.
+
 **Curiosidades:** Lim é inventor de patentes em imunoterapia e participa de startups de biotecnologia.
 
 **Patrick Courtney**  
 Courtney é especialista em automação e robótica para laboratórios químicos, promovendo integração entre inteligência artificial e experimentação científica.
+
 **Histórico de carreira:** Engenheiro químico formado na França, doutorado em automação pela Universidade de Paris, atua em consultoria e pesquisa aplicada.
+
 **Instituição atual:** Consultor independente e colaborador de centros de pesquisa europeus.
+
 **Curiosidades:** Courtney é palestrante internacional e defensor da automação acessível para pequenos laboratórios.
 
 ### Física
 
 **Christophe H. Valahu**  
 Físico, Valahu é pioneiro em sensores quânticos de modo único, que aumentam a precisão de medições fundamentais em física de partículas e astrofísica.
+
 **Trabalho laureável:** Desenvolvimento de sensores quânticos de modo único, entre 2014 e 2024, no CERN e Universidade de Genebra.
+
 **Instituição atual:** CERN e Universidade de Genebra.
+
 **Curiosidades:** Valahu é apaixonado por divulgação científica e já participou de documentários sobre física quântica.
 
 **Emily E. Brodsky**  
 Geofísica, Brodsky revolucionou o entendimento sobre terremotos e instabilidades geológicas, com impacto direto em prevenção de desastres naturais.
+
 **Histórico de carreira:** Graduada em física pelo MIT, doutorado em geofísica pela Caltech, Brodsky lidera pesquisas na Universidade da Califórnia, Santa Cruz.
+
 **Trabalho laureável:** Estudos sobre instabilidades geológicas e terremotos, entre 2008 e 2024, na UC Santa Cruz.
+
 **Instituição atual:** University of California, Santa Cruz.
+
 **Curiosidades:** Brodsky é ativista ambiental e já participou de expedições científicas em zonas de terremoto.
 
 [chem]: https://www.chemistryviews.org/whos-next-nobel-prize-in-chemistry-2025-voting-results-october-3/
