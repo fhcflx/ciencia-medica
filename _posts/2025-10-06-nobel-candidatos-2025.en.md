@@ -108,14 +108,15 @@ _Economics_: David Autor, Lawrence F. Katz, Sendhil Mullainathan, Nicholas Bloom
 
 ## AI predictions
 
-I experimented with a somewhat convoluted prompt using Copilot (GPT-5) to create a list of "laureates". The results must be judged by each reader. I actually found it quite fun. Here are the AI's predictions for the 2025 Nobel:
+
+I experimented with a somewhat convoluted prompt using Copilot (GPT-5) to create a list of "laureates". The result must be judged by each reader (I revised some incorrect information, but some may remain). I actually found it quite fun. Here are the AI's predictions for the 2025 Nobel:
 
 ### Physiology or Medicine
 
-**Paul Mischel**
-An oncologist and researcher, Mischel is a world reference in the study of extrachromosomal DNA rings, structures that drive tumor evolution and aggressiveness. His work opened new perspectives for innovative cancer therapies.
+[**Paul Mischel**][mischel]
+Pathologist and researcher, Mischel is a world reference in the study of extrachromosomal DNA rings, structures that drive tumor evolution and aggressiveness. His work opened new perspectives for innovative cancer therapies.
 
-**Career background:** Trained at Princeton University, PhD from Stanford, Mischel built a career in translational cancer research, working at centers such as UC San Diego and Stanford.
+**Career background:** Graduated from the University of Pennsylvania and Cornell, with residency and PhD at UCLA, Mischel built a career in translational cancer research, working at centers such as UC San Diego and Stanford.
 
 **Laureate-worthy work:** Discovery of extrachromosomal DNA rings in tumors, carried out between 2010 and 2020, mainly at UC San Diego.
 
@@ -123,34 +124,23 @@ An oncologist and researcher, Mischel is a world reference in the study of extra
 
 **Trivia:** Mischel is known for integrating molecular biology and clinical practice and for advocating open science.
 
-**Gina Papadopoulou**
-An immunologist, Papadopoulou stood out for research on TH17 cells and their relation to autoimmune and inflammatory diseases. Her discoveries have direct impact on the development of new treatments for multiple sclerosis and rheumatoid arthritis.
+[**Jeffrey I. Cohen**][cohen]
+Virologist, Cohen leads pioneering rapid-autopsy projects to map human herpesvirus reservoirs in the body, contributing to cure and control strategies.
 
-**Career background:** Graduated from the University of Athens, PhD in immunology from the University of Oxford, she has worked at research centers in Greece, the UK and the USA.
+**Career background:** Medical degree from Johns Hopkins, residency at Duke University and Brigham and Women’s Hospital, Cohen worked at NIH, Harvard, and research centers in virology in the USA.
 
-**Laureate-worthy work:** Studies on TH17 cells and inflammatory mechanisms, carried out between 2012 and 2022, mainly at the University of Oxford.
-
-**Current institution:** University of Oxford.
-
-**Trivia:** Papadopoulou is an advocate for women's participation in science and has received innovation awards in biomedical research.
-
-**Jeffrey I. Cohen**
-A virologist, Cohen leads pioneering rapid-autopsy projects to map HIV reservoirs in the human body, contributing to cure and control strategies.
-
-**Career background:** Medical degree from Johns Hopkins, Cohen worked at the NIH and research centers in virology in the USA.
-
-**Laureate-worthy work:** Rapid autopsy studies to track HIV reservoirs, conducted between 2015 and 2023, mainly at the NIH.
+**Laureate-worthy work:** Studies on the molecular genetics, pathogenesis, and clinical aspects of human herpesviruses (EBV, VZV, CMV), including vaccine development, conducted between 2015 and 2023, mainly at NIH.
 
 **Current institution:** National Institutes of Health (NIH).
 
-**Trivia:** Cohen is also a science writer and an advocate for public communication on HIV/AIDS.
+**Trivia:** Cohen is also a science writer and advocate for science communication.
 
 ### Chemistry
 
-**Andrew I. Cooper**
-A British chemist, Cooper is recognized for advances in laboratory automation and the synthesis of new materials, accelerating discoveries in catalysis and sustainable chemistry.
+[**Andrew I. Cooper**][cooper]
+British chemist, Cooper is recognized for advances in laboratory automation and the synthesis of new materials, accelerating discoveries in catalysis and sustainable chemistry.
 
-**Career background:** Trained at Oxford, PhD in chemistry from Cambridge, Cooper leads research groups in Liverpool.
+**Career background:** Graduated and PhD from the University of Nottingham, postdoc in chemistry at the University of North Carolina - Chapel Hill. Worked at the University of Cambridge.
 
 **Laureate-worthy work:** Development of laboratory automation and new materials, between 2010 and 2024, at the University of Liverpool.
 
@@ -158,19 +148,10 @@ A British chemist, Cooper is recognized for advances in laboratory automation an
 
 **Trivia:** Cooper is enthusiastic about scientific robotics and has collaborated on AI-applied chemistry projects.
 
-**Birkley S. Lim**
-Lim developed IL-21 mimetics, molecules that potentiate cancer immunotherapy, with promising results in clinical trials.
+[**Patrick Courtney**][courtney]
+Courtney is a specialist in automation and robotics for chemical laboratories, promoting integration between artificial intelligence and scientific experimentation.
 
-**Laureate-worthy work:** Development of IL-21 mimetics for immunotherapy, between 2016 and 2024, at Harvard Medical School.
-
-**Current institution:** Harvard Medical School.
-
-**Trivia:** Lim is an inventor on immunotherapy patents and participates in biotech startups.
-
-**Patrick Courtney**
-A specialist in automation and robotics for chemical laboratories, Courtney promotes integration between AI and experimental science.
-
-**Career background:** An engineer trained in France, doctoral degree in automation from the University of Paris, he works as a consultant and applied researcher.
+**Career background:** Graduated from the University of Manchester, PhD in Analytical Science, Instrumentation, Computer Engineering, MBA from Alliance Manchester Business School, board member of SiLA (Standards in Laboratory Automation), consultant at ADAlab (Adaptive Automated Scientific Laboratory), leader of the Analytical Laboratory Robotics group at the European Commission.
 
 **Current institution:** Independent consultant and collaborator with European research centers.
 
@@ -178,25 +159,24 @@ A specialist in automation and robotics for chemical laboratories, Courtney prom
 
 ### Physics
 
-**Christophe H. Valahu**
-A physicist, Valahu is a pioneer in single-mode quantum sensors that increase the precision of fundamental measurements in particle physics and astrophysics.
+[**Emily E. Brodsky**][brodsky]
+Geophysicist, Brodsky revolutionized the understanding of earthquakes and geological instabilities, with direct impact on disaster prevention.
 
-**Laureate-worthy work:** Development of single-mode quantum sensors, between 2014 and 2024, at CERN and the University of Geneva.
-
-**Current institution:** CERN and the University of Geneva.
-
-**Trivia:** Valahu is passionate about science communication and has appeared in documentaries on quantum physics.
-
-**Emily E. Brodsky**
-A geophysicist, Brodsky revolutionized understanding of earthquakes and geological instabilities, with direct impact on disaster prevention.
-
-**Career background:** Trained in physics at MIT, PhD in geophysics from Caltech, Brodsky leads research at the University of California, Santa Cruz.
+**Career background:** Graduated in physics from Harvard University, PhD in geophysics from Caltech, Brodsky leads research at the University of California, Santa Cruz.
 
 **Laureate-worthy work:** Studies on geological instabilities and earthquakes, between 2008 and 2024, at UC Santa Cruz.
 
 **Current institution:** University of California, Santa Cruz.
 
-**Trivia:** Brodsky is an environmental activist and has participated in earthquake research expeditions.
+**Trivia:** Brodsky is an environmental activist and has participated in scientific expeditions in earthquake zones.
+
+Note: The AI had included some names that I removed, but they made me think. They are PhD students, postdocs, or recently finished, very young, the kind of people who do not usually appear on these lists. The reason the AI chose these people escapes me, especially since much of the content about them (training and affiliations, for example, but not the topic of their work) was invented. One of the AI's nominees, Jeffrey Cohen, had incorrect information about his research topics (he works with herpesviruses, but the AI reported it was HIV), and I rewrote it. The AI indicated a name very connected to industry in Europe, Patrick Courtney, which also escapes the more obvious type of nomination we see in these lists. I kept his name; see what you think the AI had in mind when nominating someone who leads work in automation and robotics...
+
+[mischel]: https://en.wikipedia.org/wiki/Paul_Mischel
+[cohen]: https://irp.nih.gov/pi/jeffrey-cohen
+[cooper]: https://en.wikipedia.org/wiki/Andy_Cooper_(chemist)
+[courtney]: https://analyticalscience.wiley.com/content/article-do/towards-research-roadmap-laboratory-robotics
+[brodsky]: https://en.wikipedia.org/wiki/Emily_Brodsky
 
 [chem]: https://www.chemistryviews.org/whos-next-nobel-prize-in-chemistry-2025-voting-results-october-3/
 [acs]: https://cen.acs.org/people/nobel-prize/s-Nobel-time-Experts-predict/103/web/2025/10

@@ -108,14 +108,14 @@ _Ecomomia_: David Autor, Lawrence F. Katz, Sendhil Mullainathan, Nicholas Bloom
 
 ## Predições da IA
 
-Experimentei usar um prompt algo convoluído para usar a Copilot (GPT-5) a fim de criar uma lista de "laureáveis". O resultado tem que ser julgado por cada um. Eu, na verdade, achei bem divertido. Aqui vão as previsões do Nobel 2025 de uma IA:
+Experimentei usar um prompt algo convoluído para usar a Copilot (GPT-5) a fim de criar uma lista de "laureáveis". O resultado tem que ser julgado por cada um (revisei algumas informações incorretas, mas podem ter sobrado algumas). Eu, na verdade, achei bem divertido. Aqui vão as previsões do Nobel 2025 de uma IA:
 
 ### Fisiologia ou Medicina
 
-**Paul Mischel**  
-Oncologista e pesquisador, Mischel é referência mundial no estudo dos anéis de DNA extrachromossômico, estruturas que impulsionam a evolução e agressividade de tumores. Seu trabalho abriu novas perspectivas para terapias inovadoras contra o câncer.
+[**Paul Mischel**][mischel]
+Patologista e pesquisador, Mischel é referência mundial no estudo dos anéis de DNA extracromossômico, estruturas que impulsionam a evolução e agressividade de tumores. Seu trabalho abriu novas perspectivas para terapias inovadoras contra o câncer.
 
-**Histórico de carreira:** Formado pela Universidade de Princeton, com doutorado em Stanford, Mischel construiu carreira em pesquisa translacional do câncer, atuando em centros como UC San Diego e Stanford.
+**Histórico de carreira:** Formado pela Universidade da Pensilvânia e Cornell, com residência e PhD na Universidade da Califórnia - Los Angeles, Mischel construiu carreira em pesquisa translacional do câncer, atuando em centros como UC San Diego e Stanford.
 
 **Trabalho laureável:** Descoberta dos anéis de DNA extrachromossômico em tumores, realizada entre 2010 e 2020, principalmente na UC San Diego.
 
@@ -123,34 +123,23 @@ Oncologista e pesquisador, Mischel é referência mundial no estudo dos anéis d
 
 **Curiosidades:** Mischel é conhecido por integrar biologia molecular e clínica, e por defender a ciência aberta.
 
-**Gina Papadopoulou**  
-Imunologista, Papadopoulou se destacou por pesquisas sobre células TH17 e sua relação com doenças autoimunes e inflamatórias. Suas descobertas têm impacto direto no desenvolvimento de novos tratamentos para esclerose múltipla e artrite reumatoide.
-
-**Histórico de carreira:** Graduada na Universidade de Atenas, doutorado em imunologia pela Universidade de Oxford, atuou em centros de pesquisa na Grécia, Reino Unido e EUA.
-
-**Trabalho laureável:** Estudos sobre células TH17 e mecanismos inflamatórios, realizados entre 2012 e 2022, principalmente na Universidade de Oxford.
-
-**Instituição atual:** University of Oxford.
-
-**Curiosidades:** Papadopoulou é defensora da participação feminina na ciência e já recebeu prêmios de inovação biomédica.
-
-**Jeffrey I. Cohen**
+[**Jeffrey I. Cohen**][cohen]
 Virologista, Cohen lidera projetos pioneiros de autópsias rápidas para mapear esconderijos do HIV no corpo humano, contribuindo para estratégias de cura e controle da doença.
 
-**Histórico de carreira:** Formado em medicina pela Johns Hopkins, Cohen trabalhou no NIH e em centros de pesquisa em virologia nos EUA.
+**Histórico de carreira:** Formado em medicina pela Johns Hopkins, residência na Universidade Duke e Brigham and Women’s Hospital, Cohen trabalhou no NIH, Harvard e em centros de pesquisa em virologia nos EUA.
 
-**Trabalho laureável:** Autópsias rápidas para rastrear reservatórios do HIV, realizadas entre 2015 e 2023, principalmente no NIH.
+**Trabalho laureável:** Estudos da genética molecular, patogênese e aspectos clínicos dos herpesvírus humanos (EBV, VZV, CMV), incluindo desenvolvimento de vacinas, realizadas entre 2015 e 2023, principalmente no NIH.
 
 **Instituição atual:** National Institutes of Health (NIH).
 
-**Curiosidades:** Cohen é também escritor científico e defensor da divulgação científica sobre HIV/AIDS.
+**Curiosidades:** Cohen é também escritor científico e defensor da divulgação científica.
 
 ### Química
 
-**Andrew I. Cooper**  
+[**Andrew I. Cooper**][cooper]
 Químico britânico, Cooper é reconhecido por avanços em automação laboratorial e síntese de novos materiais, acelerando descobertas em catálise e química sustentável.
 
-**Histórico de carreira:** Graduado pela Universidade de Oxford, doutorado em química pela Universidade de Cambridge, Cooper lidera grupos de pesquisa em Liverpool.
+**Histórico de carreira:** Graduado e doutorado pela Universidade de Nottingham, pós-doutorado em química pela Universidade da Carolina do Norte - Chapell Hill. Trabalhou na Universidade de Cambridge.
 
 **Trabalho laureável:** Desenvolvimento de automação laboratorial e novos materiais, entre 2010 e 2024, na Universidade de Liverpool.
 
@@ -158,19 +147,10 @@ Químico britânico, Cooper é reconhecido por avanços em automação laborator
 
 **Curiosidades:** Cooper é entusiasta de robótica científica e já colaborou com projetos de IA aplicada à química.
 
-**Birkley S. Lim**  
-Lim desenvolveu miméticos de interleucina-21, moléculas que potencializam imunoterapia contra o câncer, com resultados promissores em ensaios clínicos.
-
-**Trabalho laureável:** Desenvolvimento de miméticos de IL-21 para imunoterapia, entre 2016 e 2024, na Harvard Medical School.
-
-**Instituição atual:** Harvard Medical School.
-
-**Curiosidades:** Lim é inventor de patentes em imunoterapia e participa de startups de biotecnologia.
-
-**Patrick Courtney**  
+[**Patrick Courtney**][courtney]
 Courtney é especialista em automação e robótica para laboratórios químicos, promovendo integração entre inteligência artificial e experimentação científica.
 
-**Histórico de carreira:** Engenheiro químico formado na França, doutorado em automação pela Universidade de Paris, atua em consultoria e pesquisa aplicada.
+**Histórico de carreira:** Formado na Universidade de Manchester, doutorado em Ciência Analítica, Instrumentação, Engenharia da Computação, MBA pela Alliance Manchester Business School, membro da diretoria da SiLA (Standards in Laboratory Automation), consultor do ADAlab (Adaptive Automated Scientific Laboratory), líder do grupo de Robótica Laboratorial Analítica da Comissão Européia.
 
 **Instituição atual:** Consultor independente e colaborador de centros de pesquisa europeus.
 
@@ -178,25 +158,18 @@ Courtney é especialista em automação e robótica para laboratórios químicos
 
 ### Física
 
-**Christophe H. Valahu**  
-Físico, Valahu é pioneiro em sensores quânticos de modo único, que aumentam a precisão de medições fundamentais em física de partículas e astrofísica.
-
-**Trabalho laureável:** Desenvolvimento de sensores quânticos de modo único, entre 2014 e 2024, no CERN e Universidade de Genebra.
-
-**Instituição atual:** CERN e Universidade de Genebra.
-
-**Curiosidades:** Valahu é apaixonado por divulgação científica e já participou de documentários sobre física quântica.
-
-**Emily E. Brodsky**  
+[**Emily E. Brodsky**][brodsky]
 Geofísica, Brodsky revolucionou o entendimento sobre terremotos e instabilidades geológicas, com impacto direto em prevenção de desastres naturais.
 
-**Histórico de carreira:** Graduada em física pelo MIT, doutorado em geofísica pela Caltech, Brodsky lidera pesquisas na Universidade da Califórnia, Santa Cruz.
+**Histórico de carreira:** Graduada em física pela Universidade de Harvard, PhD em geofísica pela Caltech, Brodsky lidera pesquisas na Universidade da Califórnia, Santa Cruz.
 
 **Trabalho laureável:** Estudos sobre instabilidades geológicas e terremotos, entre 2008 e 2024, na UC Santa Cruz.
 
-**Instituição atual:** University of California, Santa Cruz.
+**Instituição atual:** Universidade da California, Santa Cruz.
 
 **Curiosidades:** Brodsky é ativista ambiental e já participou de expedições científicas em zonas de terremoto.
+
+Nota: a IA havia incluído alguns nomes que retirei, mas me deixaram pensativo. São alunos de PhD, pós-doutorado ou terminaram recentemente, muito jovens, o tipo de pessoa que não entra nessas listas. O motivo da IA ter escolhido essas pessoas me escapa, especialmente porque muito do conteúdo sobre elas (formação e afiliações, por exemplo, mas não o tema de seus trabalhos) foi inventado. Um dos nominados pela IA, Jeffrey Cohen, tinha informações erradas sobre o tema de seus trabalhos (ele trabalho com herpesvírus, mas a IA relatou que era com HIV), e as reescrevi. A IA indicou um nome muito ligado à indústria na Europa, Patrick Courtney, que também foge ao tipo de indicação mais óbvia que vemos nessas listas. Mantive seu nome, vejam lá o que acham que passava pela cabeça da IA quando indicou alguém que lidera trabalhos de automação e robótica...
 
 [chem]: https://www.chemistryviews.org/whos-next-nobel-prize-in-chemistry-2025-voting-results-october-3/
 [acs]: https://cen.acs.org/people/nobel-prize/s-Nobel-time-Experts-predict/103/web/2025/10
@@ -231,3 +204,9 @@ Geofísica, Brodsky revolucionou o entendimento sobre terremotos e instabilidade
 [pendry]: https://en.wikipedia.org/wiki/John_B._Pendry
 [drsmith]: https://en.wikipedia.org/wiki/David_R._Smith_(physicist)
 [capasso]: https://en.wikipedia.org/wiki/Federico_Capasso
+
+[mischel]: https://en.wikipedia.org/wiki/Paul_Mischel
+[cohen]: https://irp.nih.gov/pi/jeffrey-cohen
+[cooper]: https://en.wikipedia.org/wiki/Andy_Cooper_(chemist)
+[courtney]: https://analyticalscience.wiley.com/content/article-do/towards-research-roadmap-laboratory-robotics
+[brodsky]: https://en.wikipedia.org/wiki/Emily_Brodsky
