@@ -11,10 +11,13 @@ tags:
 lang: pt-br
 ref: nobel2025-candidatos
 excerpt: "Perfis dos principais candidatos ao Prêmio Nobel de 2025 em Medicina, Química e Física, com um palpite educado sobre os prováveis vencedores."
+image: https://upload.wikimedia.org/wikipedia/pt/e/ed/Nobel_Prize.png
 ---
+![Medalha do Nobel](https://upload.wikimedia.org/wikipedia/pt/e/ed/Nobel_Prize.png)
+_Medalha do Prêmio Nobel (todos os direitos reservados para a Fundação Nobel)_
 
 Em setembro e outubro de 2024, alguns milhares de acadêmicos e personalidades ao redor do mundo receberam cartas convite para indicarem candidatos para receber o Nobel de 2025. As indicações foram recebidas até o fim de janeiro deste ano. A partir daí, membros da Real Academia de Ciências Sueca, do Instituto Karolinska, da Academia Sueca e do Parlamento Sueco iniciaram um processo que durou quase o ano todo e vai se encerrar na escolha dos ganhadores do Prêmio Nobel de 2025, na semana que inicia dia 06 de outubro, segunda-feira. Durante esse período, reuniram-se inúmeras vezes, escreveram relatórios detalhados, consultaram especialistas de todo o mundo e debateram entre si. A partir do dia 06, vão apresentar suas propostas para os integrantes das Academias, Assembléia e Parlamento, os quais escolherão por voto os ganhadores. Logo em seguida, no máximo 3 pessoas receberão os famosos telefonemas informando a premiação.
-
+<!--more-->
 As regras da Fundação Nobel não permitem a divulgação dos convidados a fazer indicações, dos indicados e documentos do processo de seleção por 50 anos. O Comitê Norueguês do Nobel informou ter recebido 338 indicações para o NObel da Paz este ano, incluindo 197 indivíduos e 89 organizações. Os comitês da Real Academia Sueca de Ciências, que escolhem os ganhadores dos prêmios de Física, Química e Ciências Econômicas, não divulgam o número de indicados. A Assembléia Do Nobel do Instituto Karolinska, responsável por escolher os laureados em Fisiologia e Medicina, tampouco divulga números, assim como a Academia Sueca, que escolhe o recipiente do Nobel de Literatura. Não precisamos, porém ficar completamente no escuro sobre quem podem ser os possíveis laureados.
 
 ## Predições da academia
@@ -25,65 +28,65 @@ Abaixo, os nomes que surgiram em pesquisas e artigos especializados — com uma 
 
 A revista online [ChemistryViews][chem], meio de divulgação da organização Chemistry Europe, que reúne 16 sociedades de química européias, costuma fazer uma enquete entre seus leitores sobre quem seriam os prováveis ganhadores. Para 2025, esses foram os nomes apontados nesta pesquisa:
 
-[*Herbert W. Roesky*][roesky] (Alemanha — atualmente na Universidade de Göttingen) — Químico alemão reconhecido por trabalhos em química de compostos de baixo número de coordenação e compostos do grupo principal (silício, germânio etc.). Tem longa carreira acadêmica na Alemanha e é lembrado por contribuições fundamentais à química inorgânica e organometálica.
+[_Herbert W. Roesky_][roesky] (Alemanha — atualmente na Universidade de Göttingen) — Químico alemão reconhecido por trabalhos em química de compostos de baixo número de coordenação e compostos do grupo principal (silício, germânio etc.). Tem longa carreira acadêmica na Alemanha e é lembrado por contribuições fundamentais à química inorgânica e organometálica.
 
-[*Chi-Huey Wong*][wong] (Taiwan / EUA — Academia Sinica / Scripps Research Institute) — Químico nascido em Taiwan, com carreira marcada por avanços em química de carboidratos e síntese de oligo- e polissacarídeos; suas metodologias influenciaram a glicobiologia e a produção de vacinas e biomoléculas complexas.
+[_Chi-Huey Wong_][wong] (Taiwan / EUA — Academia Sinica / Scripps Research Institute) — Químico nascido em Taiwan, com carreira marcada por avanços em química de carboidratos e síntese de oligo- e polissacarídeos; suas metodologias influenciaram a glicobiologia e a produção de vacinas e biomoléculas complexas.
 
-[*Omar K. Farha*][farha] (EUA — Universidade Northwestern) — Pesquisador conhecido por trabalhos com materiais porosos e metal–organic frameworks (MOFs), aplicados a armazenamento de gases, catálise e separações; liderança em grupos de pesquisa que combinam síntese de materiais e aplicações ambientais.
+[_Omar K. Farha_][farha] (EUA — Universidade Northwestern) — Pesquisador conhecido por trabalhos com materiais porosos e metal–organic frameworks (MOFs), aplicados a armazenamento de gases, catálise e separações; liderança em grupos de pesquisa que combinam síntese de materiais e aplicações ambientais.
 
-[*Omar Yaghi*][yaghi] (Jordânia / EUA — University of California, Berkeley) — Pioneiro no desenvolvimento dos MOFs e COFs (covalent organic frameworks); suas sínteses e conceitos estruturais ampliaram as possibilidades de materiais porosos com aplicações em armazenamento, separação e catálise.
+[_Omar Yaghi_][yaghi] (Jordânia / EUA — University of California, Berkeley) — Pioneiro no desenvolvimento dos MOFs e COFs (covalent organic frameworks); suas sínteses e conceitos estruturais ampliaram as possibilidades de materiais porosos com aplicações em armazenamento, separação e catálise.
 
-[*Sir Timothy J. Berners‑Lee*][timbl] (Reino Unido — University of Oxford / MIT) — Inventor da World Wide Web; nome aparece em enquetes por sua influência tecnológica ampla (apesar de não ser um químico tradicional), lembrado quando temas de química computacional, dados abertos e infraestrutura digital figuram entre quesitos valorizados pelos votantes.
+[_Sir Timothy J. Berners‑Lee_][timbl] (Reino Unido — University of Oxford / MIT) — Inventor da World Wide Web; nome aparece em enquetes por sua influência tecnológica ampla (apesar de não ser um químico tradicional), lembrado quando temas de química computacional, dados abertos e infraestrutura digital figuram entre quesitos valorizados pelos votantes.
 
-[*Yoshua Bengio*][bengio] (Canadá — Université de Montréal / MILA) e [*Yann LeCun*][lecun] (França / EUA — New York University / Meta) — Pesquisadores em inteligência artificial cujas técnicas (aprendizado profundo) estão sendo cada vez mais aplicadas à descoberta de fármacos, modelagem molecular e automação de laboratórios; aparecem em listas por sua influência transversal na pesquisa química computacional.
+[_Yoshua Bengio_][bengio] (Canadá — Université de Montréal / MILA) e [_Yann LeCun_][lecun] (França / EUA — New York University / Meta) — Pesquisadores em inteligência artificial cujas técnicas (aprendizado profundo) estão sendo cada vez mais aplicadas à descoberta de fármacos, modelagem molecular e automação de laboratórios; aparecem em listas por sua influência transversal na pesquisa química computacional.
 
-[*Michael Grätzel*][gratzel] (Suíça — EPFL) — Químico suíço, inventor das células solares sensibilizadas por corante (célula de Grätzel) e de diversas abordagens em fotossíntese artificial e energia solar; seu trabalho influencia materiais e química sustentável.
+[_Michael Grätzel_][gratzel] (Suíça — EPFL) — Químico suíço, inventor das células solares sensibilizadas por corante (célula de Grätzel) e de diversas abordagens em fotossíntese artificial e energia solar; seu trabalho influencia materiais e química sustentável.
 
 A revista online da American Chemical Society, [Chemical & Engineering News][acs], também publicou sua lista de possíveis ganhadores, escolhidos em um webinar com mais de 300 especialistas:
 
-[*Joel Habener*][habener] (EUA — Harvard Medical School / Massachusetts General Hospital) — Endocrinologista e pesquisador conhecido por descobertas fundamentais sobre hormônios incretínicos, incluindo o peptídeo semelhante ao glucagon-1 (GLP‑1), cuja sinalização transformou o tratamento do diabetes tipo 2 e inspirou a classe de medicamentos agonistas de GLP‑1.
+[_Joel Habener_][habener] (EUA — Harvard Medical School / Massachusetts General Hospital) — Endocrinologista e pesquisador conhecido por descobertas fundamentais sobre hormônios incretínicos, incluindo o peptídeo semelhante ao glucagon-1 (GLP‑1), cuja sinalização transformou o tratamento do diabetes tipo 2 e inspirou a classe de medicamentos agonistas de GLP-1.
 
-[*Svetlana Mojsov*][mojsov] (Macedônia / EUA — Massachusetts General Hospital) — Bioquímica/pesquisadora que colaborou em estudos pioneiros sobre peptídeos intestinais incretínicos (GLP‑1), caracterizando suas formas bioativas e enfatizando seu papel na regulação da secreção de insulina e no metabolismo da glicose.
+[_Svetlana Mojsov_][mojsov] (Macedônia / EUA — Massachusetts General Hospital) — Bioquímica/pesquisadora que colaborou em estudos pioneiros sobre peptídeos intestinais incretínicos (GLP‑1), caracterizando suas formas bioativas e enfatizando seu papel na regulação da secreção de insulina e no metabolismo da glicose.
 
-[*Jens Holst*][holst] (Dinamarca — University of Copenhagen) — Fisiologista e endocrinologista reconhecido por contribuições à fisiologia dos hormônios gastrointestinais (incluindo GLP‑1 e GIP), pela elucidação de mecanismos de ação e por trabalhos que conectam descoberta básica a aplicações terapêuticas.
+[_Jens Holst_][holst] (Dinamarca — University of Copenhagen) — Fisiologista e endocrinologista reconhecido por contribuições à fisiologia dos hormônios gastrointestinais (incluindo GLP‑1 e GIP), pela elucidação de mecanismos de ação e por trabalhos que conectam descoberta básica a aplicações terapêuticas.
 
 ## Nobel de Física
 
 A revista [Physics World][pred], meio de divulgação do Institute of Physics do Reino Unido e Irlanda, publicou um artigo deum de seus editores, Hamish Johsnton, com suas previsões para os possíveis ganhadores:
 
-[*Peter W. Shor*][shor] (EUA — Massachusetts Institute of Technology) — Matemático/ciência da computação no MIT; autor do algoritmo de Shor para fatoração em computadores quânticos, trabalho fundamental em teoria de algoritmos quânticos.
+[_Peter W. Shor_][shor] (EUA — Massachusetts Institute of Technology) — Matemático/ciência da computação no MIT; autor do algoritmo de Shor para fatoração em computadores quânticos, trabalho fundamental em teoria de algoritmos quânticos.
 
-[*Gilles Brassard*][brassard] (Canadá — Université de Montréal) — Pioneiro da criptografia quântica e de protocolos de informação quântica (ex.: BB84, teleporte quântico); contribuições teóricas e de divulgação científica no campo.
+[_Gilles Brassard_][brassard] (Canadá — Université de Montréal) — Pioneiro da criptografia quântica e de protocolos de informação quântica (ex.: BB84, teleporte quântico); contribuições teóricas e de divulgação científica no campo.
 
-[*Charles H. Bennett*][bennett] (EUA — IBM Research) — Pesquisador central em informação quântica e termodinâmica da informação; coautor de protocolos de criptografia quântica e trabalhos fundadores sobre limites físicos da computação.
+[_Charles H. Bennett_][bennett] (EUA — IBM Research) — Pesquisador central em informação quântica e termodinâmica da informação; coautor de protocolos de criptografia quântica e trabalhos fundadores sobre limites físicos da computação.
 
-[*David Deutsch*][deutsch] (Reino Unido — University of Oxford) — Teórico da computação quântica; formulou conceitos centrais como a máquina de Turing quântica e o algoritmo Deutsch–Jozsa, estabelecendo bases conceituais do campo.
+[_David Deutsch_][deutsch] (Reino Unido — University of Oxford) — Teórico da computação quântica; formulou conceitos centrais como a máquina de Turing quântica e o algoritmo Deutsch–Jozsa, estabelecendo bases conceituais do campo.
 
-[*Alan H. Guth*][guth] (EUA — Massachusetts Institute of Technology) — Cosmólogo teórico conhecido por formular a hipótese da inflação cósmica, cuja influência em cosmologia e física de partículas é profunda.
+[_Alan H. Guth_][guth] (EUA — Massachusetts Institute of Technology) — Cosmólogo teórico conhecido por formular a hipótese da inflação cósmica, cuja influência em cosmologia e física de partículas é profunda.
 
-[*Andrei D. Linde*][linde] (Rússia / EUA — Stanford University) — Teórico da inflação e da inflação caótica/eterna; reconhecido por desenvolver modelos que moldaram o entendimento moderno do universo primordial.
+[_Andrei D. Linde_][linde] (Rússia / EUA — Stanford University) — Teórico da inflação e da inflação caótica/eterna; reconhecido por desenvolver modelos que moldaram o entendimento moderno do universo primordial.
 
-[*Paul J. Steinhardt*][steinhardt] (EUA — Princeton University) — Físico teórico com contribuições em cosmologia (modelos alternativos à inflação) e em física da matéria condensada (quasicristais); figura influente em debates teóricos.
+[_Paul J. Steinhardt_][steinhardt] (EUA — Princeton University) — Físico teórico com contribuições em cosmologia (modelos alternativos à inflação) e em física da matéria condensada (quasicristais); figura influente em debates teóricos.
 
-[*John B. Pendry*][pendry] (Reino Unido — Imperial College London) — Teórico em óptica na escala nanométrica e metamateriais; proponente do conceito de "perfect lens" e contribuidor-chave para o campo dos índices efetivos negativos.
+[_John B. Pendry_][pendry] (Reino Unido — Imperial College London) — Teórico em óptica na escala nanométrica e metamateriais; proponente do conceito de "perfect lens" e contribuidor-chave para o campo dos índices efetivos negativos.
 
-[*David R. Smith*][drsmith] (EUA — Duke University) — Pesquisador experimental em metamateriais; liderou demonstrações pioneiras de materiais com índice negativo de refração e aplicações em controle de ondas eletromagnéticas.
+[_David R. Smith_][drsmith] (EUA — Duke University) — Pesquisador experimental em metamateriais; liderou demonstrações pioneiras de materiais com índice negativo de refração e aplicações em controle de ondas eletromagnéticas.
 
-[*Federico Capasso*][capasso] (Itália / EUA — Harvard University) — Físico e engenheiro de fotônica; inventor do laser de cascata quântica e autor de trabalhos influentes em óptica planar e metasuperfícies com grande impacto tecnológico.
+[_Federico Capasso_][capasso] (Itália / EUA — Harvard University) — Físico e engenheiro de fotônica; inventor do laser de cascata quântica e autor de trabalhos influentes em óptica planar e metasuperfícies com grande impacto tecnológico.
 
 ## Nobel de Fisiologia ou Medicina
 
 O Institute for Scientific Information compila, anualmente, a lista dos [Clarivate’s Citation Laureates][isi] e escolheu estes nomes como adições em 2025. A seguir, destacamos aqui os nomes ligados à área de Fisiologia ou Medicina apontados pela lista:
 
-[*Zhijian Chen*][zhijian] (Universidade do Texas Southwestern Medical Center — Fisiologia ou Medicina) — George L. MacGregor Distinguished Chair in Biomedical Science; investigador do HHMI e diretor do Inflammation Research Center, reconhecido por elucidar a via cGAS–STING e seus papéis na imunidade inata e respostas inflamatórias com implicações terapêuticas.
+[_Zhijian Chen_][zhijian] (Universidade do Texas Southwestern Medical Center — Fisiologia ou Medicina) — George L. MacGregor Distinguished Chair in Biomedical Science; investigador do HHMI e diretor do Inflammation Research Center, reconhecido por elucidar a via cGAS–STING e seus papéis na imunidade inata e respostas inflamatórias com implicações terapêuticas.
 
-[*Glen N. Barber*][barber] (EUA — The James Cancer Center / Ohio State University) — Professor e diretor do Center for Innate Immunity and Inflammation; pesquisador em biologia do câncer e regulação imune, com trabalhos que conectam mecanismos de sinalização imune à biologia tumoral e potenciais intervenções terapêuticas.
+[_Glen N. Barber_][barber] (EUA — The James Cancer Center / Ohio State University) — Professor e diretor do Center for Innate Immunity and Inflammation; pesquisador em biologia do câncer e regulação imune, com trabalhos que conectam mecanismos de sinalização imune à biologia tumoral e potenciais intervenções terapêuticas.
 
-[*John E. Dick*][john-dick] (Canadá — Princess Margaret Cancer Centre / University of Toronto) — Senior Scientist e professor reconhecido por identificar e caracterizar células-tronco leucêmicas, demonstrando sua relevância em recidiva e resistência terapêutica; contribuições centrais para a biologia do câncer e novas estratégias de tratamento.
+[_John E. Dick_][john-dick] (Canadá — Princess Margaret Cancer Centre / University of Toronto) — Senior Scientist e professor reconhecido por identificar e caracterizar células-tronco leucêmicas, demonstrando sua relevância em recidiva e resistência terapêutica; contribuições centrais para a biologia do câncer e novas estratégias de tratamento.
 
-[*Kenji Kangawa*][kangawa] (Japão — National Cerebral and Cardiovascular Center, Osaka) — Ex-diretor geral e pesquisador conhecido pela descoberta de peptídeos reguladores do apetite, incluindo trabalhos sobre hormônios que modulam metabolismo e homeostase energética.
+[_Kenji Kangawa_][kangawa] (Japão — National Cerebral and Cardiovascular Center, Osaka) — Ex-diretor geral e pesquisador conhecido pela descoberta de peptídeos reguladores do apetite, incluindo trabalhos sobre hormônios que modulam metabolismo e homeostase energética.
 
-[*Masayasu Kojima*][kojima] (Japão — Kurume University, Professor Emérito / Institute for Molecular Biosciences) — Pesquisador ligado à descoberta de hormônios e peptídeos envolvidos em regulação metabólica e de apetite; contribuições fundamentais para a endocrinologia e fisiologia do metabolismo.
+[_Masayasu Kojima_][kojima] (Japão — Kurume University, Professor Emérito / Institute for Molecular Biosciences) — Pesquisador ligado à descoberta de hormônios e peptídeos envolvidos em regulação metabólica e de apetite; contribuições fundamentais para a endocrinologia e fisiologia do metabolismo.
 
 ## Outras predições relevantes
 
