@@ -8,7 +8,7 @@ tags:
 - Physiology or Medicine
 - Chemistry
 - Physics
-lang: en
+lang: en-us
 ref: nobel2025-candidatos
 excerpt: "Profiles of the main candidates for the 2025 Nobel Prize in Medicine, Chemistry and Physics, with an educated guess about the likely winners."
 image: https://upload.wikimedia.org/wikipedia/pt/e/ed/Nobel_Prize.png
