@@ -6,9 +6,269 @@
 </description>
     <link>https://fhcflx.github.io/ciencia-medica/</link>
     <atom:link href="https://fhcflx.github.io/ciencia-medica/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 07 Oct 2025 07:47:39 -0300</pubDate>
-    <lastBuildDate>Tue, 07 Oct 2025 07:47:39 -0300</lastBuildDate>
+    <pubDate>Thu, 09 Oct 2025 18:51:51 -0300</pubDate>
+    <lastBuildDate>Thu, 09 Oct 2025 18:51:51 -0300</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
+    
+      <item>
+        <title>Prêmio Nobel de Fisiologia ou Medicina 2025: como o sistema imune é mantido sob controle</title>
+        <description>&lt;p&gt;&lt;img src=&quot;https://www.nobelprize.org/uploads/2025/10/Carrier_3-2.jpg&quot; alt=&quot;Ilustração: Prêmio Nobel em Medicina 2025&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Fonte: Nobel Prize Outreach 2025&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Mary E. Brunkow, Fred Ramsdell e Shimon Sakaguchi foram agraciados com o Prêmio Nobel de Fisiologia ou Medicina de 2025 “por suas descobertas sobre a tolerância imune periférica”. As pesquisas dos laureados elucidaram como o sistema imune evita atacar os próprios tecidos do corpo — um mecanismo essencial para prevenir doenças autoimunes — através de um subconjunto especializado de linfócitos T, hoje conhecidos como células T reguladoras (&lt;em&gt;Tregs&lt;/em&gt;).&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;h2 id=&quot;resumo-das-descobertas&quot;&gt;Resumo das descobertas&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Mary E. Brunkow&lt;/strong&gt; — Ph.D. por Princeton; trabalho chave identificando mutações que levam à perda de tolerância imune em modelos animais; atualmente associada ao Institute for Systems Biology, Seattle, EUA.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Fred Ramsdell&lt;/strong&gt; — Ph.D. (UCLA); contribuições centrais para a identificação do gene FOXP3 e sua relação com fenótipos de autoimunidade; atua como consultor científico/empresarial em biotecnologia.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Shimon Sakaguchi&lt;/strong&gt; — M.D./Ph.D. (Kyoto University); descobriu o papel das &lt;em&gt;Tregs&lt;/em&gt; na tolerância periférica e demonstrou como sua ausência ou disfunção leva à autoimunidade; professor no Immunology Frontier Research Center, Osaka University, Japão.&lt;/p&gt;
+
+&lt;p&gt;Shimon Sakaguchi fez a primeira descoberta decisiva em 1995 ao identificar um grupo de células T com função reguladora — células que limitam respostas imunes potencialmente danosas. Posteriormente, Mary Brunkow e Fred Ramsdell identificaram a mutação responsável por um fenótipo de autoimunidade em camundongos (o gene FOXP3) e demonstraram que alterações no gene homólogo em humanos causam síndromes autoimunes graves (ex.: IPEX). A ligação entre FOXP3 e o desenvolvimento/funcionamento das &lt;em&gt;Tregs&lt;/em&gt; consolidou um novo campo de investigação: a tolerância periférica.&lt;/p&gt;
+
+&lt;h2 id=&quot;por-que-isso-importa&quot;&gt;Por que isso importa&lt;/h2&gt;
+
+&lt;p&gt;O trabalho dos laureados mudou nossa compreensão sobre os mecanismos que impedem o sistema imune de atacar o próprio organismo. As implicações são vastas: a manipulação de Tregs é hoje uma estratégia promissora tanto em doenças autoimunes (onde se busca reforçar a tolerância) quanto em oncologia (onde pode ser preciso atenuar a ação dessas células para melhorar a resposta antitumoral). Além disso, avanços na tolerância imunológica podem tornar transplantes mais seguros e reduzir a necessidade de imunossupressão crônica.&lt;/p&gt;
+
+&lt;p&gt;Pense no sistema imune como um exército cuja função é proteger o corpo. Para evitar danos colaterais (por exemplo, atacar células do próprio corpo), além de treinar soldados para reconhecer inimigos, o corpo tem oficiais de fiscalização — as &lt;em&gt;Tregs&lt;/em&gt;. Elas atuam como um freio: quando a resposta imune é forte demais ou dirigida contra as próprias células, as Tregs intervêm e diminuem a reação.&lt;/p&gt;
+
+&lt;p&gt;As descobertas premiadas mostram:&lt;/p&gt;
+
+&lt;p&gt;1) que existe um tipo específico de célula cuja função principal é suprimir respostas perigosas fora do centro de formação de células (a chamada tolerância periférica);
+2) que um gene chamado FOXP3 é essencial para que essas células existam e funcionem corretamente. Sem FOXP3, o sistema perde o freio e ataques ao próprio corpo ocorrem (doenças autoimunes).
+Breve perfil dos laureados&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://www.nobelprize.org/uploads/2025/10/popular-medicineprize2025-figure2.jpg&quot; alt=&quot;Como as T cells reconhecem um patógeno&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Como T cells descobrem um vírus. Ilustrações: © The Nobel Committee for Physiology or Medicine. Ill. Mattias Karlén.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;As &lt;em&gt;Tregs&lt;/em&gt; mais estudadas são CD4+CD25+FOXP3+. FOXP3 é o fator de transcrição que programa o destino e a função supressora dessas células.
+Existem mecanismos de tolerância central (no timo) e de tolerância periférica (fora do timo). Sakaguchi e outros demonstraram que parte da população reguladora é gerada no timo, mas que também existem Tregs induzidas na periferia a partir de células T convencionais sob certos sinais (TGF-β, IL-2).
+Mecanismos de supressão: &lt;em&gt;Tregs&lt;/em&gt; usam múltiplos mecanismos — produção de citocinas anti-inflamatórias (IL-10, TGF-β), expressão de CTLA-4 que modula células apresentadoras de antígeno, consumo local de IL-2 (privando outras células), e alteração metabólica do microambiente (ex.: produção de adenosina via CD39/CD73).
+Estudos de transferência celular, modelos de camundongo com deleção de FOXP3 (fenótipo “scurfy” em camundongos) e achados clínicos em IPEX (síndrome humana associada a mutações FOXP3) foram cruciais para estabelecer a relação causal.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://www.nobelprize.org/uploads/2025/10/popular-medicineprize2025-figure4.jpg&quot; alt=&quot;Experimento que inspirou Sakaguchi&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Experimento que inspirou estudos sobre tolerância periférica. Ilustrações: © The Nobel Committee for Physiology or Medicine. Ill. Mattias Karlén.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;implicações-clínicas-e-aplicações&quot;&gt;Implicações clínicas e aplicações&lt;/h2&gt;
+
+&lt;p&gt;Autoimunidade: compreender Tregs e FOXP3 permite identificar causas de síndromes como IPEX, além de apontar estratégias para restaurar tolerância em doenças autoimunes (artrite reumatoide, esclerose múltipla, diabetes tipo 1).&lt;/p&gt;
+
+&lt;p&gt;Oncologia: tumores frequentemente recrutam ou induzem Tregs para suprimir respostas antitumorais; modular Tregs pode melhorar a eficácia de imunoterapias (checkpoint inhibitors, vacinas).&lt;/p&gt;
+
+&lt;p&gt;Transplantes: terapias baseadas em Tregs (infusão de Tregs, protocolos para expandi-las) estão sendo testadas para reduzir rejeição e diminuir o uso de imunossupressores de amplo espectro.&lt;/p&gt;
+
+&lt;p&gt;Terapêuticas emergentes: abordagens incluem expansão ex vivo de Tregs, engenharia de Tregs com receptores específicos (CAR-Tregs), e drogas que modulam vias chave (IL-2 de baixa dose para favorecer Tregs).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://www.nobelprize.org/uploads/2025/10/popular-medicineprize2025-figure3.jpg&quot; alt=&quot;Como células T danosas são eliminadas&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Como células T danosas são eliminadas. Ilustrações: © The Nobel Committee for Physiology or Medicine. Ill. Mattias Karlén.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;leia-mais&quot;&gt;Leia mais&lt;/h2&gt;
+
+&lt;p&gt;A principal fonte desta postagem é o &lt;a href=&quot;https://www.nobelprize.org/prizes/medicine/2025/press-release/&quot;&gt;press release&lt;/a&gt; da Fundação Nobel e os materiais de apoio publicados pela Nobel Prize Outreach (press release oficial, background científico e resumo para leigos).&lt;/p&gt;
+
+&lt;h3 id=&quot;referências&quot;&gt;Referências&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nobelprize.org/prizes/medicine/2025/press-release/&quot;&gt;Press release: “They discovered how the immune system is kept in check” — The Nobel Assembly at Karolinska Institutet, 6 Oct 2025.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nobelprize.org/uploads/2025/10/press-medicineprize2025.pdf&quot;&gt;Press release (pdf)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nobelprize.org/uploads/2025/10/popular-medicineprize2025-2.pdf&quot;&gt;Resumo para leigos, Assembléia do Nobel - em inglês (pdf)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nobelprize.org/uploads/2025/10/advanced-medicineprize2025.pdf&quot;&gt;Resumo científico, Assembléia do Nobel - em inglês (pdf)&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+</description>
+        <pubDate>Mon, 06 Oct 2025 12:00:00 -0300</pubDate>
+        <link>https://fhcflx.github.io/ciencia-medica/2025/10/06/nobel-fisiologia-medicina-2025.html</link>
+        <guid isPermaLink="true">https://fhcflx.github.io/ciencia-medica/2025/10/06/nobel-fisiologia-medicina-2025.html</guid>
+        
+        <category>Nobel</category>
+        
+        <category>Fisiologia ou Medicina</category>
+        
+        <category>Imunologia</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Premio Nobel de Fisiología o Medicina 2025: cómo se mantiene el sistema inmunológico bajo control</title>
+        <description>&lt;p&gt;&lt;img src=&quot;https://www.nobelprize.org/uploads/2025/10/Carrier_3-2.jpg&quot; alt=&quot;Ilustración: Premio Nobel en Medicina 2025&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Fuente: Nobel Prize Outreach 2025&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Mary E. Brunkow, Fred Ramsdell y Shimon Sakaguchi fueron galardonados con el Premio Nobel de Fisiología o Medicina 2025 “por sus descubrimientos sobre la tolerancia inmune periférica”. Las investigaciones de los galardonados aclararon cómo el sistema inmunológico evita atacar los propios tejidos del cuerpo —un mecanismo esencial para prevenir enfermedades autoinmunes— a través de un subconjunto especializado de linfocitos T, hoy conocidos como células T reguladoras (Tregs).&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;h2 id=&quot;resumen-de-los-descubrimientos&quot;&gt;Resumen de los descubrimientos&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Mary E. Brunkow&lt;/strong&gt; — Doctora por Princeton; trabajo clave identificando mutaciones que conducen a la pérdida de tolerancia inmunológica en modelos animales; actualmente vinculada al Institute for Systems Biology, Seattle, EE. UU.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Fred Ramsdell&lt;/strong&gt; — Doctorado (UCLA); contribuciones centrales en la identificación del gen FOXP3 y su relación con fenotipos de autoinmunidad; trabaja como consultor científico/empresarial en biotecnología.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Shimon Sakaguchi&lt;/strong&gt; — M.D./Ph.D. (Universidad de Kyoto); descubrió el papel de las Tregs en la tolerancia periférica y demostró cómo su ausencia o disfunción conduce a la autoinmunidad; profesor en el Immunology Frontier Research Center, Universidad de Osaka, Japón.&lt;/p&gt;
+
+&lt;p&gt;Shimon Sakaguchi realizó el primer hallazgo decisivo en 1995 al identificar un grupo de células T con función reguladora —células que limitan respuestas inmunes potencialmente dañinas. Posteriormente, Mary Brunkow y Fred Ramsdell identificaron la mutación responsable de un fenotipo autoinmune en ratones (el gen FOXP3) y demostraron que alteraciones en el gen homólogo en humanos causan síndromes autoinmunes graves (p. ej., IPEX). La conexión entre FOXP3 y el desarrollo/funcionamiento de las Tregs consolidó un nuevo campo de investigación: la tolerancia periférica.&lt;/p&gt;
+
+&lt;h2 id=&quot;por-qué-esto-importa&quot;&gt;Por qué esto importa&lt;/h2&gt;
+
+&lt;p&gt;El trabajo de los galardonados cambió nuestra comprensión sobre los mecanismos que impiden que el sistema inmunológico ataque al propio organismo. Las implicaciones son vastas: la manipulación de las Tregs es hoy una estrategia prometedora tanto en enfermedades autoinmunes (donde se busca reforzar la tolerancia) como en oncología (donde puede ser necesario atenuar la acción de estas células para mejorar la respuesta antitumoral). Además, los avances en tolerancia inmunológica pueden hacer los trasplantes más seguros y reducir la necesidad de inmunosupresión crónica.&lt;/p&gt;
+
+&lt;p&gt;Piense en el sistema inmune como un ejército cuya función es proteger el cuerpo. Para evitar daños colaterales (por ejemplo, atacar células propias), además de entrenar a los soldados para reconocer enemigos, el cuerpo cuenta con oficiales de supervisión —las Tregs—. Actúan como un freno: cuando la respuesta inmune es demasiado fuerte o dirigida contra lo propio, las Tregs intervienen y disminuyen la reacción.&lt;/p&gt;
+
+&lt;p&gt;Los descubrimientos premiados muestran:&lt;/p&gt;
+
+&lt;p&gt;1) que existe un tipo específico de célula cuya función principal es suprimir respuestas peligrosas fuera del lugar de formación primaria (la llamada tolerancia periférica);
+2) que un gen llamado FOXP3 es esencial para que estas células existan y funcionen correctamente. Sin FOXP3, el sistema pierde el freno y se producen ataques contra lo propio (enfermedades autoinmunes).&lt;/p&gt;
+
+&lt;h2 id=&quot;breve-perfil-de-los-galardonados&quot;&gt;Breve perfil de los galardonados&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://www.nobelprize.org/uploads/2025/10/popular-medicineprize2025-figure2.jpg&quot; alt=&quot;Cómo las células T reconocen un patógeno&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Cómo las células T encuentran un virus. Ilustraciones: © The Nobel Committee for Physiology or Medicine. Ill. Mattias Karlén.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Las Tregs más estudiadas son CD4+CD25+FOXP3+. FOXP3 es el factor de transcripción que programa el destino y la función supresora de estas células.
+Existen mecanismos de tolerancia central (en el timo) y de tolerancia periférica (fuera del timo). Sakaguchi y otros demostraron que parte de la población reguladora se genera en el timo, pero que también existen Tregs inducidas en la periferia a partir de células T convencionales bajo ciertas señales (TGF-β, IL-2).
+Mecanismos de supresión: las Tregs usan múltiples mecanismos —producción de citocinas antiinflamatorias (IL-10, TGF-β), expresión de CTLA-4 que modula a las células presentadoras de antígeno, consumo local de IL-2 (privando a otras células) y alteración metabólica del microambiente (p. ej., producción de adenosina vía CD39/CD73).
+Los estudios de transferencia celular, modelos de ratón con deleción de FOXP3 (fenotipo “scurfy” en ratones) y hallazgos clínicos en IPEX (síndrome humano asociado a mutaciones en FOXP3) fueron cruciales para establecer la relación causal.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://www.nobelprize.org/uploads/2025/10/popular-medicineprize2025-figure4.jpg&quot; alt=&quot;Experimento que inspiró a Sakaguchi&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Experimento que inspiró estudios sobre tolerancia periférica. Ilustraciones: © The Nobel Committee for Physiology or Medicine. Ill. Mattias Karlén.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;implicaciones-clínicas-y-aplicaciones&quot;&gt;Implicaciones clínicas y aplicaciones&lt;/h2&gt;
+
+&lt;p&gt;Autoinmunidad: comprender las Tregs y FOXP3 permite identificar causas de síndromes como IPEX, además de señalar estrategias para restaurar la tolerancia en enfermedades autoinmunes (artritis reumatoide, esclerosis múltiple, diabetes tipo 1).&lt;/p&gt;
+
+&lt;p&gt;Oncología: los tumores con frecuencia reclutan o inducen Tregs para suprimir respuestas antitumorales; modular las Tregs puede mejorar la eficacia de inmunoterapias (inhibidores de puntos de control, vacunas).&lt;/p&gt;
+
+&lt;p&gt;Trasplantes: las terapias basadas en Tregs (infusión de Tregs, protocolos para expandirlas) se están probando para reducir el rechazo y disminuir el uso de inmunosupresores de amplio espectro.&lt;/p&gt;
+
+&lt;p&gt;Terapéuticas emergentes: los enfoques incluyen la expansión ex vivo de Tregs, la ingeniería de Tregs con receptores específicos (CAR-Tregs) y fármacos que modulan vías clave (IL-2 de baja dosis para favorecer las Tregs).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://www.nobelprize.org/uploads/2025/10/popular-medicineprize2025-figure3.jpg&quot; alt=&quot;Cómo se eliminan las células T dañinas&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Cómo se eliminan las células T dañinas. Ilustraciones: © The Nobel Committee for Physiology or Medicine. Ill. Mattias Karlén.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;lea-más&quot;&gt;Lea más&lt;/h2&gt;
+
+&lt;p&gt;La principal fuente de esta publicación es el &lt;a href=&quot;https://www.nobelprize.org/prizes/medicine/2025/press-release/&quot;&gt;comunicado de prensa&lt;/a&gt; de la Fundación Nobel y los materiales de apoyo publicados por Nobel Prize Outreach (comunicado oficial, antecedentes científicos y resumen para público general).&lt;/p&gt;
+
+&lt;h3 id=&quot;referencias&quot;&gt;Referencias&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nobelprize.org/prizes/medicine/2025/press-release/&quot;&gt;Comunicado de prensa: “They discovered how the immune system is kept in check” — The Nobel Assembly at Karolinska Institutet, 6 Oct 2025.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nobelprize.org/uploads/2025/10/press-medicineprize2025.pdf&quot;&gt;Comunicado de prensa (pdf)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nobelprize.org/uploads/2025/10/popular-medicineprize2025-2.pdf&quot;&gt;Resumen para público general, Asamblea Nobel - en inglés (pdf)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nobelprize.org/uploads/2025/10/advanced-medicineprize2025.pdf&quot;&gt;Antecedentes científicos, Asamblea Nobel - en inglés (pdf)&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+</description>
+        <pubDate>Mon, 06 Oct 2025 12:00:00 -0300</pubDate>
+        <link>https://fhcflx.github.io/ciencia-medica/2025/10/06/nobel-fisiologia-medicina-2025.es.html</link>
+        <guid isPermaLink="true">https://fhcflx.github.io/ciencia-medica/2025/10/06/nobel-fisiologia-medicina-2025.es.html</guid>
+        
+        <category>Nobel</category>
+        
+        <category>Fisiología o Medicina</category>
+        
+        <category>Inmunología</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>2025 Nobel Prize in Physiology or Medicine: how the immune system is kept in check</title>
+        <description>&lt;p&gt;&lt;img src=&quot;https://www.nobelprize.org/uploads/2025/10/Carrier_3-2.jpg&quot; alt=&quot;Illustration: Nobel Prize in Medicine 2025&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Source: Nobel Prize Outreach 2025&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Mary E. Brunkow, Fred Ramsdell and Shimon Sakaguchi were awarded the 2025 Nobel Prize in Physiology or Medicine “for their discoveries concerning peripheral immune tolerance.” The laureates’ research clarified how the immune system avoids attacking the body’s own tissues — a mechanism essential to prevent autoimmune disease — through a specialized subset of T lymphocytes now known as regulatory T cells (Tregs).&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;h2 id=&quot;summary-of-the-findings&quot;&gt;Summary of the findings&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Mary E. Brunkow&lt;/strong&gt; — Ph.D. from Princeton; key work identifying mutations that cause loss of immune tolerance in animal models; currently affiliated with the Institute for Systems Biology, Seattle, USA.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Fred Ramsdell&lt;/strong&gt; — Ph.D. (UCLA); central contributions to identifying the FOXP3 gene and its relationship to autoimmune phenotypes; works as scientific/business consultant in biotechnology.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Shimon Sakaguchi&lt;/strong&gt; — M.D./Ph.D. (Kyoto University); discovered the role of Tregs in peripheral tolerance and demonstrated how their absence or dysfunction leads to autoimmunity; professor at the Immunology Frontier Research Center, Osaka University, Japan.&lt;/p&gt;
+
+&lt;p&gt;Shimon Sakaguchi made the first decisive discovery in 1995 by identifying a population of T cells with regulatory function — cells that limit potentially harmful immune responses. Later, Mary Brunkow and Fred Ramsdell identified the mutation responsible for an autoimmune phenotype in mice (the FOXP3 gene) and showed that alterations in the homologous gene in humans cause severe autoimmune syndromes (e.g., IPEX). The link between FOXP3 and the development/function of Tregs established a new field of research: peripheral tolerance.&lt;/p&gt;
+
+&lt;h2 id=&quot;why-this-matters&quot;&gt;Why this matters&lt;/h2&gt;
+
+&lt;p&gt;The laureates’ work changed our understanding of the mechanisms that prevent the immune system from attacking the organism itself. The implications are vast: manipulating Tregs is now a promising strategy both in autoimmune diseases (where the goal is to strengthen tolerance) and in oncology (where it may be necessary to dampen these cells’ action to improve antitumor responses). Moreover, advances in immune tolerance may make transplants safer and reduce the need for chronic immunosuppression.&lt;/p&gt;
+
+&lt;p&gt;Think of the immune system as an army whose job is to protect the body. To avoid collateral damage (for example, attacking the body’s own cells), besides training soldiers to recognize enemies, the body has oversight officers — the Tregs. They act as a brake: when the immune response is too strong or misdirected against self, Tregs intervene and tone down the reaction.&lt;/p&gt;
+
+&lt;p&gt;The awarded discoveries show:&lt;/p&gt;
+
+&lt;p&gt;1) that there is a specific type of cell whose main function is to suppress dangerous responses outside the primary formation site (so-called peripheral tolerance);
+2) that a gene called FOXP3 is essential for these cells to exist and function correctly. Without FOXP3, the system loses its brake and attacks against self occur (autoimmune diseases).&lt;/p&gt;
+
+&lt;h2 id=&quot;brief-profiles-of-the-laureates&quot;&gt;Brief profiles of the laureates&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://www.nobelprize.org/uploads/2025/10/popular-medicineprize2025-figure2.jpg&quot; alt=&quot;How T cells recognize a pathogen&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;How T cells find a virus. Illustrations: © The Nobel Committee for Physiology or Medicine. Ill. Mattias Karlén.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;The most studied Tregs are CD4+CD25+FOXP3+. FOXP3 is the transcription factor that programs the fate and suppressive function of these cells.
+There are mechanisms of central tolerance (in the thymus) and peripheral tolerance (outside the thymus). Sakaguchi and others showed that part of the regulatory population is generated in the thymus, but that there are also peripherally induced Tregs derived from conventional T cells under certain signals (TGF-β, IL-2).
+Mechanisms of suppression: Tregs employ multiple mechanisms — production of anti-inflammatory cytokines (IL-10, TGF-β), expression of CTLA-4 that modulates antigen-presenting cells, local consumption of IL-2 (depriving other cells), and metabolic alteration of the microenvironment (e.g., adenosine production via CD39/CD73).
+Transfer experiments, mouse models with FOXP3 deletion (the “scurfy” phenotype in mice) and clinical findings in IPEX (a human syndrome associated with FOXP3 mutations) were crucial to establish causality.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://www.nobelprize.org/uploads/2025/10/popular-medicineprize2025-figure4.jpg&quot; alt=&quot;Experiment that inspired Sakaguchi&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Experiment that inspired studies on peripheral tolerance. Illustrations: © The Nobel Committee for Physiology or Medicine. Ill. Mattias Karlén.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;clinical-implications-and-applications&quot;&gt;Clinical implications and applications&lt;/h2&gt;
+
+&lt;p&gt;Autoimmunity: understanding Tregs and FOXP3 allows identification of causes of syndromes such as IPEX, and points to strategies to restore tolerance in autoimmune diseases (rheumatoid arthritis, multiple sclerosis, type 1 diabetes).&lt;/p&gt;
+
+&lt;p&gt;Oncology: tumors often recruit or induce Tregs to suppress antitumor responses; modulating Tregs may improve the efficacy of immunotherapies (checkpoint inhibitors, vaccines).&lt;/p&gt;
+
+&lt;p&gt;Transplantation: Treg-based therapies (Treg infusion, protocols to expand them) are being tested to reduce rejection and decrease the use of broad-spectrum immunosuppressants.&lt;/p&gt;
+
+&lt;p&gt;Emerging therapeutics: approaches include ex vivo expansion of Tregs, engineering Tregs with specific receptors (CAR-Tregs), and drugs that modulate key pathways (low-dose IL-2 to favor Tregs).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://www.nobelprize.org/uploads/2025/10/popular-medicineprize2025-figure3.jpg&quot; alt=&quot;How harmful T cells are eliminated&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;How harmful T cells are eliminated. Illustrations: © The Nobel Committee for Physiology or Medicine. Ill. Mattias Karlén.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;read-more&quot;&gt;Read more&lt;/h2&gt;
+
+&lt;p&gt;The main source for this post is the &lt;a href=&quot;https://www.nobelprize.org/prizes/medicine/2025/press-release/&quot;&gt;press release&lt;/a&gt; from the Nobel Foundation and the supporting materials published by Nobel Prize Outreach (official press release, scientific background and popular summary).&lt;/p&gt;
+
+&lt;h3 id=&quot;references&quot;&gt;References&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nobelprize.org/prizes/medicine/2025/press-release/&quot;&gt;Press release: “They discovered how the immune system is kept in check” — The Nobel Assembly at Karolinska Institutet, 6 Oct 2025.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nobelprize.org/uploads/2025/10/press-medicineprize2025.pdf&quot;&gt;Press release (pdf)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nobelprize.org/uploads/2025/10/popular-medicineprize2025-2.pdf&quot;&gt;Popular summary, Nobel Assembly - in English (pdf)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nobelprize.org/uploads/2025/10/advanced-medicineprize2025.pdf&quot;&gt;Scientific background, Nobel Assembly - in English (pdf)&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+</description>
+        <pubDate>Mon, 06 Oct 2025 12:00:00 -0300</pubDate>
+        <link>https://fhcflx.github.io/ciencia-medica/2025/10/06/nobel-fisiologia-medicina-2025.en.html</link>
+        <guid isPermaLink="true">https://fhcflx.github.io/ciencia-medica/2025/10/06/nobel-fisiologia-medicina-2025.en.html</guid>
+        
+        <category>Nobel</category>
+        
+        <category>Physiology or Medicine</category>
+        
+        <category>Immunology</category>
+        
+        
+      </item>
     
       <item>
         <title>Prêmio Nobel 2025: Quem são os favoritos?</title>
@@ -964,420 +1224,6 @@ As regras da Fundação Nobel não permitem a divulgação dos convidados a faze
         <category>Podcast</category>
         
         <category>Scientific research</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Somos a memória que temos: neurociência da memória</title>
-        <description>&lt;blockquote&gt;
-  &lt;p&gt;“Somos a memória que temos e a responsabilidade que assumimos. Sem memória não existimos, sem responsabilidade talvez não mereçamos existir.”&lt;/p&gt;
-
-  &lt;p&gt;— José Saramago&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;O episódio 60 do podcast &lt;a href=&quot;https://www.microbe.tv/twin/twin-60/&quot;&gt;TWiN (This Week in Neuroscience)&lt;/a&gt; trouxe uma análise aprofundada do artigo publicado na revista &lt;a href=&quot;https://www.nature.com/articles/s41586-025-08993-1&quot;&gt;Nature&lt;/a&gt; em 2025, que apresenta descobertas inovadoras sobre os mecanismos celulares e moleculares da memória. O episódio também está disponível no &lt;a href=&quot;https://www.youtube.com/watch?v=UonSUOcWM80&quot;&gt;YouTube&lt;/a&gt;. Os participantes discutiram não apenas os resultados do estudo, mas também as possíveis implicações clínicas e até filosóficas do que eu chamo de “sermos a memória que temos”. Esse tema também foi discutido no conto de Ted Chiang “A verdade dos fatos, a verdade dos sentimentos” (The Truth of Fact, the Truth of Feeling), publicado originalmente em 2013 e traduzido para o português por Bráulio Tavares (Exalação, Editora Intrínseca, 2021). No conto, ele questiona a exatidão da memória humana.
-&lt;!--more--&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;introdução-por-que-estudar-a-memória&quot;&gt;Introdução: Por que estudar a memória?&lt;/h2&gt;
-
-&lt;p&gt;A memória é um dos pilares da identidade humana, fundamental para o aprendizado, tomada de decisões e construção do nosso senso de self. Alterações na memória estão no centro de doenças como Alzheimer, demências e transtornos psiquiátricos. Compreender como as memórias são formadas, armazenadas e recuperadas é um dos maiores desafios da neurociência&lt;label for=&quot;neurociencia&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
-&lt;input type=&quot;checkbox&quot; id=&quot;neurociencia&quot; class=&quot;margin-toggle&quot; /&gt;
-&lt;span class=&quot;sidenote&quot;&gt;&lt;strong&gt;Neurociência:&lt;/strong&gt; Área da ciência que estuda o sistema nervoso, incluindo o cérebro, medula espinhal e nervos periféricos. Investiga como esses órgãos funcionam, como se comunicam e como influenciam o comportamento, emoções e doenças.&lt;/span&gt;
- moderna. Não é preciso ir muito além para entender sua importância. Afinal, como Oliver Sacks mostrou na sua descrição do caso do músico Clive Wearing em “Alucinações musicais” (Musicophilia, 2007), a “memória que temos” se confunde comm nossa identidade. Sacks descreveu o caso de um músico que, após uma infecção viral (encefalite pelo vírus da herpes simples), perdeu a capacidade de reter novas memórias e quase toda a memória que tinha do passado. As estruturas que conhecemos como “hipocampo”, nos lobos temporais do cérebro, foram destruídas pela infecção de Wearing. “Ele” sobreviveu, porém sua identidade, aquilo que ele era, foi profundamente afetado. Apesar de suas deficiências severas, ele ainda conseguia cantar, tocar música e reconhecia sua esposa. Algo de si havia restado, apesar da sua lesão e perda de memória.&lt;/p&gt;
-
-&lt;p&gt;Esse caso real, além de outros reais ou fictícios apresentados pela literatura (como no conto de Chiang) mostram como a memória é a base de nossa identidade, tornando a frase de Saramago muito mais do que retórica. Também mostra como ainda temos tanto a aprender sobre a memória. Por que lesões em estruturas discretas como o hipocampo a afetam tanto mesmo que o restante do cérebro permaneça intacto? Hoje em dia já se conhecem algumas respostas, poucas, mas muita coisa é apenas hipótese, e precisa ser testada. O trabalho apresentado pelo pessoal do TWIN apresentou justamente uma dessas fascinantes pesquisas.&lt;/p&gt;
-
-&lt;h2 id=&quot;o-estudo-novos-mecanismos-da-memória&quot;&gt;O estudo: Novos mecanismos da memória&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41586-025-08993-1/MediaObjects/41586_2025_8993_Fig1_HTML.png&quot; alt=&quot;Figura do artigo Nature 2025 - Engramas e reorganização da memória&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Figura 1 do artigo original: Esquema experimental e principais achados sobre a reorganização dos engramas e generalização da memória ao longo do tempo em camundongos. Fonte: &lt;a href=&quot;https://www.nature.com/articles/s41586-025-08993-1&quot;&gt;Nature, 2025&lt;/a&gt; (uso acadêmico, direitos do autor original).&lt;/em&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;o-que-é-o-hipocampo&quot;&gt;O que é o hipocampo?&lt;/h3&gt;
-
-&lt;p&gt;O hipocampo&lt;label for=&quot;hipocampo&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
-&lt;input type=&quot;checkbox&quot; id=&quot;hipocampo&quot; class=&quot;margin-toggle&quot; /&gt;
-&lt;span class=&quot;sidenote&quot;&gt;&lt;strong&gt;Hipocampo:&lt;/strong&gt; Estrutura do cérebro localizada nos lobos temporais, fundamental para a formação e consolidação de memórias, especialmente as de contexto e espaço.&lt;/span&gt;
- é uma estrutura do cérebro fundamental para a formação, consolidação e evocação de memórias, especialmente as de contexto e espaço. Localizado nos lobos temporais, ele faz parte do chamado sistema límbico e é altamente conservado entre mamíferos.&lt;/p&gt;
-
-&lt;p&gt;Sua estrutura básica é composta por três regiões principais: giro denteado (dentate gyrus), CA3 e CA1. O fluxo de informação segue uma via bem definida: o giro denteado recebe os estímulos iniciais e os transmite para a região CA3, que por sua vez projeta para a região CA1. Essa organização em “três sinapses” é clássica nos estudos de memória.&lt;/p&gt;
-
-&lt;p&gt;No experimento discutido no podcast, a ativação do hipocampo foi avaliada tanto pelo comportamento dos animais (resposta de congelamento) quanto por técnicas de registro da atividade neuronal e manipulação optogenética. Os pesquisadores focaram especialmente nas conexões entre CA3 e CA1, mostrando que a reorganização dessas conexões está relacionada à generalização da memória ao longo do tempo. Além disso, o uso de técnicas como GRASP permitiu visualizar sinapses específicas entre neurônios do engrama nessas regiões, revelando mudanças estruturais associadas à consolidação e à perda de especificidade da memória.&lt;/p&gt;
-
-&lt;h3 id=&quot;o-que-são-engramas&quot;&gt;O que são engramas?&lt;/h3&gt;
-
-&lt;p&gt;O conceito de engrama&lt;label for=&quot;engrama&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
-&lt;input type=&quot;checkbox&quot; id=&quot;engrama&quot; class=&quot;margin-toggle&quot; /&gt;
-&lt;span class=&quot;sidenote&quot;&gt;&lt;strong&gt;Engrama:&lt;/strong&gt; Conjunto de neurônios que armazenam uma memória específica, sendo ativados durante o aprendizado e a evocação dessa memória.&lt;/span&gt;
- foi proposto no início do século XX pelo biólogo alemão Richard Semon, que sugeriu que memórias seriam armazenadas como “traços físicos” ou alterações duradouras no cérebro. Por décadas, o termo permaneceu mais teórico do que experimental. A partir dos anos 2000, com o avanço de técnicas genéticas e ópticas, tornou-se possível identificar, marcar e manipular populações específicas de neurônios ativados durante a formação de uma memória — os chamados engramas.&lt;/p&gt;
-
-&lt;p&gt;Atualmente, engramas são definidos como conjuntos de neurônios que são ativados durante uma experiência e que, quando reativados, podem evocar a lembrança daquela experiência. Experimentalmente, pesquisadores utilizam marcadores de atividade gênica (como o gene Fos) e ferramentas como optogenética para identificar e manipular esses neurônios em modelos animais. Isso permite testar se a ativação artificial desses neurônios é suficiente para recuperar uma memória, ou se sua inibição impede a evocação.&lt;/p&gt;
-
-&lt;p&gt;Neste trabalho, o uso de engramas foi fundamental para investigar como as memórias se tornam menos específicas com o tempo. Ao marcar os neurônios ativos durante o aprendizado e acompanhar sua reativação em diferentes contextos e momentos, os autores puderam demonstrar que a generalização da memória está associada à reorganização dos circuitos de engrama no hipocampo.&lt;/p&gt;
-
-&lt;h3 id=&quot;o-modelo-experimental-e-os-experimentos-realizados&quot;&gt;O modelo experimental e os experimentos realizados&lt;/h3&gt;
-
-&lt;p&gt;O estudo analisado no episódio utilizou como base o modelo de condicionamento de medo contextual&lt;label for=&quot;condicionamento&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
-&lt;input type=&quot;checkbox&quot; id=&quot;condicionamento&quot; class=&quot;margin-toggle&quot; /&gt;
-&lt;span class=&quot;sidenote&quot;&gt;&lt;strong&gt;Condicionamento de medo contextual:&lt;/strong&gt; Modelo experimental em que um animal associa um ambiente a um estímulo aversivo, usado para estudar memória associativa.&lt;/span&gt;
- em camundongos, um dos paradigmas mais clássicos e robustos da neurociência comportamental para investigar memória associativa. Nesse modelo, o animal é colocado em um ambiente novo (contexto A) e recebe um estímulo aversivo (geralmente um leve choque nas patas). Após esse pareamento, o animal aprende a associar o contexto ao evento desagradável. Em testes posteriores, ao ser recolocado no mesmo ambiente, o camundongo exibe uma resposta de congelamento (freezing), que é interpretada como um indicativo de memória do evento aversivo. Para avaliar a especificidade e a generalização da memória, os animais também são testados em um contexto diferente (contexto B), que não foi associado ao choque. A diferença no comportamento de congelamento entre os contextos permite inferir o grau de precisão ou generalização da memória (Garelick &amp;amp; Storm, 2005).&lt;/p&gt;
-
-&lt;p&gt;No trabalho discutido, esse paradigma foi utilizado para investigar como a memória se torna menos específica ao longo do tempo e como os circuitos do hipocampo participam desse processo. Os experimentos principais envolveram:&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Avaliação temporal da memória:&lt;/strong&gt; Os camundongos foram testados em diferentes intervalos após o treinamento (um dia, duas semanas e 28 dias) para investigar como a especificidade da memória muda ao longo do tempo. Inicialmente, os animais congelam apenas no contexto A, mas após 28 dias passam a congelar também no contexto B, indicando generalização da memória.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Mapeamento dos engramas:&lt;/strong&gt; Os autores marcaram geneticamente os neurônios ativos durante o condicionamento de medo (engramas) e analisaram sua reativação durante a evocação da memória em diferentes contextos e tempos. Inicialmente, observaram uma sobreposição maior entre os neurônios ativados no treinamento e na evocação no contexto original (A), indicando alta especificidade da memória. Com o passar do tempo (28 dias), essa sobreposição se iguala entre os contextos A e B: os mesmos engramas são reativados em ambos, refletindo a generalização da memória. Além disso, o estudo mostrou que a generalização está associada a uma reorganização do circuito de engramas, tornando-o mais “promíscuo” (menos específico).&lt;/p&gt;
-
-&lt;p&gt;Esses resultados reforçam que os engramas não são estáticos, mas mudam ao longo do tempo, acompanhando a transformação da memória de específica para generalizada, e que processos como a neurogênese&lt;label for=&quot;neurogenese&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
-&lt;input type=&quot;checkbox&quot; id=&quot;neurogenese&quot; class=&quot;margin-toggle&quot; /&gt;
-&lt;span class=&quot;sidenote&quot;&gt;&lt;strong&gt;Neurogênese:&lt;/strong&gt; Processo de formação de novos neurônios no cérebro adulto, especialmente no hipocampo, importante para a plasticidade e flexibilidade da memória.&lt;/span&gt;
- e a plasticidade sináptica&lt;label for=&quot;plasticidade&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
-&lt;input type=&quot;checkbox&quot; id=&quot;plasticidade&quot; class=&quot;margin-toggle&quot; /&gt;
-&lt;span class=&quot;sidenote&quot;&gt;&lt;strong&gt;Plasticidade sináptica:&lt;/strong&gt; Capacidade das conexões entre neurônios (sinapses) de se fortalecerem ou enfraquecerem em resposta à atividade, permitindo o aprendizado e a adaptação do cérebro.&lt;/span&gt;
- desempenham papel ativo nessa dinâmica.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Registro e manipulação de circuitos:&lt;/strong&gt; Foram usados indicadores de cálcio e optogenética para registrar e manipular a atividade dos circuitos CA3-CA1 do hipocampo, mostrando que a generalização depende desses circuitos. A inibição desses caminhos reduz o congelamento tanto no contexto A quanto no B.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Análise sináptica com GRASP:&lt;/strong&gt; Uma técnica inovadora permitiu visualizar sinapses formadas entre neurônios do engrama. Surpreendentemente, após 28 dias, há mais sinapses entre CA3 e CA1 associadas ao engrama, e essas sinapses se tornam mais agrupadas, sugerindo reorganização estrutural do circuito de memória ao longo do tempo.&lt;/p&gt;
-
-&lt;p&gt;Além dos resultados sobre circuitos e sinapses, o estudo investigou o papel da neurogênese adulta (formação de novos neurônios no hipocampo) na generalização e especificidade das memórias. Os autores mostraram que, quando a neurogênese é bloqueada (por radiação), a memória permanece específica mesmo após 28 dias: os animais congelam apenas no contexto original (A), não generalizando para o contexto B. Por outro lado, quando a neurogênese é estimulada (por exercício), a generalização ocorre mais cedo: os animais passam a congelar tanto em A quanto em B já no tempo intermediário, como se a memória tivesse se tornado menos específica mais rapidamente. Ou seja, a neurogênese acelera a reestruturação dos engramas e a perda de especificidade da memória, enquanto sua ausência mantém a memória mais precisa.&lt;/p&gt;
-
-&lt;p&gt;A interpretação dos autores é que a generalização da memória mediada pela neurogênese pode ser um processo ativo e adaptativo do cérebro, e não uma falha. Isso sugere que a neurogênese adulta contribui para tornar as memórias mais flexíveis e generalizáveis ao longo do tempo.&lt;/p&gt;
-
-&lt;h3 id=&quot;resultados-e-comentários-dos-apresentadores&quot;&gt;Resultados e comentários dos apresentadores&lt;/h3&gt;
-
-&lt;p&gt;Os resultados mostram que, com o passar do tempo, a memória se torna menos específica e mais “promíscua”, ou seja, o animal passa a generalizar o contexto do medo. Os apresentadores destacam que isso pode ser uma característica adaptativa da memória, permitindo que experiências passadas sejam usadas para prever situações futuras semelhantes, mesmo que não idênticas.&lt;/p&gt;
-
-&lt;p&gt;Jason Shepherd comenta que a generalização não é simplesmente esquecimento, mas sim uma reorganização ativa dos circuitos de memória, possivelmente vantajosa para a sobrevivência. Timothy Cheung ressalta que o esquecimento pode ser um processo ativo e necessário, e que a plasticidade sináptica observada pode explicar por que memórias antigas se tornam menos precisas.&lt;/p&gt;
-
-&lt;p&gt;Nesse sentido, o conceito de “extinção de memória”&lt;label for=&quot;extincao&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
-&lt;input type=&quot;checkbox&quot; id=&quot;extincao&quot; class=&quot;margin-toggle&quot; /&gt;
-&lt;span class=&quot;sidenote&quot;&gt;&lt;strong&gt;Extinção de memória:&lt;/strong&gt; Processo pelo qual uma resposta aprendida (como o medo) diminui quando o estímulo aversivo deixa de ser apresentado, envolvendo a formação de uma nova memória de segurança.&lt;/span&gt;
- pode ter relação com os achados gerais desse novo experimento. A extinção de memória, segundo Garelick &amp;amp; Storm (2005), é um processo pelo qual uma resposta condicionada (como o medo aprendido em um contexto) diminui gradualmente quando o estímulo aversivo deixa de ser apresentado repetidamente naquele contexto. Ou seja, o animal aprende que o ambiente antes perigoso agora é seguro, e a resposta de congelamento vai desaparecendo. Esse processo não é simplesmente o esquecimento da memória original, mas sim a formação de uma nova memória de segurança que compete com a memória de medo. Alterações ou falhas nesse mecanismo de extinção estão associadas a transtornos como ansiedade e TEPT, nos quais memórias aversivas persistem de forma patológica.&lt;/p&gt;
-
-&lt;p&gt;No conto de Chiang, por exemplo, ele lembra a história de Solomon Shereshevsky, jornalista russo ativo nos anos 20. O escritor usa seu caso como exemplo de problemas que uma memória “excessivamente” precisa pode trazer para as pessoas. Na verdade, Shereshevsky tinha uma habilidade ímpar de memorizar baseada numa faculdade de sinestesia muito pronunciada e sua utilização para criar pistas e fórmulas mnemônicas. Ele realmente tinha uma memória prodigiosa, mas não era verdade que não podia, ou conseguia, esquecer. Porém é fato que o uso frequente de suas habilidades lhe trouxe problemas de saúde mental, como ansiedade e confusão.&lt;/p&gt;
-
-&lt;p&gt;Os apresentadores também discutem a controvérsia sobre a estabilidade dos engramas e a transferência da memória do hipocampo para o córtex ao longo do tempo. Ainda são questões a serem exploradas a dinâmica dos engramas ao longo do tempo e como a atividade destes circuitos se correlaciona com a atividade das outras áreas cerebrais. Um ponto levantado por Vivianne Morrison e comentado por Jason Sheperd foi o fato de que engramas podem mudar ao longo do tempo em diferentes modelos experimentais, e essa “deriva” (drift) não é bem explicada. Shepherd discutiu que, apesar de observado em outros modelos experimentais, a deriva de engramas é controversa e acredita-se que, no modelo de condicionamento de medo contextual, os engramas parecem ser estáveis. Algo que ele mesmo já havia comentado é que, nesse modelo, foi possível detectar a ativação de 10-20% dos neurônios do hipocampo após o condicionamento, porém o engrama final deve ser muito menor do que isso, como mostrou a sobreposição de 10-15% das células ativadas durante a recuperação da memória. Já os mecanismos responsáveis pelo armazenamento de memórias de longo prazo no córtex ainda precisam ser melhor esclarecidos.&lt;/p&gt;
-
-&lt;h2 id=&quot;questões-e-reflexões-levantadas-no-episódio&quot;&gt;Questões e reflexões levantadas no episódio&lt;/h2&gt;
-
-&lt;p&gt;Além dos resultados experimentais, o episódio trouxe reflexões importantes:&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Memória e identidade:&lt;/strong&gt; Até que ponto somos definidos pelas memórias que mantemos? O que acontece com o “eu” quando memórias são perdidas ou alteradas?&lt;/p&gt;
-
-&lt;p&gt;Chiang discute em seu conto como é possível que as memórias que mantemos sejam versões resumidas e idealizadas dos fatos que realmente vivemos. A literatura está cheia de exemplos do “Efeito Mandela”, ou a suposta geração e persistência de memórias falsas coletivamente. Não vou discorrer sobre esse assunto aqui, até porque não necessariamente tem a ver com o tema da pesquisa. Porém, o efeito de reorganização das memórias que observamos com o tempo é complexo e bem conhecido da psicologia e as descobertas descritas nesse trabalho podem acrescentar mais um elemento nos mecanismos neurais por trás disso, além de fenômenos já conhecidos como a consolidação e a reconsolidação de memórias de longo prazo, além da extinção da memória.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Plasticidade e esquecimento:&lt;/strong&gt; O esquecimento é um processo ativo e necessário? Como o cérebro decide o que manter e o que descartar?&lt;/p&gt;
-
-&lt;p&gt;Uma possível implicação que não surgiu na discussão desse trabalho e não encontrei na literatura é acerca da criatividade humana. O processo de criação é complexo e multifacetado, mas seria possível enxergar uma possível participação de um mecanismo neural que transforme uma memória específica em uma memória generalizada. A capacidade de generalizar a partir de observações é crucial para a geração de novos conhecimentos científicos, sendo um pilar do método indutivo e seus derivados. Um mecanismo como esse descrito nesse trabalho, em que uma memória registrada para um determinado contexto pode ser generalizada para outros, poderia ele mesmo (ou algum mecanisno assemelhado ou afim) ter a ver com a capacidade de aprender e generalizar o aprendizado e formar novos conhecimentos no ser humano.&lt;/p&gt;
-
-&lt;h2 id=&quot;significado-para-a-ciência-e-para-a-sociedade&quot;&gt;Significado para a ciência e para a sociedade&lt;/h2&gt;
-
-&lt;p&gt;O estudo representa um avanço importante na compreensão dos mecanismos biológicos da memória, mostrando que a consolidação e a reorganização dos circuitos neuronais são processos dinâmicos e adaptativos. Isso destaca a importância do diálogo entre ciência, filosofia e ética diante dos avanços rápidos da neurociência.&lt;/p&gt;
-
-&lt;h2 id=&quot;o-que-é-o-twin&quot;&gt;O que é o TWiN?&lt;/h2&gt;
-
-&lt;p&gt;O TWiN (This Week in Neuroscience) é um podcast dedicado a discutir os avanços mais recentes em neurociência, com participação de especialistas renomados. O programa faz parte da rede MicrobeTV e está disponível em &lt;a href=&quot;https://www.microbe.tv/twin/&quot;&gt;microbe.tv/twin&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h3 id=&quot;equipe-do-twin&quot;&gt;Equipe do TWiN&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Vincent Racaniello (Universidade Columbia, EUA)&lt;/li&gt;
-  &lt;li&gt;Jason Shepherd (Universidade de Utah, EUA)&lt;/li&gt;
-  &lt;li&gt;Timothy Cheung (Universidade de Nova Iorque, EUA)&lt;/li&gt;
-  &lt;li&gt;Vivianne Morrison (Universidade de Tulane, EUA)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Todos os participantes e colaboradores contribuem para o debate qualificado sobre neurociência no podcast.&lt;/p&gt;
-
-&lt;h2 id=&quot;referências&quot;&gt;Referências&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.nature.com/articles/s41586-025-08993-1&quot;&gt;Artigo original na Nature&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.microbe.tv/twin/twin-60/&quot;&gt;TWiN 60: Somos a memória que temos&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=UonSUOcWM80&quot;&gt;Episódio no YouTube&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1166639/&quot;&gt;Garelick &amp;amp; Storm. PNAS, 2005&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;em&gt;Sobre a citação inicial:&lt;/em&gt; A frase que inspira o título deste post é de José Saramago, escritor português e Prêmio Nobel de Literatura. Saramago escreveu estas palavras em seu livro  “Cadernos de Lanzarote I”, ao refletir sobre a importância da memória e da responsabilidade na construção da identidade individual e coletiva.&lt;/p&gt;
-</description>
-        <pubDate>Thu, 26 Jun 2025 12:00:00 -0300</pubDate>
-        <link>https://fhcflx.github.io/ciencia-medica/2025/06/26/memoria-twin-2025.html</link>
-        <guid isPermaLink="true">https://fhcflx.github.io/ciencia-medica/2025/06/26/memoria-twin-2025.html</guid>
-        
-        <category>Memória</category>
-        
-        <category>Neurociência</category>
-        
-        <category>Podcast</category>
-        
-        <category>Pesquisa científica</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Somos la memoria que tenemos: la neurociencia de la memoria</title>
-        <description>&lt;blockquote&gt;
-  &lt;p&gt;“Somos la memoria que tenemos y la responsabilidad que asumimos. Sin memoria no existimos, sin responsabilidad tal vez no merezcamos existir.”&lt;/p&gt;
-
-  &lt;p&gt;— José Saramago&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;El episodio 60 del podcast &lt;a href=&quot;https://www.microbe.tv/twin/twin-60/&quot;&gt;TWiN (This Week in Neuroscience)&lt;/a&gt; trajo un análisis profundo del artículo publicado en &lt;a href=&quot;https://www.nature.com/articles/s41586-025-08993-1&quot;&gt;Nature&lt;/a&gt; en 2025, que presenta descubrimientos innovadores sobre los mecanismos celulares y moleculares de la memoria. El episodio también está disponible en &lt;a href=&quot;https://www.youtube.com/watch?v=UonSUOcWM80&quot;&gt;YouTube&lt;/a&gt;. Los participantes discutieron no solo los resultados del estudio, sino también las posibles implicaciones clínicas e incluso filosóficas de lo que llamo “ser la memoria que tenemos”. Este tema también fue discutido en el cuento de Ted Chiang “La verdad del hechos. La verdad del sentimiento.” (2013). En el cuento, cuestiona la exactitud de la memoria humana.
-&lt;!--more--&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;introducción-por-qué-estudiar-la-memoria&quot;&gt;Introducción: ¿Por qué estudiar la memoria?&lt;/h2&gt;
-
-&lt;p&gt;La memoria es uno de los pilares de la identidad humana, fundamental para el aprendizaje, la toma de decisiones y la construcción de nuestro sentido del yo. Las alteraciones en la memoria están en el centro de enfermedades como el Alzheimer, las demencias y los trastornos psiquiátricos. Comprender cómo se forman, almacenan y recuperan los recuerdos es uno de los mayores desafíos de la neurociencia moderna.&lt;label for=&quot;neurociencia-es&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
-&lt;input type=&quot;checkbox&quot; id=&quot;neurociencia-es&quot; class=&quot;margin-toggle&quot; /&gt;
-&lt;span class=&quot;sidenote&quot;&gt;&lt;strong&gt;Neurociencia:&lt;/strong&gt; Área de la ciencia que estudia el sistema nervioso, incluyendo el cerebro, la médula espinal y los nervios periféricos. Investiga cómo funcionan estos órganos, cómo se comunican y cómo influyen en el comportamiento, las emociones y las enfermedades.&lt;/span&gt;
- Como mostró Oliver Sacks en su descripción del músico Clive Wearing en “Musicofilia: Relatos de la música y el cerebro” (2007), “la memoria que tenemos” se confunde con nuestra identidad. Sacks describió el caso de un músico que, tras una infección viral (encefalitis por herpes simple), perdió la capacidad de retener nuevos recuerdos y casi toda la memoria que tenía del pasado. Las estructuras que conocemos como “hipocampo”, en los lóbulos temporales del cerebro, fueron destruidas por la infección de Wearing. “Él” sobrevivió, pero su identidad, lo que era, se vio profundamente afectada. A pesar de sus graves deficiencias, aún podía cantar, tocar música y reconocer a su esposa. Algo de sí mismo permaneció, a pesar de su lesión y pérdida de memoria.&lt;/p&gt;
-
-&lt;p&gt;Este caso real, junto con otros reales o ficticios presentados en la literatura (como en el cuento de Chiang), muestra cómo la memoria es la base de nuestra identidad, haciendo que la frase de Saramago sea mucho más que retórica. También muestra cuánto nos queda por aprender sobre la memoria. ¿Por qué las lesiones en estructuras discretas como el hipocampo la afectan tanto aunque el resto del cerebro permanezca intacto? Hoy en día ya se conocen algunas respuestas, pocas, pero muchas cosas son solo hipótesis y necesitan ser probadas. El trabajo presentado por el equipo de TWiN mostró precisamente una de estas fascinantes líneas de investigación.&lt;/p&gt;
-
-&lt;h2 id=&quot;el-estudio-nuevos-mecanismos-de-la-memoria&quot;&gt;El estudio: Nuevos mecanismos de la memoria&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41586-025-08993-1/MediaObjects/41586_2025_8993_Fig1_HTML.png&quot; alt=&quot;Figura del artículo de Nature 2025 - Engramas y reorganización de la memoria&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Figura 1 del artículo original: Esquema experimental y principales hallazgos sobre la reorganización de los engramas y la generalización de la memoria a lo largo del tiempo en ratones. Fuente: &lt;a href=&quot;https://www.nature.com/articles/s41586-025-08993-1&quot;&gt;Nature, 2025&lt;/a&gt; (uso académico, derechos del autor original).&lt;/em&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;qué-es-el-hipocampo-&quot;&gt;¿Qué es el hipocampo? &lt;label for=&quot;hipocampo-es&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;input type=&quot;checkbox&quot; id=&quot;hipocampo-es&quot; class=&quot;margin-toggle&quot; /&gt;
-&lt;span class=&quot;sidenote&quot;&gt;&lt;strong&gt;Hipocampo:&lt;/strong&gt; Estructura cerebral situada en los lóbulos temporales, fundamental para la formación y consolidación de recuerdos, especialmente los de contexto y espacio.&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;El hipocampo es una estructura cerebral fundamental para la formación, consolidación y evocación de recuerdos, especialmente los de contexto y espacio. Ubicado en los lóbulos temporales, forma parte del llamado sistema límbico y está altamente conservado entre mamíferos.&lt;/p&gt;
-
-&lt;p&gt;Su estructura básica se compone de tres regiones principales: giro dentado, CA3 y CA1. El flujo de información sigue una vía bien definida: el giro dentado recibe los estímulos iniciales y los transmite a la región CA3, que a su vez proyecta a la región CA1. Esta organización “trisynáptica” es clásica en los estudios de la memoria.&lt;/p&gt;
-
-&lt;p&gt;En el experimento discutido en el podcast, la activación del hipocampo se evaluó tanto por el comportamiento de los animales (respuesta de congelación) como por técnicas de registro de la actividad neuronal y manipulación optogenética. Los investigadores se centraron especialmente en las conexiones entre CA3 y CA1, mostrando que la reorganización de estas conexiones está relacionada con la generalización de la memoria a lo largo del tiempo. Además, el uso de técnicas como GRASP permitió visualizar sinapsis específicas entre neuronas del engrama en estas regiones, revelando cambios estructurales asociados a la consolidación y la pérdida de especificidad de la memoria.&lt;/p&gt;
-
-&lt;h3 id=&quot;qué-son-los-engramas-&quot;&gt;¿Qué son los engramas? &lt;label for=&quot;engrama-es&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;input type=&quot;checkbox&quot; id=&quot;engrama-es&quot; class=&quot;margin-toggle&quot; /&gt;
-&lt;span class=&quot;sidenote&quot;&gt;&lt;strong&gt;Engrama:&lt;/strong&gt; Conjunto de neuronas que almacenan un recuerdo específico, activándose durante el aprendizaje y la evocación de ese recuerdo.&lt;/span&gt;&lt;/p&gt;
-
-&lt;p&gt;El concepto de engrama fue propuesto a principios del siglo XX por el biólogo alemán Richard Semon, quien sugirió que los recuerdos se almacenarían como “huellas físicas” o cambios duraderos en el cerebro. Durante décadas, el término permaneció más teórico que experimental. A partir de los años 2000, con el avance de las técnicas genéticas y ópticas, fue posible identificar, marcar y manipular poblaciones específicas de neuronas activadas durante la formación de un recuerdo: los llamados engramas.&lt;/p&gt;
-
-&lt;p&gt;Actualmente, los engramas se definen como conjuntos de neuronas que se activan durante una experiencia y que, al reactivarse, pueden evocar el recuerdo de esa experiencia. Experimentalmente, los investigadores utilizan marcadores de actividad génica (como el gen Fos) y herramientas como la optogenética para identificar y manipular estas neuronas en modelos animales. Esto permite probar si la activación artificial de estas neuronas es suficiente para recuperar un recuerdo, o si su inhibición impide la evocación.&lt;/p&gt;
-
-&lt;p&gt;En este trabajo, el uso de engramas fue fundamental para investigar cómo los recuerdos se vuelven menos específicos con el tiempo. Al marcar las neuronas activas durante el aprendizaje y seguir su reactivación en diferentes contextos y momentos, los autores pudieron demostrar que la generalización de la memoria está asociada a la reorganización de los circuitos de engrama en el hipocampo.&lt;/p&gt;
-
-&lt;h3 id=&quot;el-modelo-experimental-y-los-experimentos-realizados&quot;&gt;El modelo experimental y los experimentos realizados&lt;/h3&gt;
-
-&lt;p&gt;El estudio analizado en el episodio utilizó como base el modelo de condicionamiento de miedo contextual&lt;label for=&quot;condicionamento-es&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
-&lt;input type=&quot;checkbox&quot; id=&quot;condicionamento-es&quot; class=&quot;margin-toggle&quot; /&gt;
-&lt;span class=&quot;sidenote&quot;&gt;&lt;strong&gt;Condicionamiento de miedo contextual:&lt;/strong&gt; Modelo experimental en el que un animal asocia un entorno con un estímulo aversivo, utilizado para estudiar la memoria asociativa.&lt;/span&gt;
- en ratones, uno de los paradigmas más clásicos y robustos de la neurociencia conductual para investigar la memoria asociativa. En este modelo, el animal se coloca en un entorno nuevo (contexto A) y recibe un estímulo aversivo (generalmente una leve descarga en las patas). Tras este emparejamiento, el animal aprende a asociar el contexto con el evento desagradable. En pruebas posteriores, al ser colocado de nuevo en el mismo entorno, el ratón muestra una respuesta de congelación, que se interpreta como un indicio de memoria del evento aversivo. Para evaluar la especificidad y la generalización de la memoria, los animales también se prueban en un contexto diferente (contexto B), que no se asoció con la descarga. La diferencia en el comportamiento de congelación entre los contextos permite inferir el grado de precisión o generalización de la memoria (Garelick &amp;amp; Storm, 2005).&lt;/p&gt;
-
-&lt;p&gt;En el trabajo discutido, este paradigma se utilizó para investigar cómo la memoria se vuelve menos específica con el tiempo y cómo los circuitos del hipocampo participan en este proceso. Los experimentos principales incluyeron:&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Evaluación temporal de la memoria:&lt;/strong&gt; Los ratones se probaron en diferentes intervalos después del entrenamiento (un día, dos semanas y 28 días) para investigar cómo cambia la especificidad de la memoria con el tiempo. Inicialmente, los animales se congelan solo en el contexto A, pero después de 28 días también se congelan en el contexto B, lo que indica generalización de la memoria.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Mapeo de engramas:&lt;/strong&gt; Los autores marcaron genéticamente las neuronas activas durante el condicionamiento de miedo (engramas) y analizaron su reactivación durante la evocación de la memoria en diferentes contextos y momentos. Inicialmente, observaron una mayor superposición entre las neuronas activadas en el entrenamiento y en la evocación en el contexto original (A), lo que indica alta especificidad de la memoria. Con el tiempo (28 días), esta superposición se iguala entre los contextos A y B: los mismos engramas se reactivan en ambos, reflejando la generalización de la memoria. Además, el estudio mostró que la generalización está asociada a una reorganización del circuito de engramas, haciéndolo más “promiscuo” (menos específico).&lt;/p&gt;
-
-&lt;p&gt;Estos resultados refuerzan que los engramas no son estáticos, sino que cambian con el tiempo, acompañando la transformación de la memoria de específica a generalizada, y que procesos como la neurogénesis&lt;label for=&quot;neurogenese-es&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
-&lt;input type=&quot;checkbox&quot; id=&quot;neurogenese-es&quot; class=&quot;margin-toggle&quot; /&gt;
-&lt;span class=&quot;sidenote&quot;&gt;&lt;strong&gt;Neurogénesis:&lt;/strong&gt; Proceso de formación de nuevas neuronas en el cerebro adulto, especialmente en el hipocampo, importante para la plasticidad y flexibilidad de la memoria.&lt;/span&gt;
- y la plasticidad sináptica&lt;label for=&quot;plasticidade-es&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
-&lt;input type=&quot;checkbox&quot; id=&quot;plasticidade-es&quot; class=&quot;margin-toggle&quot; /&gt;
-&lt;span class=&quot;sidenote&quot;&gt;&lt;strong&gt;Plasticidad sináptica:&lt;/strong&gt; Capacidad de las conexiones entre neuronas (sinapsis) de fortalecerse o debilitarse en respuesta a la actividad, permitiendo el aprendizaje y la adaptación cerebral.&lt;/span&gt;
- desempeñan un papel activo en esta dinámica.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Registro y manipulación de circuitos:&lt;/strong&gt; Se utilizaron indicadores de calcio y optogenética para registrar y manipular la actividad de los circuitos CA3-CA1 del hipocampo, mostrando que la generalización depende de estos circuitos. La inhibición de estas vías reduce la congelación tanto en el contexto A como en el B.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Análisis sináptico con GRASP:&lt;/strong&gt; Una técnica innovadora permitió visualizar sinapsis formadas entre neuronas del engrama. Sorprendentemente, después de 28 días, hay más sinapsis entre CA3 y CA1 asociadas al engrama, y estas sinapsis se agrupan más, lo que sugiere una reorganización estructural del circuito de la memoria a lo largo del tiempo.&lt;/p&gt;
-
-&lt;p&gt;Además de los resultados sobre circuitos y sinapsis, el estudio investigó el papel de la neurogénesis adulta (formación de nuevas neuronas en el hipocampo) en la generalización y especificidad de los recuerdos. Los autores demostraron que, cuando la neurogénesis se bloquea (por radiación), la memoria permanece específica incluso después de 28 días: los animales se congelan solo en el contexto original (A), sin generalizar al contexto B. Por otro lado, cuando la neurogénesis se estimula (por ejercicio), la generalización ocurre antes: los animales se congelan tanto en A como en B ya en el tiempo intermedio, como si la memoria se hubiera vuelto menos específica más rápidamente. Es decir, la neurogénesis acelera la reestructuración de los engramas y la pérdida de especificidad de la memoria, mientras que su ausencia mantiene la memoria más precisa.&lt;/p&gt;
-
-&lt;p&gt;La interpretación de los autores es que la generalización de la memoria mediada por la neurogénesis puede ser un proceso activo y adaptativo del cerebro, y no un fallo. Esto sugiere que la neurogénesis adulta contribuye a hacer que los recuerdos sean más flexibles y generalizables a lo largo del tiempo.&lt;/p&gt;
-
-&lt;h3 id=&quot;resultados-y-comentarios-de-los-presentadores&quot;&gt;Resultados y comentarios de los presentadores&lt;/h3&gt;
-
-&lt;p&gt;Los resultados muestran que, con el tiempo, la memoria se vuelve menos específica y más “promiscua”, es decir, el animal comienza a generalizar el contexto del miedo. Los presentadores destacan que esto puede ser una característica adaptativa de la memoria, permitiendo que las experiencias pasadas se utilicen para predecir situaciones futuras similares, aunque no idénticas.&lt;/p&gt;
-
-&lt;p&gt;Jason Shepherd comenta que la generalización no es simplemente olvido, sino una reorganización activa de los circuitos de la memoria, posiblemente ventajosa para la supervivencia. Timothy Cheung señala que el olvido puede ser un proceso activo y necesario, y que la plasticidad sináptica observada puede explicar por qué los recuerdos antiguos se vuelven menos precisos.&lt;/p&gt;
-
-&lt;p&gt;En este sentido, el concepto de “extinción de la memoria”&lt;label for=&quot;extincao-es&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
-&lt;input type=&quot;checkbox&quot; id=&quot;extincao-es&quot; class=&quot;margin-toggle&quot; /&gt;
-&lt;span class=&quot;sidenote&quot;&gt;&lt;strong&gt;Extinción de la memoria:&lt;/strong&gt; Proceso por el cual una respuesta aprendida (como el miedo) disminuye cuando el estímulo aversivo deja de presentarse, implicando la formación de un nuevo recuerdo de seguridad.&lt;/span&gt;
- puede estar relacionado con los hallazgos generales de este nuevo experimento. La extinción de la memoria, según Garelick &amp;amp; Storm (2005), es un proceso por el cual una respuesta condicionada (como el miedo aprendido en un contexto) disminuye gradualmente cuando el estímulo aversivo deja de presentarse repetidamente en ese contexto. Es decir, el animal aprende que el entorno antes peligroso ahora es seguro, y la respuesta de congelación desaparece. Este proceso no es simplemente el olvido de la memoria original, sino la formación de un nuevo recuerdo de seguridad que compite con la memoria de miedo. Las alteraciones o fallos en este mecanismo de extinción están asociados a trastornos como la ansiedad y el TEPT, en los que los recuerdos aversivos persisten de forma patológica.&lt;/p&gt;
-
-&lt;p&gt;En el cuento de Chiang, por ejemplo, recuerda la historia de Solomon Shereshevsky, periodista ruso activo en los años 20. El escritor utiliza su caso como ejemplo de los problemas que una memoria “excesivamente” precisa puede acarrear a las personas. En realidad, Shereshevsky tenía una habilidad única para memorizar basada en una sinestesia muy pronunciada y su uso para crear pistas y fórmulas mnemotécnicas. Realmente tenía una memoria prodigiosa, pero no era cierto que no pudiera, o no supiera, olvidar. Sin embargo, es un hecho que el uso frecuente de sus habilidades le trajo problemas de salud mental, como ansiedad y confusión.&lt;/p&gt;
-
-&lt;p&gt;Los presentadores también discuten la controversia sobre la estabilidad de los engramas y la transferencia de la memoria del hipocampo a la corteza a lo largo del tiempo. Aún quedan cuestiones por explorar sobre la dinámica de los engramas a lo largo del tiempo y cómo la actividad de estos circuitos se correlaciona con la actividad de otras áreas cerebrales. Un punto planteado por Vivianne Morrison y comentado por Jason Shepherd fue el hecho de que los engramas pueden cambiar con el tiempo en diferentes modelos experimentales, y este “deriva” no está bien explicado. Shepherd discutió que, aunque se ha observado en otros modelos experimentales, la deriva de los engramas es controvertida y se cree que, en el modelo de condicionamiento de miedo contextual, los engramas parecen ser estables. También comentó que, en este modelo, fue posible detectar la activación del 10-20% de las neuronas del hipocampo tras el condicionamiento, pero el engrama final debe ser mucho menor que eso, como mostró la superposición del 10-15% de las células activadas durante la recuperación de la memoria. Los mecanismos responsables del almacenamiento de recuerdos a largo plazo en la corteza aún deben aclararse.&lt;/p&gt;
-
-&lt;h2 id=&quot;cuestiones-y-reflexiones-planteadas-en-el-episodio&quot;&gt;Cuestiones y reflexiones planteadas en el episodio&lt;/h2&gt;
-
-&lt;p&gt;Además de los resultados experimentales, el episodio trajo reflexiones importantes:&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Memoria e identidad:&lt;/strong&gt; ¿Hasta qué punto estamos definidos por los recuerdos que mantenemos? ¿Qué ocurre con el “yo” cuando los recuerdos se pierden o se alteran?&lt;/p&gt;
-
-&lt;p&gt;Chiang discute en su cuento cómo es posible que los recuerdos que mantenemos sean versiones resumidas e idealizadas de los hechos que realmente vivimos. La literatura está llena de ejemplos del “Efecto Mandela”, o la supuesta generación y persistencia de recuerdos falsos de forma colectiva. No voy a profundizar en este tema aquí, ya que no necesariamente tiene que ver con el tema de la investigación. Sin embargo, el efecto de reorganización de los recuerdos que observamos con el tiempo es complejo y bien conocido en la psicología, y los descubrimientos descritos en este trabajo pueden añadir un elemento más a los mecanismos neuronales detrás de esto, además de fenómenos ya conocidos como la consolidación y reconsolidación de recuerdos a largo plazo, así como la extinción de la memoria.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Plasticidad y olvido:&lt;/strong&gt; ¿El olvido es un proceso activo y necesario? ¿Cómo decide el cerebro qué mantener y qué descartar?&lt;/p&gt;
-
-&lt;p&gt;Una posible implicación que no surgió en la discusión de este trabajo y que no encontré en la literatura se refiere a la creatividad humana. El proceso de creación es complejo y multifacético, pero sería posible ver una posible participación de un mecanismo neuronal que convierta un recuerdo específico en un recuerdo generalizado. La capacidad de generalizar a partir de observaciones es crucial para la generación de nuevos conocimientos científicos, siendo un pilar del método inductivo y sus derivados. Un mecanismo como el descrito en este trabajo, en el que un recuerdo registrado para un determinado contexto puede generalizarse a otros, podría él mismo (o algún mecanismo derivado o afín) estar relacionado con la capacidad de aprender y generalizar el aprendizaje y formar nuevos conocimientos en el ser humano.&lt;/p&gt;
-
-&lt;h2 id=&quot;significado-para-la-ciencia-y-la-sociedad&quot;&gt;Significado para la ciencia y la sociedad&lt;/h2&gt;
-
-&lt;p&gt;El estudio representa un avance importante en la comprensión de los mecanismos biológicos de la memoria, mostrando que la consolidación y la reorganización de los circuitos neuronales son procesos dinámicos y adaptativos. Esto destaca la importancia del diálogo entre la ciencia, la filosofía y la ética ante los rápidos avances de la neurociencia.&lt;/p&gt;
-
-&lt;h2 id=&quot;qué-es-twin&quot;&gt;¿Qué es TWiN?&lt;/h2&gt;
-
-&lt;p&gt;TWiN (This Week in Neuroscience) es un podcast dedicado a discutir los avances más recientes en neurociencia, con la participación de expertos reconocidos. El programa forma parte de la red MicrobeTV y está disponible en &lt;a href=&quot;https://www.microbe.tv/twin/&quot;&gt;microbe.tv/twin&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h3 id=&quot;equipo-de-twin&quot;&gt;Equipo de TWiN&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Vincent Racaniello (Universidad de Columbia, EE. UU.)&lt;/li&gt;
-  &lt;li&gt;Jason Shepherd (Universidad de Utah, EE. UU.)&lt;/li&gt;
-  &lt;li&gt;Timothy Cheung (Universidad de Nueva York, EE. UU.)&lt;/li&gt;
-  &lt;li&gt;Vivianne Morrison (Universidad de Tulane, EE. UU.)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Todos los participantes y colaboradores contribuyen al debate calificado sobre neurociencia en el podcast.&lt;/p&gt;
-
-&lt;h2 id=&quot;referencias&quot;&gt;Referencias&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.nature.com/articles/s41586-025-08993-1&quot;&gt;Artículo original en Nature&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.microbe.tv/twin/twin-60/&quot;&gt;TWiN 60: Somos la memoria que tenemos&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=UonSUOcWM80&quot;&gt;Episodio en YouTube&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1166639/&quot;&gt;Garelick &amp;amp; Storm. PNAS, 2005&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;em&gt;Sobre la cita inicial:&lt;/em&gt; La frase que inspira el título de este post es de José Saramago, escritor portugués y Premio Nobel de Literatura. Saramago escribió estas palabras en su libro “Cadernos de Lanzarote I”, al reflexionar sobre la importancia de la memoria y la responsabilidad en la construcción de la identidad individual y colectiva.&lt;/p&gt;
-</description>
-        <pubDate>Thu, 26 Jun 2025 12:00:00 -0300</pubDate>
-        <link>https://fhcflx.github.io/ciencia-medica/2025/06/26/memoria-twin-2025-es.html</link>
-        <guid isPermaLink="true">https://fhcflx.github.io/ciencia-medica/2025/06/26/memoria-twin-2025-es.html</guid>
-        
-        <category>Memoria</category>
-        
-        <category>Neurociencia</category>
-        
-        <category>Podcast</category>
-        
-        <category>Investigación científica</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Marcelo Gleiser: O Físico Brasileiro Premiado com o Templeton</title>
-        <description>&lt;p&gt;O físico brasileiro &lt;strong&gt;&lt;a href=&quot;https://pt.wikipedia.org/wiki/Marcelo_Gleiser&quot;&gt;Marcelo Gleiser&lt;/a&gt;&lt;/strong&gt; é reconhecido internacionalmente por suas contribuições à ciência e à divulgação científica. Em 2019, tornou-se o primeiro latino-americano e o único brasileiro a receber o prestigioso &lt;strong&gt;Prêmio Templeton&lt;/strong&gt;&lt;label for=&quot;premio-templeton&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
-&lt;input type=&quot;checkbox&quot; id=&quot;premio-templeton&quot; class=&quot;margin-toggle&quot; /&gt;
-&lt;span class=&quot;sidenote&quot;&gt;&lt;strong&gt;Prêmio Templeton:&lt;/strong&gt; Prêmio internacional criado em 1972 para reconhecer pessoas que contribuem de forma excepcional para afirmar a dimensão espiritual da vida, seja por meio de descobertas científicas, filosóficas ou ações práticas.&lt;/span&gt;
-, um dos maiores prêmios internacionais concedidos a cientistas e pensadores que ampliam a compreensão da humanidade sobre a existência. O próprio Gleiser se define como agnóstico, defendendo o diálogo entre ciência e espiritualidade. &lt;label for=&quot;agnosticismo&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
-&lt;input type=&quot;checkbox&quot; id=&quot;agnosticismo&quot; class=&quot;margin-toggle&quot; /&gt;
-&lt;span class=&quot;sidenote&quot;&gt;&lt;strong&gt;Agnosticismo:&lt;/strong&gt; Posição filosófica segundo a qual não é possível afirmar nem negar a existência de Deus, do divino ou de realidades metafísicas, por falta de evidências suficientes. O agnosticismo é comum em debates sobre ciência e espiritualidade.&lt;/span&gt;&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;h2 id=&quot;biografia-e-formação&quot;&gt;Biografia e Formação&lt;/h2&gt;
-
-&lt;p&gt;Marcelo Gleiser nasceu em 19 de março de 1959, no Rio de Janeiro. De família judaica, ele conta que, no seu Bar Mitzvah&lt;label for=&quot;bar-mitzvah&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
-&lt;input type=&quot;checkbox&quot; id=&quot;bar-mitzvah&quot; class=&quot;margin-toggle&quot; /&gt;
-&lt;span class=&quot;sidenote&quot;&gt;&lt;strong&gt;Bar Mitzvah:&lt;/strong&gt; Cerimônia judaica que marca a maioridade religiosa de meninos aos 13 anos. Após o Bar Mitzvah, o jovem passa a ser responsável por seus atos perante a lei judaica e pode participar plenamente dos rituais religiosos.&lt;/span&gt;
-, ganhou de sua tia uma foto autografada de Einstein.  Na foto estão Einstein e Isidoro Kohn, tio da madrasta de Gleiser. O avô paterno de Gleiser também acompanhou Einstein nessa visita ao Rio, em 1925. Segundo o relato familiar, Isidoro emprestou a gravata que Einstein usa na foto. Esta foto inspirou Marcelo Gleiser, então um adolescente fascinado pela natureza, a buscar uma carreira na física. Em seu livro “&lt;a href=&quot;#escritor-e-divulgador-científico&quot;&gt;Criação Imperfeita&lt;/a&gt;”, ele relata que, após a morte da mãe, passou por um período difícil de incertezas, e a busca de conhecimento científico foi uma das coisas que o ajudou a superar. Outra foi o esporte, tendo jogado vôlei e participado inclusive da vitória do time brasileiro no campeaonato junior em 1974, junto com &lt;a href=&quot;https://pt.wikipedia.org/wiki/Bernardinho&quot;&gt;Bernardinho&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/ciencia-medica/assets/img/einstein-gleiser.jpg&quot; alt=&quot;Einstein no Brasil em 1925&quot; /&gt;
-&lt;em&gt;Albert Einstein e Isidoro Kohn, amigo do avô paterno e tio da madrasta de Marcelo Gleiser, no Brasil em 1925. Kohn havia emprestado a gravata que Einstein está usando na foto.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Estudou física na Universidade Federal do Rio de Janeiro (UFRJ), onde se graduou em 1981. Em seguida, fez mestrado no Instituto de Física Teórica da Universidade Estadual Paulista (IFT-Unesp), com a dissertação intitulada “Soluções de Vórtice em Teorias de Gauge Abelianas e Não-Abelianas” (1982), sob orientação do Prof. Dr. Mario Novello. Nesse trabalho, Gleiser estudou estruturas chamadas “vórtices” — regiões onde campos físicos se organizam de modo semelhante a redemoinhos — em teorias fundamentais da física, buscando entender como padrões e estruturas podem surgir espontaneamente na natureza.&lt;/p&gt;
-
-&lt;p&gt;Posteriormente, fez doutorado (PhD) em física teórica na King’s College London, Reino Unido, concluído em 1986, sob orientação do Prof. Dr. Michael E. Fisher. Sua tese, intitulada “Phase Transitions in the Early Universe” (Transições de Fase no Universo Primordial), investigou como mudanças bruscas e fundamentais — semelhantes à transformação da água em gelo — podem ter ocorrido nos primeiros instantes do universo, influenciando a formação de estruturas cósmicas e a evolução do cosmos.&lt;/p&gt;
-
-&lt;p&gt;Após o doutorado, trabalhou como pesquisador de pós-doutorado no Fermilab (Fermi National Accelerator Laboratory), nos Estados Unidos, sob supervisão do físico Edward W. Kolb (Rocky Kolb), referência mundial em cosmologia física. Lá, Gleiser desenvolveu pesquisas independentes e colaborativas em cosmologia teórica, especialmente sobre transições de fase no universo primordial e a formação de estruturas cósmicas. Seu trabalho resultou em publicações científicas importantes, aprofundando a conexão entre física de partículas e a evolução do universo logo após o Big Bang.&lt;/p&gt;
-
-&lt;p&gt;Em seguida, trabalhou também no Instituto de Física Teórica da Unesp, onde colaborou com grupos de pesquisa em física teórica e cosmologia, orientou jovens pesquisadores e participou de projetos sobre simetrias fundamentais, formação de estruturas no universo e modelos de matéria exótica. Sua atuação contribuiu para fortalecer a pesquisa em cosmologia no Brasil e ampliar o intercâmbio científico internacional.&lt;/p&gt;
-
-&lt;p&gt;Ao longo de sua carreira, Gleiser também orientou e influenciou diversos jovens cientistas, tanto no Brasil quanto no exterior, como &lt;a href=&quot;https://en.wikipedia.org/wiki/Sara_Imari_Walker&quot;&gt;Sara Imari Walker&lt;/a&gt;. Sua atuação como mentor contribuiu para formar uma nova geração de pesquisadores em física teórica e cosmologia.&lt;/p&gt;
-
-&lt;p&gt;Em 1991, ingressou como professor no Dartmouth College, nos Estados Unidos, onde atua até hoje como professor titular de física e astronomia, ocupando a cátedra Appleton Professor of Natural Philosophy, um dos títulos mais prestigiosos da instituição.&lt;/p&gt;
-
-&lt;h2 id=&quot;trabalhos-destacados&quot;&gt;Trabalhos Destacados&lt;/h2&gt;
-
-&lt;p&gt;Gleiser é especialista em cosmologia&lt;label for=&quot;cosmologia&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
-&lt;input type=&quot;checkbox&quot; id=&quot;cosmologia&quot; class=&quot;margin-toggle&quot; /&gt;
-&lt;span class=&quot;sidenote&quot;&gt;&lt;strong&gt;Cosmologia:&lt;/strong&gt; Ramo da ciência que estuda a origem, estrutura, evolução e eventual destino do universo como um todo, integrando conhecimentos da física, astronomia e filosofia.&lt;/span&gt;
-, física de partículas e astrobiologia&lt;label for=&quot;astrobiologia&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
-&lt;input type=&quot;checkbox&quot; id=&quot;astrobiologia&quot; class=&quot;margin-toggle&quot; /&gt;
-&lt;span class=&quot;sidenote&quot;&gt;&lt;strong&gt;Astrobiologia:&lt;/strong&gt; Área interdisciplinar que investiga a origem, evolução, distribuição e futuro da vida no universo, incluindo a busca por vida em outros planetas.&lt;/span&gt;
-.   Destacou-se por pesquisas sobre a origem e evolução do universo, simetrias fundamentais, transições de fase cósmicas e a busca por vida fora da Terra. Publicou mais de 100 artigos científicos e é referência internacional em temas como quebra de simetria e formação de estruturas cósmicas.&lt;/p&gt;
-
-&lt;p&gt;Entre seus trabalhos de maior destaque está a proposta do “Princípio da Vida Rara” (Rare Life Principle), em que Gleiser argumenta que a vida complexa no universo pode ser muito mais rara do que se imagina, devido à combinação de fatores físicos, químicos e biológicos necessários para sua emergência. Ele também contribuiu para o debate sobre a definição de vida e os limites da habitabilidade planetária, sendo referência internacional em astrobiologia. Gleiser participou de colaborações com a NASA e outros centros de pesquisa, discutindo as condições para a existência de vida fora da Terra e os desafios da busca por biossinais em exoplanetas.&lt;/p&gt;
-
-&lt;h2 id=&quot;o-prêmio-templeton&quot;&gt;O Prêmio Templeton&lt;/h2&gt;
-
-&lt;p&gt;O Prêmio Templeton foi criado em 1972 pelo filantropo britânico John Templeton para reconhecer pessoas que “contribuem de maneira excepcional para afirmar a dimensão espiritual da vida, seja por meio de insights, descobertas ou trabalhos práticos”. O valor do prêmio supera o do Nobel, e já foi concedido a nomes como Madre Teresa de Calcutá (a primeira laureada), Dalai Lama, Desmond Tutu, Charles Taylor, Freeman Dyson e Martin Rees. O Templeton é considerado um dos maiores reconhecimentos mundiais para cientistas, filósofos e líderes espirituais, e frequentemente é comparado ao Nobel em prestígio.&lt;/p&gt;
-
-&lt;p&gt;Marcelo Gleiser foi o primeiro latino-americano e o único brasileiro a receber o Templeton, em 2019. A cerimônia ocorreu em Nova York, nos Estados Unidos. Gleiser foi agraciado por seu trabalho pioneiro ao explorar as grandes questões da existência humana, a relação entre ciência e espiritualidade, e por sua defesa do diálogo entre diferentes formas de conhecimento.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/0/06/Marcelo_Gleiser_no_Fronteiras_do_Pensamento_Florian%C3%B3polis_2013_%2810277998645%29.jpg&quot; alt=&quot;Marcelo Gleiser&quot; /&gt;
-&lt;em&gt;Marcelo Gleiser no Fronteiras do Pensamento (Florianópolis, 2013).&lt;/em&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;escritor-e-divulgador-científico&quot;&gt;Escritor e Divulgador Científico&lt;/h2&gt;
-
-&lt;p&gt;Além da carreira acadêmica, Gleiser é um dos mais influentes divulgadores científicos do Brasil e do mundo. &lt;label for=&quot;divulgacao-cientifica&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
-&lt;input type=&quot;checkbox&quot; id=&quot;divulgacao-cientifica&quot; class=&quot;margin-toggle&quot; /&gt;
-&lt;span class=&quot;sidenote&quot;&gt;&lt;strong&gt;Divulgação científica:&lt;/strong&gt; Atividade de comunicar conhecimentos científicos para o público leigo, tornando a ciência acessível e compreensível, e promovendo o pensamento crítico na sociedade.&lt;/span&gt;
- Sua trajetória como escritor começou com um impacto notável, e ele se consolidou como uma voz que une a complexidade da ciência à busca humana por significado.&lt;/p&gt;
-
-&lt;p&gt;Seu primeiro livro, &lt;strong&gt;‘A Dança do Universo’&lt;/strong&gt;, foi publicado em 1997 pela editora &lt;strong&gt;Companhia das Letras&lt;/strong&gt;. A obra rapidamente se tornou um best-seller no Brasil e foi agraciada com o &lt;strong&gt;Prêmio Jabuti&lt;/strong&gt; em 1998, consolidando Gleiser como um dos principais nomes da divulgação científica no país.&lt;/p&gt;
-
-&lt;p&gt;Suas principais obras, traduzidas para mais de 15 idiomas, incluem:&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;‘A Dança do Universo’ (1997):&lt;/strong&gt;
-&lt;strong&gt;Título em Inglês:&lt;/strong&gt; &lt;em&gt;‘The Dancing Universe’&lt;/em&gt;
-Neste livro, Gleiser traça um panorama da história do pensamento cosmológico, desde os mitos de criação antigos até as teorias científicas modernas, como o Big Bang e a física de partículas. O livro foi um marco na divulgação científica no Brasil por sua linguagem acessível e por conectar a ciência com a filosofia e a busca humana por suas origens.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;‘O Fim da Terra e do Céu’ (2001):&lt;/strong&gt;
-Gleiser explora a fascinação humana com o fim do mundo, analisando mitos apocalípticos, profecias religiosas e previsões científicas sobre o destino final do universo. A obra discute como a ciência moderna oferece novas narrativas sobre o fim, substituindo o medo pela compreensão racional dos processos cósmicos. Ganhou o Prêmio Jabuti em 2002.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;‘Criação Imperfeita’ (2010):&lt;/strong&gt;
-&lt;strong&gt;Título em Inglês:&lt;/strong&gt; &lt;em&gt;‘A Tear at the Edge of Creation’&lt;/em&gt; 
-Publicado no Brasil com o título ‘Criação Imperfeita’, este livro argumenta que as assimetrias e “imperfeições” encontradas na natureza — desde o nível subatômico até as estruturas cósmicas — são a chave para a existência do universo como o conhecemos. A obra desafia a noção de um “design perfeito” e celebra a criatividade inerente aos processos naturais. Ao privilegiar uma visão onde a busca pela ordem perfeita como fundamento da realidade é substituída pela “imperfeição”, pela assimetria como origem dos principais fenômenos que observamos, Gleiser recupera, de certa forma, uma visão epicurista (vazio e partículas movendo-se aleatoriamente) dos fundamentos do conhecimento, em contraste com o platonismo que parece ter sido predominante no pensamento ocidental e está, na verdade, cada vez mais forte.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;‘A Ilha do Conhecimento’ (2014):&lt;/strong&gt;
-&lt;strong&gt;Título em Inglês:&lt;/strong&gt; &lt;em&gt;‘The Island of Knowledge’&lt;/em&gt;
-Usando a metáfora de uma “ilha de conhecimento” em um “oceano de desconhecido”, Gleiser defende que, quanto mais aprendemos sobre o universo, mais vasta se torna a fronteira com o que não sabemos. O livro é uma reflexão sobre os limites da ciência e a importância de reconhecer o mistério como motor da busca humana por conhecimento.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;‘A Simples Beleza do Inesperado’ (2016):&lt;/strong&gt;
-&lt;strong&gt;Título em Inglês:&lt;/strong&gt; &lt;em&gt;‘The Simple Beauty of the Unexpected’&lt;/em&gt; (publicado em 2016)
-Nesta coletânea de ensaios, Gleiser conecta conceitos científicos a experiências cotidianas, explorando temas como o tempo, a vida, a morte e a busca pela felicidade. A obra convida o leitor a encontrar o maravilhamento e a beleza na ciência e no mundo ao seu redor, reforçando uma visão humanista do conhecimento científico.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;‘O Despertar do Universo Consciente’ (2024):&lt;/strong&gt;
-&lt;strong&gt;Título em Inglês:&lt;/strong&gt; &lt;em&gt;‘The Dawn of a Mindful Universe’&lt;/em&gt; (publicado em 2023)
-Copérnico inaugurou uma linha de pensamento (epitomizada pelo princípio que leva seu nome) que tem retirado progressivamente o protagonismo do ser humano da sua própria noção de compreensão do mundo. “Um partícula insignificante em um universo vasto e frio” tornou-se a visão de uma humanidade com uma perspectiva cada vez mais sombria, e Gleiser atribui isso à perda da fagulha da curiosidade, da missão moral e do foco compassivo da ciência. Ele nos convida a recuperar esse sentimento, reconstruir um novo Iluminismo visando salvar a civilização e dar uma nova direção à humanidade.&lt;/p&gt;
-
-&lt;p&gt;Além dos livros, Gleiser é colunista, apresentador de programas de TV e rádio, e fundador do Institute for Cross-Disciplinary Engagement (ICE). Nos últimos anos, tem se dedicado a campanhas pela valorização da ciência, do pensamento crítico e pela conservação do planeta, alertando para a urgência de ações em defesa do meio ambiente e da vida na Terra.&lt;/p&gt;
-
-&lt;p&gt;Nos últimos anos, Gleiser tem se dedicado a campanhas pela valorização da ciência, do pensamento crítico e pela conservação do planeta, alertando para a urgência de ações em defesa do meio ambiente e da vida na Terra. Uma de suas iniciativas mais recentes é o Podcast &lt;a href=&quot;https://www.google.com/url?sa=t&amp;amp;source=web&amp;amp;rct=j&amp;amp;opi=89978449&amp;amp;url=https://www.youtube.com/watch%3Fv%3DGXXOl35LA1U&amp;amp;ved=2ahUKEwjS3aiwnZiOAxU0rZUCHXUqOWMQwqsBegQIDRAG&amp;amp;usg=AOvVaw2hH0FDW6gDQlqdmN4mez51&quot;&gt;The Blind Spot&lt;/a&gt;, protagonizado por Gleiser, o físico e divulgador científico Adam Frank, da Universidade de Rochester e o filósofo Evan Thompson, da Universidade da Colúmbia Britânica. No primeiro episódio eles discutiram a natureza do conhecimento, da objetividade e da ciência, e as relações do projeto filosófico e científico ocidental com as religiões monoteístas, um tema recorrente na obra de Gleiser.&lt;/p&gt;
-
-&lt;h2 id=&quot;referências&quot;&gt;Referências&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.templetonprize.org/laureate/marcelo-gleiser/&quot;&gt;Templeton Prize - Official Website&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://pt.wikipedia.org/wiki/Marcelo_Gleiser&quot;&gt;Wikipedia: Marcelo Gleiser&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Templeton_Prize&quot;&gt;Wikipedia: Templeton Prize&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-</description>
-        <pubDate>Tue, 24 Jun 2025 12:00:00 -0300</pubDate>
-        <link>https://fhcflx.github.io/ciencia-medica/2025/06/24/marcelo-gleiser-templeton.html</link>
-        <guid isPermaLink="true">https://fhcflx.github.io/ciencia-medica/2025/06/24/marcelo-gleiser-templeton.html</guid>
-        
-        <category>Física</category>
-        
-        <category>Marcelo Gleiser</category>
-        
-        <category>Templeton</category>
-        
-        <category>Divulgação científica</category>
-        
-        <category>Prêmios internacionais</category>
         
         
       </item>
