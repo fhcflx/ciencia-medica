@@ -6,8 +6,8 @@
 </description>
     <link>https://fhcflx.github.io/ciencia-medica/</link>
     <atom:link href="https://fhcflx.github.io/ciencia-medica/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 09 Oct 2025 18:51:51 -0300</pubDate>
-    <lastBuildDate>Thu, 09 Oct 2025 18:51:51 -0300</lastBuildDate>
+    <pubDate>Sat, 11 Oct 2025 20:56:15 -0300</pubDate>
+    <lastBuildDate>Sat, 11 Oct 2025 20:56:15 -0300</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
     
       <item>
@@ -16,7 +16,10 @@
 
 &lt;p&gt;&lt;em&gt;Fonte: Nobel Prize Outreach 2025&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;Mary E. Brunkow, Fred Ramsdell e Shimon Sakaguchi foram agraciados com o Prêmio Nobel de Fisiologia ou Medicina de 2025 “por suas descobertas sobre a tolerância imune periférica”. As pesquisas dos laureados elucidaram como o sistema imune evita atacar os próprios tecidos do corpo — um mecanismo essencial para prevenir doenças autoimunes — através de um subconjunto especializado de linfócitos T, hoje conhecidos como células T reguladoras (&lt;em&gt;Tregs&lt;/em&gt;).&lt;/p&gt;
+&lt;p&gt;Mary E. Brunkow, Fred Ramsdell e Shimon Sakaguchi foram agraciados com o Prêmio Nobel de Fisiologia ou Medicina de 2025 “por suas descobertas sobre a tolerância imune periférica”. As pesquisas dos laureados elucidaram como o sistema imune evita atacar os próprios tecidos do corpo — um mecanismo essencial para prevenir doenças autoimunes — através de um subconjunto especializado de linfócitos T, hoje conhecidos como células T reguladoras (&lt;em&gt;Tregs&lt;/em&gt;)&lt;label for=&quot;treg&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;treg&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;Treg: abreviação de “células T reguladoras” — um subconjunto de linfócitos T cuja função principal é suprimir respostas imunes exageradas ou auto-reativas. As Tregs mantêm a tolerância periférica e evitam danos colaterais ao tecido, usando múltiplos mecanismos celulares e moleculares.&lt;/span&gt;
+.&lt;/p&gt;
 
 &lt;!--more--&gt;
 
@@ -28,9 +31,13 @@
 
 &lt;p&gt;&lt;strong&gt;Shimon Sakaguchi&lt;/strong&gt; — M.D./Ph.D. (Kyoto University); descobriu o papel das &lt;em&gt;Tregs&lt;/em&gt; na tolerância periférica e demonstrou como sua ausência ou disfunção leva à autoimunidade; professor no Immunology Frontier Research Center, Osaka University, Japão.&lt;/p&gt;
 
-&lt;p&gt;Shimon Sakaguchi fez a primeira descoberta decisiva em 1995 ao identificar um grupo de células T com função reguladora — células que limitam respostas imunes potencialmente danosas. Posteriormente, Mary Brunkow e Fred Ramsdell identificaram a mutação responsável por um fenótipo de autoimunidade em camundongos (o gene FOXP3) e demonstraram que alterações no gene homólogo em humanos causam síndromes autoimunes graves (ex.: IPEX). A ligação entre FOXP3 e o desenvolvimento/funcionamento das &lt;em&gt;Tregs&lt;/em&gt; consolidou um novo campo de investigação: a tolerância periférica.&lt;/p&gt;
-
-&lt;h2 id=&quot;por-que-isso-importa&quot;&gt;Por que isso importa&lt;/h2&gt;
+&lt;p&gt;Shimon Sakaguchi fez a primeira descoberta decisiva em 1995 ao identificar um grupo de células T com função reguladora — células que limitam respostas imunes potencialmente danosas. Posteriormente, Mary Brunkow e Fred Ramsdell identificaram a mutação responsável por um fenótipo de autoimunidade em camundongos (o gene FOXP3&lt;label for=&quot;foxp3&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;foxp3&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;FOXP3: gene que codifica um fator de transcrição fundamental para o desenvolvimento e a função das células T reguladoras (Tregs). Mutações loss-of-function em FOXP3 resultam em perda da tolerância imunológica, associadas a síndromes graves de autoimunidade (por exemplo, IPEX em humanos) e ao fenótipo “scurfy” em camundongos. FOXP3 controla programas de expressão gênica que conferem propriedades supressoras às Tregs.&lt;/span&gt;
+) e demonstraram que alterações no gene homólogo em humanos causam síndromes autoimunes graves (ex.: IPEX&lt;label for=&quot;ipex&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;ipex&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;IPEX (Immune dysregulation, Polyendocrinopathy, Enteropathy, X-linked): síndrome humana rara causada por mutações em FOXP3. Caracteriza-se por autoimunidade precoce, enteropatia grave, endocrinopatias e outras manifestações autoimunes; frequentemente inicia na infância e tem curso sério sem tratamento adequado.&lt;/span&gt;
+). A ligação entre FOXP3 e o desenvolvimento/funcionamento das &lt;em&gt;Tregs&lt;/em&gt; consolidou um novo campo de investigação: a tolerância periférica.&lt;/p&gt;
 
 &lt;p&gt;O trabalho dos laureados mudou nossa compreensão sobre os mecanismos que impedem o sistema imune de atacar o próprio organismo. As implicações são vastas: a manipulação de Tregs é hoje uma estratégia promissora tanto em doenças autoimunes (onde se busca reforçar a tolerância) quanto em oncologia (onde pode ser preciso atenuar a ação dessas células para melhorar a resposta antitumoral). Além disso, avanços na tolerância imunológica podem tornar transplantes mais seguros e reduzir a necessidade de imunossupressão crônica.&lt;/p&gt;
 
@@ -39,17 +46,25 @@
 &lt;p&gt;As descobertas premiadas mostram:&lt;/p&gt;
 
 &lt;p&gt;1) que existe um tipo específico de célula cuja função principal é suprimir respostas perigosas fora do centro de formação de células (a chamada tolerância periférica);
-2) que um gene chamado FOXP3 é essencial para que essas células existam e funcionem corretamente. Sem FOXP3, o sistema perde o freio e ataques ao próprio corpo ocorrem (doenças autoimunes).
-Breve perfil dos laureados&lt;/p&gt;
+2) que um gene chamado FOXP3 é essencial para que essas células existam e funcionem corretamente. Sem FOXP3, o sistema perde o freio e ataques ao próprio corpo ocorrem (doenças autoimunes).&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://www.nobelprize.org/uploads/2025/10/popular-medicineprize2025-figure2.jpg&quot; alt=&quot;Como as T cells reconhecem um patógeno&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Como T cells descobrem um vírus. Ilustrações: © The Nobel Committee for Physiology or Medicine. Ill. Mattias Karlén.&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;As &lt;em&gt;Tregs&lt;/em&gt; mais estudadas são CD4+CD25+FOXP3+. FOXP3 é o fator de transcrição que programa o destino e a função supressora dessas células.
-Existem mecanismos de tolerância central (no timo) e de tolerância periférica (fora do timo). Sakaguchi e outros demonstraram que parte da população reguladora é gerada no timo, mas que também existem Tregs induzidas na periferia a partir de células T convencionais sob certos sinais (TGF-β, IL-2).
-Mecanismos de supressão: &lt;em&gt;Tregs&lt;/em&gt; usam múltiplos mecanismos — produção de citocinas anti-inflamatórias (IL-10, TGF-β), expressão de CTLA-4 que modula células apresentadoras de antígeno, consumo local de IL-2 (privando outras células), e alteração metabólica do microambiente (ex.: produção de adenosina via CD39/CD73).
-Estudos de transferência celular, modelos de camundongo com deleção de FOXP3 (fenótipo “scurfy” em camundongos) e achados clínicos em IPEX (síndrome humana associada a mutações FOXP3) foram cruciais para estabelecer a relação causal.&lt;/p&gt;
+Existem mecanismos de tolerância central (no timo) e de tolerância periférica (fora do timo)&lt;label for=&quot;tolerancia&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;tolerancia&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;Tolerância central vs periférica: tolerância central ocorre no timo durante a maturação de células T, onde clones altamente autorreativos são eliminados; tolerância periférica refere-se a mecanismos fora do timo (no organismo adulto) que controlam linfócitos autorreativos remanescentes, incluindo a ação de Tregs.&lt;/span&gt;
+. Sakaguchi e outros demonstraram que parte da população reguladora é gerada no timo, mas que também existem Tregs induzidas na periferia a partir de células T convencionais sob certos sinais (TGF-β, IL-2).
+Mecanismos de supressão: &lt;em&gt;Tregs&lt;/em&gt; usam múltiplos mecanismos&lt;label for=&quot;mecanismo-treg&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;mecanismo-treg&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;Principais mecanismos usados por Tregs: secreção de citocinas anti-inflamatórias (IL-10, TGF-β), expressão de CTLA-4 que modula células apresentadoras de antígeno, captura/consumo local de IL-2 (privando células efetoras), e modulação do microambiente através de enzimas como CD39/CD73 que geram adenosina imunossupressora.&lt;/span&gt;
+ — produção de citocinas anti-inflamatórias (IL-10, TGF-β), expressão de CTLA-4 que modula células apresentadoras de antígeno, consumo local de IL-2 (privando outras células), e alteração metabólica do microambiente (ex.: produção de adenosina via CD39/CD73).
+Estudos de transferência celular, modelos de camundongo com deleção de FOXP3 (fenótipo “scurfy” em camundongos&lt;label for=&quot;scurfy&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;scurfy&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;Scurfy: termo usado para descrever o fenótipo de camundongos com deleção do gene Foxp3 — apresentam dermatite, linfoproliferação e autoimunidade grave, e foram um modelo-chave para demonstrar o papel crítico de Foxp3/Tregs em tolerância imunológica.&lt;/span&gt;
+) e achados clínicos em IPEX (síndrome humana associada a mutações FOXP3) foram cruciais para estabelecer a relação causal.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://www.nobelprize.org/uploads/2025/10/popular-medicineprize2025-figure4.jpg&quot; alt=&quot;Experimento que inspirou Sakaguchi&quot; /&gt;&lt;/p&gt;
 
@@ -63,7 +78,10 @@ Estudos de transferência celular, modelos de camundongo com deleção de FOXP3 
 
 &lt;p&gt;Transplantes: terapias baseadas em Tregs (infusão de Tregs, protocolos para expandi-las) estão sendo testadas para reduzir rejeição e diminuir o uso de imunossupressores de amplo espectro.&lt;/p&gt;
 
-&lt;p&gt;Terapêuticas emergentes: abordagens incluem expansão ex vivo de Tregs, engenharia de Tregs com receptores específicos (CAR-Tregs), e drogas que modulam vias chave (IL-2 de baixa dose para favorecer Tregs).&lt;/p&gt;
+&lt;p&gt;Terapêuticas emergentes: abordagens incluem expansão ex vivo de Tregs, engenharia de Tregs com receptores específicos (CAR-Tregs&lt;label for=&quot;car-treg&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;car-treg&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;CAR-Tregs: células T reguladoras geneticamente modificadas com receptores quiméricos de antígeno (CARs) para direcioná-las a alvos específicos — estratégia experimental para induzir tolerância localizada em doenças autoimunes ou transplantes.&lt;/span&gt;
+), e drogas que modulam vias chave (IL-2 de baixa dose para favorecer Tregs).&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://www.nobelprize.org/uploads/2025/10/popular-medicineprize2025-figure3.jpg&quot; alt=&quot;Como células T danosas são eliminadas&quot; /&gt;&lt;/p&gt;
 
@@ -75,12 +93,13 @@ Estudos de transferência celular, modelos de camundongo com deleção de FOXP3 
 
 &lt;h3 id=&quot;referências&quot;&gt;Referências&lt;/h3&gt;
 
-&lt;ol&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.nobelprize.org/prizes/medicine/2025/press-release/&quot;&gt;Press release: “They discovered how the immune system is kept in check” — The Nobel Assembly at Karolinska Institutet, 6 Oct 2025.&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.nobelprize.org/uploads/2025/10/press-medicineprize2025.pdf&quot;&gt;Press release (pdf)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.nobelprize.org/uploads/2025/10/popular-medicineprize2025-2.pdf&quot;&gt;Resumo para leigos, Assembléia do Nobel - em inglês (pdf)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.nobelprize.org/uploads/2025/10/advanced-medicineprize2025.pdf&quot;&gt;Resumo científico, Assembléia do Nobel - em inglês (pdf)&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.nobelprize.org/prizes/medicine/2025/press-release/&quot;&gt;Press release: “They discovered how the immune system is kept in check” — The Nobel Assembly at Karolinska Institutet, 6 Oct 2025.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.nobelprize.org/uploads/2025/10/press-medicineprize2025.pdf&quot;&gt;Press release (pdf)&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.nobelprize.org/uploads/2025/10/popular-medicineprize2025-2.pdf&quot;&gt;Resumo para leigos, Assembléia do Nobel - em inglês (pdf)&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.nobelprize.org/uploads/2025/10/advanced-medicineprize2025.pdf&quot;&gt;Resumo científico, Assembléia do Nobel - em inglês (pdf)&lt;/a&gt;&lt;/p&gt;
 
 </description>
         <pubDate>Mon, 06 Oct 2025 12:00:00 -0300</pubDate>
@@ -116,8 +135,6 @@ Estudos de transferência celular, modelos de camundongo com deleção de FOXP3 
 
 &lt;p&gt;Shimon Sakaguchi realizó el primer hallazgo decisivo en 1995 al identificar un grupo de células T con función reguladora —células que limitan respuestas inmunes potencialmente dañinas. Posteriormente, Mary Brunkow y Fred Ramsdell identificaron la mutación responsable de un fenotipo autoinmune en ratones (el gen FOXP3) y demostraron que alteraciones en el gen homólogo en humanos causan síndromes autoinmunes graves (p. ej., IPEX). La conexión entre FOXP3 y el desarrollo/funcionamiento de las Tregs consolidó un nuevo campo de investigación: la tolerancia periférica.&lt;/p&gt;
 
-&lt;h2 id=&quot;por-qué-esto-importa&quot;&gt;Por qué esto importa&lt;/h2&gt;
-
 &lt;p&gt;El trabajo de los galardonados cambió nuestra comprensión sobre los mecanismos que impiden que el sistema inmunológico ataque al propio organismo. Las implicaciones son vastas: la manipulación de las Tregs es hoy una estrategia prometedora tanto en enfermedades autoinmunes (donde se busca reforzar la tolerancia) como en oncología (donde puede ser necesario atenuar la acción de estas células para mejorar la respuesta antitumoral). Además, los avances en tolerancia inmunológica pueden hacer los trasplantes más seguros y reducir la necesidad de inmunosupresión crónica.&lt;/p&gt;
 
 &lt;p&gt;Piense en el sistema inmune como un ejército cuya función es proteger el cuerpo. Para evitar daños colaterales (por ejemplo, atacar células propias), además de entrenar a los soldados para reconocer enemigos, el cuerpo cuenta con oficiales de supervisión —las Tregs—. Actúan como un freno: cuando la respuesta inmune es demasiado fuerte o dirigida contra lo propio, las Tregs intervienen y disminuyen la reacción.&lt;/p&gt;
@@ -126,8 +143,6 @@ Estudos de transferência celular, modelos de camundongo com deleção de FOXP3 
 
 &lt;p&gt;1) que existe un tipo específico de célula cuya función principal es suprimir respuestas peligrosas fuera del lugar de formación primaria (la llamada tolerancia periférica);
 2) que un gen llamado FOXP3 es esencial para que estas células existan y funcionen correctamente. Sin FOXP3, el sistema pierde el freno y se producen ataques contra lo propio (enfermedades autoinmunes).&lt;/p&gt;
-
-&lt;h2 id=&quot;breve-perfil-de-los-galardonados&quot;&gt;Breve perfil de los galardonados&lt;/h2&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://www.nobelprize.org/uploads/2025/10/popular-medicineprize2025-figure2.jpg&quot; alt=&quot;Cómo las células T reconocen un patógeno&quot; /&gt;&lt;/p&gt;
 
@@ -162,12 +177,13 @@ Los estudios de transferencia celular, modelos de ratón con deleción de FOXP3 
 
 &lt;h3 id=&quot;referencias&quot;&gt;Referencias&lt;/h3&gt;
 
-&lt;ol&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.nobelprize.org/prizes/medicine/2025/press-release/&quot;&gt;Comunicado de prensa: “They discovered how the immune system is kept in check” — The Nobel Assembly at Karolinska Institutet, 6 Oct 2025.&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.nobelprize.org/uploads/2025/10/press-medicineprize2025.pdf&quot;&gt;Comunicado de prensa (pdf)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.nobelprize.org/uploads/2025/10/popular-medicineprize2025-2.pdf&quot;&gt;Resumen para público general, Asamblea Nobel - en inglés (pdf)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.nobelprize.org/uploads/2025/10/advanced-medicineprize2025.pdf&quot;&gt;Antecedentes científicos, Asamblea Nobel - en inglés (pdf)&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.nobelprize.org/prizes/medicine/2025/press-release/&quot;&gt;Comunicado de prensa: “They discovered how the immune system is kept in check” — The Nobel Assembly at Karolinska Institutet, 6 Oct 2025.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.nobelprize.org/uploads/2025/10/press-medicineprize2025.pdf&quot;&gt;Comunicado de prensa (pdf)&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.nobelprize.org/uploads/2025/10/popular-medicineprize2025-2.pdf&quot;&gt;Resumen para público general, Asamblea Nobel - en inglés (pdf)&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.nobelprize.org/uploads/2025/10/advanced-medicineprize2025.pdf&quot;&gt;Antecedentes científicos, Asamblea Nobel - en inglés (pdf)&lt;/a&gt;&lt;/p&gt;
 
 </description>
         <pubDate>Mon, 06 Oct 2025 12:00:00 -0300</pubDate>
@@ -203,8 +219,6 @@ Los estudios de transferencia celular, modelos de ratón con deleción de FOXP3 
 
 &lt;p&gt;Shimon Sakaguchi made the first decisive discovery in 1995 by identifying a population of T cells with regulatory function — cells that limit potentially harmful immune responses. Later, Mary Brunkow and Fred Ramsdell identified the mutation responsible for an autoimmune phenotype in mice (the FOXP3 gene) and showed that alterations in the homologous gene in humans cause severe autoimmune syndromes (e.g., IPEX). The link between FOXP3 and the development/function of Tregs established a new field of research: peripheral tolerance.&lt;/p&gt;
 
-&lt;h2 id=&quot;why-this-matters&quot;&gt;Why this matters&lt;/h2&gt;
-
 &lt;p&gt;The laureates’ work changed our understanding of the mechanisms that prevent the immune system from attacking the organism itself. The implications are vast: manipulating Tregs is now a promising strategy both in autoimmune diseases (where the goal is to strengthen tolerance) and in oncology (where it may be necessary to dampen these cells’ action to improve antitumor responses). Moreover, advances in immune tolerance may make transplants safer and reduce the need for chronic immunosuppression.&lt;/p&gt;
 
 &lt;p&gt;Think of the immune system as an army whose job is to protect the body. To avoid collateral damage (for example, attacking the body’s own cells), besides training soldiers to recognize enemies, the body has oversight officers — the Tregs. They act as a brake: when the immune response is too strong or misdirected against self, Tregs intervene and tone down the reaction.&lt;/p&gt;
@@ -213,8 +227,6 @@ Los estudios de transferencia celular, modelos de ratón con deleción de FOXP3 
 
 &lt;p&gt;1) that there is a specific type of cell whose main function is to suppress dangerous responses outside the primary formation site (so-called peripheral tolerance);
 2) that a gene called FOXP3 is essential for these cells to exist and function correctly. Without FOXP3, the system loses its brake and attacks against self occur (autoimmune diseases).&lt;/p&gt;
-
-&lt;h2 id=&quot;brief-profiles-of-the-laureates&quot;&gt;Brief profiles of the laureates&lt;/h2&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://www.nobelprize.org/uploads/2025/10/popular-medicineprize2025-figure2.jpg&quot; alt=&quot;How T cells recognize a pathogen&quot; /&gt;&lt;/p&gt;
 
@@ -249,12 +261,13 @@ Transfer experiments, mouse models with FOXP3 deletion (the “scurfy” phenoty
 
 &lt;h3 id=&quot;references&quot;&gt;References&lt;/h3&gt;
 
-&lt;ol&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.nobelprize.org/prizes/medicine/2025/press-release/&quot;&gt;Press release: “They discovered how the immune system is kept in check” — The Nobel Assembly at Karolinska Institutet, 6 Oct 2025.&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.nobelprize.org/uploads/2025/10/press-medicineprize2025.pdf&quot;&gt;Press release (pdf)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.nobelprize.org/uploads/2025/10/popular-medicineprize2025-2.pdf&quot;&gt;Popular summary, Nobel Assembly - in English (pdf)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.nobelprize.org/uploads/2025/10/advanced-medicineprize2025.pdf&quot;&gt;Scientific background, Nobel Assembly - in English (pdf)&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.nobelprize.org/prizes/medicine/2025/press-release/&quot;&gt;Press release: “They discovered how the immune system is kept in check” — The Nobel Assembly at Karolinska Institutet, 6 Oct 2025.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.nobelprize.org/uploads/2025/10/press-medicineprize2025.pdf&quot;&gt;Press release (pdf)&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.nobelprize.org/uploads/2025/10/popular-medicineprize2025-2.pdf&quot;&gt;Popular summary, Nobel Assembly - in English (pdf)&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.nobelprize.org/uploads/2025/10/advanced-medicineprize2025.pdf&quot;&gt;Scientific background, Nobel Assembly - in English (pdf)&lt;/a&gt;&lt;/p&gt;
 
 </description>
         <pubDate>Mon, 06 Oct 2025 12:00:00 -0300</pubDate>
