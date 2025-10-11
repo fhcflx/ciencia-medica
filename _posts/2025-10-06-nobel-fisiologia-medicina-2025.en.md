@@ -31,8 +31,6 @@ Mary E. Brunkow, Fred Ramsdell and Shimon Sakaguchi were awarded the 2025 Nobel 
 
 Shimon Sakaguchi made the first decisive discovery in 1995 by identifying a population of T cells with regulatory function — cells that limit potentially harmful immune responses. Later, Mary Brunkow and Fred Ramsdell identified the mutation responsible for an autoimmune phenotype in mice (the FOXP3 gene) and showed that alterations in the homologous gene in humans cause severe autoimmune syndromes (e.g., IPEX). The link between FOXP3 and the development/function of Tregs established a new field of research: peripheral tolerance.
 
-## Why this matters
-
 The laureates' work changed our understanding of the mechanisms that prevent the immune system from attacking the organism itself. The implications are vast: manipulating Tregs is now a promising strategy both in autoimmune diseases (where the goal is to strengthen tolerance) and in oncology (where it may be necessary to dampen these cells' action to improve antitumor responses). Moreover, advances in immune tolerance may make transplants safer and reduce the need for chronic immunosuppression.
 
 Think of the immune system as an army whose job is to protect the body. To avoid collateral damage (for example, attacking the body's own cells), besides training soldiers to recognize enemies, the body has oversight officers — the Tregs. They act as a brake: when the immune response is too strong or misdirected against self, Tregs intervene and tone down the reaction.
@@ -41,8 +39,6 @@ The awarded discoveries show:
 
 1) that there is a specific type of cell whose main function is to suppress dangerous responses outside the primary formation site (so-called peripheral tolerance);
 2) that a gene called FOXP3 is essential for these cells to exist and function correctly. Without FOXP3, the system loses its brake and attacks against self occur (autoimmune diseases).
-
-## Brief profiles of the laureates
 
 ![How T cells recognize a pathogen](https://www.nobelprize.org/uploads/2025/10/popular-medicineprize2025-figure2.jpg)
 
@@ -77,10 +73,13 @@ The main source for this post is the [press release][press] from the Nobel Found
 
 ### References
 
-1. [Press release: "They discovered how the immune system is kept in check" — The Nobel Assembly at Karolinska Institutet, 6 Oct 2025.][press]
-2. [Press release (pdf)][pdf]
-3. [Popular summary, Nobel Assembly - in English (pdf)][pop]
-4. [Scientific background, Nobel Assembly - in English (pdf)][adv]
+[Press release: "They discovered how the immune system is kept in check" — The Nobel Assembly at Karolinska Institutet, 6 Oct 2025.][press]
+
+[Press release (pdf)][pdf]
+
+[Popular summary, Nobel Assembly - in English (pdf)][pop]
+
+[Scientific background, Nobel Assembly - in English (pdf)][adv]
 
 [press]: https://www.nobelprize.org/prizes/medicine/2025/press-release/
 [pdf]: https://www.nobelprize.org/uploads/2025/10/press-medicineprize2025.pdf

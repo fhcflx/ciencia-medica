@@ -31,8 +31,6 @@ Mary E. Brunkow, Fred Ramsdell y Shimon Sakaguchi fueron galardonados con el Pre
 
 Shimon Sakaguchi realizó el primer hallazgo decisivo en 1995 al identificar un grupo de células T con función reguladora —células que limitan respuestas inmunes potencialmente dañinas. Posteriormente, Mary Brunkow y Fred Ramsdell identificaron la mutación responsable de un fenotipo autoinmune en ratones (el gen FOXP3) y demostraron que alteraciones en el gen homólogo en humanos causan síndromes autoinmunes graves (p. ej., IPEX). La conexión entre FOXP3 y el desarrollo/funcionamiento de las Tregs consolidó un nuevo campo de investigación: la tolerancia periférica.
 
-## Por qué esto importa
-
 El trabajo de los galardonados cambió nuestra comprensión sobre los mecanismos que impiden que el sistema inmunológico ataque al propio organismo. Las implicaciones son vastas: la manipulación de las Tregs es hoy una estrategia prometedora tanto en enfermedades autoinmunes (donde se busca reforzar la tolerancia) como en oncología (donde puede ser necesario atenuar la acción de estas células para mejorar la respuesta antitumoral). Además, los avances en tolerancia inmunológica pueden hacer los trasplantes más seguros y reducir la necesidad de inmunosupresión crónica.
 
 Piense en el sistema inmune como un ejército cuya función es proteger el cuerpo. Para evitar daños colaterales (por ejemplo, atacar células propias), además de entrenar a los soldados para reconocer enemigos, el cuerpo cuenta con oficiales de supervisión —las Tregs—. Actúan como un freno: cuando la respuesta inmune es demasiado fuerte o dirigida contra lo propio, las Tregs intervienen y disminuyen la reacción.
@@ -41,8 +39,6 @@ Los descubrimientos premiados muestran:
 
 1) que existe un tipo específico de célula cuya función principal es suprimir respuestas peligrosas fuera del lugar de formación primaria (la llamada tolerancia periférica);
 2) que un gen llamado FOXP3 es esencial para que estas células existan y funcionen correctamente. Sin FOXP3, el sistema pierde el freno y se producen ataques contra lo propio (enfermedades autoinmunes).
-
-## Breve perfil de los galardonados
 
 ![Cómo las células T reconocen un patógeno](https://www.nobelprize.org/uploads/2025/10/popular-medicineprize2025-figure2.jpg)
 
@@ -77,10 +73,13 @@ La principal fuente de esta publicación es el [comunicado de prensa][press] de 
 
 ### Referencias
 
-1. [Comunicado de prensa: "They discovered how the immune system is kept in check" — The Nobel Assembly at Karolinska Institutet, 6 Oct 2025.][press]
-2. [Comunicado de prensa (pdf)][pdf]
-3. [Resumen para público general, Asamblea Nobel - en inglés (pdf)][pop]
-4. [Antecedentes científicos, Asamblea Nobel - en inglés (pdf)][adv]
+[Comunicado de prensa: "They discovered how the immune system is kept in check" — The Nobel Assembly at Karolinska Institutet, 6 Oct 2025.][press]
+
+[Comunicado de prensa (pdf)][pdf]
+
+[Resumen para público general, Asamblea Nobel - en inglés (pdf)][pop]
+
+[Antecedentes científicos, Asamblea Nobel - en inglés (pdf)][adv]
 
 [press]: https://www.nobelprize.org/prizes/medicine/2025/press-release/
 [pdf]: https://www.nobelprize.org/uploads/2025/10/press-medicineprize2025.pdf
