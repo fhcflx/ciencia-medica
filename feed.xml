@@ -6,8 +6,8 @@
 </description>
     <link>https://fhcflx.github.io/ciencia-medica/</link>
     <atom:link href="https://fhcflx.github.io/ciencia-medica/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 11 Oct 2025 20:56:15 -0300</pubDate>
-    <lastBuildDate>Sat, 11 Oct 2025 20:56:15 -0300</lastBuildDate>
+    <pubDate>Sun, 12 Oct 2025 01:24:55 -0300</pubDate>
+    <lastBuildDate>Sun, 12 Oct 2025 01:24:55 -0300</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
     
       <item>
@@ -121,7 +121,10 @@ Estudos de transferência celular, modelos de camundongo com deleção de FOXP3 
 
 &lt;p&gt;&lt;em&gt;Fuente: Nobel Prize Outreach 2025&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;Mary E. Brunkow, Fred Ramsdell y Shimon Sakaguchi fueron galardonados con el Premio Nobel de Fisiología o Medicina 2025 “por sus descubrimientos sobre la tolerancia inmune periférica”. Las investigaciones de los galardonados aclararon cómo el sistema inmunológico evita atacar los propios tejidos del cuerpo —un mecanismo esencial para prevenir enfermedades autoinmunes— a través de un subconjunto especializado de linfocitos T, hoy conocidos como células T reguladoras (Tregs).&lt;/p&gt;
+&lt;p&gt;Mary E. Brunkow, Fred Ramsdell y Shimon Sakaguchi fueron galardonados con el Premio Nobel de Fisiología o Medicina 2025 “por sus descubrimientos sobre la tolerancia inmune periférica”. Las investigaciones de los galardonados aclararon cómo el sistema inmunológico evita atacar los propios tejidos del cuerpo —un mecanismo esencial para prevenir enfermedades autoinmunes— a través de un subconjunto especializado de linfocitos T, hoy conocidos como células T reguladoras (Tregs&lt;label for=&quot;treg-es&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;treg-es&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;Treg: abreviatura de células T reguladoras: un subconjunto de linfocitos T cuya función principal es suprimir respuestas inmunes excesivas o autorreactivas. Las Tregs mantienen la tolerancia periférica y previenen daños colaterales en los tejidos mediante múltiples mecanismos celulares y moleculares.&lt;/span&gt;
+).&lt;/p&gt;
 
 &lt;!--more--&gt;
 
@@ -148,10 +151,24 @@ Estudos de transferência celular, modelos de camundongo com deleção de FOXP3 
 
 &lt;p&gt;&lt;em&gt;Cómo las células T encuentran un virus. Ilustraciones: © The Nobel Committee for Physiology or Medicine. Ill. Mattias Karlén.&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;Las Tregs más estudiadas son CD4+CD25+FOXP3+. FOXP3 es el factor de transcripción que programa el destino y la función supresora de estas células.
-Existen mecanismos de tolerancia central (en el timo) y de tolerancia periférica (fuera del timo). Sakaguchi y otros demostraron que parte de la población reguladora se genera en el timo, pero que también existen Tregs inducidas en la periferia a partir de células T convencionales bajo ciertas señales (TGF-β, IL-2).
+&lt;p&gt;Las Tregs más estudiadas son CD4+CD25+FOXP3+. FOXP3&lt;label for=&quot;foxp3-es&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;foxp3-es&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;FOXP3: gen que codifica un factor de transcripción esencial para el desarrollo y la función de las células T reguladoras (Tregs). Mutaciones que provocan pérdida de función en FOXP3 provocan fallo de la tolerancia inmunitaria, asociado a síndromes autoinmunes graves (p. ej., IPEX en humanos) y al fenotipo “scurfy” en ratones.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;es el factor de transcripción que programa el destino y la función supresora de estas células.
+Existen mecanismos de tolerancia central (en el timo) y de tolerancia periférica (fuera del timo)&lt;label for=&quot;tolerancia-es&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;tolerancia-es&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;Tolerancia central vs periférica: la tolerancia central ocurre en el timo durante la maduración de las células T, donde se eliminan clones altamente autorreactivos; la tolerancia periférica agrupa los mecanismos fuera del timo que controlan linfocitos autorreactivos residuales, incluyendo la acción de las Tregs.&lt;/span&gt;
+. Sakaguchi y otros demostraron que parte de la población reguladora se genera en el timo, pero que también existen Tregs inducidas en la periferia a partir de células T convencionales bajo ciertas señales (TGF-β, IL-2).
 Mecanismos de supresión: las Tregs usan múltiples mecanismos —producción de citocinas antiinflamatorias (IL-10, TGF-β), expresión de CTLA-4 que modula a las células presentadoras de antígeno, consumo local de IL-2 (privando a otras células) y alteración metabólica del microambiente (p. ej., producción de adenosina vía CD39/CD73).
-Los estudios de transferencia celular, modelos de ratón con deleción de FOXP3 (fenotipo “scurfy” en ratones) y hallazgos clínicos en IPEX (síndrome humano asociado a mutaciones en FOXP3) fueron cruciales para establecer la relación causal.&lt;/p&gt;
+&lt;label for=&quot;mecanismo-treg-es&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;mecanismo-treg-es&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;Mecanismos de las Tregs: las células T reguladoras suprimen las respuestas inmunes mediante varios mecanismos — secreción de citocinas inhibitorias (IL-10, TGF-β), alteración metabólica de células T efectoras, modulación de la función de las células dendríticas y citólisis directa en algunos contextos. La importancia relativa depende del tejido y del tipo de respuesta inmune.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;Los estudios de transferencia celular, modelos de ratón con deleción de FOXP3 (fenotipo “scurfy” en ratones&lt;label for=&quot;scurfy-es&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;scurfy-es&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;Ratón scurfy: modelo animal con mutación de pérdida de función en Foxp3 que desarrolla una autoimmunidad linfoproliferativa mortal en vida temprana; este modelo fue clave para demostrar el papel esencial de FOXP3 y las Tregs en la tolerancia inmunitaria.&lt;/span&gt;
+) y hallazgos clínicos en IPEX (síndrome humano asociado a mutaciones en FOXP3) fueron cruciales para establecer la relación causal.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://www.nobelprize.org/uploads/2025/10/popular-medicineprize2025-figure4.jpg&quot; alt=&quot;Experimento que inspiró a Sakaguchi&quot; /&gt;&lt;/p&gt;
 
@@ -165,7 +182,10 @@ Los estudios de transferencia celular, modelos de ratón con deleción de FOXP3 
 
 &lt;p&gt;Trasplantes: las terapias basadas en Tregs (infusión de Tregs, protocolos para expandirlas) se están probando para reducir el rechazo y disminuir el uso de inmunosupresores de amplio espectro.&lt;/p&gt;
 
-&lt;p&gt;Terapéuticas emergentes: los enfoques incluyen la expansión ex vivo de Tregs, la ingeniería de Tregs con receptores específicos (CAR-Tregs) y fármacos que modulan vías clave (IL-2 de baja dosis para favorecer las Tregs).&lt;/p&gt;
+&lt;p&gt;Terapéuticas emergentes: los enfoques incluyen la expansión ex vivo de Tregs, la ingeniería de Tregs con receptores específicos (CAR-Tregs) y fármacos que modulan vías clave (IL-2 de baja dosis para favorecer las Tregs&lt;label for=&quot;car-treg-es&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;car-treg-es&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;CAR-Tregs: células T reguladoras modificadas con receptores quiméricos de antígeno (CAR) son una estrategia terapéutica experimental en la que las Tregs se diseñan para reconocer antígenos específicos y dirigir su actividad supresora hacia tejidos o dianas concretas (aplicaciones en autoinmunidad y trasplante).&lt;/span&gt;
+).&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://www.nobelprize.org/uploads/2025/10/popular-medicineprize2025-figure3.jpg&quot; alt=&quot;Cómo se eliminan las células T dañinas&quot; /&gt;&lt;/p&gt;
 
@@ -205,7 +225,10 @@ Los estudios de transferencia celular, modelos de ratón con deleción de FOXP3 
 
 &lt;p&gt;&lt;em&gt;Source: Nobel Prize Outreach 2025&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;Mary E. Brunkow, Fred Ramsdell and Shimon Sakaguchi were awarded the 2025 Nobel Prize in Physiology or Medicine “for their discoveries concerning peripheral immune tolerance.” The laureates’ research clarified how the immune system avoids attacking the body’s own tissues — a mechanism essential to prevent autoimmune disease — through a specialized subset of T lymphocytes now known as regulatory T cells (Tregs).&lt;/p&gt;
+&lt;p&gt;Mary E. Brunkow, Fred Ramsdell and Shimon Sakaguchi were awarded the 2025 Nobel Prize in Physiology or Medicine “for their discoveries concerning peripheral immune tolerance.” The laureates’ research clarified how the immune system avoids attacking the body’s own tissues — a mechanism essential to prevent autoimmune disease — through a specialized subset of T lymphocytes now known as regulatory T cells (Tregs&lt;label for=&quot;treg-en&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;treg-en&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;Treg: short for regulatory T cells — a subset of T lymphocytes whose main function is to suppress excessive or autoreactive immune responses. Tregs maintain peripheral tolerance and prevent collateral tissue damage using multiple cellular and molecular mechanisms.&lt;/span&gt;
+).&lt;/p&gt;
 
 &lt;!--more--&gt;
 
@@ -217,7 +240,13 @@ Los estudios de transferencia celular, modelos de ratón con deleción de FOXP3 
 
 &lt;p&gt;&lt;strong&gt;Shimon Sakaguchi&lt;/strong&gt; — M.D./Ph.D. (Kyoto University); discovered the role of Tregs in peripheral tolerance and demonstrated how their absence or dysfunction leads to autoimmunity; professor at the Immunology Frontier Research Center, Osaka University, Japan.&lt;/p&gt;
 
-&lt;p&gt;Shimon Sakaguchi made the first decisive discovery in 1995 by identifying a population of T cells with regulatory function — cells that limit potentially harmful immune responses. Later, Mary Brunkow and Fred Ramsdell identified the mutation responsible for an autoimmune phenotype in mice (the FOXP3 gene) and showed that alterations in the homologous gene in humans cause severe autoimmune syndromes (e.g., IPEX). The link between FOXP3 and the development/function of Tregs established a new field of research: peripheral tolerance.&lt;/p&gt;
+&lt;p&gt;Shimon Sakaguchi made the first decisive discovery in 1995 by identifying a population of T cells with regulatory function — cells that limit potentially harmful immune responses. Later, Mary Brunkow and Fred Ramsdell identified the mutation responsible for an autoimmune phenotype in mice (the FOXP3 gene&lt;label for=&quot;foxp3-en&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;foxp3-en&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;FOXP3: gene encoding a transcription factor essential for the development and function of regulatory T cells (Tregs). Loss-of-function mutations in FOXP3 lead to breakdown of immune tolerance, associated with severe autoimmune syndromes (e.g., IPEX in humans) and the “scurfy” phenotype in mice. FOXP3 controls gene expression programs that confer suppressive properties to Tregs.&lt;/span&gt;
+) and showed that alterations in the homologous gene in humans cause severe autoimmune syndromes (e.g., IPEX&lt;label for=&quot;ipex-en&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;ipex-en&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;IPEX (Immune dysregulation, Polyendocrinopathy, Enteropathy, X-linked): a rare human syndrome caused by mutations in FOXP3. It is characterized by early-onset autoimmunity, severe enteropathy, endocrinopathies and other autoimmune manifestations; it often begins in infancy and follows a severe course without appropriate treatment.&lt;/span&gt;
+). The link between FOXP3 and the development/function of Tregs established a new field of research: peripheral tolerance.&lt;/p&gt;
 
 &lt;p&gt;The laureates’ work changed our understanding of the mechanisms that prevent the immune system from attacking the organism itself. The implications are vast: manipulating Tregs is now a promising strategy both in autoimmune diseases (where the goal is to strengthen tolerance) and in oncology (where it may be necessary to dampen these cells’ action to improve antitumor responses). Moreover, advances in immune tolerance may make transplants safer and reduce the need for chronic immunosuppression.&lt;/p&gt;
 
@@ -233,9 +262,19 @@ Los estudios de transferencia celular, modelos de ratón con deleción de FOXP3 
 &lt;p&gt;&lt;em&gt;How T cells find a virus. Illustrations: © The Nobel Committee for Physiology or Medicine. Ill. Mattias Karlén.&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;The most studied Tregs are CD4+CD25+FOXP3+. FOXP3 is the transcription factor that programs the fate and suppressive function of these cells.
-There are mechanisms of central tolerance (in the thymus) and peripheral tolerance (outside the thymus). Sakaguchi and others showed that part of the regulatory population is generated in the thymus, but that there are also peripherally induced Tregs derived from conventional T cells under certain signals (TGF-β, IL-2).
+There are mechanisms of central tolerance (in the thymus) and peripheral tolerance (outside the thymus)&lt;label for=&quot;tolerancia-en&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;tolerancia-en&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;Central vs peripheral tolerance: central tolerance occurs in the thymus during T cell maturation, where highly self-reactive clones are eliminated; peripheral tolerance refers to mechanisms outside the thymus that control remaining self-reactive lymphocytes, including regulatory T cells (Tregs).&lt;/span&gt;
+. Sakaguchi and others showed that part of the regulatory population is generated in the thymus, but that there are also peripherally induced Tregs derived from conventional T cells under certain signals (TGF-β, IL-2).
 Mechanisms of suppression: Tregs employ multiple mechanisms — production of anti-inflammatory cytokines (IL-10, TGF-β), expression of CTLA-4 that modulates antigen-presenting cells, local consumption of IL-2 (depriving other cells), and metabolic alteration of the microenvironment (e.g., adenosine production via CD39/CD73).
-Transfer experiments, mouse models with FOXP3 deletion (the “scurfy” phenotype in mice) and clinical findings in IPEX (a human syndrome associated with FOXP3 mutations) were crucial to establish causality.&lt;/p&gt;
+&lt;label for=&quot;mecanismo-treg-en&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;mecanismo-treg-en&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;Treg mechanisms: regulatory T cells suppress immune responses through several mechanisms — secretion of inhibitory cytokines (IL-10, TGF-β), metabolic disruption of effector T cells, modulation of dendritic cell function, and direct cytolysis in some contexts. The relative importance depends on the tissue and the type of immune response.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;Transfer experiments, mouse models with FOXP3 deletion (the “scurfy” phenotype in mice&lt;label for=&quot;scurfy-en&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;scurfy-en&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;Scurfy mouse: an animal model with a loss-of-function mutation in Foxp3 that develops fatal lymphoproliferative autoimmunity early in life; this model was pivotal to demonstrate the essential role of FOXP3 and Tregs in maintaining immune tolerance.&lt;/span&gt;
+) and clinical findings in IPEX (a human syndrome associated with FOXP3 mutations) were crucial to establish causality.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://www.nobelprize.org/uploads/2025/10/popular-medicineprize2025-figure4.jpg&quot; alt=&quot;Experiment that inspired Sakaguchi&quot; /&gt;&lt;/p&gt;
 
@@ -249,7 +288,10 @@ Transfer experiments, mouse models with FOXP3 deletion (the “scurfy” phenoty
 
 &lt;p&gt;Transplantation: Treg-based therapies (Treg infusion, protocols to expand them) are being tested to reduce rejection and decrease the use of broad-spectrum immunosuppressants.&lt;/p&gt;
 
-&lt;p&gt;Emerging therapeutics: approaches include ex vivo expansion of Tregs, engineering Tregs with specific receptors (CAR-Tregs), and drugs that modulate key pathways (low-dose IL-2 to favor Tregs).&lt;/p&gt;
+&lt;p&gt;Emerging therapeutics: approaches include ex vivo expansion of Tregs, engineering Tregs with specific receptors (CAR-Tregs&lt;label for=&quot;car-treg-en&quot; class=&quot;margin-toggle sidenote-number&quot;&gt;&lt;/label&gt;
+&lt;input type=&quot;checkbox&quot; id=&quot;car-treg-en&quot; class=&quot;margin-toggle&quot; /&gt;
+&lt;span class=&quot;sidenote&quot;&gt;CAR-Tregs: chimeric antigen receptor (CAR)–engineered regulatory T cells are an experimental therapeutic strategy where Tregs are modified to express antigen-specific receptors, directing their suppressive activity to particular antigens or tissues (potential applications in autoimmunity and transplantation).&lt;/span&gt;
+), and drugs that modulate key pathways (low-dose IL-2 to favor Tregs).&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://www.nobelprize.org/uploads/2025/10/popular-medicineprize2025-figure3.jpg&quot; alt=&quot;How harmful T cells are eliminated&quot; /&gt;&lt;/p&gt;
 
