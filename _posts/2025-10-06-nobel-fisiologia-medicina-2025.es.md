@@ -17,7 +17,7 @@ image: https://www.nobelprize.org/uploads/2025/10/Carrier_3-2.jpg
 
 _Fuente: Nobel Prize Outreach 2025_
 
-Mary E. Brunkow, Fred Ramsdell y Shimon Sakaguchi fueron galardonados con el Premio Nobel de Fisiología o Medicina 2025 "por sus descubrimientos sobre la tolerancia inmune periférica". Las investigaciones de los galardonados aclararon cómo el sistema inmunológico evita atacar los propios tejidos del cuerpo —un mecanismo esencial para prevenir enfermedades autoinmunes— a través de un subconjunto especializado de linfocitos T, hoy conocidos como células T reguladoras (Tregs).
+Mary E. Brunkow, Fred Ramsdell y Shimon Sakaguchi fueron galardonados con el Premio Nobel de Fisiología o Medicina 2025 "por sus descubrimientos sobre la tolerancia inmune periférica". Las investigaciones de los galardonados aclararon cómo el sistema inmunológico evita atacar los propios tejidos del cuerpo —un mecanismo esencial para prevenir enfermedades autoinmunes— a través de un subconjunto especializado de linfocitos T, hoy conocidos como células T reguladoras (Tregs{% include treg-es.html %}).
 
 <!--more-->
 
@@ -44,10 +44,11 @@ Los descubrimientos premiados muestran:
 
 _Cómo las células T encuentran un virus. Ilustraciones: © The Nobel Committee for Physiology or Medicine. Ill. Mattias Karlén._
 
-Las Tregs más estudiadas son CD4+CD25+FOXP3+. FOXP3 es el factor de transcripción que programa el destino y la función supresora de estas células.
-Existen mecanismos de tolerancia central (en el timo) y de tolerancia periférica (fuera del timo). Sakaguchi y otros demostraron que parte de la población reguladora se genera en el timo, pero que también existen Tregs inducidas en la periferia a partir de células T convencionales bajo ciertas señales (TGF-β, IL-2).
+Las Tregs más estudiadas son CD4+CD25+FOXP3+. FOXP3{% include foxp3-es.html %} es el factor de transcripción que programa el destino y la función supresora de estas células.
+Existen mecanismos de tolerancia central (en el timo) y de tolerancia periférica (fuera del timo){% include tolerancia-es.html %}. Sakaguchi y otros demostraron que parte de la población reguladora se genera en el timo, pero que también existen Tregs inducidas en la periferia a partir de células T convencionales bajo ciertas señales (TGF-β, IL-2).
 Mecanismos de supresión: las Tregs usan múltiples mecanismos —producción de citocinas antiinflamatorias (IL-10, TGF-β), expresión de CTLA-4 que modula a las células presentadoras de antígeno, consumo local de IL-2 (privando a otras células) y alteración metabólica del microambiente (p. ej., producción de adenosina vía CD39/CD73).
-Los estudios de transferencia celular, modelos de ratón con deleción de FOXP3 (fenotipo "scurfy" en ratones) y hallazgos clínicos en IPEX (síndrome humano asociado a mutaciones en FOXP3) fueron cruciales para establecer la relación causal.
+{% include mecanismo-treg-es.html %}
+Los estudios de transferencia celular, modelos de ratón con deleción de FOXP3 (fenotipo "scurfy" en ratones{% include scurfy-es.html %}) y hallazgos clínicos en IPEX (síndrome humano asociado a mutaciones en FOXP3) fueron cruciales para establecer la relación causal.
 
 ![Experimento que inspiró a Sakaguchi](https://www.nobelprize.org/uploads/2025/10/popular-medicineprize2025-figure4.jpg)
 
@@ -61,7 +62,7 @@ Oncología: los tumores con frecuencia reclutan o inducen Tregs para suprimir re
 
 Trasplantes: las terapias basadas en Tregs (infusión de Tregs, protocolos para expandirlas) se están probando para reducir el rechazo y disminuir el uso de inmunosupresores de amplio espectro.
 
-Terapéuticas emergentes: los enfoques incluyen la expansión ex vivo de Tregs, la ingeniería de Tregs con receptores específicos (CAR-Tregs) y fármacos que modulan vías clave (IL-2 de baja dosis para favorecer las Tregs).
+Terapéuticas emergentes: los enfoques incluyen la expansión ex vivo de Tregs, la ingeniería de Tregs con receptores específicos (CAR-Tregs) y fármacos que modulan vías clave (IL-2 de baja dosis para favorecer las Tregs{% include car-treg-es.html %}).
 
 ![Cómo se eliminan las células T dañinas](https://www.nobelprize.org/uploads/2025/10/popular-medicineprize2025-figure3.jpg)
 

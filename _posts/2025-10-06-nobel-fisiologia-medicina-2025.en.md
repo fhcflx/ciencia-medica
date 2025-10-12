@@ -17,7 +17,7 @@ image: https://www.nobelprize.org/uploads/2025/10/Carrier_3-2.jpg
 
 _Source: Nobel Prize Outreach 2025_
 
-Mary E. Brunkow, Fred Ramsdell and Shimon Sakaguchi were awarded the 2025 Nobel Prize in Physiology or Medicine "for their discoveries concerning peripheral immune tolerance." The laureates' research clarified how the immune system avoids attacking the body's own tissues — a mechanism essential to prevent autoimmune disease — through a specialized subset of T lymphocytes now known as regulatory T cells (Tregs).
+Mary E. Brunkow, Fred Ramsdell and Shimon Sakaguchi were awarded the 2025 Nobel Prize in Physiology or Medicine "for their discoveries concerning peripheral immune tolerance." The laureates' research clarified how the immune system avoids attacking the body's own tissues — a mechanism essential to prevent autoimmune disease — through a specialized subset of T lymphocytes now known as regulatory T cells (Tregs{% include treg-en.html %}).
 
 <!--more-->
 
@@ -29,7 +29,7 @@ Mary E. Brunkow, Fred Ramsdell and Shimon Sakaguchi were awarded the 2025 Nobel 
 
 **Shimon Sakaguchi** — M.D./Ph.D. (Kyoto University); discovered the role of Tregs in peripheral tolerance and demonstrated how their absence or dysfunction leads to autoimmunity; professor at the Immunology Frontier Research Center, Osaka University, Japan.
 
-Shimon Sakaguchi made the first decisive discovery in 1995 by identifying a population of T cells with regulatory function — cells that limit potentially harmful immune responses. Later, Mary Brunkow and Fred Ramsdell identified the mutation responsible for an autoimmune phenotype in mice (the FOXP3 gene) and showed that alterations in the homologous gene in humans cause severe autoimmune syndromes (e.g., IPEX). The link between FOXP3 and the development/function of Tregs established a new field of research: peripheral tolerance.
+Shimon Sakaguchi made the first decisive discovery in 1995 by identifying a population of T cells with regulatory function — cells that limit potentially harmful immune responses. Later, Mary Brunkow and Fred Ramsdell identified the mutation responsible for an autoimmune phenotype in mice (the FOXP3 gene{% include foxp3-en.html %}) and showed that alterations in the homologous gene in humans cause severe autoimmune syndromes (e.g., IPEX{% include ipex-en.html %}). The link between FOXP3 and the development/function of Tregs established a new field of research: peripheral tolerance.
 
 The laureates' work changed our understanding of the mechanisms that prevent the immune system from attacking the organism itself. The implications are vast: manipulating Tregs is now a promising strategy both in autoimmune diseases (where the goal is to strengthen tolerance) and in oncology (where it may be necessary to dampen these cells' action to improve antitumor responses). Moreover, advances in immune tolerance may make transplants safer and reduce the need for chronic immunosuppression.
 
@@ -45,9 +45,10 @@ The awarded discoveries show:
 _How T cells find a virus. Illustrations: © The Nobel Committee for Physiology or Medicine. Ill. Mattias Karlén._
 
 The most studied Tregs are CD4+CD25+FOXP3+. FOXP3 is the transcription factor that programs the fate and suppressive function of these cells.
-There are mechanisms of central tolerance (in the thymus) and peripheral tolerance (outside the thymus). Sakaguchi and others showed that part of the regulatory population is generated in the thymus, but that there are also peripherally induced Tregs derived from conventional T cells under certain signals (TGF-β, IL-2).
+There are mechanisms of central tolerance (in the thymus) and peripheral tolerance (outside the thymus){% include tolerancia-en.html %}. Sakaguchi and others showed that part of the regulatory population is generated in the thymus, but that there are also peripherally induced Tregs derived from conventional T cells under certain signals (TGF-β, IL-2).
 Mechanisms of suppression: Tregs employ multiple mechanisms — production of anti-inflammatory cytokines (IL-10, TGF-β), expression of CTLA-4 that modulates antigen-presenting cells, local consumption of IL-2 (depriving other cells), and metabolic alteration of the microenvironment (e.g., adenosine production via CD39/CD73).
-Transfer experiments, mouse models with FOXP3 deletion (the "scurfy" phenotype in mice) and clinical findings in IPEX (a human syndrome associated with FOXP3 mutations) were crucial to establish causality.
+{% include mecanismo-treg-en.html %}
+Transfer experiments, mouse models with FOXP3 deletion (the "scurfy" phenotype in mice{% include scurfy-en.html %}) and clinical findings in IPEX (a human syndrome associated with FOXP3 mutations) were crucial to establish causality.
 
 ![Experiment that inspired Sakaguchi](https://www.nobelprize.org/uploads/2025/10/popular-medicineprize2025-figure4.jpg)
 
@@ -61,7 +62,7 @@ Oncology: tumors often recruit or induce Tregs to suppress antitumor responses; 
 
 Transplantation: Treg-based therapies (Treg infusion, protocols to expand them) are being tested to reduce rejection and decrease the use of broad-spectrum immunosuppressants.
 
-Emerging therapeutics: approaches include ex vivo expansion of Tregs, engineering Tregs with specific receptors (CAR-Tregs), and drugs that modulate key pathways (low-dose IL-2 to favor Tregs).
+Emerging therapeutics: approaches include ex vivo expansion of Tregs, engineering Tregs with specific receptors (CAR-Tregs{% include car-treg-en.html %}), and drugs that modulate key pathways (low-dose IL-2 to favor Tregs).
 
 ![How harmful T cells are eliminated](https://www.nobelprize.org/uploads/2025/10/popular-medicineprize2025-figure3.jpg)
 
