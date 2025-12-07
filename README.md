@@ -1,11 +1,11 @@
 # Ciência médica e não médica
 
-[![GitHub release](https://img.shields.io/github/release/fhcflx/ciencia-medica.svg)](https://github.com/fhcflx/ciencia-medica/releases)
-[![GitHub issues](https://img.shields.io/github/issues/fhcflx/ciencia-medica.svg)](https://github.com/fhcflx/ciencia-medica/issues)
-[![GitHub downloads](https://img.shields.io/github/downloads/fhcflx/ciencia-medica/total.svg)](https://github.com/fhcflx/ciencia-medica/releases)
-[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--8398--0993-blue.svg)](https://orcid.org/0000-0002-8398-0993)
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0)
-[![Deploy to GitHub Pages](https://github.com/fhcflx/ciencia-medica/actions/workflows/jekyll.yml/badge.svg)](https://github.com/fhcflx/ciencia-medica/actions/workflows/jekyll.yml)
+[![GitHub release](https://img.shields.io/github/v/release/fhcflx/ciencia-medica?style=for-the-badge&color=magenta)](https://github.com/fhcflx/ciencia-medica/releases)
+[![GitHub commits](https://img.shields.io/github/commits-since/fhcflx/ciencia-medica/latest?style=for-the-badge&color=red)](https://github.com/fhcflx/ciencia-medica/commits)
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--8398--0993-yellow.svg?style=for-the-badge)](https://orcid.org/0000-0002-8398-0993)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-green.svg?style=for-the-badge)](https://creativecommons.org/licenses/by/4.0)
+[![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/fhcflx/ciencia-medica/pages/pages-build-deployment?style=for-the-badge&color=blue)
+](https://github.com/fhcflx/ciencia-medica/actions/workflows/pages/pages-build-deployment)
 
 ## O que é
 
