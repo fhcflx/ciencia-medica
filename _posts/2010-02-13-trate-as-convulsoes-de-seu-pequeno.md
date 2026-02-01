@@ -21,6 +21,6 @@ Em 138 recém-nascidos, os autores deste trabalho utilizou o eletroencefalograma
 
 Também foi realizada ressonância magnética (MRI) para pacientes do grupo A e do grupo B durante o período entre 4 e 10 dias de idade. Na análise, os autores encontraram uma relação significativa entre a duração dos padrões de crise e a ocorrência de lesões cerebrais verificadas na ressonância magnética no grupo B.
 
-[Artigo completo](https://pediatrics.aappublications.org/cgi/content/abstract/peds.2009-0136v1)
+[Artigo completo](https://doi.org/10.1542/peds.2009-0136)
 
 Postagem original em Pharmakon [aqui]({{ page.old_blog_url }}).

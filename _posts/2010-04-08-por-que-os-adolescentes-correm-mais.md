@@ -21,6 +21,6 @@ Os resultados sugerem que os adolescentes são capazes de pesar os prós e os co
 
 O estudo incluiu 86 meninos e homens que usaram jogos de computador, durante o qual as decisões são tomadas a fim de ganhar pontos. Depois de cada jogo, os cientistas mediram a resposta emocional dos participantes gravando quão satisfeitos ou insatisfeitos eles estavam com o resultado.
 
-[Artigo completo](https://www.sciencedirect.com/science?_ob=ArticleURL&_udi=B6W47-4YPGHXW-1&_user=10&_coverDate=03%2F26%2F2010&_alid=1272236105&_rdoc=1&_fmt=high&_orig=search&_cdi=6535&_sort=r&_docanchor=&view=c&_ct=1&_)
+[Artigo completo](https://doi.org/10.1016/j.cogdev.2009.11.003)
 
 Postagem original em Pharmakon [aqui]({{ page.old_blog_url }}).

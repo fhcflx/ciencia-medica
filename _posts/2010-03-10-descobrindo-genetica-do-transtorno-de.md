@@ -23,6 +23,6 @@ Neste estudo, os pesquisadores demonstraram uma associação entre LPHN3 e TDAH 
 
 Testes subsequentes no cérebro confirmaram este contexto, mostrando que LPHN3 é expressada em regiões envolvidas na atenção e atividade.
 
-[Artigo completo](https://www.nature.com/mp/journal/vaop/ncurrent/abs/mp20106a.html)
+[Artigo completo](https://doi.org/10.1038/mp.2010.6)
 
 Postagem original em Pharmakon [aqui]({{ page.old_blog_url }}).

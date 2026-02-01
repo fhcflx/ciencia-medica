@@ -21,6 +21,6 @@ Baseado em um estudo de longo prazo de mais de 1.000 participantes nascidos entr
 
 As crianças que desenvolveram esquizofrenia quando adultas apresentaram déficit no início de aprendizagem verbal e visual, no raciocínio e conceituação que foi mantido durante o crescimento. Também mostraram um desenvolvimento mais lento em velocidade de processamento, atenção, problemas visuo-espaciais e de memória de trabalho.
 
-[Artigo completo](https://ajp.psychiatryonline.org/cgi/content/abstract/appi.ajp.2009.09040574v1)
+[Artigo completo](https://doi.org/10.1176/appi.ajp.2009.09040574)
 
 Postagem original em Pharmakon [aqui]({{ page.old_blog_url }}).
