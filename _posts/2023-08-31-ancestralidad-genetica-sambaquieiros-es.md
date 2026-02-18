@@ -6,11 +6,11 @@ categories: [arqueogenética, historia, Brasil, sambaquis]
 tags: [arqueología, genética, sambaquieiros, Luzio, indígenas, Brasil]
 ref: sambaquieiros-ancestry-2023
 lang: es
-image: https://upload.wikimedia.org/wikipedia/commons/2/2d/Luzio_-_Museu_de_Arqueologia_e_Etnologia_da_USP.jpg
+image: https://imagens.usp.br/wp-content/uploads/Luzio_-Sambaqui_fluvial_Capelinha_197-23_Foto-Cecilia-Bastos_USP-Imagens-01.jpg
 excerpt: "Nuevos estudios genéticos revelan que Luzio, uno de los habitantes más antiguos de Brasil, y los pueblos sambaquieiros son ancestros directos de los indígenas actuales."
 ---
 
-![Cráneo de Luzio, Museo de Arqueología y Etnología de la USP](https://upload.wikimedia.org/wikipedia/commons/2/2d/Luzio_-_Museu_de_Arqueologia_e_Etnologia_da_USP.jpg)
+![Cráneo de Luzio, Museo de Arqueología y Etnología de la USP](https://imagens.usp.br/wp-content/uploads/Luzio_-Sambaqui_fluvial_Capelinha_197-23_Foto-Cecilia-Bastos_USP-Imagens-01.jpg)
 
 *Cráneo de Luzio, Museo de Arqueología y Etnología de la USP. Foto: Cecília Bastos/USP Imagens (CC BY-SA 4.0)*
 
