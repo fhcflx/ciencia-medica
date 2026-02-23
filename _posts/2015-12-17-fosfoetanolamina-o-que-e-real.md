@@ -12,6 +12,7 @@ blogger_id: tag:blogger.com,1999:blog-2993346515708552092.post-66799602660404970
 blogger_orig_url: https://pharmak.blogspot.com/2015/12/fosfoetanolamina-o-que-e-real_17.html
 lang: pt-br
 ref: fosfoetanolamina
+image: https://fhcflx.github.io/ciencia-medica/assets/img/Phosphorylethanolamine.png
 ---
 
 Não é preciso apresentar a fosfoetanolamina, uma substância cujo nome vem sendo tão divulgado quanto pouco compreendido. Recentemente, uma polêmica acendeu-se a respeito do possível efeito anticâncer da fosfoetanolamina. Mas, afinal, o que é esta substância?

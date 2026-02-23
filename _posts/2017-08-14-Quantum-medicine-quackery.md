@@ -8,6 +8,7 @@ tags:
 author: ffelix
 lang: en-us
 ref: quantica
+image: https://patriceayme.wordpress.com/wp-content/uploads/2016/04/quantum-computations-used-for-dna.png
 ---
 
 Forgive me, believers, but a minimum of common sense is essential {% include urgencia-ciencia-en.html %}. To begin with, let me state right away that I will not defend any concept that uses the word "quantum" in any way other than physics. So, if you are someone who "believes" in anything quantum, you can ignore this post. However, if you have no "formed opinion" on the subject or are just curious and want some coherent information, you can continue—I promise you won't be disappointed.
